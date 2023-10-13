@@ -1,0 +1,206 @@
+title: So sánh 3 mẫu flagship Android cao cấp: Xiaomi 13 Ultra, Galaxy S23 Ultra và OPPO Find X6 Pro	title : So sánh 3 mẫu flagship Android cao cấp : Xiaomi 13 Ultra , Galaxy S23 Ultra và OPPO Find X6 Pro
+
+Trong những năm trở lại đây, cuộc đua camera trên điện thoại cao cấp ngày càng khốc liệt và hấp dẫn hơn.	Trong những năm trở lại đây , cuộc đua camera trên điện thoại cao cấp ngày càng khốc liệt và hấp dẫn hơn .
+
+Nổi bật trong số đó là ba cái tên Xiaomi 13 Ultra với sự hợp tác của LEICA, OPPO Find X6 Pro với thuật toán từ Hasselblad và Galaxy S23 Ultra với cảm biến 200MP đầu tiên trên điện thoại Samsung.	Nổi bật trong số đó là ba cái tên Xiaomi 13 Ultra với sự hợp tác của LEICA , OPPO Find X6 Pro với thuật toán từ Hasselblad và Galaxy S23 Ultra với cảm biến 200MP đầu tiên trên điện thoại Samsung .
+
+Vậy thì giữa ba chiếc điện thoại này, đâu sẽ là cái tên cho ra chất lượng camera tốt nhất, cũng như là chiếc flagship phù hợp nhất với bạn?	Vậy thì giữa ba chiếc điện thoại này , đâu sẽ là cái tên cho ra chất lượng camera tốt nhất , cũng như là chiếc flagship phù hợp nhất với bạn ?
+
+Camera	Camera
+
+Cả ba chiếc máy đều sở hữu thông số camera đỉnh cao nhất thế giới smartphone hiện tại.	Cả ba chiếc máy đều sở hữu thông số camera đỉnh cao nhất thế giới smartphone hiện tại .
+{"subject": ["1&&Cả", "2&&ba", "3&&chiếc", "4&&máy"], "object": [], "aspect": ["8&&thông", "9&&số", "10&&camera"], "predicate": ["11&&đỉnh", "12&&cao", "13&&nhất", "14&&thế", "15&&giới", "16&&smartphone", "17&&hiện", "18&&tại"], "label": "SUP+"}
+
+Xiaomi 13 Ultra và OPPO Find X6 Pro trang bị camera chính 50,3MP sử dụng cảm biến Sony IMX989 với kích thước điểm ảnh lên tới 1 inch.	Xiaomi 13 Ultra và OPPO Find X6 Pro trang bị camera chính 50,3MP sử dụng cảm biến Sony IMX989 với kích thước điểm ảnh lên tới 1 inch .
+
+Trong khi đó, Galaxy S23 Ultra lại chọn cách trang bị camera độ phân giải cao 200MP lên ống kính chính của mình.	Trong khi đó , Galaxy S23 Ultra lại chọn cách trang bị camera độ phân giải cao 200MP lên ống kính chính của mình .
+
+Nhờ cảm biến 1 inch, các bức ảnh chân dung trên Xiaomi và OPPO cho khả năng tách phông vô cùng mượt mà.	Nhờ cảm biến 1 inch , các bức ảnh chân dung trên Xiaomi và OPPO cho khả năng tách phông vô cùng mượt mà .
+
+Ảnh trên Samsung cà da khá nhiều, chi tiết chủ thể trên Xiaomi bị noise nhẹ trong khi OPPO cân bằng hài hoà được hai yếu tố trên.	Ảnh trên Samsung cà da khá nhiều , chi tiết chủ thể trên Xiaomi bị noise nhẹ trong khi OPPO cân bằng hài hoà được hai yếu tố trên .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Lấy ví dụ với bức hình dưới đây, ảnh trên Xiaomi 13 Ultra đẩy shadow quá mức khiến chủ thể không có chiều sâu và thiếu đi độ tương phản cần thiết.	Lấy ví dụ với bức hình dưới đây , ảnh trên Xiaomi 13 Ultra đẩy shadow quá mức khiến chủ thể không có chiều sâu và thiếu đi độ tương phản cần thiết .
+
+Trên Samsung xử lý màu sắc có phần ám xanh, trong khi OPPO cho màu ảnh rất sát với thực tế, các chi tiết cũng được cân chỉnh hài hoà, dễ chịu hơn.	Trên Samsung xử lý màu sắc có phần ám xanh , trong khi OPPO cho màu ảnh rất sát với thực tế , các chi tiết cũng được cân chỉnh hài hoà , dễ chịu hơn .
+{"subject": ["14&&OPPO"], "object": ["2&&Samsung"], "aspect": ["24&&các", "25&&chi", "26&&tiết"], "predicate": ["31&&hài", "32&&hoà", "33&&,", "34&&dễ", "35&&chịu", "36&&hơn"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Tuy nhiên, Samsung vượt trội hơn hẳn khi xét đến khả năng zoom.	Tuy nhiên , Samsung vượt trội hơn hẳn khi xét đến khả năng zoom .
+{"subject": ["4&&Samsung"], "object": [], "aspect": ["12&&khả", "13&&năng", "14&&zoom"], "predicate": ["5&&vượt", "6&&trội", "7&&hơn", "8&&hẳn"], "label": "COM+"}
+
+Với mức tiêu cự dưới 5X thì cả ba không có nhiều sự khác biệt.	Với mức tiêu cự dưới 5X thì cả ba không có nhiều sự khác biệt .
+
+Tuy nhiên, khi mức zoom tăng dần lên 10X, 30X hay 100X, chi tiết ảnh trên Xiaomi và OPPO bị nhoè, vỡ hạt và noise rất mạnh, trong khi trên Samsung chúng được tái tạo ổn và mình có thể nhìn rõ những chi tiết trong đó.	Tuy nhiên , khi mức zoom tăng dần lên 10X , 30X hay 100X , chi tiết ảnh trên Xiaomi và OPPO bị nhoè , vỡ hạt và noise rất mạnh , trong khi trên Samsung chúng được tái tạo ổn và mình có thể nhìn rõ những chi tiết trong đó .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Ảnh đủ sáng trên cả ba máy cho chất lượng gần như tương đồng với nhau.	Ảnh đủ sáng trên cả ba máy cho chất lượng gần như tương đồng với nhau .
+{"subject": ["5&&cả", "6&&ba", "7&&máy"], "object": ["5&&cả", "6&&ba", "7&&máy"], "aspect": ["1&&Ảnh", "2&&đủ", "3&&sáng"], "predicate": ["11&&gần", "12&&như", "13&&tương", "14&&đồng"], "label": "EQL"}
+
+Bức hình trên Xiaomi trông đậm đà, thích mắt do đã cân bằng được độ tương phản.	Bức hình trên Xiaomi trông đậm đà , thích mắt do đã cân bằng được độ tương phản .
+
+Ảnh trên OPPO lại có xu hướng chân thực với màu sắc có xu hướng đẩy sang tông xám.	Ảnh trên OPPO lại có xu hướng chân thực với màu sắc có xu hướng đẩy sang tông xám .
+
+Trong khi đó, màu sắc trên Samsung thiên hướng rực rỡ do đó chi tiết trở nên thiếu tự nhiên, chân thực.	Trong khi đó , màu sắc trên Samsung thiên hướng rực rỡ do đó chi tiết trở nên thiếu tự nhiên , chân thực .
+
+Ảnh chụp đêm trên cả ba đều cho chất lượng tốt.	Ảnh chụp đêm trên cả ba đều cho chất lượng tốt .
+{"subject": ["5&&cả", "6&&ba"], "object": ["5&&cả", "6&&ba"], "aspect": ["1&&Ảnh", "2&&chụp", "3&&đêm"], "predicate": ["7&&đều", "8&&cho", "9&&chất", "10&&lượng", "11&&tốt"], "label": "EQL"}
+
+Mức độ chi tiết trên Samsung nhỉnh hơn một chút do thuật toán gộp điểm ảnh, tuy nhiên chủ thể trông vẫn thiếu tự nhiên do bị cà da khá nhiều.	Mức độ chi tiết trên Samsung nhỉnh hơn một chút do thuật toán gộp điểm ảnh , tuy nhiên chủ thể trông vẫn thiếu tự nhiên do bị cà da khá nhiều .
+{"subject": ["6&&Samsung"], "object": [], "aspect": ["1&&Mức", "2&&độ", "3&&chi", "4&&tiết"], "predicate": ["7&&nhỉnh", "8&&hơn", "9&&một", "10&&chút"], "label": "COM+"}
+
+Ảnh trên Xiaomi bị ám vàng nhẹ, trong khi OPPO có thể xử lý tốt các chi tiết khó như tóc hay rìa áo.	Ảnh trên Xiaomi bị ám vàng nhẹ , trong khi OPPO có thể xử lý tốt các chi tiết khó như tóc hay rìa áo .
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+alt:	alt :
+
+des:	des :
+
+Về khả năng quay video, cả ba mẫu máy đều hỗ trợ quay video với độ phân giải 4K và chống rung OIS.	Về khả năng quay video , cả ba mẫu máy đều hỗ trợ quay video với độ phân giải 4K và chống rung OIS .
+{"subject": ["7&&cả", "8&&ba", "9&&mẫu", "10&&máy"], "object": ["7&&cả", "8&&ba", "9&&mẫu", "10&&máy"], "aspect": ["2&&khả", "3&&năng", "4&&quay", "5&&video"], "predicate": ["11&&đều", "12&&hỗ", "13&&trợ", "14&&quay", "15&&video", "16&&với", "17&&độ", "18&&phân", "19&&giải", "20&&4K", "21&&và", "22&&chống", "23&&rung", "24&&OIS"], "label": "EQL"}
+
+Tuy nhiên, Samsung hơn hẳn khi hỗ trợ camera trước với độ phân giải 4K, trong khi hai đối thủ còn lại chỉ đạt được FullHD@30fps.	Tuy nhiên , Samsung hơn hẳn khi hỗ trợ camera trước với độ phân giải 4K , trong khi hai đối thủ còn lại chỉ đạt được FullHD @ 30fps .
+{"subject": ["4&&Samsung"], "object": ["20&&hai", "21&&đối", "22&&thủ", "23&&còn", "24&&lại"], "aspect": ["10&&camera", "11&&trước"], "predicate": ["5&&hơn", "6&&hẳn"], "label": "COM+"}
+
+Hiệu năng và pin	Hiệu năng và pin
+
+Về phần này, mình đánh giá OPPO Find X6 Pro cao nhất.	Về phần này , mình đánh giá OPPO Find X6 Pro cao nhất .
+{"subject": ["8&&OPPO", "9&&Find", "10&&X6", "11&&Pro"], "object": [], "aspect": [], "predicate": ["12&&cao", "13&&nhất"], "label": "SUP+"}
+
+alt:	alt :
+
+des:	des :
+
+Hiệu năng: Thử nghiệm khi chơi Genshin Impact ở mức đồ hoạ cao nhất (Cao, 60FPS), OPPO duy trì được sự ổn định trong hầu hết khoảnh khắc và cho ra biểu đồ FPS gần như thẳng tắp.	Hiệu năng : Thử nghiệm khi chơi Genshin Impact ở mức đồ hoạ cao nhất ( Cao , 60FPS ) , OPPO duy trì được sự ổn định trong hầu hết khoảnh khắc và cho ra biểu đồ FPS gần như thẳng tắp .
+
+Mức FPS trên Xiaomi cân bằng trong 5 – 7 phút đầu, sau đó drop khá nhiều và chỉ dao động trong mức 45 – 55.	Mức FPS trên Xiaomi cân bằng trong 5 – 7 phút đầu , sau đó drop khá nhiều và chỉ dao động trong mức 45 – 55 .
+
+Trong khi đó, kể cả khi đã tắt Game Optimizing Service, mức FPS trung bình cho ra trên Samsung chỉ là 56,4, thua kém khá nhiều so với OPPO.	Trong khi đó , kể cả khi đã tắt Game Optimizing Service , mức FPS trung bình cho ra trên Samsung chỉ là 56,4 , thua kém khá nhiều so với OPPO .
+{"subject": ["21&&Samsung"], "object": ["32&&OPPO"], "aspect": ["14&&mức", "15&&FPS", "16&&trung", "17&&bình"], "predicate": ["26&&thua", "27&&kém", "28&&khá", "29&&nhiều"], "label": "COM-"}
+
+FPS trung bình khi chơi Genshin Impact (Cao, 60FPS)	FPS trung bình khi chơi Genshin Impact ( Cao , 60FPS )
+
+Phần mềm	Phần mềm
+
+Cả ba mẫu máy đều được tích hợp phần mềm mới nhất với Android 13.	Cả ba mẫu máy đều được tích hợp phần mềm mới nhất với Android 13 .
+{"subject": ["1&&Cả", "2&&ba", "3&&mẫu", "4&&máy"], "object": ["1&&Cả", "2&&ba", "3&&mẫu", "4&&máy"], "aspect": ["9&&phần", "10&&mềm", "11&&mới", "12&&nhất", "13&&với", "14&&Android", "15&&13"], "predicate": ["5&&đều", "6&&được", "7&&tích", "8&&hợp"], "label": "EQL"}
+
+Tuy nhiên, so với ColorOS hay MIUI nội địa, One UI trên Galaxy S23 Ultra vẫn cho thấy sự nặng nề và đôi lúc xuất hiện giật, lag khi sử dụng.	Tuy nhiên , so với ColorOS hay MIUI nội địa , One UI trên Galaxy S23 Ultra vẫn cho thấy sự nặng nề và đôi lúc xuất hiện giật , lag khi sử dụng .
+
+MIUI nội địa trên Xiaomi 13 Ultra lại không hỗ trợ tiếng Việt.	MIUI nội địa trên Xiaomi 13 Ultra lại không hỗ trợ tiếng Việt .
+
+Máy cũng thường xuyên xảy ra lỗi vặt như chậm thông báo hay lỗi font chữ.	Máy cũng thường xuyên xảy ra lỗi vặt như chậm thông báo hay lỗi font chữ .
+
+Trong khi đó ColorOS trên OPPO Find X6 Pro thể hiện sự ổn định đáng kể.	Trong khi đó ColorOS trên OPPO Find X6 Pro thể hiện sự ổn định đáng kể .
+
+Máy có sẵn tiếng Việt, có thể cài Play Store dễ dàng và lỗi font chữ cũng không xuất hiện như Xiaomi.	Máy có sẵn tiếng Việt , có thể cài Play Store dễ dàng và lỗi font chữ cũng không xuất hiện như Xiaomi .
+
+alt:	alt :
+
+des:	des :
+
+Pin và sạc	Pin và sạc
+
+Mặc dù cùng sở hữu dung lượng pin 5.000mAh, tuy nhiên Samsung tỏ ra yếu thế hơn cả so với hai đối thủ còn lại.	Mặc dù cùng sở hữu dung lượng pin 5.000mAh , tuy nhiên Samsung tỏ ra yếu thế hơn cả so với hai đối thủ còn lại .
+{"subject": ["13&&Samsung"], "object": ["22&&hai", "23&&đối", "24&&thủ", "25&&còn", "26&&lại"], "aspect": ["6&&dung", "7&&lượng", "8&&pin"], "predicate": ["3&&cùng", "4&&sở", "5&&hữu"], "label": "EQL"}
+{"subject": ["13&&Samsung"], "object": ["22&&hai", "23&&đối", "24&&thủ", "25&&còn", "26&&lại"], "aspect": [], "predicate": ["16&&yếu", "17&&thế", "18&&hơn"], "label": "COM-"}
+
+Con số 6,5 giờ on-screen trên Galaxy S23 Ultra là không tệ một chút nào, tuy nhiên vẫn thua thiệt khi so sánh với 7,5 giờ on-screen trên Xiaomi 13 Ultra và 8 giờ trên OPPO Find X6 Pro.	Con số 6,5 giờ on-screen trên Galaxy S23 Ultra là không tệ một chút nào , tuy nhiên vẫn thua thiệt khi so sánh với 7,5 giờ on-screen trên Xiaomi 13 Ultra và 8 giờ trên OPPO Find X6 Pro .
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["30&&Xiaomi", "31&&13", "32&&Ultra"], "aspect": ["4&&giờ", "5&&on-screen"], "predicate": ["20&&thua", "21&&thiệt"], "label": "COM-"}
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["37&&OPPO", "38&&Find", "39&&X6", "40&&Pro"], "aspect": ["4&&giờ", "5&&on-screen"], "predicate": ["20&&thua", "21&&thiệt"], "label": "COM-"}
+
+Samsung cũng chỉ hỗ trợ công suất sạc 45W, đáng nói hơn nữa là nhà sản xuất này còn không tặng củ sạc bên trong hộp phụ kiện.	Samsung cũng chỉ hỗ trợ công suất sạc 45W , đáng nói hơn nữa là nhà sản xuất này còn không tặng củ sạc bên trong hộp phụ kiện .
+
+Đáng khen là năm nay, Snapdragon 8 Gen 2 mang lại khả năng tối ưu rất tốt thời lượng điện tiêu thụ.	Đáng khen là năm nay , Snapdragon 8 Gen 2 mang lại khả năng tối ưu rất tốt thời lượng điện tiêu thụ .
+
+Vì thế, đại đa số các mẫu máy chạy Snapdragon 8 Gen 2 đều mang lại thời lượng sử dụng pin rất tốt nếu so sánh với thế hệ tiền nhiệm.	Vì thế , đại đa số các mẫu máy chạy Snapdragon 8 Gen 2 đều mang lại thời lượng sử dụng pin rất tốt nếu so sánh với thế hệ tiền nhiệm .
+{"subject": ["4&&đại", "5&&đa", "6&&số", "7&&các", "8&&mẫu", "9&&máy", "10&&chạy", "11&&Snapdragon", "12&&8", "13&&Gen", "14&&2"], "object": ["29&&thế", "30&&hệ", "31&&tiền", "32&&nhiệm"], "aspect": ["18&&thời", "19&&lượng", "20&&sử", "21&&dụng", "22&&pin"], "predicate": ["16&&mang", "17&&lại", "18&&thời", "19&&lượng", "20&&sử", "21&&dụng", "22&&pin", "23&&rất", "24&&tốt", "25&&nếu", "26&&so", "27&&sánh", "28&&với"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Thời gian on-screen thực tế trên ba mẫu máy	Thời gian on-screen thực tế trên ba mẫu máy
+
+Thiết kế, màn hình	Thiết kế , màn hình
+
+Cả Xiaomi, Samsung và OPPO đều sở hữu thông số màn hình cao cấp nhất với tấm nền AMOLED kích thước lớn, tần số quét 120Hz và độ phân giải 2K.	Cả Xiaomi , Samsung và OPPO đều sở hữu thông số màn hình cao cấp nhất với tấm nền AMOLED kích thước lớn , tần số quét 120Hz và độ phân giải 2K .
+{"subject": ["2&&Xiaomi"], "object": [], "aspect": ["10&&thông", "11&&số", "12&&màn", "13&&hình"], "predicate": ["14&&cao", "15&&cấp", "16&&nhất"], "label": "SUP+"}
+{"subject": ["4&&Samsung"], "object": [], "aspect": ["10&&thông", "11&&số", "12&&màn", "13&&hình"], "predicate": ["14&&cao", "15&&cấp", "16&&nhất"], "label": "SUP+"}
+{"subject": ["6&&OPPO"], "object": [], "aspect": ["10&&thông", "11&&số", "12&&màn", "13&&hình"], "predicate": ["14&&cao", "15&&cấp", "16&&nhất"], "label": "SUP+"}
+
+Chất lượng hiển thị cũng không có sự khác biệt rõ rệt với màu đen sâu, góc nhìn tốt và màu sắc rực rỡ.	Chất lượng hiển thị cũng không có sự khác biệt rõ rệt với màu đen sâu , góc nhìn tốt và màu sắc rực rỡ .
+
+alt:	alt :
+
+des:	des :
+
+Xiaomi 13 Ultra và OPPO Find X6 Pro nổi bật hơn cả với độ sáng cực đại lần lượt là 2.600 nits và 2.500 nits.	Xiaomi 13 Ultra và OPPO Find X6 Pro nổi bật hơn cả với độ sáng cực đại lần lượt là 2.600 nits và 2.500 nits .
+
+Tuy nhiên, trong điều kiện sử dụng thông thường, các nhà sản xuất sẽ giới hạn độ sáng tối đa (HBM) trên hai mẫu máy này là 1.300 nits và 1.500 nits.	Tuy nhiên , trong điều kiện sử dụng thông thường , các nhà sản xuất sẽ giới hạn độ sáng tối đa ( HBM ) trên hai mẫu máy này là 1.300 nits và 1.500 nits .
+
+Và khi so sánh với Galaxy S23 Ultra (có HBM là 1.200 nits), thì cả ba cho ra độ sáng gần như tương đồng.	Và khi so sánh với Galaxy S23 Ultra ( có HBM là 1.200 nits ) , thì cả ba cho ra độ sáng gần như tương đồng .
+{"subject": ["18&&cả", "19&&ba"], "object": ["18&&cả", "19&&ba"], "aspect": ["22&&độ", "23&&sáng"], "predicate": ["24&&gần", "25&&như", "26&&tương", "27&&đồng"], "label": "EQL"}
+
+alt:	alt :
+
+des:	des :
+
+Về thiết kế, Xiaomi 13 Ultra và OPPO Find X6 Pro sở hữu mặt lưng giả da, trong khi Galaxy S23 Ultra tích hợp lưng nhám truyền thống.	Về thiết kế , Xiaomi 13 Ultra và OPPO Find X6 Pro sở hữu mặt lưng giả da , trong khi Galaxy S23 Ultra tích hợp lưng nhám truyền thống .
+
+Về cảm giác cầm nắm, do mặt lưng thiết kế thả dốc, cảm giác cầm nắm trên Xiaomi 13 Ultra khá trơn và trọng lượng phân bổ quá nhiều về phía trên.	Về cảm giác cầm nắm , do mặt lưng thiết kế thả dốc , cảm giác cầm nắm trên Xiaomi 13 Ultra khá trơn và trọng lượng phân bổ quá nhiều về phía trên .
+
+Mặc dù cũng sở hữu camera trước với kích thước lớn, song cảm giác cầm nắm trên OPPO lại khá thoải mái và không quá khó chịu.	Mặc dù cũng sở hữu camera trước với kích thước lớn , song cảm giác cầm nắm trên OPPO lại khá thoải mái và không quá khó chịu .
+
+Trong khi đó, Samsung đem đến sự sang trọng, cao cấp vốn có với mặt lưng nhám và màn hình ít cong hơn so vớ thế hệ tiền nhiệm.	Trong khi đó , Samsung đem đến sự sang trọng , cao cấp vốn có với mặt lưng nhám và màn hình ít cong hơn so vớ thế hệ tiền nhiệm .
+{"subject": ["5&&Samsung"], "object": ["28&&thế", "29&&hệ", "30&&tiền", "31&&nhiệm"], "aspect": ["21&&màn", "22&&hình"], "predicate": ["23&&ít", "24&&cong", "25&&hơn"], "label": "COM"}
+
+Tổng kết	Tổng kết
+
+Tóm lại, cả Xiaomi 13 Ultra, OPPO Find X6 Pro và Galaxy S23 Ultra đều là những chiếc flagship rất sáng giá với ưu, nhược điểm riêng biệt.	Tóm lại , cả Xiaomi 13 Ultra , OPPO Find X6 Pro và Galaxy S23 Ultra đều là những chiếc flagship rất sáng giá với ưu , nhược điểm riêng biệt .
+
+Tuy nhiên, điểm khác biệt ở đây là hiện chỉ có Galaxy S23 Ultra được bán chính hãng, máy cũng đi kèm chính sách hậu mãi, bảo hành tốt hơn.	Tuy nhiên , điểm khác biệt ở đây là hiện chỉ có Galaxy S23 Ultra được bán chính hãng , máy cũng đi kèm chính sách hậu mãi , bảo hành tốt hơn .
+{"subject": ["21&&máy"], "object": [], "aspect": ["25&&chính", "26&&sách", "27&&hậu", "28&&mãi", "29&&,", "30&&bảo", "31&&hành"], "predicate": ["32&&tốt", "33&&hơn"], "label": "COM+"}
+
+Thế nhưng OPPO Find X6 Pro và Xiaomi 13 Ultra vẫn sẽ là hai sản phẩm đáng để chúng ta trải nghiệm nhờ thiết kế mới, hiệu năng mạnh và camera xuất sắc.	Thế nhưng OPPO Find X6 Pro và Xiaomi 13 Ultra vẫn sẽ là hai sản phẩm đáng để chúng ta trải nghiệm nhờ thiết kế mới , hiệu năng mạnh và camera xuất sắc .
+

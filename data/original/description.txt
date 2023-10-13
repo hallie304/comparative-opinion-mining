@@ -1,0 +1,39 @@
+VLSP 2023: Comparative Opinion Mining in Vietnamese Product Reviews
+
+Overview:
+In the VLSP 2023 shared task, participants are challenged with the task of Comparative Opinion Mining from Vietnamese Product Reviews. This task involves extracting and categorizing comparative information from product review sentences. The key elements in the dataset include the subject, object, aspect, predicate, and label of the comparison, which collectively form a quintuple. Participants are required to identify and categorize these quintuples in a diverse set of documents.
+
+Key Definitions:
+1. Subject: The entity that is the subject of the comparison (e.g., a particular product model).
+2. Object: The entity being compared to the subject (e.g., another model or a general reference).
+3. Aspect: The word or phrase about the feature or attribute of the subject and object that is being compared (e.g., battery life, camera quality, performance).
+4. Predicate: The comparative word or phrase expressing the comparison (e.g., “better than,” “worse than,” “equal to”).
+5. Label: This label indicates the type of comparison made and can be one of the following categories: ranked comparison (e.g., “better”, “worse”), superlative comparison (e.g., “best”, “worst”), equal comparison (e.g., “same as,” “as good as”), and non-gradable comparison (e.g., “different from,” “unlike”).
+6. Quintuple: Information about (subject, object, aspect, predicate, label) extracted from the comparative sentence.
+
+Comparison Type Label:
+DIF: Different comparison
+EQL: Equal comparison (no significant difference)
+SUP+: Positive superlatives
+SUP-: Negative superlatives
+SUP: Superlatives that do not specify positivity or negativity
+COM+: Positive comparison
+COM-: Negative comparison
+COM: Comparison that does not specify positivity or negativity
+
+
+Data Structure:
+The training dataset comprises 60 different documents, each containing sentences with their corresponding quintuples.
+
+Within each document, sentences featuring comparisons are paired with corresponding sets of quintuples.
+
+Each comparative sentence and its associated quintuples consist of the following elements:
+1. Sentence: The textual content of the sentence.
+2. Quintuple: Information extracted from the comparative sentence, encoded in JSON format. Each line represents one quintuple.
+The quintuple components are represented as lists, with elements in the format: order_in_the_sentence&&word.
+
+Example:
+Bên cạnh đó, việc bổ sung cải tiến SoC mới đã giúp hiệu suất Galaxy S23 Ultra vượt trội hơn Galaxy Z Fold 4 với chip Snapdragon 8 Gen 1.
+{"subject": ["16&&Galaxy", "17&&S23", "18&&Ultra"], "object": ["22&&Galaxy", "23&&Z", "24&&Fold", "25&&4"], "aspect": ["14&&hiệu", "15&&suất"], "predicate": ["19&&vượt", "20&&trội", "21&&hơn"], "label": "COM+"}
+
+Note: It's important to note that one sentence may have multiple associated quintuples, reflecting different aspects or comparisons within the same sentence.

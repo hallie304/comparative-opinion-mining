@@ -1,0 +1,58 @@
+title: iPhone 14 Pro Max hay Pixel 7 Pro có thời lượng pin tốt hơn?	title : iPhone 14 Pro Max hay Pixel 7 Pro có thời lượng pin tốt hơn ?
+
+So sánh thời lượng pin iPhone 14 Pro Max và Google Pixel 7 Pro, model nào giành chiến thắng?	So sánh thời lượng pin iPhone 14 Pro Max và Google Pixel 7 Pro , model nào giành chiến thắng ?
+
+iPhone 14 Pro Max và model Google Pixel 7 Pro đều là những điện thoại tốt nhất hiện nay.	iPhone 14 Pro Max và model Google Pixel 7 Pro đều là những điện thoại tốt nhất hiện nay .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro", "4&&Max"], "object": ["7&&Google", "8&&Pixel", "9&&7", "10&&Pro"], "aspect": [], "predicate": ["11&&đều", "12&&là", "13&&những", "14&&điện", "15&&thoại", "16&&tốt", "17&&nhất", "18&&hiện", "19&&nay"], "label": "EQL"}
+
+Mặc dù cả hai thiết bị đều sở hữu viên pin có dung lượng tương đương, nhưng tuổi thọ pin có sự chênh lệch khá lớn.	Mặc dù cả hai thiết bị đều sở hữu viên pin có dung lượng tương đương , nhưng tuổi thọ pin có sự chênh lệch khá lớn .
+{"subject": ["4&&hai", "5&&thiết", "6&&bị"], "object": ["4&&hai", "5&&thiết", "6&&bị"], "aspect": ["10&&viên", "11&&pin", "12&&có", "13&&dung", "14&&lượng", "15&&tương", "16&&đương"], "predicate": ["7&&đều", "8&&sở", "9&&hữu"], "label": "EQL"}
+{"subject": ["4&&hai", "5&&thiết", "6&&bị"], "object": ["4&&hai", "5&&thiết", "6&&bị"], "aspect": ["19&&tuổi", "20&&thọ", "21&&pin"], "predicate": ["22&&có", "23&&sự", "24&&chênh", "25&&lệch", "26&&khá", "27&&lớn"], "label": "DIF"}
+
+Youtuber PhoneBuff đã thực hiện kiểm tra thời lượng pin của iPhone 14 Pro Max và Google Pixel 7 Pro.	Youtuber PhoneBuff đã thực hiện kiểm tra thời lượng pin của iPhone 14 Pro Max và Google Pixel 7 Pro .
+
+Theo như đánh giá, một trong hai thiết bị đã có màn thể hiện nổi bật về thời lượng pin, bất chấp sự tối ưu hóa tuyệt vời mà hai công ty đã thực hiện chi model của mình.	Theo như đánh giá , một trong hai thiết bị đã có màn thể hiện nổi bật về thời lượng pin , bất chấp sự tối ưu hóa tuyệt vời mà hai công ty đã thực hiện chi model của mình .
+
+Apple trang bị cho model của mình viên pin 4323mAh, trong khi Pixel 7 Pro sở hữu viên pin 5000mAh.	Apple trang bị cho model của mình viên pin 4323mAh , trong khi Pixel 7 Pro sở hữu viên pin 5000mAh .
+
+alt: So sánh thời lượng pin iPhone 14 Pro Max và Pixel 7 Pro	alt : So sánh thời lượng pin iPhone 14 Pro Max và Pixel 7 Pro
+
+des:	des :
+
+So sánh thời lượng pin iPhone 14 Pro Max và Pixel 7 Pro	So sánh thời lượng pin iPhone 14 Pro Max và Pixel 7 Pro
+
+Việc trang bị dung lượng pin lớn hơn không có nghĩa là sẽ cung cấp thời lượng pin tốt hơn.	Việc trang bị dung lượng pin lớn hơn không có nghĩa là sẽ cung cấp thời lượng pin tốt hơn .
+
+Trong thử nghiệm của PhoneBuff đã thực hiện các tác vụ hàng ngày của người dùng trên hai thiết bị.	Trong thử nghiệm của PhoneBuff đã thực hiện các tác vụ hàng ngày của người dùng trên hai thiết bị .
+
+Cả hai điện thoại đều được mở một số ứng dụng như Spotify, YouTube, cũng như ứng dụng máy ảnh để chụp một số hình ảnh và video.	Cả hai điện thoại đều được mở một số ứng dụng như Spotify , YouTube , cũng như ứng dụng máy ảnh để chụp một số hình ảnh và video .
+
+Sau một giờ sử dụng, iPhone 14 Pro Max và Google Pixel 7 Pro đều mất khoảng 10%, không có model nào nổi bật hơn.	Sau một giờ sử dụng , iPhone 14 Pro Max và Google Pixel 7 Pro đều mất khoảng 10% , không có model nào nổi bật hơn .
+
+Tuy nhiên, sau hai giờ sử dụng thì điện thoại iPhone cho kết quả tốt hơn khi chỉ mất 5% pin.	Tuy nhiên , sau hai giờ sử dụng thì điện thoại iPhone cho kết quả tốt hơn khi chỉ mất 5% pin .
+{"subject": ["12&&iPhone"], "object": [], "aspect": ["14&&kết", "15&&quả"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Khoảng cách hiệu suất của hai điện thoại thông minh ngày càng tăng khi thử nghiệm tiếp tục.	Khoảng cách hiệu suất của hai điện thoại thông minh ngày càng tăng khi thử nghiệm tiếp tục .
+
+alt: iPhone 14 Pro Max có thời lượng pin tốt hơn so với đối thủ	alt : iPhone 14 Pro Max có thời lượng pin tốt hơn so với đối thủ
+
+des:	des :
+
+iPhone 14 Pro Max có thời lượng pin tốt hơn so với đối thủ	iPhone 14 Pro Max có thời lượng pin tốt hơn so với đối thủ
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro", "4&&Max"], "object": ["13&&đối", "14&&thủ"], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&tốt", "10&&hơn"], "label": "COM+"}
+
+Không có bất kỳ ứng dụng cụ thể nào đặc biệt để đổ lỗi cho sự suy giảm thời lượng pin trên hai điện thoại.	Không có bất kỳ ứng dụng cụ thể nào đặc biệt để đổ lỗi cho sự suy giảm thời lượng pin trên hai điện thoại .
+
+Bài kiểm tra kết thúc khi Google Pixel 7 Pro đã hết cạn pin.	Bài kiểm tra kết thúc khi Google Pixel 7 Pro đã hết cạn pin .
+
+Trong khi trên iPhone 14 Pro Max vẫn còn 21%.	Trong khi trên iPhone 14 Pro Max vẫn còn 21% .
+
+Kết quả cho thấy model của Apple có thể kéo dài thời lượng sử dụng tối đa là 11 giờ 44 phút.	Kết quả cho thấy model của Apple có thể kéo dài thời lượng sử dụng tối đa là 11 giờ 44 phút .
+
+Đối thủ của iPhone 14 Pro Max - Pixel 7 Pro chỉ kéo dài 9 giờ 41 phút.	Đối thủ của iPhone 14 Pro Max - Pixel 7 Pro chỉ kéo dài 9 giờ 41 phút .
+
+Tuy nhiên, một lưu ý rằng Google Pixel 7 Pro vẫn mang đến hiệu suất mạnh mẽ tương tự như các đối thủ Android hiện nay.	Tuy nhiên , một lưu ý rằng Google Pixel 7 Pro vẫn mang đến hiệu suất mạnh mẽ tương tự như các đối thủ Android hiện nay .
+{"subject": ["8&&Google", "9&&Pixel", "10&&7", "11&&Pro"], "object": ["22&&các", "23&&đối", "24&&thủ", "25&&Android", "26&&hiện", "27&&nay"], "aspect": ["15&&hiệu", "16&&suất"], "predicate": ["17&&mạnh", "18&&mẽ", "19&&tương", "20&&tự"], "label": "EQL"}
+
+Có vẻ như, Apple đã tối ưu khá tốt giữa phần cứng và phần mềm giúp thời lượng pin trên flagship của mình trở nên tốt hơn.	Có vẻ như , Apple đã tối ưu khá tốt giữa phần cứng và phần mềm giúp thời lượng pin trên flagship của mình trở nên tốt hơn .
+

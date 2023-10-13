@@ -1,0 +1,144 @@
+title: Những lý do bạn nên sở hữu Samsung Galaxy S23 ngay hôm nay	title : Những lý do bạn nên sở hữu Samsung Galaxy S23 ngay hôm nay
+
+Samsung đã chính thức trình làng dòng điện thoại Galaxy S23 mới nhất của mình trong sự kiện Unpacked 2023 vừa rồi.	Samsung đã chính thức trình làng dòng điện thoại Galaxy S23 mới nhất của mình trong sự kiện Unpacked 2023 vừa rồi .
+
+Tuy rằng phải đến 17/2 này Galaxy S23 mới chính thức có mặt tại các cửa hàng trên toàn quốc, bạn hoàn toàn có thể tham khảo cấu hình máy ngay từ bây giờ để có thể quyết định xem liệu rằng có nên “xuống tay” hay không.	Tuy rằng phải đến 17 / 2 này Galaxy S23 mới chính thức có mặt tại các cửa hàng trên toàn quốc , bạn hoàn toàn có thể tham khảo cấu hình máy ngay từ bây giờ để có thể quyết định xem liệu rằng có nên “ xuống tay ” hay không .
+
+Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên Samsung Galaxy S23 series – những chiếc flagship mới nhất của ông lớn đến từ Hàn Quốc này.	Hãy cùng Hoàng Hà Mobile điểm qua một vài những ưu điểm vượt trội trên Samsung Galaxy S23 series – những chiếc flagship mới nhất của ông lớn đến từ Hàn Quốc này .
+{"subject": ["16&&Samsung", "17&&Galaxy", "18&&S23", "19&&series"], "object": [], "aspect": [], "predicate": ["24&&mới", "25&&nhất", "26&&của", "27&&ông", "28&&lớn", "29&&đến", "30&&từ", "31&&Hàn", "32&&Quốc", "33&&này"], "label": "SUP+"}
+
+Sở hữu chipset mới vô cùng mạnh mẽ	Sở hữu chipset mới vô cùng mạnh mẽ
+
+alt: galaxy-s23-3	alt : galaxy-s23 - 3
+
+des:	des :
+
+Theo thông lệ, các mẫu điện thoại mới ra mắt của nhà Samsung đều được trang bị những con chip vô cùng “xịn xò”, hứa hẹn những bước tiến lớn về hiệu suất và độ tiết kiệm năng lượng.	Theo thông lệ , các mẫu điện thoại mới ra mắt của nhà Samsung đều được trang bị những con chip vô cùng “ xịn xò ” , hứa hẹn những bước tiến lớn về hiệu suất và độ tiết kiệm năng lượng .
+{"subject": ["5&&các", "6&&mẫu", "7&&điện", "8&&thoại", "9&&mới", "10&&ra", "11&&mắt", "12&&của", "13&&nhà", "14&&Samsung"], "object": ["5&&các", "6&&mẫu", "7&&điện", "8&&thoại", "9&&mới", "10&&ra", "11&&mắt", "12&&của", "13&&nhà", "14&&Samsung"], "aspect": ["19&&những", "20&&con", "21&&chip", "22&&vô", "23&&cùng", "24&&“", "25&&xịn", "26&&xò", "27&&”"], "predicate": ["15&&đều", "16&&được", "17&&trang", "18&&bị"], "label": "EQL"}
+
+Và con chip Snapdragon 8 Gen 2 đi kèm với dòng S23 này là lời khẳng định hoàn hảo nhất cho “thông lệ” của tập đoàn công nghệ hàng đầu thế giới này.	Và con chip Snapdragon 8 Gen 2 đi kèm với dòng S23 này là lời khẳng định hoàn hảo nhất cho “ thông lệ ” của tập đoàn công nghệ hàng đầu thế giới này .
+
+Dòng điện thoại Galaxy S23 không chỉ đơn thuần sở hữu chipset Qualcomm silicon phiên bản sẵn có mới nhất; thay vào đó, nó sẽ có một phiên bản khác mang tên Snapdragon 8 Gen 2 Mobile Platform dành riêng cho thế hệ Galaxy này.	Dòng điện thoại Galaxy S23 không chỉ đơn thuần sở hữu chipset Qualcomm silicon phiên bản sẵn có mới nhất ; thay vào đó , nó sẽ có một phiên bản khác mang tên Snapdragon 8 Gen 2 Mobile Platform dành riêng cho thế hệ Galaxy này .
+
+Phiên bản mới này sẽ giúp lõi CPU chính sở hữu một tốc độ xung nhịp đáng kinh ngạc.	Phiên bản mới này sẽ giúp lõi CPU chính sở hữu một tốc độ xung nhịp đáng kinh ngạc .
+
+Đến nay, vẫn chưa có kết quả thử nghiệm cụ thể cho toàn bộ dòng Galaxy S23.	Đến nay , vẫn chưa có kết quả thử nghiệm cụ thể cho toàn bộ dòng Galaxy S23 .
+
+Tuy nhiên, một số bài kiểm tra cho rằng S23 Ultra đã dễ dàng đánh bại các thiết bị Android khác đang có mặt trên thị trường và thậm chí còn vượt qua kết quả đa lõi Geekbench của iPhone 14.	Tuy nhiên , một số bài kiểm tra cho rằng S23 Ultra đã dễ dàng đánh bại các thiết bị Android khác đang có mặt trên thị trường và thậm chí còn vượt qua kết quả đa lõi Geekbench của iPhone 14 .
+{"subject": ["11&&S23", "12&&Ultra"], "object": ["18&&các", "19&&thiết", "20&&bị", "21&&Android", "22&&khác", "23&&đang", "24&&có", "25&&mặt", "26&&trên", "27&&thị", "28&&trường"], "aspect": ["4&&một", "5&&số", "6&&bài", "7&&kiểm", "8&&tra"], "predicate": ["14&&dễ", "15&&dàng", "16&&đánh", "17&&bại"], "label": "COM+"}
+{"subject": ["11&&S23", "12&&Ultra"], "object": ["41&&iPhone", "42&&14"], "aspect": ["35&&kết", "36&&quả", "37&&đa", "38&&lõi", "39&&Geekbench"], "predicate": ["33&&vượt", "34&&qua"], "label": "COM+"}
+
+iPhone 14 Pro (sử dụng chipset A16 Bionic) dường như đang là thiết bị đang có hiệu năng tốt nhất ở thời điểm hiện tại.	iPhone 14 Pro ( sử dụng chipset A16 Bionic ) dường như đang là thiết bị đang có hiệu năng tốt nhất ở thời điểm hiện tại .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro"], "object": [], "aspect": ["19&&hiệu", "20&&năng"], "predicate": ["21&&tốt", "22&&nhất", "23&&ở", "24&&thời", "25&&điểm", "26&&hiện", "27&&tại"], "label": "SUP+"}
+
+Tuy nhiên, chúng ta cần phải chờ xem người dùng sẽ có trải nghiệm như thế nào khi thật sự “con quái vật” đến từ nhà Samsung này.	Tuy nhiên , chúng ta cần phải chờ xem người dùng sẽ có trải nghiệm như thế nào khi thật sự “ con quái vật ” đến từ nhà Samsung này .
+
+Với lượng RAM bổ sung của mình, S23 có thể phần nào được hưởng lợi về hiệu năng của chip hơn các điện thoại khác.	Với lượng RAM bổ sung của mình , S23 có thể phần nào được hưởng lợi về hiệu năng của chip hơn các điện thoại khác .
+{"subject": ["9&&S23"], "object": ["23&&các", "24&&điện", "25&&thoại", "26&&khác"], "aspect": ["18&&hiệu", "19&&năng", "20&&của", "21&&chip"], "predicate": ["12&&phần", "13&&nào", "14&&được", "15&&hưởng", "16&&lợi", "17&&về", "18&&hiệu", "19&&năng", "20&&của", "21&&chip", "22&&hơn"], "label": "COM+"}
+
+Với mức giá này, những bổ sung như vậy là một ưu điểm nổi bật mà khó có chiếc điện thoại nào có thể sánh kịp	Với mức giá này , những bổ sung như vậy là một ưu điểm nổi bật mà khó có chiếc điện thoại nào có thể sánh kịp
+
+Độ sáng màn hình vượt trội	Độ sáng màn hình vượt trội
+
+Trước đây, một số reviewer đã thực hiện so sánh độ sáng màn hình của Galaxy S22, iPhone 14 và Pixel 7 để xem đâu là chiếc điện thoại sở hữu màn hình tốt nhất.	Trước đây , một số reviewer đã thực hiện so sánh độ sáng màn hình của Galaxy S22 , iPhone 14 và Pixel 7 để xem đâu là chiếc điện thoại sở hữu màn hình tốt nhất .
+
+Kết quả không quá chênh lệch giữa các chiếc điện thoại trên và phần thắng nhỉnh về Samsung.	Kết quả không quá chênh lệch giữa các chiếc điện thoại trên và phần thắng nhỉnh về Samsung .
+{"subject": ["8&&các", "9&&chiếc", "10&&điện", "11&&thoại", "12&&trên"], "object": ["8&&các", "9&&chiếc", "10&&điện", "11&&thoại", "12&&trên"], "aspect": ["1&&Kết", "2&&quả"], "predicate": ["3&&không", "4&&quá", "5&&chênh", "6&&lệch"], "label": "EQL"}
+{"subject": ["18&&Samsung"], "object": [], "aspect": [], "predicate": ["14&&phần", "15&&thắng", "16&&nhỉnh", "17&&về"], "label": "COM+"}
+
+Liệu rằng dòng S23 có giữ vững ngôi vương này cho Samsung?	Liệu rằng dòng S23 có giữ vững ngôi vương này cho Samsung ?
+
+alt: samsung-galaxy-s23-vs-s23-plus-hands-on-4	alt : samsung-galaxy-s23 - vs-s23 - plus-hands-on - 4
+
+des:	des :
+
+Màn hình của Galaxy S22 đã rất sáng kể từ khi mới ra mắt.	Màn hình của Galaxy S22 đã rất sáng kể từ khi mới ra mắt .
+
+Chiếc điện thoại này sở hữu độ sáng đến 1.300 nit.	Chiếc điện thoại này sở hữu độ sáng đến 1.300 nit .
+
+Và dường như độ sáng này là chưa đủ đối với Samsung.	Và dường như độ sáng này là chưa đủ đối với Samsung .
+
+Hãng đã tiếp tục cải thiện và tăng thêm độ sáng của màn hình trên S23.	Hãng đã tiếp tục cải thiện và tăng thêm độ sáng của màn hình trên S23 .
+{"subject": ["16&&S23"], "object": [], "aspect": ["10&&độ", "11&&sáng", "12&&của", "13&&màn", "14&&hình"], "predicate": ["5&&cải", "6&&thiện", "7&&và", "8&&tăng", "9&&thêm"], "label": "COM+"}
+
+Đối với Galaxy S23, nó sẽ sở hữu độ sáng tối đa lên đến 1.750 nit – một độ sáng vượt trội hơn các đối thủ khác trong tầm giá.	Đối với Galaxy S23 , nó sẽ sở hữu độ sáng tối đa lên đến 1.750 nit – một độ sáng vượt trội hơn các đối thủ khác trong tầm giá .
+{"subject": ["3&&Galaxy", "4&&S23"], "object": ["25&&các", "26&&đối", "27&&thủ", "28&&khác", "29&&trong", "30&&tầm", "31&&giá"], "aspect": ["20&&độ", "21&&sáng"], "predicate": ["22&&vượt", "23&&trội", "24&&hơn"], "label": "COM+"}
+
+Thiết kế cứng cáp nhưng không kém phần sang trọng	Thiết kế cứng cáp nhưng không kém phần sang trọng
+
+Một vài số liệu cho thấy rằng dòng Galaxy S23 bền hơn rất nhiều so với tiền nhiệm của nó.	Một vài số liệu cho thấy rằng dòng Galaxy S23 bền hơn rất nhiều so với tiền nhiệm của nó .
+{"subject": ["9&&Galaxy", "10&&S23"], "object": ["17&&tiền", "18&&nhiệm", "19&&của", "20&&nó"], "aspect": [], "predicate": ["11&&bền", "12&&hơn", "13&&rất", "14&&nhiều"], "label": "COM+"}
+
+Tuy nhiên, chúng ta phải đợi đến khi các reviewer và người dùng thử nghiệm các bài drop-test mới có thể biết được độ bền thật sự của dòng điện thoại này.	Tuy nhiên , chúng ta phải đợi đến khi các reviewer và người dùng thử nghiệm các bài drop-test mới có thể biết được độ bền thật sự của dòng điện thoại này .
+
+alt: Samsung_Galaxy_S23_S23_Plus_S23_Ultra_case_concept_drdNBC	alt : Samsung_Galaxy_S23 _ S23 _ Plus_S23 _ Ultra_case_concept_drdNBC
+
+des:	des :
+
+Một trong những ưu điểm của dòng S23 đó chính là đây sẽ là dòng sản phẩm đầu tiên được trang bị kính cường lực Gorilla Glass Victus 2 của Corning.	Một trong những ưu điểm của dòng S23 đó chính là đây sẽ là dòng sản phẩm đầu tiên được trang bị kính cường lực Gorilla Glass Victus 2 của Corning .
+
+Chắc chắn đây “lớp giáp” hoàn hảo cho cả mặt trước lẫn mặt sau của điện thoại.	Chắc chắn đây “ lớp giáp ” hoàn hảo cho cả mặt trước lẫn mặt sau của điện thoại .
+
+S23 vẫn sẽ sở hữu chất liệu nhôm chống trầy xước – một chất liệu thường thấy trên các flagship của Samsung ra mắt năm ngoái.	S23 vẫn sẽ sở hữu chất liệu nhôm chống trầy xước – một chất liệu thường thấy trên các flagship của Samsung ra mắt năm ngoái .
+{"subject": ["1&&S23"], "object": ["19&&các", "20&&flagship", "21&&của", "22&&Samsung", "23&&ra", "24&&mắt", "25&&năm", "26&&ngoái"], "aspect": ["6&&chất", "7&&liệu", "8&&nhôm", "9&&chống", "10&&trầy", "11&&xước"], "predicate": ["2&&vẫn", "3&&sẽ", "4&&sở", "5&&hữu"], "label": "EQL"}
+
+Bên cạnh đó, chiếc điện thoại này cũng sẽ sở hữu khả năng chống nước và bụi IP68.	Bên cạnh đó , chiếc điện thoại này cũng sẽ sở hữu khả năng chống nước và bụi IP68 .
+{"subject": ["5&&chiếc", "6&&điện", "7&&thoại", "8&&này"], "object": [], "aspect": ["13&&khả", "14&&năng", "15&&chống", "16&&nước", "17&&và", "18&&bụi", "19&&IP68"], "predicate": ["9&&cũng", "10&&sẽ", "11&&sở", "12&&hữu"], "label": "EQL"}
+
+Nếu bạn là người muốn sở hữu một chiếc điện thoại với độ bền cao, Samsung Galaxy S23 chắc chắn là một sự lựa chọn hoàn hảo.	Nếu bạn là người muốn sở hữu một chiếc điện thoại với độ bền cao , Samsung Galaxy S23 chắc chắn là một sự lựa chọn hoàn hảo .
+
+Camera trước được cải tiến	Camera trước được cải tiến
+
+Đối với mỗi flagship mới được ra mắt, Samsung luôn cải tiến các camera của mình.	Đối với mỗi flagship mới được ra mắt , Samsung luôn cải tiến các camera của mình .
+
+Và chắc chắn camera trước của dòng S23 không là ngoại lệ.	Và chắc chắn camera trước của dòng S23 không là ngoại lệ .
+
+alt: galaxy S23	alt : galaxy S23
+
+des:	des :
+
+So với tiền nhiệm S22 (sở hữu camera trước 10MP), S23 đã có camera trước với độ phân giải lên đến 12MP vô cùng sắc nét.	So với tiền nhiệm S22 ( sở hữu camera trước 10MP ) , S23 đã có camera trước với độ phân giải lên đến 12MP vô cùng sắc nét .
+
+Đây chắc chắn là một cải tiến vô cùng quan trọng giúp cho trải nghiệm facetime và chụp ảnh selfie của người dùng trở nên tốt hơn phiên bản cũ.	Đây chắc chắn là một cải tiến vô cùng quan trọng giúp cho trải nghiệm facetime và chụp ảnh selfie của người dùng trở nên tốt hơn phiên bản cũ .
+{"subject": [], "object": ["28&&phiên", "29&&bản", "30&&cũ"], "aspect": ["14&&trải", "15&&nghiệm", "16&&facetime"], "predicate": ["26&&tốt", "27&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["28&&phiên", "29&&bản", "30&&cũ"], "aspect": ["18&&chụp", "19&&ảnh", "20&&selfie"], "predicate": ["26&&tốt", "27&&hơn"], "label": "COM+"}
+
+Nâng cấp trên camera trước không chỉ dừng lại ở việc tăng MP trên cảm biến máy ảnh.	Nâng cấp trên camera trước không chỉ dừng lại ở việc tăng MP trên cảm biến máy ảnh .
+
+Giờ đây, bạn hoàn toàn có thể sở hữu những bức ảnh chân dung trong điều kiện thiếu sáng tốt hơn nhờ khả năng lấy nét tự động nhanh cùng với nhiều cải tiến về khả năng chụp đêm.	Giờ đây , bạn hoàn toàn có thể sở hữu những bức ảnh chân dung trong điều kiện thiếu sáng tốt hơn nhờ khả năng lấy nét tự động nhanh cùng với nhiều cải tiến về khả năng chụp đêm .
+{"subject": [], "object": [], "aspect": ["11&&những", "12&&bức", "13&&ảnh", "14&&chân", "15&&dung", "16&&trong", "17&&điều", "18&&kiện", "19&&thiếu", "20&&sáng"], "predicate": ["21&&tốt", "22&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["37&&khả", "38&&năng", "39&&chụp", "40&&đêm"], "predicate": ["33&&nhiều", "34&&cải", "35&&tiến"], "label": "COM+"}
+
+Bên cạnh đó, bạn cũng có thể quay video 4K với tốc độ 60 khung hình/giây – một tính năng hiếm có chiếc điện thoại nào có thể sánh kịp ở thời điểm hiện tại.	Bên cạnh đó , bạn cũng có thể quay video 4K với tốc độ 60 khung hình / giây – một tính năng hiếm có chiếc điện thoại nào có thể sánh kịp ở thời điểm hiện tại .
+
+Camera sau với độ phân giải ấn tượng	Camera sau với độ phân giải ấn tượng
+
+Chụp ảnh ban đêm đã trở thành một trong những vấn đề Samsung quan tâm nhất khoảng thời gian gần đây và điều đó lại được tiếp tục thể hiện trên dòng S23 này.	Chụp ảnh ban đêm đã trở thành một trong những vấn đề Samsung quan tâm nhất khoảng thời gian gần đây và điều đó lại được tiếp tục thể hiện trên dòng S23 này .
+
+Một trong những tính năng đáng chú ý trong buổi ra mắt của dòng điện thoại này chính là thuật toán ISP do AI tạo ra nhằm cải thiện độ sắc nét và màu sắc cho mọi bức ảnh của bạn.	Một trong những tính năng đáng chú ý trong buổi ra mắt của dòng điện thoại này chính là thuật toán ISP do AI tạo ra nhằm cải thiện độ sắc nét và màu sắc cho mọi bức ảnh của bạn .
+
+alt: galaxy-s23-ultra-highlights-kv	alt : galaxy-s23 - ultra-highlights-kv
+
+des:	des :
+
+Bên cạnh đó, tính năng AI Stereo Depth Map trên dòng điện thoại này giúp nổi bật chủ thể trong các bức ảnh chụp chân dung hơn (ngay cả trong điều kiện ánh sáng yếu).	Bên cạnh đó , tính năng AI Stereo Depth Map trên dòng điện thoại này giúp nổi bật chủ thể trong các bức ảnh chụp chân dung hơn ( ngay cả trong điều kiện ánh sáng yếu ) .
+{"subject": ["13&&điện", "14&&thoại", "15&&này"], "object": [], "aspect": ["19&&chủ", "20&&thể", "21&&trong", "22&&các", "23&&bức", "24&&ảnh", "25&&chụp", "26&&chân"], "predicate": ["17&&nổi", "18&&bật", "19&&chủ", "20&&thể", "21&&trong", "22&&các", "23&&bức", "24&&ảnh", "25&&chụp", "26&&chân", "27&&dung", "28&&hơn"], "label": "COM+"}
+
+Một trong những nâng cấp được Samsung nhấn mạnh nhất đó chính là camera sau với độ phân giải lên đến 200MP – vượt xa so với 108MP của tiền nhiệm trước đó.	Một trong những nâng cấp được Samsung nhấn mạnh nhất đó chính là camera sau với độ phân giải lên đến 200MP – vượt xa so với 108MP của tiền nhiệm trước đó .
+{"subject": ["14&&camera", "15&&sau"], "object": ["30&&tiền", "31&&nhiệm", "32&&trước", "33&&đó"], "aspect": ["17&&độ", "18&&phân", "19&&giải"], "predicate": ["24&&vượt", "25&&xa"], "label": "COM+"}
+
+Đây là một độ phân giải giúp Samsung có thể tự tin bỏ xa các đối thủ khác về mảng máy ảnh trên điện thoại này.	Đây là một độ phân giải giúp Samsung có thể tự tin bỏ xa các đối thủ khác về mảng máy ảnh trên điện thoại này .
+{"subject": ["8&&Samsung"], "object": ["15&&các", "16&&đối", "17&&thủ", "18&&khác"], "aspect": ["21&&máy", "22&&ảnh"], "predicate": ["13&&bỏ", "14&&xa"], "label": "COM+"}
+
+Không dừng lại ở đó, máy ảnh của Galaxy S23 còn cho phép bạn có thể quay phim ở độ phân giải 8K với tốc độ 30 khung hình/ giây.	Không dừng lại ở đó , máy ảnh của Galaxy S23 còn cho phép bạn có thể quay phim ở độ phân giải 8K với tốc độ 30 khung hình / giây .
+
+alt: Galaxy-S23-Series_Image_02_HI-scaled	alt : Galaxy-S23 - Series_Image _ 02 _ HI-scaled
+
+des:	des :
+
+Trên lý thuyết, những tính năng mới được công bố này vô cùng hấp dẫn.	Trên lý thuyết , những tính năng mới được công bố này vô cùng hấp dẫn .
+
+Nhưng chúng ta còn phải chờ xem liệu rằng khi người dùng thật sự tiếp cận những công nghệ này thì họ có thật sự thấy thích thú như cách mà Samsung đem đến tại sự kiện ra mắt của mình hay không.	Nhưng chúng ta còn phải chờ xem liệu rằng khi người dùng thật sự tiếp cận những công nghệ này thì họ có thật sự thấy thích thú như cách mà Samsung đem đến tại sự kiện ra mắt của mình hay không .
+
+Tuy nhiên, nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng chụp ảnh ban đêm với độ chi tiết hoàn hảo; chắc chắn một điều rằng, S23 là dòng điện thoại mà bạn không nên bỏ qua.	Tuy nhiên , nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng chụp ảnh ban đêm với độ chi tiết hoàn hảo ; chắc chắn một điều rằng , S23 là dòng điện thoại mà bạn không nên bỏ qua .
+

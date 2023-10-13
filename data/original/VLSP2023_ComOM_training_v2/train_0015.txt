@@ -1,0 +1,261 @@
+title: So sánh Galaxy S23 Ultra và Xiaomi 13 Pro: Xiaomi có theo kịp?	title : So sánh Galaxy S23 Ultra và Xiaomi 13 Pro : Xiaomi có theo kịp ?
+
+Galaxy S23 Ultra và Xiaomi 13 Pro, đâu là flagship Android tốt hơn.	Galaxy S23 Ultra và Xiaomi 13 Pro , đâu là flagship Android tốt hơn .
+
+Cả Galaxy S23 Ultra và Xiaomi 13 Pro đều là flagship Android.	Cả Galaxy S23 Ultra và Xiaomi 13 Pro đều là flagship Android .
+{"subject": ["2&&Galaxy", "3&&S23", "4&&Ultra"], "object": ["6&&Xiaomi", "7&&13", "8&&Pro"], "aspect": [], "predicate": ["9&&đều", "10&&là", "11&&flagship", "12&&Android"], "label": "EQL"}
+
+Galaxy S23 Ultra là điện thoại đang nhận được khá nhiều đánh giá tích cực từ các chuyên gia cũng như người dùng ở thời điểm hiện tại.	Galaxy S23 Ultra là điện thoại đang nhận được khá nhiều đánh giá tích cực từ các chuyên gia cũng như người dùng ở thời điểm hiện tại .
+
+Trong khi Xiaomi 13 Pro cũng là một trong những smartphone Android sở hữu nhiều công nghệ hàng đầu.	Trong khi Xiaomi 13 Pro cũng là một trong những smartphone Android sở hữu nhiều công nghệ hàng đầu .
+{"subject": ["3&&Xiaomi", "4&&13", "5&&Pro"], "object": [], "aspect": ["16&&công", "17&&nghệ"], "predicate": ["18&&hàng", "19&&đầu"], "label": "SUP+"}
+
+Xiaomi được biết đến nhiều nhất với các thiết bị giá rẻ.	Xiaomi được biết đến nhiều nhất với các thiết bị giá rẻ .
+
+Nhưng họ đã được cải thiện nhờ những bước nhảy vọt.	Nhưng họ đã được cải thiện nhờ những bước nhảy vọt .
+
+Flagship Xiaomi 13 Pro mới nhất có giá ngang với Galaxy S23 Ultra.	Flagship Xiaomi 13 Pro mới nhất có giá ngang với Galaxy S23 Ultra .
+{"subject": ["1&&Flagship", "2&&Xiaomi", "3&&13", "4&&Pro", "5&&mới", "6&&nhất"], "object": ["11&&Galaxy", "12&&S23", "13&&Ultra"], "aspect": ["8&&giá"], "predicate": ["9&&ngang"], "label": "EQL"}
+
+Đi kèm hệ thống camera sánh ngang và thậm chí đánh bại Galaxy trong một số trường hợp.	Đi kèm hệ thống camera sánh ngang và thậm chí đánh bại Galaxy trong một số trường hợp .
+{"subject": [], "object": ["13&&Galaxy"], "aspect": ["3&&hệ", "4&&thống", "5&&camera"], "predicate": ["6&&sánh", "7&&ngang"], "label": "EQL"}
+{"subject": [], "object": ["13&&Galaxy"], "aspect": ["3&&hệ", "4&&thống", "5&&camera"], "predicate": ["11&&đánh", "12&&bại"], "label": "COM+"}
+
+Không những vậy, điện thoại cũng được trang bị một trong những con chip mạnh mẽ nhất trong thời gian gần đây - Snapdragon 8 Gen 2, tốc độ sạc nhanh...liệu khi đặt hai thiết bị lên bàn cân so sánh, thì đâu là model hấp dẫn hơn.	Không những vậy , điện thoại cũng được trang bị một trong những con chip mạnh mẽ nhất trong thời gian gần đây - Snapdragon 8 Gen 2 , tốc độ sạc nhanh . . . liệu khi đặt hai thiết bị lên bàn cân so sánh , thì đâu là model hấp dẫn hơn .
+{"subject": ["5&&điện", "6&&thoại"], "object": [], "aspect": ["15&&chip"], "predicate": ["16&&mạnh", "17&&mẽ", "18&&nhất", "19&&trong", "20&&thời", "21&&gian", "22&&gần", "23&&đây"], "label": "SUP+"}
+
+Xiaomi sở hữu màn hình nhỏ gọn hơn	Xiaomi sở hữu màn hình nhỏ gọn hơn
+{"subject": ["1&&Xiaomi"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&nhỏ", "7&&gọn", "8&&hơn"], "label": "COM"}
+
+Khi nói đến chất lượng hoàn thiện.	Khi nói đến chất lượng hoàn thiện .
+
+Xiaomi chắc chắn hoàn toàn ngang bằng với Galaxy S23 Ultra.	Xiaomi chắc chắn hoàn toàn ngang bằng với Galaxy S23 Ultra .
+{"subject": ["1&&Xiaomi"], "object": ["9&&Galaxy", "10&&S23", "11&&Ultra"], "aspect": [], "predicate": ["4&&hoàn", "5&&toàn", "6&&ngang", "7&&bằng"], "label": "EQL"}
+
+Cả hai đều mang đến ngoại hình tinh tế, kết hợp chắc chắn với nhau nhờ vật liệu cao cấp.	Cả hai đều mang đến ngoại hình tinh tế , kết hợp chắc chắn với nhau nhờ vật liệu cao cấp .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&ngoại", "7&&hình", "8&&tinh", "9&&tế"], "predicate": ["3&&đều", "4&&mang", "5&&đến"], "label": "EQL"}
+
+Trong khi Galaxy S23 Ultra được làm bằng kính ở mặt trước và mặt sau.	Trong khi Galaxy S23 Ultra được làm bằng kính ở mặt trước và mặt sau .
+
+Kết hợp khung viền nhôm thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau.	Kết hợp khung viền nhôm thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau .
+
+alt: Galaxy S23 Ultra được làm bằng kính ở mặt trước và mặt sau	alt : Galaxy S23 Ultra được làm bằng kính ở mặt trước và mặt sau
+
+des:	des :
+
+Cụ thể, Xiaomi 13 Pro được sử dụng chất liệu kính giống như Galaxy ở mặt sau.	Cụ thể , Xiaomi 13 Pro được sử dụng chất liệu kính giống như Galaxy ở mặt sau .
+{"subject": ["4&&Xiaomi", "5&&13", "6&&Pro"], "object": ["15&&Galaxy"], "aspect": ["17&&mặt", "18&&sau"], "predicate": ["10&&chất", "11&&liệu", "12&&kính", "13&&giống"], "label": "EQL"}
+
+Nhưng mặt sau máy được hoàn thiện từ gốm bền hơn nhiều.	Nhưng mặt sau máy được hoàn thiện từ gốm bền hơn nhiều .
+{"subject": ["9&&gốm"], "object": [], "aspect": [], "predicate": ["10&&bền", "11&&hơn", "12&&nhiều"], "label": "COM+"}
+
+Chống trầy xước và thậm chí là lớp hoàn thiện giả da với kết cấu rất dễ chịu.	Chống trầy xước và thậm chí là lớp hoàn thiện giả da với kết cấu rất dễ chịu .
+
+Cả hai điện thoại đều tích hợp các nút vật lý dễ bấm, đẹp mặt và xếp hạng chống nước và bụi IP68.	Cả hai điện thoại đều tích hợp các nút vật lý dễ bấm , đẹp mặt và xếp hạng chống nước và bụi IP68 .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&các", "9&&nút", "10&&vật", "11&&lý", "12&&dễ", "13&&bấm"], "predicate": ["5&&đều", "6&&tích", "7&&hợp"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["20&&chống", "21&&nước", "22&&và", "23&&bụi", "24&&IP68"], "predicate": ["5&&đều", "6&&tích", "7&&hợp"], "label": "EQL"}
+
+Tuy nhiên, tổng thể Galaxy S23 Ultra lớn và nặng hơn so với đối thủ.	Tuy nhiên , tổng thể Galaxy S23 Ultra lớn và nặng hơn so với đối thủ .
+{"subject": ["6&&Galaxy", "7&&S23", "8&&Ultra"], "object": ["15&&đối", "16&&thủ"], "aspect": ["4&&tổng", "5&&thể"], "predicate": ["9&&lớn", "10&&và", "11&&nặng", "12&&hơn"], "label": "COM"}
+
+Trong khi Xiaomi 13 Pro thì ngược lại.	Trong khi Xiaomi 13 Pro thì ngược lại .
+{"subject": ["3&&Xiaomi", "4&&13", "5&&Pro"], "object": [], "aspect": [], "predicate": ["7&&ngược", "8&&lại"], "label": "DIF"}
+
+Thiết bị nhỏ gọn dễ thao tác hơn bằng một tay và nhẹ hơn một chút.	Thiết bị nhỏ gọn dễ thao tác hơn bằng một tay và nhẹ hơn một chút .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["6&&thao", "7&&tác"], "predicate": ["5&&dễ", "6&&thao", "7&&tác", "8&&hơn"], "label": "COM+"}
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": [], "predicate": ["13&&nhẹ", "14&&hơn", "15&&một", "16&&chút"], "label": "COM+"}
+
+Kích thước màn hình là một trong những khác biệt dễ nhận thấy trên hai model này.	Kích thước màn hình là một trong những khác biệt dễ nhận thấy trên hai model này .
+{"subject": ["15&&hai", "16&&model", "17&&này"], "object": ["15&&hai", "16&&model", "17&&này"], "aspect": ["1&&Kích", "2&&thước", "3&&màn", "4&&hình"], "predicate": ["9&&khác", "10&&biệt", "11&&dễ", "12&&nhận", "13&&thấy"], "label": "DIF"}
+
+Điện thoại nhà Samsung sử dụng màn hình 6,8 inch lớn hơn 1 inch so với màn hình 6,7 inch.	Điện thoại nhà Samsung sử dụng màn hình 6,8 inch lớn hơn 1 inch so với màn hình 6,7 inch .
+{"subject": ["1&&Điện", "2&&thoại", "3&&nhà", "4&&Samsung"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["11&&lớn", "12&&hơn"], "label": "COM+"}
+
+Tuy nhiên, khi trải nghiệm bạn sẽ thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể.	Tuy nhiên , khi trải nghiệm bạn sẽ thấy màn hình Galaxy S23 Ultra lớn hơn đáng kể .
+{"subject": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "object": [], "aspect": ["10&&màn", "11&&hình"], "predicate": ["15&&lớn", "16&&hơn", "17&&đáng", "18&&kể"], "label": "COM+"}
+
+Nhờ tỷ lệ khung hình 19,3:9 rộng hơn 20:9 trên Xiaomi 13 Pro.	Nhờ tỷ lệ khung hình 19,3 : 9 rộng hơn 20 : 9 trên Xiaomi 13 Pro .
+{"subject": [], "object": ["15&&Xiaomi", "16&&13", "17&&Pro"], "aspect": ["2&&tỷ", "3&&lệ", "4&&khung", "5&&hình"], "predicate": ["9&&rộng", "10&&hơn"], "label": "COM"}
+
+Cả hai đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung.	Cả hai đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&công", "7&&nghệ", "8&&tấm", "9&&nền", "10&&OLED", "11&&mới", "12&&nhất", "13&&của", "14&&Samsung"], "predicate": ["3&&đều", "4&&sử", "5&&dụng"], "label": "EQL"}
+
+Nên mang đến màu sắc rất sống động, ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn.	Nên mang đến màu sắc rất sống động , ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn .
+
+alt:  Galaxy S23 Ultra lớn hơn đáng kể nhờ tỷ lệ khung hình 19,3:9	alt : Galaxy S23 Ultra lớn hơn đáng kể nhờ tỷ lệ khung hình 19,3 : 9
+
+des:	des :
+
+Về sinh trắc học, cả hai đều dựa vào máy quét dấu vân tay dưới màn hình.	Về sinh trắc học , cả hai đều dựa vào máy quét dấu vân tay dưới màn hình .
+{"subject": ["6&&cả", "7&&hai"], "object": ["6&&cả", "7&&hai"], "aspect": ["2&&sinh", "3&&trắc", "4&&học"], "predicate": ["8&&đều", "9&&dựa", "10&&vào", "11&&máy", "12&&quét", "13&&dấu", "14&&vân", "15&&tay", "16&&dưới", "17&&màn", "18&&hình"], "label": "EQL"}
+
+Nhưng Galaxy sử dụng cảm biến siêu âm.	Nhưng Galaxy sử dụng cảm biến siêu âm .
+
+Trong khi Xiaomi sử dụng cảm biến loại quang học.	Trong khi Xiaomi sử dụng cảm biến loại quang học .
+
+Cả hai đều hoàn thành công việc tốt như nhau.	Cả hai đều hoàn thành công việc tốt như nhau .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["4&&hoàn", "5&&thành", "6&&công", "7&&việc"], "predicate": ["8&&tốt", "9&&như", "10&&nhau"], "label": "EQL"}
+
+Do đó bạn sẽ không thấy sự chênh lệch đáng kể khi trải nghiệm thực tế về tốc độ mở khóa.	Do đó bạn sẽ không thấy sự chênh lệch đáng kể khi trải nghiệm thực tế về tốc độ mở khóa .
+{"subject": [], "object": [], "aspect": ["18&&tốc", "19&&độ", "20&&mở", "21&&khóa"], "predicate": ["5&&không", "6&&thấy", "7&&sự", "8&&chênh", "9&&lệch", "10&&đáng", "11&&kể"], "label": "EQL"}
+
+Hiệu suất và phần mềm	Hiệu suất và phần mềm
+
+Cấu hình Galaxy S23 Ultra và Xiaomi 13 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2 của Qualcomm.	Cấu hình Galaxy S23 Ultra và Xiaomi 13 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2 của Qualcomm .
+{"subject": ["1&&Cấu", "2&&hình", "3&&Galaxy", "4&&S23", "5&&Ultra"], "object": ["7&&Xiaomi", "8&&13", "9&&Pro"], "aspect": ["17&&chip", "18&&xử", "19&&lý", "20&&Snapdragon", "21&&8", "22&&Gen", "23&&2", "24&&của", "25&&Qualcomm"], "predicate": ["10&&đều", "11&&được", "12&&cung", "13&&cấp"], "label": "EQL"}
+
+Mặc dù phiên bản chip trên Galaxy S23 Ultra là đặc biệt được ép xung cao hơn 3.36GHZ.	Mặc dù phiên bản chip trên Galaxy S23 Ultra là đặc biệt được ép xung cao hơn 3.36GHZ .
+{"subject": ["3&&phiên", "4&&bản", "5&&chip", "6&&trên", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": [], "aspect": ["15&&xung"], "predicate": ["16&&cao", "17&&hơn"], "label": "COM+"}
+
+Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .
+{"subject": [], "object": [], "aspect": ["6&&hiệu", "7&&suất", "8&&thực", "9&&tế"], "predicate": ["2&&sự", "3&&khác", "4&&biệt", "5&&về", "6&&hiệu", "7&&suất", "8&&thực", "9&&tế", "10&&là", "11&&không", "12&&đáng", "13&&kể"], "label": "EQL"}
+
+Tuy nhiên, ít nhiều chúng sẽ mang đến một số lợi thế trong các trường hợp khác.	Tuy nhiên , ít nhiều chúng sẽ mang đến một số lợi thế trong các trường hợp khác .
+
+Về RAM và dung lượng lưu trữ.	Về RAM và dung lượng lưu trữ .
+
+Galaxy S23 Ultra có phiên bản tiêu chuẩn RAM 8GB và dung lượng lưu trữ 256GB.	Galaxy S23 Ultra có phiên bản tiêu chuẩn RAM 8GB và dung lượng lưu trữ 256GB .
+
+Trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB.	Trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB .
+{"subject": ["3&&Xiaomi"], "object": [], "aspect": ["6&&dung", "7&&lượng", "8&&lưu", "9&&trữ", "10&&cho", "11&&mẫu", "12&&cơ", "13&&sở"], "predicate": ["4&&có", "5&&cùng"], "label": "EQL"}
+
+Samsung cũng có 1 phiên bản RAM 12 GB trên s23 Ultra.	Samsung cũng có 1 phiên bản RAM 12 GB trên s23 Ultra .
+
+Nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512GB để được nâng cấp RAM.	Nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512GB để được nâng cấp RAM .
+
+alt: Cấu hình Galaxy S23 Ultra và Xiaomi 13 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2	alt : Cấu hình Galaxy S23 Ultra và Xiaomi 13 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2
+
+des:	des :
+
+Đối với khả năng chơi game.	Đối với khả năng chơi game .
+
+Trong thử nghiệm 3D Mark Wildlife, cho thấy tăng tốc đáng kể như thế nào sau vài phút thử nghiệm chơi trò chơi căng thẳng này.	Trong thử nghiệm 3D Mark Wildlife , cho thấy tăng tốc đáng kể như thế nào sau vài phút thử nghiệm chơi trò chơi căng thẳng này .
+
+Trong khi Xiaomi giữ tốt hơn nhiều.	Trong khi Xiaomi giữ tốt hơn nhiều .
+{"subject": ["3&&Xiaomi"], "object": [], "aspect": [], "predicate": ["5&&tốt", "6&&hơn", "7&&nhiều"], "label": "COM+"}
+
+Có vẻ như Xiaomi được tối ưu hóa tốt hơn để chơi game.	Có vẻ như Xiaomi được tối ưu hóa tốt hơn để chơi game .
+{"subject": ["4&&Xiaomi"], "object": [], "aspect": ["12&&chơi", "13&&game"], "predicate": ["9&&tốt", "10&&hơn"], "label": "COM+"}
+
+Vì vậy nếu bạn muốn chạy Genshin Impact ở cài đặt cao hơn, Xiaomi là lựa chọn tốt hơn.	Vì vậy nếu bạn muốn chạy Genshin Impact ở cài đặt cao hơn , Xiaomi là lựa chọn tốt hơn .
+
+Khi nói đến phần mềm, cả hai đều đi kèm với Android.	Khi nói đến phần mềm , cả hai đều đi kèm với Android .
+{"subject": ["7&&cả", "8&&hai"], "object": ["7&&cả", "8&&hai"], "aspect": ["4&&phần", "5&&mềm"], "predicate": ["9&&đều", "10&&đi", "11&&kèm", "12&&với", "13&&Android"], "label": "EQL"}
+
+Trên Xiaomi 13 Pro bạn có MIUI 13.	Trên Xiaomi 13 Pro bạn có MIUI 13 .
+
+Trên Samsung S23 Ultra là One UI 5.1.	Trên Samsung S23 Ultra là One UI 5.1 .
+
+Samsung hứa hẹn sẽ hỗ trợ 4 năm cập nhật Android và 5 năm sửa lỗi bảo mật cho thiết bị của mình.	Samsung hứa hẹn sẽ hỗ trợ 4 năm cập nhật Android và 5 năm sửa lỗi bảo mật cho thiết bị của mình .
+
+Đây là một lợi thế so với 3 năm cập nhật lớn và 5 năm cập nhật bảo mật trên Xiaomi.	Đây là một lợi thế so với 3 năm cập nhật lớn và 5 năm cập nhật bảo mật trên Xiaomi .
+{"subject": [], "object": [], "aspect": ["9&&năm", "10&&cập", "11&&nhật"], "predicate": ["4&&lợi", "5&&thế"], "label": "COM+"}
+
+Camera model nào giành chiến thắng	Camera model nào giành chiến thắng
+
+Hứa hẹn lớn của Xiaomi 13 Pro chắc chắn là về máy ảnh: Với cảm biến máy ảnh chính 1 inch, lớn hơn cảm biến trên Galaxy S23 Ultra.	Hứa hẹn lớn của Xiaomi 13 Pro chắc chắn là về máy ảnh : Với cảm biến máy ảnh chính 1 inch , lớn hơn cảm biến trên Galaxy S23 Ultra .
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["29&&Galaxy", "30&&S23", "31&&Ultra"], "aspect": ["16&&cảm", "17&&biến", "18&&máy", "19&&ảnh", "20&&chính"], "predicate": ["24&&lớn", "25&&hơn"], "label": "COM+"}
+
+Về mặt lý thuyết sẽ hoạt động tốt hơn vào ban đêm và bạn có khả năng thu phóng 3,2 lần.	Về mặt lý thuyết sẽ hoạt động tốt hơn vào ban đêm và bạn có khả năng thu phóng 3,2 lần .
+{"subject": [], "object": [], "aspect": ["10&&vào", "11&&ban", "12&&đêm"], "predicate": ["6&&hoạt", "7&&động", "8&&tốt", "9&&hơn"], "label": "COM+"}
+
+Đối với trong điều kiện ánh sáng tốt, Xiaomi 13 Pro có xu hướng phơi sáng tối hơn.	Đối với trong điều kiện ánh sáng tốt , Xiaomi 13 Pro có xu hướng phơi sáng tối hơn .
+{"subject": ["10&&Xiaomi", "11&&13", "12&&Pro"], "object": [], "aspect": ["16&&phơi", "17&&sáng"], "predicate": ["18&&tối", "19&&hơn"], "label": "COM"}
+
+Trong khi Galaxy S23 Ultra chụp ảnh sáng hơn.	Trong khi Galaxy S23 Ultra chụp ảnh sáng hơn .
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": [], "aspect": ["6&&chụp", "7&&ảnh"], "predicate": ["8&&sáng", "9&&hơn"], "label": "COM"}
+
+alt:   Xiaomi 13 Pro có xu hướng phơi sáng tối hơn, trong khi Galaxy S23 Ultra chụp ảnh sáng hơn	alt : Xiaomi 13 Pro có xu hướng phơi sáng tối hơn , trong khi Galaxy S23 Ultra chụp ảnh sáng hơn
+
+des:	des :
+
+Khi nói đến camera siêu rộng của Xiaomi 13 Pro.	Khi nói đến camera siêu rộng của Xiaomi 13 Pro .
+
+Chúng ta có cách xử lý tương tự như với camera chính trong ảnh chụp ban ngày: Hình ảnh sáng hơn và sống động hơn so với Galaxy.	Chúng ta có cách xử lý tương tự như với camera chính trong ảnh chụp ban ngày : Hình ảnh sáng hơn và sống động hơn so với Galaxy .
+{"subject": [], "object": ["29&&Galaxy"], "aspect": ["19&&Hình", "20&&ảnh"], "predicate": ["21&&sáng", "22&&hơn"], "label": "COM"}
+{"subject": [], "object": ["29&&Galaxy"], "aspect": ["19&&Hình", "20&&ảnh"], "predicate": ["24&&sống", "25&&động", "26&&hơn"], "label": "COM+"}
+
+Nhưng vào ban đêm, camera siêu rộng trên Xiaomi lại kém hơn nữa.	Nhưng vào ban đêm , camera siêu rộng trên Xiaomi lại kém hơn nữa .
+{"subject": ["6&&camera", "7&&siêu", "8&&rộng", "9&&trên", "10&&Xiaomi"], "object": [], "aspect": [], "predicate": ["12&&kém", "13&&hơn", "14&&nữa"], "label": "COM-"}
+
+cân bằng trắng kém hơn Galaxy và ảnh thiếu chi tiết và không sáng bằng.	cân bằng trắng kém hơn Galaxy và ảnh thiếu chi tiết và không sáng bằng .
+{"subject": [], "object": ["6&&Galaxy"], "aspect": ["1&&cân", "2&&bằng", "3&&trắng"], "predicate": ["4&&kém", "5&&hơn"], "label": "COM-"}
+{"subject": [], "object": [], "aspect": ["8&&ảnh"], "predicate": ["9&&thiếu", "10&&chi", "11&&tiết"], "label": "COM-"}
+{"subject": [], "object": [], "aspect": ["8&&ảnh"], "predicate": ["13&&không", "14&&sáng", "15&&bằng"], "label": "COM-"}
+
+Máy ảnh zoom 3,2X trên Xiaomi được đánh giá khá tốt.	Máy ảnh zoom 3,2X trên Xiaomi được đánh giá khá tốt .
+
+Nhưng nó không hoàn toàn ngang bằng với tổ hợp zoom 3X + 10X trên Galaxy.	Nhưng nó không hoàn toàn ngang bằng với tổ hợp zoom 3X + 10X trên Galaxy .
+{"subject": ["2&&nó"], "object": ["9&&tổ", "10&&hợp", "11&&zoom", "12&&3X", "13&&+", "14&&10X", "15&&trên", "16&&Galaxy"], "aspect": [], "predicate": ["3&&không", "4&&hoàn", "5&&toàn", "6&&ngang", "7&&bằng"], "label": "DIF"}
+
+Trong điều kiện ban ngày, bạn có chi tiết tốt hơn từ máy ảnh Samsung.	Trong điều kiện ban ngày , bạn có chi tiết tốt hơn từ máy ảnh Samsung .
+{"subject": ["16&&Samsung"], "object": [], "aspect": ["14&&máy", "15&&ảnh"], "predicate": ["9&&chi", "10&&tiết", "11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Xiaomi đã tạo ra một bước nhảy vọt về chất lượng khi chụp ảnh ban đêm.	Xiaomi đã tạo ra một bước nhảy vọt về chất lượng khi chụp ảnh ban đêm .
+
+Cả hai điện thoại trông rất đẹp khi chụp đêm.	Cả hai điện thoại trông rất đẹp khi chụp đêm .
+
+Khả năng quay video với chế độ siêu ổn định trên Galaxy S23 Ultra được đánh giá khá tốt.	Khả năng quay video với chế độ siêu ổn định trên Galaxy S23 Ultra được đánh giá khá tốt .
+
+Đặc biệt máy còn hỗ trợ quay video 8k/ 30fps là một điểm nổi bật hơn so với đối thủ.	Đặc biệt máy còn hỗ trợ quay video 8k / 30fps là một điểm nổi bật hơn so với đối thủ .
+{"subject": ["3&&máy"], "object": ["20&&đối", "21&&thủ"], "aspect": ["5&&hỗ", "6&&trợ", "7&&quay", "8&&video", "9&&8k", "10&&/", "11&&30fps"], "predicate": ["15&&nổi", "16&&bật", "17&&hơn"], "label": "COM+"}
+
+Thông số camera Xiaomi 13 Pro:	Thông số camera Xiaomi 13 Pro :
+
+Thông số camera Galaxy S23 Ultra:	Thông số camera Galaxy S23 Ultra :
+
+Tuổi thọ pin và sạc Galaxy S23 Ultra và Xiaomi 13 Pro	Tuổi thọ pin và sạc Galaxy S23 Ultra và Xiaomi 13 Pro
+
+Xiaomi 13 Pro được trang bị viên pin có dung lượng 4.820 mAh.	Xiaomi 13 Pro được trang bị viên pin có dung lượng 4.820 mAh .
+
+Trong khi Galaxy S23 Ultra được trang bị viên pin 5000mAh, lớn hơn 4%.	Trong khi Galaxy S23 Ultra được trang bị viên pin 5000mAh , lớn hơn 4% .
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": [], "aspect": ["9&&viên", "10&&pin"], "predicate": ["13&&lớn", "14&&hơn"], "label": "COM+"}
+
+Có thể với thông số này nhiều người cho rằng, Galaxy sẽ dễ dàng giành chiến thắng.	Có thể với thông số này nhiều người cho rằng , Galaxy sẽ dễ dàng giành chiến thắng .
+
+Nhưng nếu ta loại bỏ các ứng dụng chạy nền trên Xiaomi giúp kéo dài thời lượng pin hơn bạn mong đợi.	Nhưng nếu ta loại bỏ các ứng dụng chạy nền trên Xiaomi giúp kéo dài thời lượng pin hơn bạn mong đợi .
+
+alt: Xiaomi 13 Pro được trang bị viên pin có dung lượng 4.820 mAh	alt : Xiaomi 13 Pro được trang bị viên pin có dung lượng 4.820 mAh
+
+des:	des :
+
+Nhìn chung, cả hai điện thoại không có nhiều chênh lệch đáng kể.	Nhìn chung , cả hai điện thoại không có nhiều chênh lệch đáng kể .
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": [], "predicate": ["8&&không", "9&&có", "10&&nhiều", "11&&chênh", "12&&lệch", "13&&đáng", "14&&kể"], "label": "EQL"}
+
+Về thời lượng pin khi đạt điểm số gần như ngang nhau khi duyệt web.	Về thời lượng pin khi đạt điểm số gần như ngang nhau khi duyệt web .
+{"subject": [], "object": [], "aspect": ["2&&thời", "3&&lượng", "4&&pin"], "predicate": ["9&&gần", "10&&như", "11&&ngang", "12&&nhau", "13&&khi", "14&&duyệt", "15&&web"], "label": "EQL"}
+
+Tuy nhiên, trong các trò chơi 3D thì Galaxy chiếm lợi thế hơn.	Tuy nhiên , trong các trò chơi 3D thì Galaxy chiếm lợi thế hơn .
+{"subject": ["10&&Galaxy"], "object": [], "aspect": ["6&&trò", "7&&chơi", "8&&3D"], "predicate": ["11&&chiếm", "12&&lợi", "13&&thế", "14&&hơn"], "label": "COM+"}
+
+Nhưng bù lại Xiaomi 13 Pro có thời gian phát lại video Youtube tốt hơn.	Nhưng bù lại Xiaomi 13 Pro có thời gian phát lại video Youtube tốt hơn .
+{"subject": ["4&&Xiaomi", "5&&13", "6&&Pro"], "object": [], "aspect": ["8&&thời", "9&&gian", "10&&phát", "11&&lại", "12&&video", "13&&Youtube"], "predicate": ["14&&tốt", "15&&hơn"], "label": "COM+"}
+
+Về khả năng sạc, Galaxy S23 Ultra hỗ trợ sạc nhanh 45W.	Về khả năng sạc , Galaxy S23 Ultra hỗ trợ sạc nhanh 45W .
+
+Trong khi đối thủ có sạc nhanh đến 120W.	Trong khi đối thủ có sạc nhanh đến 120W .
+
+Đó là một sự khác biệt lớn.	Đó là một sự khác biệt lớn .
+
+Xiaomi sạc đầy trong vòng chưa đầy 30 phút.	Xiaomi sạc đầy trong vòng chưa đầy 30 phút .
+
+Trong khi Galaxy mất hơn một giờ.	Trong khi Galaxy mất hơn một giờ .
+
+Cả hai điện thoại cũng hỗ trợ sạc không dây và một lần nữa, Xiaomi nhanh hơn rất nhiều với tốc độ 50W so với chỉ 10W trên Galaxy.	Cả hai điện thoại cũng hỗ trợ sạc không dây và một lần nữa , Xiaomi nhanh hơn rất nhiều với tốc độ 50W so với chỉ 10W trên Galaxy .
+{"subject": ["16&&Xiaomi"], "object": ["30&&Galaxy"], "aspect": ["8&&sạc", "9&&không", "10&&dây"], "predicate": ["17&&nhanh", "18&&hơn", "19&&rất", "20&&nhiều"], "label": "COM+"}
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&sạc", "9&&không", "10&&dây"], "predicate": ["5&&cũng", "6&&hỗ", "7&&trợ"], "label": "EQL"}
+
+Tạm kết	Tạm kết
+
+So sánh Galaxy S23 Ultra và Xiaomi 13 Pro cho thấy, flagship của Xiaomi là một thiết bị chắc chắn, vượt trội ở hầu hết các lĩnh vực cơ bản tạo nên một chiếc điện thoại thông minh tuyệt vời: thời lượng pin ổn định, camera rất tốt (đặc biệt là những bức ảnh macro) và có sạc siêu nhanh.	So sánh Galaxy S23 Ultra và Xiaomi 13 Pro cho thấy , flagship của Xiaomi là một thiết bị chắc chắn , vượt trội ở hầu hết các lĩnh vực cơ bản tạo nên một chiếc điện thoại thông minh tuyệt vời : thời lượng pin ổn định , camera rất tốt ( đặc biệt là những bức ảnh macro ) và có sạc siêu nhanh .
+{"subject": ["7&&Xiaomi", "8&&13", "9&&Pro"], "object": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "aspect": ["28&&các", "29&&lĩnh", "30&&vực", "31&&cơ", "32&&bản"], "predicate": ["23&&vượt", "24&&trội"], "label": "COM+"}
+
+Mặt khác, Galaxy là "sự lựa chọn an toàn" cho một chiếc flagship Android.	Mặt khác , Galaxy là " sự lựa chọn an toàn " cho một chiếc flagship Android .
+
+Nhưng điều đó không làm cho nó kém thú vị đi chút nào với bút S-Pen nổi bật, ngoại hình tinh tế, cấu hình mạnh mẽ, khả năng zoom ấn tượng và các bản cập nhật lâu hơn.	Nhưng điều đó không làm cho nó kém thú vị đi chút nào với bút S-Pen nổi bật , ngoại hình tinh tế , cấu hình mạnh mẽ , khả năng zoom ấn tượng và các bản cập nhật lâu hơn .
+{"subject": ["7&&nó"], "object": [], "aspect": ["36&&các", "37&&bản", "38&&cập", "39&&nhật"], "predicate": ["40&&lâu", "41&&hơn"], "label": "COM+"}
+
+Nếu bạn thích cái gì mới mẻ hơn một chút thì có thể lựa chọn Xiaomi 13 Pro vẫn đáp ứng tốt trải nghiệm.	Nếu bạn thích cái gì mới mẻ hơn một chút thì có thể lựa chọn Xiaomi 13 Pro vẫn đáp ứng tốt trải nghiệm .
+
+Liên hệ XTmobile để sở hữu các thiết bị cao cấp với mức giá tốt nhất!	Liên hệ XTmobile để sở hữu các thiết bị cao cấp với mức giá tốt nhất !
+

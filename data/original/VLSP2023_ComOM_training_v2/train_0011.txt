@@ -1,0 +1,109 @@
+title: So sánh Samsung Galaxy A03s và Vivo Y21: Điện thoại nào dành cho bạn?	title : So sánh Samsung Galaxy A03s và Vivo Y21 : Điện thoại nào dành cho bạn ?
+
+Trên thị trường hiện tại có hai tân binh giá rẻ mới là Samsung Galaxy A03s và Vivo Y21 với mức giá lần lượt 3.69 triệu và 4.29 triệu.	Trên thị trường hiện tại có hai tân binh giá rẻ mới là Samsung Galaxy A03s và Vivo Y21 với mức giá lần lượt 3.69 triệu và 4.29 triệu .
+
+Vậy chiếc smartphone nào sẽ phù hợp với bạn?	Vậy chiếc smartphone nào sẽ phù hợp với bạn ?
+
+Cùng FPT Shop so sánh chi tiết để tìm ra câu trả lời nhé!	Cùng FPT Shop so sánh chi tiết để tìm ra câu trả lời nhé !
+
+So sánh thiết kế: Galaxy A03s tinh giản - Vivo Y21 nổi bật	So sánh thiết kế : Galaxy A03s tinh giản - Vivo Y21 nổi bật
+
+Đều là những chiếc smartphone dành cho người dùng trẻ, cả hai có thiết kế rất hiện đại.	Đều là những chiếc smartphone dành cho người dùng trẻ , cả hai có thiết kế rất hiện đại .
+{"subject": [], "object": [], "aspect": [], "predicate": ["1&&Đều", "2&&là", "3&&những", "4&&chiếc", "5&&smartphone", "6&&dành", "7&&cho", "8&&người", "9&&dùng", "10&&trẻ"], "label": "EQL"}
+
+Tuy nhiên mỗi điện thoại sẽ có phong cách nhất định.	Tuy nhiên mỗi điện thoại sẽ có phong cách nhất định .
+
+Đối với Samsung Galaxy A03s là thiết kế tinh giản với mặt lưng trơn, được phủ nhám.	Đối với Samsung Galaxy A03s là thiết kế tinh giản với mặt lưng trơn , được phủ nhám .
+
+Đi kèm là ba phiên bản màu đa dạng để bạn chọn lựa bao gồm: xanh, đen và trắng.	Đi kèm là ba phiên bản màu đa dạng để bạn chọn lựa bao gồm : xanh , đen và trắng .
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des: Samsung Galaxy A03s hiện đại và tinh tế	des : Samsung Galaxy A03s hiện đại và tinh tế
+
+Nhìn chung, thiết kế Galaxy A03s, dành cho những bạn yêu thích sự giản đơn.	Nhìn chung , thiết kế Galaxy A03s , dành cho những bạn yêu thích sự giản đơn .
+
+Phiên bản màu trắng chắc hẳn sẽ gây ấn tượng với bạn khi có nét đẹp nhẹ nhàng, rất phù hợp với các bạn nữ.	Phiên bản màu trắng chắc hẳn sẽ gây ấn tượng với bạn khi có nét đẹp nhẹ nhàng , rất phù hợp với các bạn nữ .
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des:	des :
+
+Vivo Y21 cũng hiện đại nhưng kết hợp đó là sự cá tính, nổi bật với mặt lưng tỏa sáng.	Vivo Y21 cũng hiện đại nhưng kết hợp đó là sự cá tính , nổi bật với mặt lưng tỏa sáng .
+
+Phiên bản Xanh Ánh Kim là sự kết hợp giữa lớp phủ bạc và lớp tráng phủ, tạo nên các ánh xanh lung linh.	Phiên bản Xanh Ánh Kim là sự kết hợp giữa lớp phủ bạc và lớp tráng phủ , tạo nên các ánh xanh lung linh .
+
+Trên phiên bản Trắng Kim Cương là sự phá cách với các đường nét kim cương hài hòa.	Trên phiên bản Trắng Kim Cương là sự phá cách với các đường nét kim cương hài hòa .
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des: Vivo Y21 nổi bật với thiết kế ánh sáng lung linh	des : Vivo Y21 nổi bật với thiết kế ánh sáng lung linh
+
+Về phần màn hình, Galaxy A03s và Vivo Y21 được trang bị thiết kế “giọt nước” 6.5 inch, HD+.	Về phần màn hình , Galaxy A03s và Vivo Y21 được trang bị thiết kế “ giọt nước ” 6.5 inch , HD + .
+
+Chính vì vậy, trải nghiệm màn hình sẽ tương tự nhau, đều cho chi tiết rõ ràng, màu sắc ổn định.	Chính vì vậy , trải nghiệm màn hình sẽ tương tự nhau , đều cho chi tiết rõ ràng , màu sắc ổn định .
+{"subject": [], "object": [], "aspect": ["5&&trải", "6&&nghiệm", "7&&màn", "8&&hình"], "predicate": ["10&&tương", "11&&tự", "12&&nhau"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["16&&chi", "17&&tiết", "18&&rõ", "19&&ràng"], "predicate": ["14&&đều", "15&&cho"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["21&&màu", "22&&sắc", "23&&ổn", "24&&định"], "predicate": ["14&&đều", "15&&cho"], "label": "EQL"}
+
+Màn hình lớn phù hợp để giải trí từ lướt Facebook, xem phim hay chơi game.	Màn hình lớn phù hợp để giải trí từ lướt Facebook , xem phim hay chơi game .
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des:	des :
+
+So sánh camera: Cả hai có những thế mạnh nhất định	So sánh camera : Cả hai có những thế mạnh nhất định
+
+Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau, bao gồm camera chính 12MP, camera macro 2MP và camera đo độ sâu 2MP. Với 3 camera này bạn sẽ có những hình ảnh sắc nét, chụp được ảnh siêu cận và ảnh xóa phông tốt hơn.	Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau , bao gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP . Với 3 camera này bạn sẽ có những hình ảnh sắc nét , chụp được ảnh siêu cận và ảnh xóa phông tốt hơn .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["44&&ảnh", "45&&siêu", "46&&cận"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["48&&ảnh", "49&&xóa", "50&&phông"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+
+Đi kèm đó là camera trước 5MP, tích hợp AI, tối ưu ảnh chụp selfie cho người dùng.	Đi kèm đó là camera trước 5MP , tích hợp AI , tối ưu ảnh chụp selfie cho người dùng .
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des: Galaxy A03s nổi bật với cụm 3 camera sau	des : Galaxy A03s nổi bật với cụm 3 camera sau
+
+Trên Vivo Y21 có camera kép bao gồm camera chính 12MP và camera macro 2MP. Vậy so với Galaxy A03s, Vivo Y21 thiếu camera đo độ sâu 2MP.	Trên Vivo Y21 có camera kép bao gồm camera chính 12MP và camera macro 2MP . Vậy so với Galaxy A03s , Vivo Y21 thiếu camera đo độ sâu 2MP .
+{"subject": ["23&&Vivo", "24&&Y21"], "object": ["20&&Galaxy", "21&&A03s"], "aspect": ["26&&camera", "27&&đo", "28&&độ", "29&&sâu", "30&&2MP"], "predicate": ["25&&thiếu"], "label": "DIF"}
+
+Về camera selfie, Vivo Y21 có thông số 8MP "nhỉnh" hơn camera selfie Galaxy A03s, kết hợp các thuật toán làm đẹp tự nhiên, giúp bạn luôn rạng ngời.	Về camera selfie , Vivo Y21 có thông số 8MP " nhỉnh " hơn camera selfie Galaxy A03s , kết hợp các thuật toán làm đẹp tự nhiên , giúp bạn luôn rạng ngời .
+{"subject": ["5&&Vivo", "6&&Y21"], "object": ["17&&Galaxy", "18&&A03s"], "aspect": ["2&&camera", "3&&selfie"], "predicate": ["11&&\"", "12&&nhỉnh", "13&&\"", "14&&hơn"], "label": "COM+"}
+
+alt: So sánh Samsung Galaxy A03s và Vivo Y21: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy A03s và Vivo Y21 : Nên mua điện thoại nào ?
+
+des: Vivo Y21 có thông số camera trước "nhỉnh" hơn	des : Vivo Y21 có thông số camera trước " nhỉnh " hơn
+{"subject": ["3&&Vivo", "4&&Y21"], "object": [], "aspect": ["6&&thông", "7&&số", "8&&camera", "9&&trước"], "predicate": ["10&&\"", "11&&nhỉnh", "12&&\"", "13&&hơn"], "label": "COM+"}
+
+Hiệu năng như nhau nhờ vi xử lý Helio P35	Hiệu năng như nhau nhờ vi xử lý Helio P35
+{"subject": [], "object": [], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": ["3&&như", "4&&nhau"], "label": "EQL"}
+
+Samsung Galaxy A03s và Vivo Y21 đều mang trên mình hiệu năng từ Helio P35. Đây là con chip phổ biến trong phân khúc, giúp xử lý tác vụ ổn định, tiết kiệm điện năng hiệu quả, để bạn có thể “chiến” các tựa game phổ biến như Liên Quân hay PUBG.	Samsung Galaxy A03s và Vivo Y21 đều mang trên mình hiệu năng từ Helio P35 . Đây là con chip phổ biến trong phân khúc , giúp xử lý tác vụ ổn định , tiết kiệm điện năng hiệu quả , để bạn có thể “ chiến ” các tựa game phổ biến như Liên Quân hay PUBG .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": ["5&&Vivo", "6&&Y21"], "aspect": ["11&&hiệu", "12&&năng", "13&&từ", "14&&Helio", "15&&P35"], "predicate": ["7&&đều", "8&&mang", "9&&trên", "10&&mình"], "label": "EQL"}
+
+Về RAM và ROM thì cả hai điện thoại có thông số là 4GB RAM + 64GB ROM.	Về RAM và ROM thì cả hai điện thoại có thông số là 4GB RAM + 64GB ROM .
+
+Tuy nhiên, Vivo Y21 có thể mở rộng thêm 1GB chuyển từ bộ nhớ trong.	Tuy nhiên , Vivo Y21 có thể mở rộng thêm 1GB chuyển từ bộ nhớ trong .
+
+Viên pin 5.000mAh, cho phép cả hai sử dụng cả ngày dài	Viên pin 5.000mAh , cho phép cả hai sử dụng cả ngày dài
+
+Ưu điểm thường thấy trên smartphone giá rẻ là viên pin siêu trâu. Galaxy A03s và Vivo Y21 cũng vậy, sở hữu viên pin 5.000mAh, sử dụng cả ngày dài mà không lo cạn pin.	Ưu điểm thường thấy trên smartphone giá rẻ là viên pin siêu trâu . Galaxy A03s và Vivo Y21 cũng vậy , sở hữu viên pin 5.000mAh , sử dụng cả ngày dài mà không lo cạn pin .
+
+Thậm chí nó còn có thể dùng được đến hết ngày thứ hai nếu bạn sử dụng điện thoại cơ bản.	Thậm chí nó còn có thể dùng được đến hết ngày thứ hai nếu bạn sử dụng điện thoại cơ bản .
+
+Chính vì vậy, cả hai đều rất phù hợp để học online hay giải trí, “cày phim”.	Chính vì vậy , cả hai đều rất phù hợp để học online hay giải trí , “ cày phim ” .
+{"subject": ["5&&cả", "6&&hai"], "object": [], "aspect": ["12&&học", "13&&online", "14&&hay", "15&&giải", "16&&trí", "17&&,", "18&&“", "19&&cày", "20&&phim", "21&&”"], "predicate": ["7&&đều", "8&&rất", "9&&phù", "10&&hợp"], "label": "EQL"}
+
+Vậy chọn Galaxy A03s hay Vivo Y21?	Vậy chọn Galaxy A03s hay Vivo Y21 ?
+
+Nhìn chung, cả hai hãng đã mang tới chọn lựa tốt trong phân khúc giá rẻ cho người dùng như hiệu năng ổn định, pin trâu, màn hình lớn.	Nhìn chung , cả hai hãng đã mang tới chọn lựa tốt trong phân khúc giá rẻ cho người dùng như hiệu năng ổn định , pin trâu , màn hình lớn .
+
+Sự chênh lệch về các thông số khác như camera cũng không đáng kể.	Sự chênh lệch về các thông số khác như camera cũng không đáng kể .
+{"subject": [], "object": [], "aspect": ["5&&các", "6&&thông", "7&&số", "8&&khác", "9&&như", "10&&camera"], "predicate": ["1&&Sự", "2&&chênh", "3&&lệch", "4&&về", "5&&các", "6&&thông", "7&&số", "8&&khác", "9&&như", "10&&camera", "11&&cũng", "12&&không", "13&&đáng", "14&&kể"], "label": "EQL"}
+
+Vậy chọn điện thoại nào sẽ phụ thuộc vào bạn thích thiết kế nào hơn.	Vậy chọn điện thoại nào sẽ phụ thuộc vào bạn thích thiết kế nào hơn .
+
+Trên Galaxy A03s là tinh tế, hiện đại; trên Vivo Y21 là nổi bật, thời thượng.	Trên Galaxy A03s là tinh tế , hiện đại ; trên Vivo Y21 là nổi bật , thời thượng .
+
+Riêng cá nhân mình, thì mình sẽ nghiêng về Galaxy A03s vì sẽ tiết kiệm được một số ngân sách. Còn bạn, bạn chọn điện thoại nào, chia sẻ với mình nhé!	Riêng cá nhân mình , thì mình sẽ nghiêng về Galaxy A03s vì sẽ tiết kiệm được một số ngân sách . Còn bạn , bạn chọn điện thoại nào , chia sẻ với mình nhé !
+

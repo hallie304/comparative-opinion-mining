@@ -1,0 +1,72 @@
+title: So sánh hiệu năng giữa Galaxy S23 và Xiaomi 13: Snapdragon 8 Gen 2 for Galaxy khác biệt thế nào?	title : So sánh hiệu năng giữa Galaxy S23 và Xiaomi 13 : Snapdragon 8 Gen 2 for Galaxy khác biệt thế nào ?
+
+Tại sự kiện Galaxy Unpacked 2023 vừa qua, bên cạnh những nâng cấp mới về camera, Samsung còn nhấn rất mạnh vào hiệu năng của thế hệ Galaxy S23 Series mới nhất, đặc biệt là khả năng tản nhiệt buồng hơi và con chip Snapdragon 8 Gen 2 tuỳ biến riêng dành cho Galaxy (8 Gen 2 for Galaxy).	Tại sự kiện Galaxy Unpacked 2023 vừa qua , bên cạnh những nâng cấp mới về camera , Samsung còn nhấn rất mạnh vào hiệu năng của thế hệ Galaxy S23 Series mới nhất , đặc biệt là khả năng tản nhiệt buồng hơi và con chip Snapdragon 8 Gen 2 tuỳ biến riêng dành cho Galaxy ( 8 Gen 2 for Galaxy ) .
+
+Vậy liệu có bất kì sự chênh lệch nào so với con chip Snapdragon 8 Gen 2 thông thường hay không?	Vậy liệu có bất kì sự chênh lệch nào so với con chip Snapdragon 8 Gen 2 thông thường hay không ?
+
+Cùng chúng mình đi tìm câu trả lời thông qua bài thử nghiệm dưới đây nhé!	Cùng chúng mình đi tìm câu trả lời thông qua bài thử nghiệm dưới đây nhé !
+
+Nâng cấp trên Snapdragon 8 Gen 2 for Galaxy	Nâng cấp trên Snapdragon 8 Gen 2 for Galaxy
+
+Theo công bố của Samsung, biến thể “for Galaxy” sẽ có sự thay đổi ở CPU và GPU, tuy nhiên hãng không nêu cụ thể sự khác biệt.	Theo công bố của Samsung , biến thể “ for Galaxy ” sẽ có sự thay đổi ở CPU và GPU , tuy nhiên hãng không nêu cụ thể sự khác biệt .
+{"subject": ["7&&biến", "8&&thể", "9&&“", "10&&for", "11&&Galaxy", "12&&”"], "object": [], "aspect": ["19&&CPU"], "predicate": ["16&&thay", "17&&đổi"], "label": "DIF"}
+{"subject": ["7&&biến", "8&&thể", "9&&“", "10&&for", "11&&Galaxy", "12&&”"], "object": [], "aspect": ["21&&GPU"], "predicate": ["16&&thay", "17&&đổi"], "label": "DIF"}
+
+Thay vào đó, nhiều chuyên trang công nghệ thế giới cho biết, nhân Kryo của CPU được tăng từ 3.2GHz (trên bản tiêu chuẩn) lên 3.36GHz; nhân Adreno của GPU được tăng từ 680MHz lên 719MHz.	Thay vào đó , nhiều chuyên trang công nghệ thế giới cho biết , nhân Kryo của CPU được tăng từ 3.2GHz ( trên bản tiêu chuẩn ) lên 3.36GHz ; nhân Adreno của GPU được tăng từ 680MHz lên 719MHz .
+
+Ngoài ra, Samsung còn nhấn mạnh NPU (nhân xử lí AI) có sức mạnh lớn hơn 40% so với con chip 8 Gen 1 trên thế hệ tiền nhiệm.	Ngoài ra , Samsung còn nhấn mạnh NPU ( nhân xử lí AI ) có sức mạnh lớn hơn 40% so với con chip 8 Gen 1 trên thế hệ tiền nhiệm .
+
+Từ đó, có thể nhận định đây là con chip trên di động mạnh mẽ nhất thế giới hiện nay.	Từ đó , có thể nhận định đây là con chip trên di động mạnh mẽ nhất thế giới hiện nay .
+{"subject": ["8&&đây"], "object": [], "aspect": [], "predicate": ["15&&mạnh", "16&&mẽ", "17&&nhất", "18&&thế", "19&&giới", "20&&hiện", "21&&nay"], "label": "SUP+"}
+
+alt:	alt :
+
+des:	des :
+
+Để so sánh 8 Gen 2 for Galaxy với những mẫu flagship khác, chúng ta cùng đặt lên bàn cân với Snapdragon 8 Gen 2 trên chiếc Xiaomi 13.	Để so sánh 8 Gen 2 for Galaxy với những mẫu flagship khác , chúng ta cùng đặt lên bàn cân với Snapdragon 8 Gen 2 trên chiếc Xiaomi 13 .
+
+Với điều kiện thử nghiệm, mình đều bật tối đa độ sáng và 50% âm lượng ở cả hai chiếc máy.	Với điều kiện thử nghiệm , mình đều bật tối đa độ sáng và 50% âm lượng ở cả hai chiếc máy .
+
+Nhiệt độ phòng máy lạnh là 26 độ.	Nhiệt độ phòng máy lạnh là 26 độ .
+
+Kết quả đánh giá	Kết quả đánh giá
+
+alt:	alt :
+
+des: Biểu đồ FPS của Genshin Impact trên Galaxy S23	des : Biểu đồ FPS của Genshin Impact trên Galaxy S23
+
+alt:	alt :
+
+des: Biểu đồ FPS của Genshin Impact trên Xiaomi 13	des : Biểu đồ FPS của Genshin Impact trên Xiaomi 13
+
+Kết luận	Kết luận
+
+Sau bài thử nghiệm, dù được Samsung quảng cáo về việc hợp tác với Qualcomm để tuỳ biến con chip Snapdragon 8 Gen 2 dành riêng cho S23 Series, kết quả thực tế cho thấy con chip này chưa có nhiều khác biệt so với 8 Gen 2 thông thường.	Sau bài thử nghiệm , dù được Samsung quảng cáo về việc hợp tác với Qualcomm để tuỳ biến con chip Snapdragon 8 Gen 2 dành riêng cho S23 Series , kết quả thực tế cho thấy con chip này chưa có nhiều khác biệt so với 8 Gen 2 thông thường .
+{"subject": ["38&&con", "39&&chip", "40&&này"], "object": ["48&&8", "49&&Gen", "50&&2", "51&&thông", "52&&thường"], "aspect": [], "predicate": ["41&&chưa", "42&&có", "43&&nhiều", "44&&khác", "45&&biệt"], "label": "EQL"}
+
+Thậm chí, điểm số và độ ổn định của con chip mới trên Galaxy S23 chưa đạt được kì vọng ban đầu.	Thậm chí , điểm số và độ ổn định của con chip mới trên Galaxy S23 chưa đạt được kì vọng ban đầu .
+
+Điều đó chứng minh qua điểm số Antutu và bài kiểm tra sự ổn định của 3DMark Stress Test.	Điều đó chứng minh qua điểm số Antutu và bài kiểm tra sự ổn định của 3DMark Stress Test .
+
+Cụ thể hơn, Snapdragon 8 Gen 2 trên Xiaomi 13 đạt tới hơn 1.200.000 điểm tổng, bỏ xa con số chỉ hơn 1.000.000 điểm.	Cụ thể hơn , Snapdragon 8 Gen 2 trên Xiaomi 13 đạt tới hơn 1.200.000 điểm tổng , bỏ xa con số chỉ hơn 1.000.000 điểm .
+
+Độ ổn định của GPU trên biến thể “for Galaxy” chỉ đạt được 58.7%, rất thấp khi so với con số 77.8% của Xiaomi 13.	Độ ổn định của GPU trên biến thể “ for Galaxy ” chỉ đạt được 58.7% , rất thấp khi so với con số 77.8% của Xiaomi 13 .
+{"subject": ["7&&biến", "8&&thể", "9&&“", "10&&for", "11&&Galaxy", "12&&”"], "object": ["27&&Xiaomi", "28&&13"], "aspect": ["1&&Độ", "2&&ổn", "3&&định", "4&&của", "5&&GPU"], "predicate": ["18&&rất", "19&&thấp", "20&&khi", "21&&so", "22&&với"], "label": "COM-"}
+
+Đến với tựa game Genshin Impact, chiếc Galaxy S23 và Xiaomi 13 lần lượt đạt được 42.4 và 59.2 FPS trung bình sau 15 phút chơi game.	Đến với tựa game Genshin Impact , chiếc Galaxy S23 và Xiaomi 13 lần lượt đạt được 42.4 và 59.2 FPS trung bình sau 15 phút chơi game .
+
+Rõ ràng, đây là những điểm số tương đối thấp, ít nhất là khi so sánh với Snapdragon 8 Gen 2 tiêu chuẩn.	Rõ ràng , đây là những điểm số tương đối thấp , ít nhất là khi so sánh với Snapdragon 8 Gen 2 tiêu chuẩn .
+{"subject": [], "object": ["20&&Snapdragon", "21&&8", "22&&Gen", "23&&2", "24&&tiêu", "25&&chuẩn"], "aspect": ["7&&điểm", "8&&số"], "predicate": ["9&&tương", "10&&đối", "11&&thấp", "12&&,", "13&&ít", "14&&nhất", "15&&là", "16&&khi", "17&&so", "18&&sánh", "19&&với"], "label": "COM-"}
+
+Hơn nữa, nhiệt độ sau các bài test nặng đang tương đối cao.	Hơn nữa , nhiệt độ sau các bài test nặng đang tương đối cao .
+
+Mặc dù vậy, cần nhấn mạnh thế hệ Galaxy S23 Series chỉ mới được ra mắt thời gian vừa qua.	Mặc dù vậy , cần nhấn mạnh thế hệ Galaxy S23 Series chỉ mới được ra mắt thời gian vừa qua .
+
+Khả năng cao đây chỉ là những phiên bản OneUI đầu tiên dành cho Galaxy S23 Series và chưa đạt được trạng thái tối ưu nhất.	Khả năng cao đây chỉ là những phiên bản OneUI đầu tiên dành cho Galaxy S23 Series và chưa đạt được trạng thái tối ưu nhất .
+
+Ngoài ra, còn một yếu tố nữa chính là việc chiếc Galaxy S23 là phiên bản nhỏ nhất, đồng nghĩa với việc diện tích tản nhiệt cũng thấp hơn; ít nhiều ảnh hưởng đến hiệu năng thuần của con chip.	Ngoài ra , còn một yếu tố nữa chính là việc chiếc Galaxy S23 là phiên bản nhỏ nhất , đồng nghĩa với việc diện tích tản nhiệt cũng thấp hơn ; ít nhiều ảnh hưởng đến hiệu năng thuần của con chip .
+{"subject": ["13&&Galaxy", "14&&S23"], "object": [], "aspect": ["16&&phiên", "17&&bản"], "predicate": ["18&&nhỏ", "19&&nhất"], "label": "SUP"}
+{"subject": ["13&&Galaxy", "14&&S23"], "object": [], "aspect": ["25&&diện", "26&&tích", "27&&tản", "28&&nhiệt"], "predicate": ["30&&thấp", "31&&hơn"], "label": "COM-"}
+
+Cùng hy vọng Samsung có thể nhanh chóng phát hành các bản cập nhật phần mềm mới; tối ưu tốt và ổn định hơn để có thể vận dụng tối đa sức mạnh của con chip Snapdragon 8 Gen 2 for Galaxy.	Cùng hy vọng Samsung có thể nhanh chóng phát hành các bản cập nhật phần mềm mới ; tối ưu tốt và ổn định hơn để có thể vận dụng tối đa sức mạnh của con chip Snapdragon 8 Gen 2 for Galaxy .
+

@@ -1,0 +1,208 @@
+title: Sự khác biệt giữa Galaxy S23 Plus và Galaxy S23 Ultra là gì?	title : Sự khác biệt giữa Galaxy S23 Plus và Galaxy S23 Ultra là gì ?
+
+Ngoài bút S-Pen thì Galaxy S23 Plus và Galaxy S23 Ultra có những điểm khác biệt nào?	Ngoài bút S-Pen thì Galaxy S23 Plus và Galaxy S23 Ultra có những điểm khác biệt nào ?
+
+Galaxy S23 Plus và Galaxy S23 Ultra có mức chênh lệch giá khoảng 200USD.	Galaxy S23 Plus và Galaxy S23 Ultra có mức chênh lệch giá khoảng 200USD .
+
+Liệu với mức giá này, Samsung đã tạo ra những khác biệt gì cho hai sản phẩm.	Liệu với mức giá này , Samsung đã tạo ra những khác biệt gì cho hai sản phẩm .
+
+Trên phiên bản Plus, công ty đã tích hợp viên pin có dung lượng lớn hơn.	Trên phiên bản Plus , công ty đã tích hợp viên pin có dung lượng lớn hơn .
+{"subject": ["11&&viên", "12&&pin"], "object": [], "aspect": ["14&&dung", "15&&lượng"], "predicate": ["16&&lớn", "17&&hơn"], "label": "COM+"}
+{"subject": ["2&&phiên", "3&&bản", "4&&Plus"], "object": [], "aspect": ["11&&viên", "12&&pin"], "predicate": ["14&&dung", "15&&lượng", "16&&lớn", "17&&hơn"], "label": "COM+"}
+
+Tất cả các biến thể đều được sử dụng chip Snapdragon 8 Gen 2 độc quyền với các lõi được ép xung.	Tất cả các biến thể đều được sử dụng chip Snapdragon 8 Gen 2 độc quyền với các lõi được ép xung .
+
+Để hiểu rõ hơn về các sản phẩm vừa ra mắt, hãy cùng XTmobile so sánh ngay Galaxy S23+ và Galaxy S23 Ultra.	Để hiểu rõ hơn về các sản phẩm vừa ra mắt , hãy cùng XTmobile so sánh ngay Galaxy S23 + và Galaxy S23 Ultra .
+
+Trước khi đi vào phần so sánh chi tiết, chúng ta sẽ chỉ ra những khác biệt cơn bản trên hai sản phẩm:	Trước khi đi vào phần so sánh chi tiết , chúng ta sẽ chỉ ra những khác biệt cơn bản trên hai sản phẩm :
+
+Thiết kế và màn hình trên hai thiết bị	Thiết kế và màn hình trên hai thiết bị
+
+Nếu như trên Galaxy S22+ và Galaxy S22 Ultra có sự khác biệt rõ ràng về ngoại hình.	Nếu như trên Galaxy S22 + và Galaxy S22 Ultra có sự khác biệt rõ ràng về ngoại hình .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&+"], "object": ["8&&Galaxy", "9&&S22", "10&&Ultra"], "aspect": ["18&&ngoại", "19&&hình"], "predicate": ["13&&khác", "14&&biệt", "15&&rõ", "16&&ràng"], "label": "DIF"}
+
+Thì giờ đây, ngôn ngữ thiết kế trên Galaxy S23, S23+ và Galaxy S23 Ultra đã có sự thống nhất với nhau.	Thì giờ đây , ngôn ngữ thiết kế trên Galaxy S23 , S23 + và Galaxy S23 Ultra đã có sự thống nhất với nhau .
+{"subject": ["10&&Galaxy", "11&&S23", "12&&,", "13&&S23", "14&&+"], "object": ["16&&Galaxy", "17&&S23", "18&&Ultra"], "aspect": ["5&&ngôn", "6&&ngữ", "7&&thiết", "8&&kế"], "predicate": ["20&&có", "21&&sự", "22&&thống", "23&&nhất", "24&&với", "25&&nhau"], "label": "EQL"}
+
+Các ống kính trên hai phiên bản tiêu chuẩn giờ đây cũng từng tách thành từng phần riêng lẻ thay vì đặt trong một mô-đun camera.	Các ống kính trên hai phiên bản tiêu chuẩn giờ đây cũng từng tách thành từng phần riêng lẻ thay vì đặt trong một mô-đun camera .
+
+alt: ngôn ngữ thiết kế trên Galaxy S23, S23+ và Galaxy S23 Ultra đã có sự thống nhất với nhau	alt : ngôn ngữ thiết kế trên Galaxy S23 , S23 + và Galaxy S23 Ultra đã có sự thống nhất với nhau
+
+des:	des :
+
+Do đó, dù mua model nào thì bạn cũng sẽ được tiếp cận ngoại hình tinh tế và trang nhã hơn.	Do đó , dù mua model nào thì bạn cũng sẽ được tiếp cận ngoại hình tinh tế và trang nhã hơn .
+
+Tất nhiên, việc sử dụng thiết kế mới sẽ khiến người dùng không thể dùng chung ốp lưng cho Galaxy S22 và Galaxy S23, dù có kích thước tương đương nhau.	Tất nhiên , việc sử dụng thiết kế mới sẽ khiến người dùng không thể dùng chung ốp lưng cho Galaxy S22 và Galaxy S23 , dù có kích thước tương đương nhau .
+{"subject": ["21&&Galaxy", "22&&S22"], "object": ["24&&Galaxy", "25&&S23"], "aspect": ["29&&kích", "30&&thước"], "predicate": ["31&&tương", "32&&đương", "33&&nhau"], "label": "EQL"}
+
+Trên Samsung Galaxy S23 Plus và Galaxy S23 Ultra đều mang đến cho người dùng 4 tùy chọn màu sắc gồm xanh lục, tím, đen và kem.	Trên Samsung Galaxy S23 Plus và Galaxy S23 Ultra đều mang đến cho người dùng 4 tùy chọn màu sắc gồm xanh lục , tím , đen và kem .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&S23", "5&&Plus"], "object": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "aspect": ["16&&4", "17&&tùy", "18&&chọn", "19&&màu", "20&&sắc"], "predicate": ["10&&đều", "11&&mang", "12&&đến"], "label": "EQL"}
+
+Tuy nhiên, các sản phẩm cũng có màu sắc độc quyền như Đỏ, xanh lam, vôi hoặc than chì được bán trên trang web của Samsung.	Tuy nhiên , các sản phẩm cũng có màu sắc độc quyền như Đỏ , xanh lam , vôi hoặc than chì được bán trên trang web của Samsung .
+
+Về tổng thể kích thước, điện thoại Galaxy S23+ có phần nhẹ, hẹp và ngắn hơn so với người anh em Ultra của mình.	Về tổng thể kích thước , điện thoại Galaxy S23 + có phần nhẹ , hẹp và ngắn hơn so với người anh em Ultra của mình .
+{"subject": ["7&&điện", "8&&thoại", "9&&Galaxy", "10&&S23", "11&&+"], "object": ["22&&người", "23&&anh", "24&&em", "25&&Ultra", "26&&của", "27&&mình"], "aspect": ["2&&tổng", "3&&thể", "4&&kích", "5&&thước"], "predicate": ["14&&nhẹ", "15&&,", "16&&hẹp", "17&&và", "18&&ngắn", "19&&hơn"], "label": "COM+"}
+
+Nếu bạn không thích một thiết bị quá cồng kềnh thì việc lựa chọn phiên bản Plus cũng khá tuyệt vời.	Nếu bạn không thích một thiết bị quá cồng kềnh thì việc lựa chọn phiên bản Plus cũng khá tuyệt vời .
+
+Ở khía cạnh màn hình, Samsung S23 Ultra có phần tỏa sáng hơn.	Ở khía cạnh màn hình , Samsung S23 Ultra có phần tỏa sáng hơn .
+{"subject": ["7&&Samsung", "8&&S23", "9&&Ultra"], "object": [], "aspect": ["4&&màn", "5&&hình"], "predicate": ["12&&tỏa", "13&&sáng", "14&&hơn"], "label": "COM+"}
+
+Samsung đã trang bị cho máy màn hình 6,8 inch, trong khi trên Galaxy S23 Plus là 6,6 inch.	Samsung đã trang bị cho máy màn hình 6,8 inch , trong khi trên Galaxy S23 Plus là 6,6 inch .
+
+Model cao cấp hơn cũng được trang bị tấm nền LTPO OLED mới nhất cho phép làm mới động chi tiết hơn nhiều tốc độ có thể giảm xuống 1Hz ngay cả khi hiển thị hình ảnh tĩnh.	Model cao cấp hơn cũng được trang bị tấm nền LTPO OLED mới nhất cho phép làm mới động chi tiết hơn nhiều tốc độ có thể giảm xuống 1Hz ngay cả khi hiển thị hình ảnh tĩnh .
+{"subject": ["1&&Model", "2&&cao", "3&&cấp", "4&&hơn"], "object": [], "aspect": ["17&&làm", "18&&mới", "19&&động"], "predicate": ["20&&chi", "21&&tiết", "22&&hơn", "23&&nhiều"], "label": "COM+"}
+
+Từ đó giúp tiết kiệm thời lượng sử dụng tốt hơn.	Từ đó giúp tiết kiệm thời lượng sử dụng tốt hơn .
+{"subject": [], "object": [], "aspect": ["4&&tiết", "5&&kiệm", "6&&thời", "7&&lượng", "8&&sử", "9&&dụng"], "predicate": ["10&&tốt", "11&&hơn"], "label": "COM+"}
+
+alt: Ở khía cạnh màn hình, Samsung S23 Ultra có phần tỏa sáng hơn	alt : Ở khía cạnh màn hình , Samsung S23 Ultra có phần tỏa sáng hơn
+
+des:	des :
+
+Trong khi đó, màn hình Galaxy S23 Plus có thể cung cấp tần số quét 48 - 120Hz.	Trong khi đó , màn hình Galaxy S23 Plus có thể cung cấp tần số quét 48 - 120Hz .
+
+Nhưng đô phân giải 1080P thấp hơn cho phép  bù đắp lợi thế tiêu thụ pin so với màn hình Ultra.	Nhưng đô phân giải 1080P thấp hơn cho phép bù đắp lợi thế tiêu thụ pin so với màn hình Ultra .
+{"subject": [], "object": ["19&&màn", "20&&hình", "21&&Ultra"], "aspect": ["2&&đô", "3&&phân", "4&&giải"], "predicate": ["6&&thấp", "7&&hơn"], "label": "COM-"}
+{"subject": [], "object": ["19&&màn", "20&&hình", "21&&Ultra"], "aspect": ["14&&tiêu", "15&&thụ", "16&&pin"], "predicate": ["12&&lợi", "13&&thế"], "label": "COM+"}
+
+Cả hai điện thoại đều được trang bị độ sáng tối đa 1750 nits vì đạt hơn 2000 nits.	Cả hai điện thoại đều được trang bị độ sáng tối đa 1750 nits vì đạt hơn 2000 nits .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&độ", "10&&sáng", "11&&tối", "12&&đa", "13&&1750", "14&&nits"], "predicate": ["5&&đều", "6&&được", "7&&trang", "8&&bị"], "label": "EQL"}
+
+Đối với các tác vụ giải trí đa phương tiện hàng ngày, cả hai màn hình đều được hiệu chỉnh tốt và hỗ trợ HDR10+.	Đối với các tác vụ giải trí đa phương tiện hàng ngày , cả hai màn hình đều được hiệu chỉnh tốt và hỗ trợ HDR10 + .
+
+Để tìm ra người dành chiến thắng thì tất nhiên Galaxy S23 Ultra chiếm ưu thế nhờ công nghệ  LTPO tiết kiệm so với Galaxy S23 Plus sử dụng công nghệ LTPS cũ hơn.	Để tìm ra người dành chiến thắng thì tất nhiên Galaxy S23 Ultra chiếm ưu thế nhờ công nghệ LTPO tiết kiệm so với Galaxy S23 Plus sử dụng công nghệ LTPS cũ hơn .
+{"subject": ["11&&Galaxy", "12&&S23", "13&&Ultra"], "object": ["25&&Galaxy", "26&&S23", "27&&Plus"], "aspect": [], "predicate": ["14&&chiếm", "15&&ưu", "16&&thế"], "label": "COM+"}
+{"subject": ["18&&công", "19&&nghệ", "20&&LTPO"], "object": ["30&&công", "31&&nghệ", "32&&LTPS", "33&&cũ", "34&&hơn"], "aspect": [], "predicate": ["21&&tiết", "22&&kiệm", "23&&so", "24&&với"], "label": "COM+"}
+
+So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra	So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra
+
+Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường.	Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường .
+{"subject": ["1&&Tất", "2&&cả", "3&&các", "4&&biến", "5&&thể", "6&&Galaxy", "7&&S23"], "object": [], "aspect": ["12&&chip", "13&&xử", "14&&lý", "15&&Snapdragon"], "predicate": ["8&&đều", "9&&được", "10&&tran", "11&&bị"], "label": "EQL"}
+
+Việc không chọn sử dụng chip Exynos cho thấy, Samsung đã lắng nghe khách hàng của mình.	Việc không chọn sử dụng chip Exynos cho thấy , Samsung đã lắng nghe khách hàng của mình .
+
+Tuy nhiên, một lưu ý rằng công ty vẫn chưa giải quyết chính xác cho giải pháp có sẵn.	Tuy nhiên , một lưu ý rằng công ty vẫn chưa giải quyết chính xác cho giải pháp có sẵn .
+
+Cấu hình Samsung S23+ và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung.	Cấu hình Samsung S23 + và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung .
+{"subject": ["3&&Samsung", "4&&S23", "5&&+"], "object": ["7&&S23", "8&&Ultra"], "aspect": ["1&&Cấu", "2&&hình"], "predicate": ["9&&đều", "10&&được", "11&&sử", "12&&dụng", "13&&chip", "14&&Snapdragon", "15&&8", "16&&Gen", "17&&2", "18&&mới", "19&&nhất", "20&&của", "21&&Qualcomm", "22&&với", "23&&các", "24&&lõi", "25&&được", "26&&ép", "27&&xung"], "label": "EQL"}
+
+Chipset này không giống như các phiên bản thông thường có tốc độ 3,2 GHZ do TSMC sản xuất.	Chipset này không giống như các phiên bản thông thường có tốc độ 3,2 GHZ do TSMC sản xuất .
+{"subject": ["1&&Chipset", "2&&này"], "object": ["6&&các", "7&&phiên", "8&&bản", "9&&thông", "10&&thường", "11&&có", "12&&tốc", "13&&độ", "14&&3,2", "15&&GHZ"], "aspect": [], "predicate": ["3&&không", "4&&giống", "5&&như"], "label": "DIF"}
+
+Theo đó, SoC trên Galaxy S23 series là độc quyền của Samsung nó được gọi là nền tảng di động Snapdragon 8 Gen 2 với lõi chính ARM-Cortex X3 được ép xung chạy ở tốc độ 3,36 GHz.	Theo đó , SoC trên Galaxy S23 series là độc quyền của Samsung nó được gọi là nền tảng di động Snapdragon 8 Gen 2 với lõi chính ARM-Cortex X3 được ép xung chạy ở tốc độ 3,36 GHz .
+
+alt: So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra	alt : So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra
+
+des:	des :
+
+Kết quả thử nghiệm trên Geekbench cho thấy, các thiết bị mang đến điểm chuẩn tương đương nhau.	Kết quả thử nghiệm trên Geekbench cho thấy , các thiết bị mang đến điểm chuẩn tương đương nhau .
+{"subject": ["10&&các", "11&&thiết", "12&&bị"], "object": ["10&&các", "11&&thiết", "12&&bị"], "aspect": ["15&&điểm", "16&&chuẩn"], "predicate": ["17&&tương", "18&&đương", "19&&nhau"], "label": "EQL"}
+
+Tuy nhiên, Galaxy S23 Plus có xu hướng đánh bại Galaxy S23 Ultra một chút ở mức trung bình nhờ thiết bị có màn hình nhỏ và độ phân giải thấp hơn.	Tuy nhiên , Galaxy S23 Plus có xu hướng đánh bại Galaxy S23 Ultra một chút ở mức trung bình nhờ thiết bị có màn hình nhỏ và độ phân giải thấp hơn .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Plus"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": [], "predicate": ["10&&đánh", "11&&bại"], "label": "COM+"}
+{"subject": ["22&&thiết", "23&&bị"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": ["25&&màn", "26&&hình"], "predicate": ["27&&nhỏ", "28&&và", "29&&độ", "30&&phân", "31&&giải", "32&&thấp", "33&&hơn"], "label": "COM-"}
+
+Do đó, hệ thống đồ họa phải đẩy ít pixel hơn trong các bài kiểm tra tiêu chuẩn.	Do đó , hệ thống đồ họa phải đẩy ít pixel hơn trong các bài kiểm tra tiêu chuẩn .
+
+So với chip A16 Bionic của Apple, Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp.	So với chip A16 Bionic của Apple , Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp .
+{"subject": ["9&&Snapdragon", "10&&8", "11&&Gen", "12&&2"], "object": ["3&&chip", "4&&A16", "5&&Bionic"], "aspect": ["14&&hoạt", "15&&động"], "predicate": ["16&&chậm", "17&&hơn", "18&&10", "19&&-", "20&&20%"], "label": "COM-"}
+
+Điều này là do A16 tham giá với toàn bộ tốc độ 3,46 GHz của lõi chính của nó.	Điều này là do A16 tham giá với toàn bộ tốc độ 3,46 GHz của lõi chính của nó .
+
+Nhìn chung, việc trang bị chip xử lý cao cấp sẽ giúp Galaxy S23 Plus và Galaxy S23 Ultra hoạt động mượt mà trong mọi tình huống.	Nhìn chung , việc trang bị chip xử lý cao cấp sẽ giúp Galaxy S23 Plus và Galaxy S23 Ultra hoạt động mượt mà trong mọi tình huống .
+
+Hơn nữa, nó đã chứng minh khả năng chơi game của mình mát hơn và ổn định hơn cả dòng A hùng mạnh của Apple trong dòng iPhone 14 mới nhất.	Hơn nữa , nó đã chứng minh khả năng chơi game của mình mát hơn và ổn định hơn cả dòng A hùng mạnh của Apple trong dòng iPhone 14 mới nhất .
+{"subject": ["4&&nó"], "object": ["21&&dòng", "22&&A", "23&&hùng", "24&&mạnh", "25&&của", "26&&Apple"], "aspect": ["8&&khả", "9&&năng", "10&&chơi", "11&&game"], "predicate": ["14&&mát", "15&&hơn"], "label": "COM+"}
+{"subject": ["4&&nó"], "object": ["21&&dòng", "22&&A", "23&&hùng", "24&&mạnh", "25&&của", "26&&Apple"], "aspect": ["8&&khả", "9&&năng", "10&&chơi", "11&&game"], "predicate": ["17&&ổn", "18&&định", "19&&hơn"], "label": "COM+"}
+
+Về bộ nhớ lưu trữ, Galaxy S23 Plus có bộ nhớ RAM cao nhất là 8GB trong khi phiên bản Ultra là RAM 12GB.	Về bộ nhớ lưu trữ , Galaxy S23 Plus có bộ nhớ RAM cao nhất là 8GB trong khi phiên bản Ultra là RAM 12GB .
+
+Điều này khá ngạc nhiên với mức giá lần lượt là 1000 USD và 1200 USD của chúng.	Điều này khá ngạc nhiên với mức giá lần lượt là 1000 USD và 1200 USD của chúng .
+
+Camera Galaxy S23 Plus và Galaxy S23 Ultra	Camera Galaxy S23 Plus và Galaxy S23 Ultra
+
+Chiến thắng rõ ràng đã thuộc về camera Galaxy S23 Ultra khi máy được trang bị cảm biến ISOCELL HP2 200MP.	Chiến thắng rõ ràng đã thuộc về camera Galaxy S23 Ultra khi máy được trang bị cảm biến ISOCELL HP2 200MP .
+{"subject": ["9&&Galaxy", "10&&S23", "11&&Ultra"], "object": [], "aspect": ["8&&camera"], "predicate": ["1&&Chiến", "2&&thắng"], "label": "COM+"}
+
+Cảm biến này không chỉ có độ phân giải lớn hơn 50MP trên Galaxy S23 Plus mà nó còn được Samsung bổ sung công nghệ ảnh mới và tốt nhất.	Cảm biến này không chỉ có độ phân giải lớn hơn 50MP trên Galaxy S23 Plus mà nó còn được Samsung bổ sung công nghệ ảnh mới và tốt nhất .
+
+Nổi bật nhất là tính năng phát hiện 4 pha lây nét tự động, cải tiến hơn so với Dual PD trên Galxy S23+.	Nổi bật nhất là tính năng phát hiện 4 pha lây nét tự động , cải tiến hơn so với Dual PD trên Galxy S23 + .
+
+alt: Camera Galaxy S23 Plus và Galaxy S23 Ultra	alt : Camera Galaxy S23 Plus và Galaxy S23 Ultra
+
+des:	des :
+
+Ngoài ra, camera Galaxy S23 Ultra còn được trang bị công nghệ tạo pixel tiên tiến có tên Tetra2pixel, giúp thay đổi kích thước pixel dựa vào điều ánh sáng xung quanh.	Ngoài ra , camera Galaxy S23 Ultra còn được trang bị công nghệ tạo pixel tiên tiến có tên Tetra2pixel , giúp thay đổi kích thước pixel dựa vào điều ánh sáng xung quanh .
+
+Đối với điều kiện ánh sáng yếu, cảm biến chụp ảnh 50MP ở 1,2μm (ghép pixel 4:1) hoặc ảnh 12,5MP ở 2,4μm (ghép pixel 16:1).	Đối với điều kiện ánh sáng yếu , cảm biến chụp ảnh 50MP ở 1,2μm ( ghép pixel 4 : 1 ) hoặc ảnh 12,5MP ở 2,4μm ( ghép pixel 16 : 1 ) .
+
+Khả năng chụp ảnh trên camera Galaxy S23 Ultra được đánh giá chi tiết hơn so với các model tiền nhiệm và thậm chí là Galaxy S23 Plus.	Khả năng chụp ảnh trên camera Galaxy S23 Ultra được đánh giá chi tiết hơn so với các model tiền nhiệm và thậm chí là Galaxy S23 Plus .
+{"subject": ["6&&camera", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["18&&các", "19&&model", "20&&tiền", "21&&nhiệm"], "aspect": ["1&&Khả", "2&&năng", "3&&chụp", "4&&ảnh"], "predicate": ["13&&chi", "14&&tiết", "15&&hơn"], "label": "COM+"}
+{"subject": ["6&&camera", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["26&&Galaxy", "27&&S23", "28&&Plus"], "aspect": ["1&&Khả", "2&&năng", "3&&chụp", "4&&ảnh"], "predicate": ["13&&chi", "14&&tiết", "15&&hơn"], "label": "COM+"}
+
+Màu sắc được đánh giá ấm hơn, thu hút hơn so với những mà thuật toán Galaxy S23 Plus thu được từ cảm biến chính 50MP.	Màu sắc được đánh giá ấm hơn , thu hút hơn so với những mà thuật toán Galaxy S23 Plus thu được từ cảm biến chính 50MP .
+{"subject": [], "object": ["18&&Galaxy", "19&&S23", "20&&Plus"], "aspect": ["1&&Màu", "2&&sắc"], "predicate": ["6&&ấm", "7&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["18&&Galaxy", "19&&S23", "20&&Plus"], "aspect": ["1&&Màu", "2&&sắc"], "predicate": ["9&&thu", "10&&hút", "11&&hơn"], "label": "COM+"}
+
+Ngoài ra, thêm lợi thế dành cho biến thể Ultra chính là có khả năng thu phóng 10x nhờ ông kính tiềm vọng.	Ngoài ra , thêm lợi thế dành cho biến thể Ultra chính là có khả năng thu phóng 10x nhờ ông kính tiềm vọng .
+{"subject": ["9&&biến", "10&&thể", "11&&Ultra"], "object": [], "aspect": ["15&&khả", "16&&năng", "17&&thu", "18&&phóng", "19&&10x"], "predicate": ["5&&lợi", "6&&thế"], "label": "COM+"}
+
+Cả hai điện thoại đều quay video với độ mượt và độ nét lên tới 8K@30FPS, nhưng tính năng ổn định toàn trục trên Samsung S23 Ultra được đánh giá cao hơn.	Cả hai điện thoại đều quay video với độ mượt và độ nét lên tới 8K @ 30FPS , nhưng tính năng ổn định toàn trục trên Samsung S23 Ultra được đánh giá cao hơn .
+{"subject": ["28&&Samsung", "29&&S23", "30&&Ultra"], "object": [], "aspect": ["21&&tính", "22&&năng", "23&&ổn", "24&&định", "25&&toàn", "26&&trục"], "predicate": ["31&&được", "32&&đánh", "33&&giá", "34&&cao", "35&&hơn"], "label": "COM+"}
+
+Thời lượng pin và tốc độ sạc	Thời lượng pin và tốc độ sạc
+
+So với Galaxy S22+, điện thoại Galaxy S23 Plus được nâng cấp dung lượng pin lên 4.700mAh thay vì 4.500mAh.	So với Galaxy S22 + , điện thoại Galaxy S23 Plus được nâng cấp dung lượng pin lên 4.700mAh thay vì 4.500mAh .
+{"subject": ["9&&Galaxy", "10&&S23", "11&&Plus"], "object": ["3&&Galaxy", "4&&S22"], "aspect": ["15&&dung", "16&&lượng", "17&&pin"], "predicate": ["12&&được", "13&&nâng", "14&&cấp"], "label": "COM+"}
+
+Trong khi, Samsung S23 Ultra được trang bị viên pin 5.000mAh.	Trong khi , Samsung S23 Ultra được trang bị viên pin 5.000mAh .
+
+Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W.	Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&sạc", "10&&nhanh", "11&&có", "12&&dây", "13&&45W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["15&&sạc", "16&&không", "17&&dây", "18&&15W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
+
+Việc trang bị chip Snapdragon 8 Gen 2 tốc độ 3,36 GHz, sẽ tiết kiệm điện năng hơn cho hai sản phẩm.	Việc trang bị chip Snapdragon 8 Gen 2 tốc độ 3,36 GHz , sẽ tiết kiệm điện năng hơn cho hai sản phẩm .
+
+alt: So với Galaxy S22+, điện thoại Galaxy S23 Plus được nâng cấp dung lượng pin lên 4.700mAh	alt : So với Galaxy S22 + , điện thoại Galaxy S23 Plus được nâng cấp dung lượng pin lên 4.700mAh
+
+des:	des :
+
+Sự khác biệt nhỏ về dung lượng sẽ bù đắp cho bất kỳ lợi thế nào về mức tiêu thụ năng lượng mà Galaxy S23+ có thể có do màn hình nhỏ hơn với độ phân giải thấp hơn.	Sự khác biệt nhỏ về dung lượng sẽ bù đắp cho bất kỳ lợi thế nào về mức tiêu thụ năng lượng mà Galaxy S23 + có thể có do màn hình nhỏ hơn với độ phân giải thấp hơn .
+{"subject": ["24&&Galaxy", "25&&S23", "26&&+"], "object": [], "aspect": ["31&&màn", "32&&hình"], "predicate": ["33&&nhỏ", "34&&hơn"], "label": "COM-"}
+{"subject": ["24&&Galaxy", "25&&S23", "26&&+"], "object": [], "aspect": ["36&&độ", "37&&phân", "38&&giải"], "predicate": ["39&&thấp", "40&&hơn"], "label": "COM-"}
+
+Ngoài ra, Galaxy S23 Ultra thực sự có thời lượng pin tốt hơn so với S23+ nhờ công nghệ màn hình LTPO tiết kiệm hơn và dải tốc độ làm mới động rộng hơn.	Ngoài ra , Galaxy S23 Ultra thực sự có thời lượng pin tốt hơn so với S23 + nhờ công nghệ màn hình LTPO tiết kiệm hơn và dải tốc độ làm mới động rộng hơn .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["17&&S23", "18&&+"], "aspect": ["10&&thời", "11&&lượng", "12&&pin"], "predicate": ["13&&tốt", "14&&hơn"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["17&&S23", "18&&+"], "aspect": ["20&&công", "21&&nghệ", "22&&màn", "23&&hình", "24&&LTPO"], "predicate": ["25&&tiết", "26&&kiệm", "27&&hơn"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["17&&S23", "18&&+"], "aspect": ["29&&dải", "30&&tốc", "31&&độ", "32&&làm", "33&&mới", "34&&động"], "predicate": ["35&&rộng", "36&&hơn"], "label": "COM+"}
+
+Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​so với thế hệ tiền nhiệm.	Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​ so với thế hệ tiền nhiệm .
+{"subject": ["12&&S23", "13&&Ultra"], "object": ["21&&hệ", "22&&tiền", "23&&nhiệm"], "aspect": ["8&&thời", "9&&lượng", "10&&pin"], "predicate": ["15&&tăng", "16&&20%"], "label": "COM+"}
+
+Tạm kết	Tạm kết
+
+Nhìn chung, Samsung thực sự đã thu hẹp khoảng cách về thông số kỹ thuật của Galaxy S23+ với S23 Ultra so với sự khác biệt giữa những người tiền nhiệm của chúng.	Nhìn chung , Samsung thực sự đã thu hẹp khoảng cách về thông số kỹ thuật của Galaxy S23 + với S23 Ultra so với sự khác biệt giữa những người tiền nhiệm của chúng .
+
+Bởi nó đã tăng gấp đôi dung lượng lưu trữ cơ bản của S23+.	Bởi nó đã tăng gấp đôi dung lượng lưu trữ cơ bản của S23 + .
+
+Tuy nhiên, Galaxy S23 Ultra mang lại nhiều lợi ích hơn.	Tuy nhiên , Galaxy S23 Ultra mang lại nhiều lợi ích hơn .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": ["10&&lợi", "11&&ích"], "predicate": ["9&&nhiều", "10&&lợi", "11&&ích", "12&&hơn"], "label": "COM+"}
+
+Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất.	Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["7&&khả", "8&&năng", "9&&thu", "10&&phóng"], "predicate": ["11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trên", "15&&điện", "16&&thoại", "17&&hiện", "18&&đại"], "label": "SUP+"}
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["22&&cảm", "23&&biến", "24&&200MP"], "predicate": ["25&&tiên", "26&&tiến", "27&&nhất"], "label": "SUP+"}
+
+Điều này bỏ xa mọi Android hoặc iPhone, bao gồm cả Galaxy S23+.	Điều này bỏ xa mọi Android hoặc iPhone , bao gồm cả Galaxy S23 + .
+{"subject": [], "object": [], "aspect": [], "predicate": ["3&&bỏ", "4&&xa", "5&&mọi", "6&&Android", "7&&hoặc", "8&&iPhone", "9&&,", "10&&bao", "11&&gồm", "12&&cả", "13&&Galaxy", "14&&S23", "15&&+"], "label": "COM+"}
+
+Tính linh hoạt cao nhất của nhiếp ảnh được tăng cường nhờ phương thức nhập liệu bổ sung nhờ S Pen tích hợp, trong khi màn hình LTPO OLED sáng hơn có tốc độ làm mới động linh hoạt hơn nhiều.	Tính linh hoạt cao nhất của nhiếp ảnh được tăng cường nhờ phương thức nhập liệu bổ sung nhờ S Pen tích hợp , trong khi màn hình LTPO OLED sáng hơn có tốc độ làm mới động linh hoạt hơn nhiều .
+{"subject": ["27&&màn", "28&&hình", "29&&LTPO", "30&&OLED"], "object": [], "aspect": [], "predicate": ["31&&sáng", "32&&hơn"], "label": "COM+"}
+{"subject": ["27&&màn", "28&&hình", "29&&LTPO", "30&&OLED"], "object": [], "aspect": ["34&&tốc", "35&&độ", "36&&làm", "37&&mới", "38&&động"], "predicate": ["39&&linh", "40&&hoạt", "41&&hơn", "42&&nhiều"], "label": "COM+"}
+
+Xem thêm:	Xem thêm :
+
+XTmobile.vn	XTmobile.vn
+
+Gửi	Gửi
+

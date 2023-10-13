@@ -1,0 +1,141 @@
+title: So sánh Galaxy Note 20 Ultra vs Galaxy Note 10+: Nâng cấp liệu có đáng?	title : So sánh Galaxy Note 20 Ultra vs Galaxy Note 10 + : Nâng cấp liệu có đáng ?
+
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua.	Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .
+
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò.	Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&đây"], "object": [], "aspect": [], "predicate": ["11&&mạnh", "12&&nhất", "13&&trên", "14&&thị", "15&&trường", "16&&smartphone", "17&&hiện", "18&&nay"], "label": "SUP+"}
+
+Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua.	Galaxy Note 20 Ultra mẫu flagship cao cấp vừa mới được Samsung ra mắt vào ngày 5 tháng 8 vừa qua .
+
+Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò.	Có thể đánh giá đây là một trong những model mạnh nhất trên thị trường smartphone hiện nay khi sở hữu nhiều nâng cấp xịn sò .
+{"subject": ["5&&đây"], "object": [], "aspect": [], "predicate": ["11&&mạnh", "12&&nhất", "13&&trên", "14&&thị", "15&&trường", "16&&smartphone", "17&&hiện", "18&&nay"], "label": "SUP+"}
+
+Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn	Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn
+{"subject": ["1&&Thiết", "2&&kế", "3&&Galaxy", "4&&Note", "5&&20", "6&&Ultra"], "object": [], "aspect": [], "predicate": ["7&&sang", "8&&trọng", "9&&và", "10&&vuông", "11&&vắn", "12&&hơn"], "label": "COM+"}
+
+Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10+ đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau.	Mặc dù cả Galaxy Note 20 Ultra và Galaxy Note 10 + đều được hoàn thiện từ khung kim loại cao cấp với 2 mặt kính cường lực bóng bẩy ở trước và sau .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"], "object": ["9&&Galaxy", "10&&Note", "11&&10", "12&&+"], "aspect": ["18&&khung", "19&&kim", "20&&loại", "21&&cao", "22&&cấp", "23&&với", "24&&2", "25&&mặt", "26&&kính", "27&&cường", "28&&lực", "29&&bóng", "30&&bẩy", "31&&ở", "32&&trước", "33&&và", "34&&sau"], "predicate": ["13&&đều", "14&&được", "15&&hoàn", "16&&thiện", "17&&từ"], "label": "EQL"}
+
+Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung.	Mặt trước mẫu Galaxy Note mới năm nay vẫn đi cùng màn hình cong cùng nốt ruồi đặc trưng của Samsung .
+
+alt: Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn	alt : Thiết kế Galaxy Note 20 Ultra sang trọng và vuông vắn hơn
+
+des:	des :
+
+Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau.	Dường như điểm khác biệt lớn nhất về thiết kế của bộ đôi này chính là cụm camera ở mặt sau .
+{"subject": ["9&&thiết", "10&&kế", "11&&của", "12&&bộ", "13&&đôi", "14&&này"], "object": ["9&&thiết", "10&&kế", "11&&của", "12&&bộ", "13&&đôi", "14&&này"], "aspect": ["17&&cụm", "18&&camera", "19&&ở", "20&&mặt", "21&&sau"], "predicate": ["3&&điểm", "4&&khác", "5&&biệt", "6&&lớn", "7&&nhất"], "label": "DIF"}
+
+Theo đó, Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay.	Theo đó , Galaxy Note 20 Ultra đi cùng với module hình chữ nhật đúng như xu hướng hiện nay .
+
+Trong khi đó, bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường.	Trong khi đó , bản tiền nhiệm lại sở hữu cụm camera 3 ống kính sắp dọc thông thường .
+
+Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng, mạnh mẽ và hợp xu hướng hơn.	Chính cải tiến này đã giúp Galaxy Note 20 Ultra trở nên sang trọng , mạnh mẽ và hợp xu hướng hơn .
+{"subject": ["7&&Galaxy", "8&&Note", "9&&20", "10&&Ultra"], "object": [], "aspect": [], "predicate": ["13&&sang", "14&&trọng", "15&&,", "16&&mạnh", "17&&mẽ", "18&&và", "19&&hợp", "20&&xu", "21&&hướng", "22&&hơn"], "label": "COM+"}
+
+Bên cạnh đó, mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ.	Bên cạnh đó , mẫu Galaxy Note mới còn đem tới cho người dùng tùy chọn màu sắc khá đẹp mắt và mới lạ .
+
+Một trong số đó chính là màu đồng huyền bí.	Một trong số đó chính là màu đồng huyền bí .
+
+Nhìn chung, thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10+.	Nhìn chung , thiết kế Galaxy Note 20 Ultra không có quá nhiều khác biệt so với Note 10 + .
+{"subject": ["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"], "object": ["18&&Note", "19&&10", "20&&+"], "aspect": ["4&&thiết", "5&&kế"], "predicate": ["10&&không", "11&&có", "12&&quá", "13&&nhiều", "14&&khác", "15&&biệt"], "label": "EQL"}
+
+Được Samsung chăm chút đến từng chi tiết, kích thước và trọng lượng của máy được cải thiện rõ rệt.	Được Samsung chăm chút đến từng chi tiết , kích thước và trọng lượng của máy được cải thiện rõ rệt .
+
+Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại.	Đây sẽ là lựa chọn tuyệt vời cho những ai thích ghi chép trên điện thoại .
+
+Màn hình Galaxy Note 20 Ultra vượt trội hơn hẳn	Màn hình Galaxy Note 20 Ultra vượt trội hơn hẳn
+{"subject": ["3&&Galaxy", "4&&Note", "5&&20", "6&&Ultra"], "object": [], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["7&&vượt", "8&&trội", "9&&hơn", "10&&hẳn"], "label": "COM+"}
+
+Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch, độ phân giải 2K+.	Là mẫu flagship cao cấp nhất của hãng nên Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K + .
+{"subject": ["10&&Galaxy", "11&&Note", "12&&20", "13&&Ultra"], "object": [], "aspect": [], "predicate": ["4&&cao", "5&&cấp", "6&&nhất", "7&&của", "8&&hãng"], "label": "COM+"}
+
+Chưa hết, màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2x, cho độ sáng cao hơn tới 25%.	Chưa hết , màn hình máy còn tích hợp công nghệ Dynamic AMOLED 2x , cho độ sáng cao hơn tới 25% .
+{"subject": ["4&&màn", "5&&hình", "6&&máy"], "object": [], "aspect": ["17&&độ", "18&&sáng"], "predicate": ["19&&cao", "20&&hơn"], "label": "COM+"}
+
+Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120Hz.	Một điểm nâng cấp phải kể đến nữa chính là màn hình Galaxy Note 20 Ultra còn có tần số quét màn hình lên đến 120Hz .
+
+alt: Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch, độ phân giải 2K+	alt : Galaxy Note 20 Ultra được ưu ái trang bị màn hình 6,9 inch , độ phân giải 2K +
+
+des:	des :
+
+Tuy nhiên, là fagship cũ nhưng Galaxy Note 10+ cũng không thể coi thường.	Tuy nhiên , là fagship cũ nhưng Galaxy Note 10 + cũng không thể coi thường .
+
+Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra.	Nhìn mặt trước máy không có gì khác biệt so với Note 20 Ultra .
+{"subject": ["4&&máy"], "object": ["12&&Note", "13&&20", "14&&Ultra"], "aspect": ["2&&mặt", "3&&trước"], "predicate": ["5&&không", "6&&có", "7&&gì", "8&&khác", "9&&biệt"], "label": "EQL"}
+
+Máy ở hữu màn hình Dynamic AMOLED 6,8 inch, QHD+, hỗ trợ HDR10+, tần số quét 60Hz.	Máy ở hữu màn hình Dynamic AMOLED 6,8 inch , QHD + , hỗ trợ HDR10 + , tần số quét 60Hz .
+
+Có thể thấy, với thông số này màn hình Galaxy Note 10+ vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay.	Có thể thấy , với thông số này màn hình Galaxy Note 10 + vẫn đem đến cho người dùng những trải nghiệm tuyệt vời nhất xứng danh flagship hàng đầu trên thị trường hiện nay .
+
+Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ	Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ
+
+Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera.	Dường như điểm khác biệt có thể dễ dàng nhận thấy nhất của bộ đôi này chính là cụm camera .
+{"subject": ["14&&bộ", "15&&đôi", "16&&này"], "object": ["14&&bộ", "15&&đôi", "16&&này"], "aspect": ["19&&cụm", "20&&camera"], "predicate": ["4&&khác", "5&&biệt"], "label": "DIF"}
+
+Theo đó, Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo.	Theo đó , Galaxy Note 20 Ultra đi cùng cụm camera đúng như xu hướng hiện nay là các ống kính được đặt trong ô hình chữ nhật độc đáo .
+
+alt: Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ	alt : Camera Galaxy Note 20 Ultra được nâng cấp mạnh mẽ
+
+des:	des :
+
+Trong đó, camera chính của máy có độ phân giải lên đến 108MP.	Trong đó , camera chính của máy có độ phân giải lên đến 108MP .
+
+Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50x.	Đi cùng với đó là một camera góc siêu rộng 12 MP và góc nhìn lên tới 120 độ với khả năng zoom lên đến 50x .
+
+Ngoài ra, Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn.	Ngoài ra , Samsung còn trang bị thêm một cảm biến laser cho máy để lấy nét nhanh hơn .
+{"subject": ["14&&máy"], "object": [], "aspect": ["16&&lấy", "17&&nét"], "predicate": ["18&&nhanh", "19&&hơn"], "label": "COM+"}
+
+Trong khi đó, Galaxy Note 10+ chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP.	Trong khi đó , Galaxy Note 10 + chỉ sở hữu camera chính 12MP cùng 2 camera phụ có độ phân giải lần lượt là 12MP và 16MP .
+
+Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10x.	Đáng tiếc là cụm camera của máy chỉ có độ phân giải 10x .
+
+Tuy nhiên, máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay video ấn tượng cho người dùng.	Tuy nhiên , máy vẫn đem tới những trải nghiệm nhiếp ảnh và quay video ấn tượng cho người dùng .
+
+Cấu hình không quá chênh lệch	Cấu hình không quá chênh lệch
+
+Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu.	Là mẫu flagship cao cấp của hãng ở thời điểm này nên việc Galaxy Note 20 Ultra đi cùng chipset mạnh mẽ nhất là điều dễ hiểu .
+{"subject": ["14&&Galaxy", "15&&Note", "16&&20", "17&&Ultra"], "object": [], "aspect": ["20&&chipset"], "predicate": ["21&&mạnh", "22&&mẽ", "23&&nhất"], "label": "SUP+"}
+
+Theo đó, máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865+ tùy thị trường.	Theo đó , máy được trang bị 2 chip xử lý gồm Exynos 990 và Snapdragon 865 + tùy thị trường .
+
+Đi cùng với đó là các tùy chọn RAM 8GB/ 12GB cùng bộ nhớ trong là 128GB/ 256GB/ 512GB.	Đi cùng với đó là các tùy chọn RAM 8GB / 12GB cùng bộ nhớ trong là 128GB / 256GB / 512GB .
+
+alt: Bảng so sành Galaxy Note 20 Ultra vs Galaxy Note 10+	alt : Bảng so sành Galaxy Note 20 Ultra vs Galaxy Note 10 +
+
+des:	des :
+
+Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W.	Cung cấp năng lượng cho máy là viên pin có dung lượng 4500 mAh có hỗ trợ sạc nhanh lên đến 25W .
+
+Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay.	Với những thông số này Galaxy Note 20 Ultra hứa hẹn đem tới hiệu năng khủng nhất nhì trên thị trường hiện nay .
+{"subject": ["6&&Galaxy", "7&&Note", "8&&20", "9&&Ultra"], "object": [], "aspect": ["14&&hiệu", "15&&năng"], "predicate": ["16&&khủng", "17&&nhất", "18&&nhì", "19&&trên", "20&&thị", "21&&trường", "22&&hiện", "23&&nay"], "label": "SUP+"}
+
+Do đó, máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng.	Do đó , máy có thể xử lý tốt mọi tác vụ do người dùng đặt ra một cách dễ dàng .
+
+Trong khi đó, Galaxy Note 10+ có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855.	Trong khi đó , Galaxy Note 10 + có phần kém cạnh hơn một chút khi chỉ sở hữu chip Exynos 9825 và Snapdragon 855 .
+
+Trong khi đó,máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB/ 12GB RAM cùng bộ nhớ trong 128GB/ 256GB/ 512GB.	Trong khi đó , máy lại có cùng tùy chọn bộ nhớ tương tự như người kế nhiệm là 8GB / 12GB RAM cùng bộ nhớ trong 128GB / 256GB / 512GB .
+{"subject": ["5&&máy"], "object": ["16&&người", "17&&kế", "18&&nhiệm"], "aspect": ["9&&tùy", "10&&chọn", "11&&bộ", "12&&nhớ"], "predicate": ["13&&tương", "14&&tự"], "label": "EQL"}
+
+Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh.	Đáng tiếc là viên pin của máy cũng có phần kém cạnh hơn một chút khi chỉ có dung lượng 4300 mAh .
+{"subject": ["7&&máy"], "object": [], "aspect": ["4&&viên", "5&&pin"], "predicate": ["11&&kém", "12&&cạnh", "13&&hơn", "14&&một", "15&&chút"], "label": "COM-"}
+
+alt: Galaxy Note 10+ vẫn đáp ứng tốt nhu cầu sử dụng của người dùng	alt : Galaxy Note 10 + vẫn đáp ứng tốt nhu cầu sử dụng của người dùng
+
+des:	des :
+
+Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10+ là một đối thử đáng gờm trên thị trường smartphone hiện nay.	Mặc dù không sở hữu thông số cấu hình mạnh mẽ nhất nhưng có thể đánh giá Galaxy Note 10 + là một đối thử đáng gờm trên thị trường smartphone hiện nay .
+
+Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng, nên việc nâng cấp từ Galaxy Note 10+ lên Note 20 Ultra cần cân nhắc kỹ.	Máy vẫn đáp ứng rất tốt nhu cầu sử dụng của người dùng , nên việc nâng cấp từ Galaxy Note 10 + lên Note 20 Ultra cần cân nhắc kỹ .
+
+Tổng kết	Tổng kết
+
+Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế, màn hình, camera lẫn hiệu năng.	Có thể thấy Galaxy Note 20 Ultra mang nhiều cải tiến vượt trội từ thiết kế , màn hình , camera lẫn hiệu năng .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"], "object": [], "aspect": ["15&&thiết", "16&&kế"], "predicate": ["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"], "object": [], "aspect": ["18&&màn", "19&&hình"], "predicate": ["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"], "object": [], "aspect": ["21&&camera"], "predicate": ["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&Note", "6&&20", "7&&Ultra"], "object": [], "aspect": ["23&&hiệu", "24&&năng"], "predicate": ["10&&cải", "11&&tiến", "12&&vượt", "13&&trội"], "label": "COM+"}
+
+Tuy nhiên, Galaxy Note 10+ cũng được đánh giá cao ở thời điểm này.	Tuy nhiên , Galaxy Note 10 + cũng được đánh giá cao ở thời điểm này .
+
+Do đó, tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý.	Do đó , tùy vào sở thích và nhu cầu cũng như là túi tiền của mình mà bạn có thể chọn cho mình mẫu điện thoại hợp lý .
+
