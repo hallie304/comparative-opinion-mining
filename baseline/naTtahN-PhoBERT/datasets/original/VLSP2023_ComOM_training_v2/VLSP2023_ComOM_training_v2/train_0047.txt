@@ -1,0 +1,119 @@
+title: Không phải Z Fold3, Galaxy S22 Ultra là smartphone tốt nhất của Samsung?	title : Không phải Z Fold3 , Galaxy S22 Ultra là smartphone tốt nhất của Samsung ?
+
+Xét theo mức giá bán, Samsung Galaxy Z Fold3 là sản phẩm cao cấp nhất của Samsung.	Xét theo mức giá bán , Samsung Galaxy Z Fold3 là sản phẩm cao cấp nhất của Samsung .
+{"subject": ["7&&Samsung", "8&&Galaxy", "9&&Z", "10&&Fold3"], "object": [], "aspect": ["3&&mức", "4&&giá", "5&&bán"], "predicate": ["14&&cao", "15&&cấp", "16&&nhất", "17&&của", "18&&Samsung"], "label": "SUP+"}
+
+Tuy nhiên, sau một thời gian trải nghiệm, Samsung Galaxy S22 Ultra đang được nhiều người coi là dòng máy tốt nhất của gã khổng lồ xứ Kim Chi, hoặc ít nhất là ngang hàng với các dòng máy gập đã ra mắt.	Tuy nhiên , sau một thời gian trải nghiệm , Samsung Galaxy S22 Ultra đang được nhiều người coi là dòng máy tốt nhất của gã khổng lồ xứ Kim Chi , hoặc ít nhất là ngang hàng với các dòng máy gập đã ra mắt .
+{"subject": ["11&&Samsung", "12&&Galaxy", "13&&S22", "14&&Ultra"], "object": [], "aspect": [], "predicate": ["23&&tốt", "24&&nhất", "25&&của", "26&&gã", "27&&khổng", "28&&lồ", "29&&xứ", "30&&Kim", "31&&Chi"], "label": "SUP+"}
+{"subject": ["11&&Samsung", "12&&Galaxy", "13&&S22", "14&&Ultra"], "object": ["40&&các", "41&&dòng", "42&&máy", "43&&gập", "44&&đã", "45&&ra", "46&&mắt"], "aspect": [], "predicate": ["37&&ngang", "38&&hàng"], "label": "EQL"}
+
+Tại sao lại có luồng ý kiến này?	Tại sao lại có luồng ý kiến này ?
+
+Hi vọng bài viết sau đây của Hoàng Hà Mobile sẽ giúp khách hàng giải đáp được thắc mắc trên!	Hi vọng bài viết sau đây của Hoàng Hà Mobile sẽ giúp khách hàng giải đáp được thắc mắc trên !
+
+Đều dùng được S-Pen, nhưng…	Đều dùng được S-Pen , nhưng …
+
+Một chiếc máy màn hình lớn như Galaxy Z Fold3, nếu không sử dụng được bút thì rõ ràng là thiếu sót.	Một chiếc máy màn hình lớn như Galaxy Z Fold3 , nếu không sử dụng được bút thì rõ ràng là thiếu sót .
+
+Thật may là điều đó không xảy ra.	Thật may là điều đó không xảy ra .
+
+Về cơ bản thì chiếc S-Pen trên Galaxy Z Fold3 5G sẽ to hơn hầu hết các chiếc bút chúng ta từng thấy trên Galaxy Note.	Về cơ bản thì chiếc S-Pen trên Galaxy Z Fold3 5G sẽ to hơn hầu hết các chiếc bút chúng ta từng thấy trên Galaxy Note .
+{"subject": ["5&&chiếc", "6&&S-Pen", "7&&trên", "8&&Galaxy", "9&&Z", "10&&Fold3", "11&&5G"], "object": ["15&&hầu", "16&&hết", "17&&các", "18&&chiếc", "19&&bút", "20&&chúng", "21&&ta", "22&&từng", "23&&thấy", "24&&trên", "25&&Galaxy", "26&&Note"], "aspect": [], "predicate": ["13&&to", "14&&hơn"], "label": "COM"}
+
+Cảm giác vẽ, viết trên dòng máy gập này cũng rất ấn tượng.	Cảm giác vẽ , viết trên dòng máy gập này cũng rất ấn tượng .
+
+Có lẽ cây bút khá lớn, Samsung quyết định không trang bị khe cắm bút cho máy, tránh làm tăng khối lượng.	Có lẽ cây bút khá lớn , Samsung quyết định không trang bị khe cắm bút cho máy , tránh làm tăng khối lượng .
+
+Vậy là để sử dụng S-Pen tiện lợi nhất, khách hàng phải mua thêm một chiếc ốp lưng có khe đựng bút.	Vậy là để sử dụng S-Pen tiện lợi nhất , khách hàng phải mua thêm một chiếc ốp lưng có khe đựng bút .
+
+Với Galaxy S22 Ultra, rắc rối nhỏ này sẽ không bao giờ xuất hiện.	Với Galaxy S22 Ultra , rắc rối nhỏ này sẽ không bao giờ xuất hiện .
+
+alt: Galaxy Z Fold3 không trang bị khe cắm bút mà chỉ có thể mua ốp chuyên dụng	alt : Galaxy Z Fold3 không trang bị khe cắm bút mà chỉ có thể mua ốp chuyên dụng
+
+des: Galaxy Z Fold3 không trang bị khe cắm bút mà chỉ có thể mua ốp chuyên dụng	des : Galaxy Z Fold3 không trang bị khe cắm bút mà chỉ có thể mua ốp chuyên dụng
+
+Thực sự thì Galaxy S22 Ultra mang hơi hướng của dòng Note hơn là dòng S, nên nó kế thừa dòng Note một cách hoàn hảo.	Thực sự thì Galaxy S22 Ultra mang hơi hướng của dòng Note hơn là dòng S , nên nó kế thừa dòng Note một cách hoàn hảo .
+
+Bút cảm ứng nhẹ và linh hoạt – được ẩn bên trong một khe cắm riêng biệt.	Bút cảm ứng nhẹ và linh hoạt – được ẩn bên trong một khe cắm riêng biệt .
+
+Bạn chỉ cần bật nó ra khỏi điện thoại và ghi ngay các ghi chú ngay trên màn hình của máy.	Bạn chỉ cần bật nó ra khỏi điện thoại và ghi ngay các ghi chú ngay trên màn hình của máy .
+
+Đó là chưa kể S-Pen đi kèm với Galaxy S22 Ultra cũng nhanh hơn các đời trước, với tốc độ cải thiện 70% và độ trễ ít hơn.	Đó là chưa kể S-Pen đi kèm với Galaxy S22 Ultra cũng nhanh hơn các đời trước , với tốc độ cải thiện 70% và độ trễ ít hơn .
+{"subject": ["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": ["15&&các", "16&&đời", "17&&trước"], "aspect": [], "predicate": ["13&&nhanh", "14&&hơn"], "label": "COM+"}
+{"subject": ["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": ["15&&các", "16&&đời", "17&&trước"], "aspect": ["26&&độ", "27&&trễ"], "predicate": ["28&&ít", "29&&hơn"], "label": "COM+"}
+{"subject": ["5&&S-Pen", "6&&đi", "7&&kèm", "8&&với", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": ["15&&các", "16&&đời", "17&&trước"], "aspect": ["20&&tốc", "21&&độ"], "predicate": ["22&&cải", "23&&thiện", "24&&70%"], "label": "COM+"}
+
+Đưa vào các tính năng chuyển đổi chữ viết tay thành văn bản, bút stylus chính xác hơn được tích hợp vào Microsoft Outlook – đây là một bổ sung đáng hoan nghênh cho mẫu Ultra của Galaxy S.	Đưa vào các tính năng chuyển đổi chữ viết tay thành văn bản , bút stylus chính xác hơn được tích hợp vào Microsoft Outlook – đây là một bổ sung đáng hoan nghênh cho mẫu Ultra của Galaxy S .
+
+alt: Galaxy S22 Ultra có khe cắm S-pen sẵn trong máy	alt : Galaxy S22 Ultra có khe cắm S-pen sẵn trong máy
+
+des: Galaxy S22 Ultra có khe cắm S-pen sẵn trong máy	des : Galaxy S22 Ultra có khe cắm S-pen sẵn trong máy
+
+Hiệu năng số 1 thế giới Android!	Hiệu năng số 1 thế giới Android !
+{"subject": [], "object": [], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": ["3&&số", "4&&1", "5&&thế", "6&&giới", "7&&Android"], "label": "SUP+"}
+
+Đây cũng là một ưu điểm rõ ràng của Galaxy S22 Ultra trong việc “sinh sau đẻ muộn”.	Đây cũng là một ưu điểm rõ ràng của Galaxy S22 Ultra trong việc “ sinh sau đẻ muộn ” .
+
+Với việc ra đời trong năm 2022, Galaxy S22 series phiên bản chính hãng Việt Nam lại được bán ra với con chip Snapdragon 8 Gen 1, điều mà phần lớn khách hàng đã không ngờ tới.	Với việc ra đời trong năm 2022 , Galaxy S22 series phiên bản chính hãng Việt Nam lại được bán ra với con chip Snapdragon 8 Gen 1 , điều mà phần lớn khách hàng đã không ngờ tới .
+
+Nếu là Exynos thì khách hàng sẽ có nhiều điều đắn đo, nhưng Snapdragon thì là một sự so sánh quá dễ dàng!	Nếu là Exynos thì khách hàng sẽ có nhiều điều đắn đo , nhưng Snapdragon thì là một sự so sánh quá dễ dàng !
+
+alt: Galaxy S22 Ultra có hiệu năng cực mạnh mẽ đứng TOP đầu thế giới	alt : Galaxy S22 Ultra có hiệu năng cực mạnh mẽ đứng TOP đầu thế giới
+
+des: Galaxy S22 Ultra có hiệu năng cực mạnh mẽ đứng TOP đầu thế giới	des : Galaxy S22 Ultra có hiệu năng cực mạnh mẽ đứng TOP đầu thế giới
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": [], "aspect": ["7&&hiệu", "8&&năng"], "predicate": ["12&&đứng", "13&&TOP", "14&&đầu", "15&&thế", "16&&giới"], "label": "SUP+"}
+
+Galaxy Z Fold3 được trang bị con chip mạnh nhất 2021 của Qualcomm – Snapdragon 888.	Galaxy Z Fold3 được trang bị con chip mạnh nhất 2021 của Qualcomm – Snapdragon 888 .
+{"subject": ["15&&Snapdragon", "16&&888"], "object": [], "aspect": [], "predicate": ["9&&mạnh", "10&&nhất", "11&&2021"], "label": "SUP+"}
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": ["7&&con", "8&&chip"], "predicate": ["9&&mạnh", "10&&nhất", "11&&2021"], "label": "SUP+"}
+
+Hiệu năng của Galaxy Z Fold3 rất tốt.	Hiệu năng của Galaxy Z Fold3 rất tốt .
+
+Máy có thể xử lí những tác vụ hằng ngày mà không gặp bất kì vấn đề gì về tốc độ.	Máy có thể xử lí những tác vụ hằng ngày mà không gặp bất kì vấn đề gì về tốc độ .
+
+Dung lượng RAM lớn cho phép máy chạy nhiều ứng dụng cùng lúc.	Dung lượng RAM lớn cho phép máy chạy nhiều ứng dụng cùng lúc .
+
+Các tác vụ đa nhiệm đều được xử lí trơn tru.	Các tác vụ đa nhiệm đều được xử lí trơn tru .
+
+Những trò chơi đòi hỏi cấu hình cao đều chạy rất ổn trên Galaxy Z Fold3.	Những trò chơi đòi hỏi cấu hình cao đều chạy rất ổn trên Galaxy Z Fold3 .
+
+Tuy chênh lệch không nhiều, nhưng rõ ràng việc Galaxy S22 Ultra nổi bật hơn về thông số là điều khó có thể phủ nhận!	Tuy chênh lệch không nhiều , nhưng rõ ràng việc Galaxy S22 Ultra nổi bật hơn về thông số là điều khó có thể phủ nhận !
+{"subject": ["11&&Galaxy", "12&&S22", "13&&Ultra"], "object": [], "aspect": ["18&&thông", "19&&số"], "predicate": ["14&&nổi", "15&&bật", "16&&hơn"], "label": "COM+"}
+
+Đó là chưa kể những chỉ số được nâng cấp khác như Camera chính tới 108MP, màn hình độ sáng khủng 1.750 nits, sự trở lại của sạc nhanh 45W,…	Đó là chưa kể những chỉ số được nâng cấp khác như Camera chính tới 108MP , màn hình độ sáng khủng 1.750 nits , sự trở lại của sạc nhanh 45W , …
+
+Và cuối cùng là mức giá	Và cuối cùng là mức giá
+
+Như đã đề cập ở ngay đầu bài viết, đây chính là lợi thế của Galaxy S22 Ultra.	Như đã đề cập ở ngay đầu bài viết , đây chính là lợi thế của Galaxy S22 Ultra .
+{"subject": ["17&&Galaxy", "18&&S22", "19&&Ultra"], "object": [], "aspect": [], "predicate": ["14&&lợi", "15&&thế"], "label": "COM+"}
+
+Galaxy Z Fold3 hay Z Flip3 đều sử dụng màn hình gập – một linh kiện thuộc loại cao cấp bậc nhất nên mức giá cũng cần tương xứng.	Galaxy Z Fold3 hay Z Flip3 đều sử dụng màn hình gập – một linh kiện thuộc loại cao cấp bậc nhất nên mức giá cũng cần tương xứng .
+
+Ngược lại, thiết kế của dòng máy Galaxy S22 Ultra “truyền thống” hơn, nên mức giá của S22 Ultra rẻ hơn là điều dễ hiểu.	Ngược lại , thiết kế của dòng máy Galaxy S22 Ultra “ truyền thống ” hơn , nên mức giá của S22 Ultra rẻ hơn là điều dễ hiểu .
+{"subject": ["22&&S22", "23&&Ultra"], "object": [], "aspect": ["19&&mức", "20&&giá"], "predicate": ["24&&rẻ", "25&&hơn"], "label": "COM+"}
+{"subject": ["7&&dòng", "8&&máy", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": [], "aspect": ["4&&thiết", "5&&kế"], "predicate": ["12&&“", "13&&truyền", "14&&thống", "15&&”", "16&&hơn"], "label": "COM"}
+
+Xét theo mức giá niêm yết khi ra mắt, Galaxy S22 Ultra có mức giá chỉ khoảng hơn 1/2 so với Galaxy Z Fold3, và bằng 2/3 so với Z Flip3!	Xét theo mức giá niêm yết khi ra mắt , Galaxy S22 Ultra có mức giá chỉ khoảng hơn 1 / 2 so với Galaxy Z Fold3 , và bằng 2 / 3 so với Z Flip3 !
+{"subject": ["11&&Galaxy", "12&&S22", "13&&Ultra"], "object": ["25&&Galaxy", "26&&Z", "27&&Fold3"], "aspect": ["3&&mức", "4&&giá", "5&&niêm", "6&&yết"], "predicate": ["19&&hơn", "20&&1", "21&&/", "22&&2"], "label": "COM-"}
+{"subject": ["11&&Galaxy", "12&&S22", "13&&Ultra"], "object": ["36&&Z", "37&&Flip3"], "aspect": ["3&&mức", "4&&giá", "5&&niêm", "6&&yết"], "predicate": ["30&&bằng", "31&&2", "32&&/", "33&&3"], "label": "COM+"}
+
+alt: Galaxy S22 Ultra có thiết kế gợi nhớ về dòng Note huyền thoại	alt : Galaxy S22 Ultra có thiết kế gợi nhớ về dòng Note huyền thoại
+
+des: Galaxy S22 Ultra có thiết kế gợi nhớ về dòng Note huyền thoại	des : Galaxy S22 Ultra có thiết kế gợi nhớ về dòng Note huyền thoại
+
+Rõ ràng điện thoại gập là một bước tiến lớn, nhưng với việc duy trì dòng Galaxy S series, Samsung cũng thừa hiểu rằng số lượng khách hàng yêu thương dòng máy dạng chữ nhật cổ điển vẫn rất nhiều.	Rõ ràng điện thoại gập là một bước tiến lớn , nhưng với việc duy trì dòng Galaxy S series , Samsung cũng thừa hiểu rằng số lượng khách hàng yêu thương dòng máy dạng chữ nhật cổ điển vẫn rất nhiều .
+
+Những khách hàng này, họ cần một dòng máy mạnh mẽ, thiết kế quen thuộc, đủ đáp ứng mọi nhu cầu, nhưng mức giá vẫn đủ tốt để tiếp cận.	Những khách hàng này , họ cần một dòng máy mạnh mẽ , thiết kế quen thuộc , đủ đáp ứng mọi nhu cầu , nhưng mức giá vẫn đủ tốt để tiếp cận .
+
+Và như thế, Galaxy S22 Ultra đã xuất hiện với sự cân bằng gần như hoàn hảo!	Và như thế , Galaxy S22 Ultra đã xuất hiện với sự cân bằng gần như hoàn hảo !
+
+Tổng kết: Hoàn toàn xứng đáng xếp ngang hàng các đàn anh!	Tổng kết : Hoàn toàn xứng đáng xếp ngang hàng các đàn anh !
+{"subject": [], "object": ["11&&các", "12&&đàn", "13&&anh"], "aspect": [], "predicate": ["8&&xếp", "9&&ngang", "10&&hàng"], "label": "EQL"}
+
+Bạn sẽ khó tìm thấy một thiết bị di động có khả năng hoạt động tốt hơn Samsung Galaxy S22 Ultra.	Bạn sẽ khó tìm thấy một thiết bị di động có khả năng hoạt động tốt hơn Samsung Galaxy S22 Ultra .
+{"subject": ["18&&Samsung", "19&&Galaxy", "20&&S22", "21&&Ultra"], "object": [], "aspect": ["12&&khả", "13&&năng", "14&&hoạt", "15&&động"], "predicate": ["3&&khó", "4&&tìm", "5&&thấy", "6&&một", "7&&thiết", "8&&bị", "9&&di", "10&&động", "11&&có", "12&&khả", "13&&năng", "14&&hoạt", "15&&động", "16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Nếu bạn thích ghi chú bằng tay hoặc bạn là một nghệ sĩ có những ý tưởng tuyệt vời khi di chuyển, S-Pen giờ đây luôn bên bạn và đủ linh hoạt để hỗ trợ chuyển đổi từ chữ viết tay sang văn bản, tạo tác phẩm nghệ thuật.	Nếu bạn thích ghi chú bằng tay hoặc bạn là một nghệ sĩ có những ý tưởng tuyệt vời khi di chuyển , S-Pen giờ đây luôn bên bạn và đủ linh hoạt để hỗ trợ chuyển đổi từ chữ viết tay sang văn bản , tạo tác phẩm nghệ thuật .
+
+Hệ thống camera ở đây rất tuyệt vời và sẽ cho phép bạn chụp những hình ảnh sát với những điều mắt bạn có thể nhìn thấy.	Hệ thống camera ở đây rất tuyệt vời và sẽ cho phép bạn chụp những hình ảnh sát với những điều mắt bạn có thể nhìn thấy .
+

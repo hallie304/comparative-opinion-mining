@@ -1,0 +1,215 @@
+title: Galaxy S20 Ultra so với ROG Phone 2: Quái thú 120Hz nào đáng mua?	title : Galaxy S20 Ultra so với ROG Phone 2 : Quái thú 120Hz nào đáng mua ?
+
+Galaxy S20 Ultra vừa ra mắt với hệ thống camera đỉnh cao, cùng thông số kỹ thuật ấn tượng.	Galaxy S20 Ultra vừa ra mắt với hệ thống camera đỉnh cao , cùng thông số kỹ thuật ấn tượng .
+
+Đây là smartphone duy nhất ngoài Asus ROG Phone 2 được trang bị màn hình 120Hz cực mượt mà.	Đây là smartphone duy nhất ngoài Asus ROG Phone 2 được trang bị màn hình 120Hz cực mượt mà .
+
+Liệu smartphone nào sẽ đáng mua hơn?	Liệu smartphone nào sẽ đáng mua hơn ?
+
+Hãy cùng đọc bài so sánh này nhé!	Hãy cùng đọc bài so sánh này nhé !
+
+Màn hình Galaxy S20 Ultra	Màn hình Galaxy S20 Ultra
+
+Galaxy S20 Ultra cung cấp phần cứng tốt nhất có thể hiện nay.	Galaxy S20 Ultra cung cấp phần cứng tốt nhất có thể hiện nay .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["6&&phần", "7&&cứng"], "predicate": ["8&&tốt", "9&&nhất", "10&&có", "11&&thể", "12&&hiện", "13&&nay"], "label": "SUP+"}
+
+Điện thoại mới mang màn hình AMOLED 120Hz, kết nối mạng 5G với chipset Snapdragon 865 mới nhất của Qualcomm, RAM lên tới 16GB và dung lượng lưu trữ 512GB.	Điện thoại mới mang màn hình AMOLED 120Hz , kết nối mạng 5G với chipset Snapdragon 865 mới nhất của Qualcomm , RAM lên tới 16GB và dung lượng lưu trữ 512GB .
+{"subject": ["1&&Điện", "2&&thoại", "3&&mới"], "object": [], "aspect": ["15&&chipset"], "predicate": ["18&&mới", "19&&nhất", "20&&của", "21&&Qualcomm"], "label": "SUP+"}
+
+Tuy nhiên, bộ phận nổi bật nhất là camera 108MP cải tiến, có khả năng zoom 100x.	Tuy nhiên , bộ phận nổi bật nhất là camera 108MP cải tiến , có khả năng zoom 100x .
+
+Tuy vậy, Galaxy S20 Ultra có giá bán ''khá chát''.	Tuy vậy , Galaxy S20 Ultra có giá bán ' ' khá chát ' ' .
+
+Đây là điều khiến nhiều người dùng chần chừ.	Đây là điều khiến nhiều người dùng chần chừ .
+
+Ưu điểm:	Ưu điểm :
+
+alt: Màn hình Galaxy S20 Ultra với các viền siêu mỏng	alt : Màn hình Galaxy S20 Ultra với các viền siêu mỏng
+
+des:	des :
+
+Màn hình Galaxy S20 Ultra với các viền siêu mỏng	Màn hình Galaxy S20 Ultra với các viền siêu mỏng
+
+Nhược điểm:	Nhược điểm :
+
+Trái lại, Asus ROG Phone 2 cũng mang màn hình 120Hz với mức giá hợp lý hơn.	Trái lại , Asus ROG Phone 2 cũng mang màn hình 120Hz với mức giá hợp lý hơn .
+{"subject": ["4&&Asus", "5&&ROG", "6&&Phone", "7&&2"], "object": [], "aspect": ["14&&mức", "15&&giá"], "predicate": ["16&&hợp", "17&&lý", "18&&hơn"], "label": "COM+"}
+
+ROG Phone 2 được thiết kế dành cho các game thủ.	ROG Phone 2 được thiết kế dành cho các game thủ .
+
+Tuy nhiên, đây là một lựa chọn tuyệt vời để sử dụng hàng ngày.	Tuy nhiên , đây là một lựa chọn tuyệt vời để sử dụng hàng ngày .
+
+Màn hình AMOLED 120Hz mượt mà như màn hình trên S20 Ultra và màn hình phẳng lý tưởng để chơi game.	Màn hình AMOLED 120Hz mượt mà như màn hình trên S20 Ultra và màn hình phẳng lý tưởng để chơi game .
+
+Chipset Snapdragon 855+ mạnh mẽ được kết hợp với hệ thống làm mát bằng chất lỏng ba lớp, thiết kế này giúp giảm nhiệt.	Chipset Snapdragon 855 + mạnh mẽ được kết hợp với hệ thống làm mát bằng chất lỏng ba lớp , thiết kế này giúp giảm nhiệt .
+
+Ngoài ra, bạn còn có được một viên pin khổng lồ 6.000mAh.	Ngoài ra , bạn còn có được một viên pin khổng lồ 6.000mAh .
+
+Màn hình 120Hz và thời lượng pin tuyệt vời, thì không còn gì tuyệt vời hơn nữa.	Màn hình 120Hz và thời lượng pin tuyệt vời , thì không còn gì tuyệt vời hơn nữa .
+
+alt: Viền dày của ROG Phone 2 thích hợp để chơi game	alt : Viền dày của ROG Phone 2 thích hợp để chơi game
+
+des:	des :
+
+Viền dày của ROG Phone 2 thích hợp để chơi game	Viền dày của ROG Phone 2 thích hợp để chơi game
+
+ROG Phone 2	ROG Phone 2
+
+ROG Phone 2	ROG Phone 2
+
+Ưu điểm:	Ưu điểm :
+
+Nhược điểm:	Nhược điểm :
+
+Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội, ROG Phone 2 hiện đang là điện thoại chơi game tốt nhất trên thị trường.	Nhờ sự kết hợp giữa phần cứng xuất sắc và thời lượng pin vượt trội , ROG Phone 2 hiện đang là điện thoại chơi game tốt nhất trên thị trường .
+{"subject": ["17&&ROG", "18&&Phone", "19&&2"], "object": [], "aspect": ["23&&điện", "24&&thoại", "25&&chơi", "26&&game"], "predicate": ["27&&tốt", "28&&nhất", "29&&trên", "30&&thị", "31&&trường"], "label": "SUP+"}
+
+Samsung không định vị S20 Ultra như một chiếc điện thoại chuyên chơi game.	Samsung không định vị S20 Ultra như một chiếc điện thoại chuyên chơi game .
+
+Tuy nhiên, với màn hình 120Hz và phần cứng bên trong mới nhất, chơi game là một nhiệm vụ dễ dàng đối với mẫu flagship mới nhất của Samsung.	Tuy nhiên , với màn hình 120Hz và phần cứng bên trong mới nhất , chơi game là một nhiệm vụ dễ dàng đối với mẫu flagship mới nhất của Samsung .
+{"subject": ["26&&mẫu", "27&&flagship", "28&&mới", "29&&nhất", "30&&của", "31&&Samsung"], "object": [], "aspect": ["9&&phần", "10&&cứng", "11&&bên", "12&&trong"], "predicate": ["13&&mới", "14&&nhất"], "label": "SUP+"}
+
+Chúng ta hãy xem những gì bạn nhận được với cả hai điện thoại và bạn nên chọn cái nào.	Chúng ta hãy xem những gì bạn nhận được với cả hai điện thoại và bạn nên chọn cái nào .
+
+alt: Phần cứng của ROG Phone 2 cũng rất đáng nể	alt : Phần cứng của ROG Phone 2 cũng rất đáng nể
+
+des:	des :
+
+Phần cứng của ROG Phone 2 cũng rất đáng nể	Phần cứng của ROG Phone 2 cũng rất đáng nể
+
+Galaxy S20 Ultra chắc chắn không có điểm gì để chê cười.	Galaxy S20 Ultra chắc chắn không có điểm gì để chê cười .
+
+Các điểm nổi bật bao gồm màn hình AMOLED 120Hz, chipset Snapdragon 865, RAM lên tới 16GB, camera 48MP có khả năng zoom lai 100x và sạc nhanh 45W.	Các điểm nổi bật bao gồm màn hình AMOLED 120Hz , chipset Snapdragon 865 , RAM lên tới 16GB , camera 48MP có khả năng zoom lai 100x và sạc nhanh 45W .
+
+Ngoài ra, điện thoại Samsung còn có camera chính 108 MP, ống kính góc rộng và camera 40MP ở phía trước để chụp ảnh selfie.	Ngoài ra , điện thoại Samsung còn có camera chính 108 MP , ống kính góc rộng và camera 40MP ở phía trước để chụp ảnh selfie .
+
+Trong khả năng chụp ảnh này, Samsung S20 Ultra đã hoàn toàn áp đảo ROG Phone 2.	Trong khả năng chụp ảnh này , Samsung S20 Ultra đã hoàn toàn áp đảo ROG Phone 2 .
+{"subject": ["8&&Samsung", "9&&S20", "10&&Ultra"], "object": ["16&&ROG", "17&&Phone", "18&&2"], "aspect": ["2&&khả", "3&&năng", "4&&chụp", "5&&ảnh"], "predicate": ["12&&hoàn", "13&&toàn", "14&&áp", "15&&đảo"], "label": "COM+"}
+
+Màn hình ROG Phone 2 và Galaxy S20 Ultra đều tuyệt	Màn hình ROG Phone 2 và Galaxy S20 Ultra đều tuyệt
+
+Màn hình ROG Phone 2 và Galaxy S20 Ultra đều tuyệt	Màn hình ROG Phone 2 và Galaxy S20 Ultra đều tuyệt
+
+ROG Phone 2 có màn hình AMOLED 120Hz, nhưng độ phân giải là FHD + (2340x1080) chứ không phải QHD + (3200x1440) như flagship 2020 nhà Samsung.	ROG Phone 2 có màn hình AMOLED 120Hz , nhưng độ phân giải là FHD + ( 2340x1080 ) chứ không phải QHD + ( 3200x1440 ) như flagship 2020 nhà Samsung .
+
+Điều đó có nghĩa rằng để sử dụng làm mới 120Hz trên S20 Ultra, bạn sẽ cần hạ độ phân giải xuống Full HD +.	Điều đó có nghĩa rằng để sử dụng làm mới 120Hz trên S20 Ultra , bạn sẽ cần hạ độ phân giải xuống Full HD + .
+
+Galaxy S20 Ultra cũng có màu sắc rực rỡ hơn và hỗ trợ HDR10+.	Galaxy S20 Ultra cũng có màu sắc rực rỡ hơn và hỗ trợ HDR10 + .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": [], "aspect": ["6&&màu", "7&&sắc"], "predicate": ["8&&rực", "9&&rỡ", "10&&hơn"], "label": "COM+"}
+
+Đặc biệt màn hình lớn hơn 6,9 inch làm cho S20 Ultra trở nên lý tưởng để chơi game, xem phim.	Đặc biệt màn hình lớn hơn 6,9 inch làm cho S20 Ultra trở nên lý tưởng để chơi game , xem phim .
+
+alt: Galaxy S20 Ultra là một ngôi sao sáng đầu 2020	alt : Galaxy S20 Ultra là một ngôi sao sáng đầu 2020
+
+des:	des :
+
+Galaxy S20 Ultra là một ngôi sao sáng đầu 2020	Galaxy S20 Ultra là một ngôi sao sáng đầu 2020
+
+Mặc dù ROG Phone 2 có màn hình 6,6 inch khiêm tốn hơn, nó cao hơn 4mm so với Galaxy S20 Ultra.	Mặc dù ROG Phone 2 có màn hình 6,6 inch khiêm tốn hơn , nó cao hơn 4mm so với Galaxy S20 Ultra .
+{"subject": ["15&&nó"], "object": ["21&&Galaxy", "22&&S20", "23&&Ultra"], "aspect": [], "predicate": ["16&&cao", "17&&hơn"], "label": "COM+"}
+{"subject": ["3&&ROG", "4&&Phone", "5&&2"], "object": ["21&&Galaxy", "22&&S20", "23&&Ultra"], "aspect": ["7&&màn", "8&&hình"], "predicate": ["11&&khiêm", "12&&tốn", "13&&hơn"], "label": "COM-"}
+
+Điều này là do các viền bezel khá dày ở trên cùng và dưới cùng của màn hình.	Điều này là do các viền bezel khá dày ở trên cùng và dưới cùng của màn hình .
+
+Vì điện thoại được thiết kế cho các game thủ, các viền dày này cũng đảm bảo có đủ chỗ để bạn đặt tay khi chơi.	Vì điện thoại được thiết kế cho các game thủ , các viền dày này cũng đảm bảo có đủ chỗ để bạn đặt tay khi chơi .
+
+Có những thay đổi đáng suy nghĩ khác ở đây: màn hình phẳng dễ dùng và âm thanh bùng nổ từ loa âm thanh nổi.	Có những thay đổi đáng suy nghĩ khác ở đây : màn hình phẳng dễ dùng và âm thanh bùng nổ từ loa âm thanh nổi .
+
+Asus ROG Phone 2 mạnh mẽ ngang Galaxy S20 Ultra	Asus ROG Phone 2 mạnh mẽ ngang Galaxy S20 Ultra
+{"subject": ["1&&Asus", "2&&ROG", "3&&Phone", "4&&2"], "object": ["8&&Galaxy", "9&&S20", "10&&Ultra"], "aspect": [], "predicate": ["5&&mạnh", "6&&mẽ", "7&&ngang"], "label": "EQL"}
+
+Asus ROG Phone 2 mạnh mẽ ngang Galaxy S20 Ultra	Asus ROG Phone 2 mạnh mẽ ngang Galaxy S20 Ultra
+{"subject": ["1&&Asus", "2&&ROG", "3&&Phone", "4&&2"], "object": ["8&&Galaxy", "9&&S20", "10&&Ultra"], "aspect": [], "predicate": ["5&&mạnh", "6&&mẽ", "7&&ngang"], "label": "EQL"}
+
+Lý do chính cho sức mạnh vượt trội của ROG Phone 2 là pin dung lượng lớn 6.000mAh và hệ thống làm mát bằng chất lỏng ba lớp, có sự khác biệt rõ rệt trong các phiên chơi game kéo dài.	Lý do chính cho sức mạnh vượt trội của ROG Phone 2 là pin dung lượng lớn 6.000mAh và hệ thống làm mát bằng chất lỏng ba lớp , có sự khác biệt rõ rệt trong các phiên chơi game kéo dài .
+
+Phần cứng bên trong cũng rất tốt, với 12GB RAM LPDDR4X kết hợp với 512GB dung lượng lưu trữ nội bộ.	Phần cứng bên trong cũng rất tốt , với 12GB RAM LPDDR4X kết hợp với 512GB dung lượng lưu trữ nội bộ .
+
+alt: Bảng so sánh Galaxy S20 Ultra và ROG Phone 2	alt : Bảng so sánh Galaxy S20 Ultra và ROG Phone 2
+
+des:	des :
+
+Bảng so sánh Galaxy S20 Ultra và ROG Phone 2	Bảng so sánh Galaxy S20 Ultra và ROG Phone 2
+
+Asus ROG Phone 2 cũng có phần cứng mạnh mẽ sẽ vẫn hợp thời trong vài năm.	Asus ROG Phone 2 cũng có phần cứng mạnh mẽ sẽ vẫn hợp thời trong vài năm .
+
+Mức dung lượng lưu trữ 512GB giống như model cao cấp của S20 Ultra nhưng giá lại rẻ hơn rất nhiều.	Mức dung lượng lưu trữ 512GB giống như model cao cấp của S20 Ultra nhưng giá lại rẻ hơn rất nhiều .
+{"subject": [], "object": ["9&&model", "10&&cao", "11&&cấp", "12&&của", "13&&S20", "14&&Ultra"], "aspect": ["1&&Mức", "2&&dung", "3&&lượng", "4&&lưu", "5&&trữ"], "predicate": ["7&&giống", "8&&như"], "label": "EQL"}
+{"subject": [], "object": ["9&&model", "10&&cao", "11&&cấp", "12&&của", "13&&S20", "14&&Ultra"], "aspect": ["16&&giá"], "predicate": ["18&&rẻ", "19&&hơn", "20&&rất", "21&&nhiều"], "label": "COM+"}
+
+ROG Phone 2 cũng có giắc cắm tai nghe 3,5 mm và thậm chí bạn còn có các nút vai nhạy áp lực có thể được cấu hình với các hành động trong trò chơi.	ROG Phone 2 cũng có giắc cắm tai nghe 3,5 mm và thậm chí bạn còn có các nút vai nhạy áp lực có thể được cấu hình với các hành động trong trò chơi .
+
+Với pin 6.000mAh khủng và màn hình FHD +, bạn sẽ có thể sử dụng trong hai ngày với một lần sạc đầy.	Với pin 6.000mAh khủng và màn hình FHD + , bạn sẽ có thể sử dụng trong hai ngày với một lần sạc đầy .
+
+Bạn cũng sẽ tìm thấy giao diện phần mềm gọn gàng hơn trên ROG Phone 2.	Bạn cũng sẽ tìm thấy giao diện phần mềm gọn gàng hơn trên ROG Phone 2 .
+{"subject": ["14&&ROG", "15&&Phone", "16&&2"], "object": [], "aspect": ["6&&giao", "7&&diện", "8&&phần", "9&&mềm"], "predicate": ["10&&gọn", "11&&gàng", "12&&hơn"], "label": "COM+"}
+
+ASUS đã thực hiện những thay đổi đáng kể cho ZenUI trong hai năm qua.	ASUS đã thực hiện những thay đổi đáng kể cho ZenUI trong hai năm qua .
+
+Giờ đây, nó dễ dàng khiến bạn liên tưởng đến  Android One.	Giờ đây , nó dễ dàng khiến bạn liên tưởng đến Android One .
+
+One UI 2.0 của Samsung có rất nhiều tính năng thú vị, nhưng giao diện vẫn được tùy biến rất nhiều.	One UI 2.0 của Samsung có rất nhiều tính năng thú vị , nhưng giao diện vẫn được tùy biến rất nhiều .
+
+alt: Smartphone Asus có mức giá hợp lý hơn	alt : Smartphone Asus có mức giá hợp lý hơn
+
+des:	des :
+
+Smartphone Asus có mức giá hợp lý hơn	Smartphone Asus có mức giá hợp lý hơn
+{"subject": ["1&&Smartphone", "2&&Asus"], "object": [], "aspect": ["4&&mức", "5&&giá"], "predicate": ["6&&hợp", "7&&lý", "8&&hơn"], "label": "COM+"}
+
+Điều đáng nói là, nếu bạn quan tâm đến 5G và muốn có phần cứng mới nhất tuyệt đối, bạn sẽ phải chọn S20 Ultra.	Điều đáng nói là , nếu bạn quan tâm đến 5G và muốn có phần cứng mới nhất tuyệt đối , bạn sẽ phải chọn S20 Ultra .
+
+Chipset Snapdragon 865/ Exynos 990 có mức tăng hiệu năng đáng kể so với 855+.	Chipset Snapdragon 865 / Exynos 990 có mức tăng hiệu năng đáng kể so với 855 + .
+{"subject": ["1&&Chipset", "2&&Snapdragon", "3&&865", "4&&/", "5&&Exynos", "6&&990"], "object": ["16&&855", "17&&+"], "aspect": ["8&&mức", "9&&tăng", "10&&hiệu", "11&&năng"], "predicate": ["12&&đáng", "13&&kể", "14&&so", "15&&với"], "label": "COM+"}
+
+Ngoài ra, S20 Ultra cũng có các tính năng bổ sung mà bạn sẽ sử dụng.	Ngoài ra , S20 Ultra cũng có các tính năng bổ sung mà bạn sẽ sử dụng .
+
+Nó có sạc không dây 15W và khả năng sạc không dây cho các thiết bị khác ở mức 9W.	Nó có sạc không dây 15W và khả năng sạc không dây cho các thiết bị khác ở mức 9W .
+
+Ngoài ra, nó còn có khả năng chống nước IP68.	Ngoài ra , nó còn có khả năng chống nước IP68 .
+
+Đây là những tính năng vắng mặt trên ROG Phone 2.	Đây là những tính năng vắng mặt trên ROG Phone 2 .
+
+Thiết kế Asus ROG Phone 2 độc đáo hơn	Thiết kế Asus ROG Phone 2 độc đáo hơn
+{"subject": ["3&&Asus", "4&&ROG", "5&&Phone", "6&&2"], "object": [], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["7&&độc", "8&&đáo", "9&&hơn"], "label": "COM"}
+
+Thiết kế Asus ROG Phone 2 độc đáo hơn	Thiết kế Asus ROG Phone 2 độc đáo hơn
+{"subject": ["3&&Asus", "4&&ROG", "5&&Phone", "6&&2"], "object": [], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["7&&độc", "8&&đáo", "9&&hơn"], "label": "COM"}
+
+Thiết kế của Asus rõ ràng nhắm vào các game thủ, vì vậy bạn cũng sẽ tìm thấy thiết kế đèn LED RGB ở mặt sau.	Thiết kế của Asus rõ ràng nhắm vào các game thủ , vì vậy bạn cũng sẽ tìm thấy thiết kế đèn LED RGB ở mặt sau .
+
+Các đường nét mạnh mẽ và kiểu dáng táo bạo có thể không phù hợp với thị hiếu của mọi người, nhưng nó chắc chắn làm cho điện thoại nổi bật.	Các đường nét mạnh mẽ và kiểu dáng táo bạo có thể không phù hợp với thị hiếu của mọi người , nhưng nó chắc chắn làm cho điện thoại nổi bật .
+
+alt: Thiết kế đèn LED của ROG Phone rất ấn tượng	alt : Thiết kế đèn LED của ROG Phone rất ấn tượng
+
+des:	des :
+
+Thiết kế đèn LED của ROG Phone rất ấn tượng	Thiết kế đèn LED của ROG Phone rất ấn tượng
+
+S20 Ultra có thiết kế chủ đạo hơn, với việc Samsung giới thiệu các tinh chỉnh nhỏ cho tính thẩm mỹ thiết kế của nó.	S20 Ultra có thiết kế chủ đạo hơn , với việc Samsung giới thiệu các tinh chỉnh nhỏ cho tính thẩm mỹ thiết kế của nó .
+{"subject": ["1&&S20", "2&&Ultra"], "object": [], "aspect": ["4&&thiết", "5&&kế"], "predicate": ["6&&chủ", "7&&đạo", "8&&hơn"], "label": "COM+"}
+
+Thay đổi thiết kế chính là vỏ máy ảnh vuông ở phía sau và đường cắt cho camera trước.	Thay đổi thiết kế chính là vỏ máy ảnh vuông ở phía sau và đường cắt cho camera trước .
+
+S20 Ultra cũng dễ cầm hơn trong tay và trong khi nó có mức 220g, nó nhẹ hơn 20g so với ROG Phone 2.	S20 Ultra cũng dễ cầm hơn trong tay và trong khi nó có mức 220g , nó nhẹ hơn 20g so với ROG Phone 2 .
+{"subject": ["1&&S20", "2&&Ultra"], "object": ["23&&ROG", "24&&Phone", "25&&2"], "aspect": [], "predicate": ["4&&dễ", "5&&cầm", "6&&hơn"], "label": "COM+"}
+{"subject": ["17&&nó"], "object": ["23&&ROG", "24&&Phone", "25&&2"], "aspect": [], "predicate": ["18&&nhẹ", "19&&hơn"], "label": "COM+"}
+
+Galaxy S20 Ultra có giá cao rất nhiều so với ROG Phone 2.	Galaxy S20 Ultra có giá cao rất nhiều so với ROG Phone 2 .
+{"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": ["11&&ROG", "12&&Phone", "13&&2"], "aspect": ["5&&giá"], "predicate": ["6&&cao", "7&&rất", "8&&nhiều"], "label": "COM-"}
+
+Với mức giá đó, bạn sẽ có màn hình QHD + độ phân giải cao hơn, chipset mới hơn, kết nối 5G, RAM LPDDR5, camera mới tuyệt vời với zoom lai 100x, sạc không dây, và khả năng chống nước IP68.	Với mức giá đó , bạn sẽ có màn hình QHD + độ phân giải cao hơn , chipset mới hơn , kết nối 5G , RAM LPDDR5 , camera mới tuyệt vời với zoom lai 100x , sạc không dây , và khả năng chống nước IP68 .
+{"subject": [], "object": [], "aspect": ["9&&màn", "10&&hình"], "predicate": ["13&&độ", "14&&phân", "15&&giải", "16&&cao", "17&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["19&&chipset"], "predicate": ["20&&mới", "21&&hơn"], "label": "COM+"}
+
+alt: Camera Galaxy S20 Ultra là điểm đặc biệt	alt : Camera Galaxy S20 Ultra là điểm đặc biệt
+
+des:	des :
+
+Camera Galaxy S20 Ultra là điểm đặc biệt	Camera Galaxy S20 Ultra là điểm đặc biệt
+
+Tuy vậy, ROG Phone 2 vẫn là một trong những điện thoại tốt nhất và camera 48MP của nó cho ra những bức ảnh đủ đẹp.	Tuy vậy , ROG Phone 2 vẫn là một trong những điện thoại tốt nhất và camera 48MP của nó cho ra những bức ảnh đủ đẹp .
+{"subject": ["4&&ROG", "5&&Phone", "6&&2"], "object": [], "aspect": [], "predicate": ["9&&một", "10&&trong", "11&&những", "12&&điện", "13&&thoại", "14&&tốt", "15&&nhất"], "label": "SUP+"}
+
+Nếu bạn không quá bận tâm đến camera, smartphone này thực sự đáng đồng tiền bát gạo đấy.	Nếu bạn không quá bận tâm đến camera , smartphone này thực sự đáng đồng tiền bát gạo đấy .
+

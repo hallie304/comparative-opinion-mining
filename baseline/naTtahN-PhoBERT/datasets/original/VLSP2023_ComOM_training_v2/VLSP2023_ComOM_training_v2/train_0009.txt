@@ -1,0 +1,41 @@
+Title: iPhone 12 Pro Max được trang DisplayMate “chấm” là chiếc smartphone có màn hình đẹp nhất hiện nay	Title : iPhone 12 Pro Max được trang DisplayMate “ chấm ” là chiếc smartphone có màn hình đẹp nhất hiện nay
+{"subject": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["19&&đẹp", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
+
+alt:	alt :
+
+des:	des :
+
+Mới đây, chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có màn hình đẹp nhất hiện nay không ai khác chính là iPhone 12 Pro Max.	Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có màn hình đẹp nhất hiện nay không ai khác chính là iPhone 12 Pro Max .
+{"subject": ["34&&iPhone", "35&&12", "36&&Pro", "37&&Max"], "object": [], "aspect": ["23&&màn", "24&&hình"], "predicate": ["25&&đẹp", "26&&nhất", "27&&hiện", "28&&nay"], "label": "SUP+"}
+
+iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&đẹp", "14&&nhất", "15&&thời", "16&&điểm", "17&&hiện", "18&&tại"], "label": "SUP+"}
+
+iPhone12 Pro Max là chiếc iPhone có màn hình lớn nhất từ trước đến nay, và đây cũng là chiếc smartphone có chất lượng hiển thị đẹp nhất hiện tại, theo trang chuyên đánh giá màn hình DisplayMate.	iPhone12 Pro Max là chiếc iPhone có màn hình lớn nhất từ trước đến nay , và đây cũng là chiếc smartphone có chất lượng hiển thị đẹp nhất hiện tại , theo trang chuyên đánh giá màn hình DisplayMate .
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["8&&màn", "9&&hình"], "predicate": ["10&&lớn", "11&&nhất", "12&&từ", "13&&trước", "14&&đến", "15&&nay"], "label": "SUP"}
+{"subject": ["1&&iPhone12", "2&&Pro", "3&&Max"], "object": [], "aspect": ["24&&chất", "25&&lượng", "26&&hiển", "27&&thị"], "predicate": ["28&&đẹp", "29&&nhất", "30&&hiện", "31&&tại"], "label": "SUP+"}
+
+iPhone 12 Pro Max có màn hình 6.7 inch với độ phân giải 2778×1284 pixel và tỷ lệ tương phản 2,000,000:1.	iPhone 12 Pro Max có màn hình 6.7 inch với độ phân giải 2778 × 1284 pixel và tỷ lệ tương phản 2,000,000 : 1 .
+
+DisplayMate cho biết iPhone 12 Pro Max là smartphone có màn hình tốt nhất mà họ từng thử nghiệm với chất lượng gần như hoàn hảo.	DisplayMate cho biết iPhone 12 Pro Max là smartphone có màn hình tốt nhất mà họ từng thử nghiệm với chất lượng gần như hoàn hảo .
+{"subject": ["4&&iPhone", "5&&12", "6&&Pro", "7&&Max"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&tốt", "14&&nhất"], "label": "SUP+"}
+
+Cụ thể, DisplayMate khen ngợi khả năng hiển thị màu hoàn toàn chính xác, sắc nét, độ tương phản chính xác, độ sáng, khả năng hiển thị dưới nhiều góc nhìn hoàn hảo.	Cụ thể , DisplayMate khen ngợi khả năng hiển thị màu hoàn toàn chính xác , sắc nét , độ tương phản chính xác , độ sáng , khả năng hiển thị dưới nhiều góc nhìn hoàn hảo .
+
+alt:	alt :
+
+des: iPhone 12 Pro Max	des : iPhone 12 Pro Max
+
+“Apple đã tập trung vào việc nâng cao đáng kể Chất lượng hình ảnh tuyệt đối và Độ chính xác màu sắc tuyệt đối của màn hình OLED bằng cách thực hiện hiệu chỉnh màn hình chính xác tại nhà máy, nâng hiệu suất hiển thị tổng thể của iPhone 12 Pro Max lên đến mức độ vượt trội, độ chính xác hoàn hảo đến mức không thể phân biệt bằng mắt thường”, DisplayMate đánh giá.	“ Apple đã tập trung vào việc nâng cao đáng kể Chất lượng hình ảnh tuyệt đối và Độ chính xác màu sắc tuyệt đối của màn hình OLED bằng cách thực hiện hiệu chỉnh màn hình chính xác tại nhà máy , nâng hiệu suất hiển thị tổng thể của iPhone 12 Pro Max lên đến mức độ vượt trội , độ chính xác hoàn hảo đến mức không thể phân biệt bằng mắt thường ” , DisplayMate đánh giá .
+
+“Dựa vào các thử nghiệm của chúng tôi, iPhone 12 Pro Max nhận được danh hiệu smartphone có màn hình tốt nhất của DisplayMate với điểm A+ cao nhất”.	“ Dựa vào các thử nghiệm của chúng tôi , iPhone 12 Pro Max nhận được danh hiệu smartphone có màn hình tốt nhất của DisplayMate với điểm A + cao nhất ” .
+{"subject": ["11&&iPhone", "12&&12", "13&&Pro", "14&&Max"], "object": [], "aspect": ["21&&màn", "22&&hình"], "predicate": ["23&&tốt", "24&&nhất", "25&&của", "26&&DisplayMate"], "label": "SUP+"}
+
+Bạn đọc quan tâm có thể xem bài đánh giá đầy đủ của trang DisplayMate ngay tại đây.	Bạn đọc quan tâm có thể xem bài đánh giá đầy đủ của trang DisplayMate ngay tại đây .
+
+Tạm kết	Tạm kết
+
+Vậy cuối cùng bạn đọc có suy nghĩ và nhận xét như thế nào về chất lượng hiển thị của iPhone 12 Pro Max nói riêng và của iPhone 12 Series nói chung?	Vậy cuối cùng bạn đọc có suy nghĩ và nhận xét như thế nào về chất lượng hiển thị của iPhone 12 Pro Max nói riêng và của iPhone 12 Series nói chung ?
+
+Hãy để lại comment của bạn dưới phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé.	Hãy để lại comment của bạn dưới phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé .
+

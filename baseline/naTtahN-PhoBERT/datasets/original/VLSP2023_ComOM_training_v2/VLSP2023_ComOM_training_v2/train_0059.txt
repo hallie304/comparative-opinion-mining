@@ -1,0 +1,117 @@
+title: So sánh Redmi Note 11 với Galaxy M32 5G và Realme 8 5G	title : So sánh Redmi Note 11 với Galaxy M32 5G và Realme 8 5G
+
+Thiết kế	Thiết kế
+
+alt: Redmi Note 11 và Redmi Note 11 Pro Plus	alt : Redmi Note 11 và Redmi Note 11 Pro Plus
+
+des: Redmi Note 11 và Redmi Note 11 Pro Plus	des : Redmi Note 11 và Redmi Note 11 Pro Plus
+
+Cá nhân mình nhận thấy,  Redmi Note 11  sở hữu thiết kế đẹp và ấn tượng nhất trong bộ ba  điện thoại  này.	Cá nhân mình nhận thấy , Redmi Note 11 sở hữu thiết kế đẹp và ấn tượng nhất trong bộ ba điện thoại này .
+{"subject": ["7&&Redmi", "8&&Note", "9&&11"], "object": [], "aspect": ["12&&thiết", "13&&kế"], "predicate": ["14&&đẹp", "15&&và", "16&&ấn", "17&&tượng", "18&&nhất", "19&&trong", "20&&bộ", "21&&ba", "22&&điện", "23&&thoại", "24&&này"], "label": "SUP+"}
+
+Di động  Xiaomi  được trang bị màn hình đục lỗ hiện đại, bắt mắt ở mặt trước để chứa camera selfie nằm ở vị trí chính giữa viền trên.	Di động Xiaomi được trang bị màn hình đục lỗ hiện đại , bắt mắt ở mặt trước để chứa camera selfie nằm ở vị trí chính giữa viền trên .
+
+Trong khi đó,  Realme 8 5G  cũng sở hữu màn hình đục lỗ nhưng camera trước của nó nằm ở góc trên cùng bên trái nên không đẹp và đối xứng như Redmi Note 11.	Trong khi đó , Realme 8 5G cũng sở hữu màn hình đục lỗ nhưng camera trước của nó nằm ở góc trên cùng bên trái nên không đẹp và đối xứng như Redmi Note 11 .
+{"subject": ["5&&Realme", "6&&8", "7&&5G"], "object": ["34&&Redmi", "35&&Note", "36&&11"], "aspect": ["11&&màn", "12&&hình", "13&&đục", "14&&lỗ"], "predicate": ["8&&cũng", "9&&sở", "10&&hữu"], "label": "EQL"}
+{"subject": ["5&&Realme", "6&&8", "7&&5G"], "object": ["34&&Redmi", "35&&Note", "36&&11"], "aspect": ["16&&camera", "17&&trước"], "predicate": ["28&&không", "29&&đẹp", "30&&và", "31&&đối", "32&&xứng", "33&&như"], "label": "EQL"}
+
+Còn Galaxy M32 5G sở hữu màn hình giọt nước kém hiện đại hơn.	Còn Galaxy M32 5G sở hữu màn hình giọt nước kém hiện đại hơn .
+{"subject": ["2&&Galaxy", "3&&M32", "4&&5G"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["11&&kém", "12&&hiện", "13&&đại", "14&&hơn"], "label": "COM-"}
+
+alt: Galaxy M32 5G	alt : Galaxy M32 5G
+
+des: Galaxy M32 5G	des : Galaxy M32 5G
+
+Di chuyển sang mặt sau, cả ba điện thoại này đều sở hữu thân máy được hoàn thiện từ chất liệu nhựa, cụm camera sau khá lớn và mỗi thiết bị đều có điểm nhấn của riêng mình.	Di chuyển sang mặt sau , cả ba điện thoại này đều sở hữu thân máy được hoàn thiện từ chất liệu nhựa , cụm camera sau khá lớn và mỗi thiết bị đều có điểm nhấn của riêng mình .
+
+Trong đó, Redmi Note 11 đi kèm các hiệu ứng chuyển màu gradient bắt mắt, còn Realme 8 5G có hiệu ứng ánh sáng thú vị phát ra từ cụm camera sau.	Trong đó , Redmi Note 11 đi kèm các hiệu ứng chuyển màu gradient bắt mắt , còn Realme 8 5G có hiệu ứng ánh sáng thú vị phát ra từ cụm camera sau .
+
+Cuối cùng, Galaxy M32 5G có thiết kế phía sau rất đẹp với các cảm biến được đặt trực tiếp trong vỏ và không có mô-đun máy ảnh.	Cuối cùng , Galaxy M32 5G có thiết kế phía sau rất đẹp với các cảm biến được đặt trực tiếp trong vỏ và không có mô-đun máy ảnh .
+
+Màn hình	Màn hình
+
+alt: Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G	alt : Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G
+
+des: Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G	des : Màn hình IPS với tốc độ làm mới 90Hz trên realme 8 5G
+
+Galaxy M32 5G có chất lượng màn hình kém hơn 2 mẫu máy còn lại.	Galaxy M32 5G có chất lượng màn hình kém hơn 2 mẫu máy còn lại .
+{"subject": ["1&&Galaxy", "2&&M32", "3&&5G"], "object": ["11&&2", "12&&mẫu", "13&&máy", "14&&còn", "15&&lại"], "aspect": ["5&&chất", "6&&lượng", "7&&màn", "8&&hình"], "predicate": ["9&&kém", "10&&hơn"], "label": "COM-"}
+
+Điều này là do di động  Samsung  sử dụng màn hình TFT, trong khi Redmi Note 11 và Realme 8 5G đi kèm với tấm nền IPS tốt hơn.	Điều này là do di động Samsung sử dụng màn hình TFT , trong khi Redmi Note 11 và Realme 8 5G đi kèm với tấm nền IPS tốt hơn .
+{"subject": ["16&&Redmi", "17&&Note", "18&&11"], "object": ["7&&Samsung"], "aspect": ["26&&tấm", "27&&nền"], "predicate": ["29&&tốt", "30&&hơn"], "label": "COM+"}
+{"subject": ["20&&Realme", "21&&8", "22&&5G"], "object": ["7&&Samsung"], "aspect": ["26&&tấm", "27&&nền"], "predicate": ["29&&tốt", "30&&hơn"], "label": "COM+"}
+
+Hơn nữa, màn hình di động Samsung có độ phân giải HD+ thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn.	Hơn nữa , màn hình di động Samsung có độ phân giải HD + thấp hơn và tốc độ làm mới t60Hz tiêu chuẩn .
+{"subject": ["4&&màn", "5&&hình", "6&&di", "7&&động", "8&&Samsung"], "object": [], "aspect": ["10&&độ", "11&&phân", "12&&giải"], "predicate": ["15&&thấp", "16&&hơn"], "label": "COM-"}
+
+Với Redmi Note 11 và Realme 8 5G, bạn sẽ có được độ phân giải Full-HD+ và tốc độ làm mới 90Hz cao hơn.	Với Redmi Note 11 và Realme 8 5G , bạn sẽ có được độ phân giải Full-HD + và tốc độ làm mới 90Hz cao hơn .
+{"subject": ["2&&Redmi", "3&&Note", "4&&11"], "object": [], "aspect": ["20&&tốc", "21&&độ", "22&&làm", "23&&mới"], "predicate": ["25&&cao", "26&&hơn"], "label": "COM+"}
+{"subject": ["6&&Realme", "7&&8", "8&&5G"], "object": [], "aspect": ["20&&tốc", "21&&độ", "22&&làm", "23&&mới"], "predicate": ["25&&cao", "26&&hơn"], "label": "COM+"}
+
+Điện thoại Xiaomi có màn hình rộng hơn một chút với kích thước 6.6 inch, trong khi Realme 8 5G dừng ở con số 6.5 inch.	Điện thoại Xiaomi có màn hình rộng hơn một chút với kích thước 6.6 inch , trong khi Realme 8 5G dừng ở con số 6.5 inch .
+{"subject": ["1&&Điện", "2&&thoại", "3&&Xiaomi"], "object": ["19&&Realme", "20&&8"], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&rộng", "8&&hơn", "9&&một", "10&&chút"], "label": "COM+"}
+
+Phần cứng và phần mềm	Phần cứng và phần mềm
+
+alt: Bảng thông số kỹ thuật	alt : Bảng thông số kỹ thuật
+
+des: Bảng thông số kỹ thuật	des : Bảng thông số kỹ thuật
+
+Redmi Note 11 có bộ phận phần cứng tiên tiến nhất vì nó đi kèm với bộ vi xử lý mạnh hơn: Mediatek Dimensity 810 5G mới được xây dựng trên tiến trình 6nm với xung nhịp tối đa là 2.4 GHz. Con chip này được kết hợp với RAM lên đến 8GB và bộ nhớ trong tối đa 256GB.	Redmi Note 11 có bộ phận phần cứng tiên tiến nhất vì nó đi kèm với bộ vi xử lý mạnh hơn : Mediatek Dimensity 810 5G mới được xây dựng trên tiến trình 6nm với xung nhịp tối đa là 2.4 GHz . Con chip này được kết hợp với RAM lên đến 8GB và bộ nhớ trong tối đa 256GB .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["5&&bộ", "6&&phận", "7&&phần", "8&&cứng"], "predicate": ["9&&tiên", "10&&tiến", "11&&nhất"], "label": "SUP+"}
+{"subject": ["13&&nó"], "object": [], "aspect": ["17&&bộ", "18&&vi", "19&&xử", "20&&lý"], "predicate": ["21&&mạnh", "22&&hơn"], "label": "COM+"}
+
+Mặt khác, hai điện thoại còn lại đều sử dụng chipset Mediatek Dimensity 700, nhưng hiệu năng của Realme 8 5G hứa hẹn nhỉnh hơn một chút so với Galaxy M32 5G vì nó sử dụng bộ nhớ trong chuẩn UFS 2.1 nhanh hơn.	Mặt khác , hai điện thoại còn lại đều sử dụng chipset Mediatek Dimensity 700 , nhưng hiệu năng của Realme 8 5G hứa hẹn nhỉnh hơn một chút so với Galaxy M32 5G vì nó sử dụng bộ nhớ trong chuẩn UFS 2.1 nhanh hơn .
+{"subject": ["4&&hai", "5&&điện", "6&&thoại", "7&&còn", "8&&lại"], "object": ["4&&hai", "5&&điện", "6&&thoại", "7&&còn", "8&&lại"], "aspect": ["12&&chipset", "13&&Mediatek", "14&&Dimensity", "15&&700"], "predicate": ["9&&đều", "10&&sử", "11&&dụng"], "label": "EQL"}
+{"subject": ["21&&Realme", "22&&8", "23&&5G"], "object": ["32&&Galaxy", "33&&M32", "34&&5G"], "aspect": ["18&&hiệu", "19&&năng"], "predicate": ["26&&nhỉnh", "27&&hơn", "28&&một", "29&&chút"], "label": "COM+"}
+{"subject": ["21&&Realme", "22&&8", "23&&5G"], "object": ["32&&Galaxy", "33&&M32", "34&&5G"], "aspect": ["39&&bộ", "40&&nhớ", "41&&trong"], "predicate": ["45&&nhanh", "46&&hơn"], "label": "COM+"}
+
+Về phần mềm, tất cả các điện thoại này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng.	Về phần mềm , tất cả các điện thoại này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng .
+{"subject": ["5&&tất", "6&&cả", "7&&các", "8&&điện", "9&&thoại", "10&&này"], "object": [], "aspect": ["2&&phần", "3&&mềm"], "predicate": ["11&&đều", "12&&chạy", "13&&trên", "14&&hệ", "15&&điều", "16&&hành", "17&&Android", "18&&11"], "label": "EQL"}
+
+Máy ảnh	Máy ảnh
+
+alt: Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP	alt : Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP
+
+des: Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP	des : Redmi Note 11 có 2 camera ở phía sau với camera chính 50MP
+
+Trong ba smartphone này, Galaxy M32 5G có hệ thống máy ảnh linh hoạt nhất.	Trong ba smartphone này , Galaxy M32 5G có hệ thống máy ảnh linh hoạt nhất .
+{"subject": ["6&&Galaxy", "7&&M32", "8&&5G"], "object": [], "aspect": ["10&&hệ", "11&&thống", "12&&máy", "13&&ảnh"], "predicate": ["14&&linh", "15&&hoạt", "16&&nhất"], "label": "SUP+"}
+
+Di động Samsung sở hữu hệ thống 4 camera sau, bao gồm cảm biến chính 48MP, ống kính góc siêu rộng 8MP,  camera macro  5MP và cảm biến độ sâu 2MP.	Di động Samsung sở hữu hệ thống 4 camera sau , bao gồm cảm biến chính 48MP , ống kính góc siêu rộng 8MP , camera macro 5MP và cảm biến độ sâu 2MP .
+
+Redmi Note 11 chỉ có hai camera ở phía sau, nhưng camera chính vượt trội hơn vì nó sử dụng cảm biến 50MP mới hơn mang lại chất lượng ảnh tốt hơn.	Redmi Note 11 chỉ có hai camera ở phía sau , nhưng camera chính vượt trội hơn vì nó sử dụng cảm biến 50MP mới hơn mang lại chất lượng ảnh tốt hơn .
+{"subject": ["13&&camera", "14&&chính"], "object": [], "aspect": [], "predicate": ["15&&vượt", "16&&trội", "17&&hơn"], "label": "COM+"}
+{"subject": ["13&&camera", "14&&chính"], "object": [], "aspect": ["29&&chất", "30&&lượng", "31&&ảnh"], "predicate": ["32&&tốt", "33&&hơn"], "label": "COM+"}
+{"subject": ["19&&nó"], "object": [], "aspect": ["22&&cảm", "23&&biến"], "predicate": ["25&&mới", "26&&hơn"], "label": "COM+"}
+
+Realme 8 5G thua cuộc vì thiếu camera siêu rộng.	Realme 8 5G thua cuộc vì thiếu camera siêu rộng .
+
+Thời lượng pin	Thời lượng pin
+
+alt: Thiết kế siêu mỏng nhẹ, tinh tế trên realme 8 5G	alt : Thiết kế siêu mỏng nhẹ , tinh tế trên realme 8 5G
+
+des: Thiết kế siêu mỏng nhẹ, tinh tế trên realme 8 5G	des : Thiết kế siêu mỏng nhẹ , tinh tế trên realme 8 5G
+
+Cả ba smartphone này đều sở hữu viên pin có dung lượng khá tốt là 5,000 mAh. Nhưng Samsung Galaxy M32 5G sẽ cung cấp thời lượng pin lâu hơn vì nó đi kèm màn hình hỗ trợ độ phân giải và tốc độ làm mới thấp hơn.	Cả ba smartphone này đều sở hữu viên pin có dung lượng khá tốt là 5,000 mAh . Nhưng Samsung Galaxy M32 5G sẽ cung cấp thời lượng pin lâu hơn vì nó đi kèm màn hình hỗ trợ độ phân giải và tốc độ làm mới thấp hơn .
+{"subject": ["20&&Samsung", "21&&Galaxy", "22&&M32", "23&&5G"], "object": [], "aspect": ["27&&thời", "28&&lượng", "29&&pin"], "predicate": ["30&&lâu", "31&&hơn"], "label": "COM+"}
+{"subject": ["33&&nó"], "object": [], "aspect": ["40&&độ", "41&&phân", "42&&giải"], "predicate": ["48&&thấp", "49&&hơn"], "label": "COM-"}
+{"subject": ["33&&nó"], "object": [], "aspect": ["44&&tốc", "45&&độ", "46&&làm", "47&&mới"], "predicate": ["48&&thấp", "49&&hơn"], "label": "COM-"}
+
+Redmi Note 11 có sạc nhanh hơn (33W).	Redmi Note 11 có sạc nhanh hơn ( 33W ) .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11"], "object": [], "aspect": ["5&&sạc"], "predicate": ["6&&nhanh", "7&&hơn"], "label": "COM+"}
+
+Tạm kết	Tạm kết
+
+Qua bài so sánh trên, có thể thấy Redmi Note 11 nổi bật và đáng mua hơn hai mẫu máy còn lại.	Qua bài so sánh trên , có thể thấy Redmi Note 11 nổi bật và đáng mua hơn hai mẫu máy còn lại .
+{"subject": ["10&&Redmi", "11&&Note", "12&&11"], "object": ["19&&hai", "20&&mẫu", "21&&máy", "22&&còn", "23&&lại"], "aspect": [], "predicate": ["13&&nổi", "14&&bật"], "label": "COM+"}
+{"subject": ["10&&Redmi", "11&&Note", "12&&11"], "object": ["19&&hai", "20&&mẫu", "21&&máy", "22&&còn", "23&&lại"], "aspect": [], "predicate": ["16&&đáng", "17&&mua", "18&&hơn"], "label": "COM+"}
+
+Điện thoại này sở hữu màn hình đục lỗ bắt mắt, trông hiện đại hơn, màn hình chất lượng, phần cứng mạnh mẽ, camera chính chất lượng và sạc nhanh hơn hai điện thoại còn lại.	Điện thoại này sở hữu màn hình đục lỗ bắt mắt , trông hiện đại hơn , màn hình chất lượng , phần cứng mạnh mẽ , camera chính chất lượng và sạc nhanh hơn hai điện thoại còn lại .
+{"subject": ["1&&Điện", "2&&thoại", "3&&này"], "object": ["36&&hai", "37&&điện", "38&&thoại", "39&&còn", "40&&lại"], "aspect": ["6&&màn", "7&&hình"], "predicate": ["14&&hiện", "15&&đại", "16&&hơn"], "label": "COM+"}
+{"subject": ["1&&Điện", "2&&thoại", "3&&này"], "object": ["36&&hai", "37&&điện", "38&&thoại", "39&&còn", "40&&lại"], "aspect": ["33&&sạc"], "predicate": ["34&&nhanh", "35&&hơn"], "label": "COM+"}
+
+Bạn có nghĩ vậy không?	Bạn có nghĩ vậy không ?
+
+Mẫu điện thoại kế nhiệm mới được ra mắt từ nhà Realme có tên là  Realme 10  đang được mở bán tại FPTShop, tham khảo để có thêm nhiều đánh giá, lựa chọn hơn cho bạn nhé!	Mẫu điện thoại kế nhiệm mới được ra mắt từ nhà Realme có tên là Realme 10 đang được mở bán tại FPTShop , tham khảo để có thêm nhiều đánh giá , lựa chọn hơn cho bạn nhé !
+

@@ -1,0 +1,200 @@
+title: So sánh Samsung Galaxy A73 và Samsung Galaxy S21 Fe nên mua gì?	title : So sánh Samsung Galaxy A73 và Samsung Galaxy S21 Fe nên mua gì ?
+
+Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động:	Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động :
+
+Bạn đang muốn mua một chiếc điện thoại đến từ nhà Samsung, nhưng lại đang phân vân giữa 2 sản phẩm là  Samsung Galaxy A73  và  Samsung Galaxy S21 Fe .	Bạn đang muốn mua một chiếc điện thoại đến từ nhà Samsung , nhưng lại đang phân vân giữa 2 sản phẩm là Samsung Galaxy A73 và Samsung Galaxy S21 Fe .
+
+Bài viết này sẽ giải đáp thắc mắc, đưa ra sự so sánh giữa Samsung Galaxy A73 và Samsung Galaxy S21 Fe.	Bài viết này sẽ giải đáp thắc mắc , đưa ra sự so sánh giữa Samsung Galaxy A73 và Samsung Galaxy S21 Fe .
+
+1.	1 .
+
+Đôi nét về điện thoại Samsung Galaxy A73	Đôi nét về điện thoại Samsung Galaxy A73
+
+Theo những thông tin được  Samsung  công bố trong sự kiện ra mắt những mẫu  điện thoại  mới nhất của  dòng Galaxy A , đây là phân khúc điện thoại tầm trung cận cao cấp.	Theo những thông tin được Samsung công bố trong sự kiện ra mắt những mẫu điện thoại mới nhất của dòng Galaxy A , đây là phân khúc điện thoại tầm trung cận cao cấp .
+
+Tại sự kiện ra mắt,  Galaxy A73 5G  sẽ được trang bị con chip  Snapdragon 778G , đây là sự nâng cấp nhẹ so với người tiền nhiệm.	Tại sự kiện ra mắt , Galaxy A73 5G sẽ được trang bị con chip Snapdragon 778G , đây là sự nâng cấp nhẹ so với người tiền nhiệm .
+{"subject": ["7&&Galaxy", "8&&A73", "9&&5G"], "object": ["27&&người", "28&&tiền", "29&&nhiệm"], "aspect": ["14&&con", "15&&chip", "16&&Snapdragon", "17&&778G"], "predicate": ["22&&nâng", "23&&cấp", "24&&nhẹ"], "label": "COM+"}
+
+Với thiết kế bo cong các góc, tạo cảm giác thoải mái khi cầm nắm, cùng với đó là kiểu màn hình nốt ruồi quen thuộc.	Với thiết kế bo cong các góc , tạo cảm giác thoải mái khi cầm nắm , cùng với đó là kiểu màn hình nốt ruồi quen thuộc .
+
+alt: Samsung Galaxy A73 với nhiều cải tiến mới	alt : Samsung Galaxy A73 với nhiều cải tiến mới
+
+des: Samsung Galaxy A73 với nhiều cải tiến mới	des : Samsung Galaxy A73 với nhiều cải tiến mới
+
+Samsung Galaxy A73 với nhiều cải tiến mới.	Samsung Galaxy A73 với nhiều cải tiến mới .
+
+2.	2 .
+
+Đôi nét về điện thoại Samsung Galaxy S21 FE	Đôi nét về điện thoại Samsung Galaxy S21 FE
+
+Samsung Galaxy S21 FE  được trang bị  chip Exynos 2100  mạnh mẽ.	Samsung Galaxy S21 FE được trang bị chip Exynos 2100 mạnh mẽ .
+
+Về thiết kế không có gì bí ẩn về chất liệu mà nhà sản xuất điện thoại sẽ sử dụng cho  Galaxy S21 FE .	Về thiết kế không có gì bí ẩn về chất liệu mà nhà sản xuất điện thoại sẽ sử dụng cho Galaxy S21 FE .
+
+Với vỏ ngoài làm bằng nhựa sẽ giúp chiếc điện thoại trở nên nhẹ hơn nhưng vẫn không kém phần sang trọng.	Với vỏ ngoài làm bằng nhựa sẽ giúp chiếc điện thoại trở nên nhẹ hơn nhưng vẫn không kém phần sang trọng .
+
+Galaxy S21 FE  áp dụng một trong những thiết kế tốt hơn của S21 phát triển với thiết kế đường viền cắt làm nơi chứa cụm camera phía sau.	Galaxy S21 FE áp dụng một trong những thiết kế tốt hơn của S21 phát triển với thiết kế đường viền cắt làm nơi chứa cụm camera phía sau .
+
+Các cạnh của  Galaxy S21 FE  khá bóng bẩy và trơn.	Các cạnh của Galaxy S21 FE khá bóng bẩy và trơn .
+
+alt: Samsung Galaxy S21 FE cải tiến về thiết kế	alt : Samsung Galaxy S21 FE cải tiến về thiết kế
+
+des: Samsung Galaxy S21 FE cải tiến về thiết kế	des : Samsung Galaxy S21 FE cải tiến về thiết kế
+
+Samsung Galaxy S21 FE cải tiến về thiết kế.	Samsung Galaxy S21 FE cải tiến về thiết kế .
+
+3.	3 .
+
+So sánh điện thoại Samsung Galaxy A73 và S21 FE	So sánh điện thoại Samsung Galaxy A73 và S21 FE
+
+Thiết kế	Thiết kế
+
+Samsung Galaxy A73  sở hữu thiết kế  nguyên khối ,  khung và mặt lưng làm từ nhựa .	Samsung Galaxy A73 sở hữu thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .
+
+Đối với Samsung Galaxy S21 FE cũng có thiết kế  nguyên khối ,  khung và mặt lưng làm từ nhựa.	Đối với Samsung Galaxy S21 FE cũng có thiết kế nguyên khối , khung và mặt lưng làm từ nhựa .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S21", "6&&FE"], "object": [], "aspect": ["9&&thiết", "10&&kế", "11&&nguyên", "12&&khối"], "predicate": ["7&&cũng", "8&&có"], "label": "EQL"}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S21", "6&&FE"], "object": [], "aspect": ["14&&khung", "15&&và", "16&&mặt", "17&&lưng", "18&&làm", "19&&từ", "20&&nhựa"], "predicate": ["7&&cũng", "8&&có"], "label": "EQL"}
+
+alt: Thiết kế nhựa nguyên khối	alt : Thiết kế nhựa nguyên khối
+
+des: Thiết kế nhựa nguyên khối	des : Thiết kế nhựa nguyên khối
+
+Màn hình	Màn hình
+
+Samsung Galaxy A73 được trang bị màn hình  Super AMOLED Plus .	Samsung Galaxy A73 được trang bị màn hình Super AMOLED Plus .
+
+Samsung Galaxy S21 FE có màn hình  Dynamic AMOLED 2X .	Samsung Galaxy S21 FE có màn hình Dynamic AMOLED 2X .
+
+Màn hình của cả hai điện thoại đều  rất sắc nét  và sẽ mang lại cho bạn trải nghiệm ấn tượng.	Màn hình của cả hai điện thoại đều rất sắc nét và sẽ mang lại cho bạn trải nghiệm ấn tượng .
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["8&&đều", "9&&rất", "10&&sắc", "11&&nét"], "label": "EQL"}
+
+alt: Màn hình Super AMOLED Plus trên Samsung Galaxy A73	alt : Màn hình Super AMOLED Plus trên Samsung Galaxy A73
+
+des: Màn hình Super AMOLED Plus trên Samsung Galaxy A73	des : Màn hình Super AMOLED Plus trên Samsung Galaxy A73
+
+Màn hình Super AMOLED Plus trên Samsung Galaxy A73.	Màn hình Super AMOLED Plus trên Samsung Galaxy A73 .
+
+Camera	Camera
+
+Samsung Galaxy A73 có camera sau gồm Camera chính  108 MP  và camera phụ lần lượt là  12 MP, 5 MP, 5 MP .	Samsung Galaxy A73 có camera sau gồm Camera chính 108 MP và camera phụ lần lượt là 12 MP , 5 MP , 5 MP .
+
+Camera trước có độ phân giải ấn tượng lên đến  32Mp .	Camera trước có độ phân giải ấn tượng lên đến 32Mp .
+
+Samsung Galaxy S21 FE sở hữu Camera trước với độ phân giải lần lượt là  12MP ,  5MP ,  5MP , Camera trước là  32MP .	Samsung Galaxy S21 FE sở hữu Camera trước với độ phân giải lần lượt là 12MP , 5MP , 5MP , Camera trước là 32MP .
+
+alt: Camera 108MP trên Samsung Galaxy A73	alt : Camera 108MP trên Samsung Galaxy A73
+
+des: Camera 108MP trên Samsung Galaxy A73	des : Camera 108MP trên Samsung Galaxy A73
+
+Camera 108MP trên Samsung Galaxy A73.	Camera 108MP trên Samsung Galaxy A73 .
+
+CPU	CPU
+
+Samsung Galaxy A73 trang bị chip  Snapdragon 778G 5G 8 nhân .	Samsung Galaxy A73 trang bị chip Snapdragon 778G 5G 8 nhân .
+
+Samsung Galaxy S21 FE trang bị chip  Exynos 2100  từ chính nhà Samsung.	Samsung Galaxy S21 FE trang bị chip Exynos 2100 từ chính nhà Samsung .
+
+Hai con chip trên đều mang lại  hiệu năng mạnh mẽ , tuy nhiên chip Snapdragon của A73 sẽ phù hợp hơn với những ai  thích chơi game .	Hai con chip trên đều mang lại hiệu năng mạnh mẽ , tuy nhiên chip Snapdragon của A73 sẽ phù hợp hơn với những ai thích chơi game .
+{"subject": ["1&&Hai", "2&&con", "3&&chip", "4&&trên"], "object": ["1&&Hai", "2&&con", "3&&chip", "4&&trên"], "aspect": ["8&&hiệu", "9&&năng", "10&&mạnh", "11&&mẽ"], "predicate": ["5&&đều", "6&&mang", "7&&lại"], "label": "EQL"}
+{"subject": ["16&&Snapdragon", "17&&của", "18&&A73"], "object": [], "aspect": ["27&&chơi", "28&&game"], "predicate": ["20&&phù", "21&&hợp", "22&&hơn"], "label": "COM+"}
+
+alt: Chip Exynos trên Samsung Galaxy S21 FE	alt : Chip Exynos trên Samsung Galaxy S21 FE
+
+des: Chip Exynos trên Samsung Galaxy S21 FE	des : Chip Exynos trên Samsung Galaxy S21 FE
+
+Chip Exynos trên Samsung Galaxy S21 FE.	Chip Exynos trên Samsung Galaxy S21 FE .
+
+Bộ nhớ	Bộ nhớ
+
+Cả 2 chiếc điện thoại đều có cùng mức RAM là  8 GB ,  128GB ROM .	Cả 2 chiếc điện thoại đều có cùng mức RAM là 8 GB , 128GB ROM .
+{"subject": ["1&&Cả", "2&&2", "3&&chiếc", "4&&điện", "5&&thoại"], "object": ["1&&Cả", "2&&2", "3&&chiếc", "4&&điện", "5&&thoại"], "aspect": ["9&&mức", "10&&RAM", "11&&là", "12&&8", "13&&GB"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&2", "3&&chiếc", "4&&điện", "5&&thoại"], "object": ["1&&Cả", "2&&2", "3&&chiếc", "4&&điện", "5&&thoại"], "aspect": ["15&&128GB", "16&&ROM"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
+
+Với dung lượng RAM lớn cả hai máy đều có  khả năng đa nhiệm mượt mà .	Với dung lượng RAM lớn cả hai máy đều có khả năng đa nhiệm mượt mà .
+{"subject": ["6&&cả", "7&&hai", "8&&máy"], "object": ["6&&cả", "7&&hai", "8&&máy"], "aspect": ["11&&khả", "12&&năng", "13&&đa", "14&&nhiệm", "15&&mượt", "16&&mà"], "predicate": ["9&&đều", "10&&có"], "label": "EQL"}
+
+Dung lượng  ROM 128GB  cũng sẽ giúp bạn  thoải mái lưu trữ  dữ liệu của mình	Dung lượng ROM 128GB cũng sẽ giúp bạn thoải mái lưu trữ dữ liệu của mình
+
+alt: Hỗ trợ RAM 8GB, ROM 128GB	alt : Hỗ trợ RAM 8GB , ROM 128GB
+
+des: Hỗ trợ RAM 8GB, ROM 128GB	des : Hỗ trợ RAM 8GB , ROM 128GB
+
+Hỗ trợ RAM 8GB, ROM 128GB.	Hỗ trợ RAM 8GB , ROM 128GB .
+
+Kết nối	Kết nối
+
+Trên Samsung Galaxy A73 và Samsung Galaxy S21 FE đều được  hỗ trợ kết nối 5G  cho khả năng kết nối internet ấn tượng, tốc độ cao.	Trên Samsung Galaxy A73 và Samsung Galaxy S21 FE đều được hỗ trợ kết nối 5G cho khả năng kết nối internet ấn tượng , tốc độ cao .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&A73"], "object": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&FE"], "aspect": ["14&&kết", "15&&nối", "16&&5G"], "predicate": ["10&&đều", "11&&được", "12&&hỗ", "13&&trợ"], "label": "EQL"}
+
+alt: Kết nối mạng 5G	alt : Kết nối mạng 5G
+
+des: Kết nối mạng 5G	des : Kết nối mạng 5G
+
+Kết nối mạng 5G .	Kết nối mạng 5G .
+
+Pin và sạc	Pin và sạc
+
+Samsung Galaxy A73 dung lượng pin  5000mAh , có hỗ trợ sạc nhanh  25W .	Samsung Galaxy A73 dung lượng pin 5000mAh , có hỗ trợ sạc nhanh 25W .
+
+Đối với Samsung Galaxy S21 FE có dung lượng pin kém hơn đó là  4500mAh , có hỗ trợ sạc nhanh  25W , hỗ trợ sạc không dây, sạc ngược cho thiết bị khác.	Đối với Samsung Galaxy S21 FE có dung lượng pin kém hơn đó là 4500mAh , có hỗ trợ sạc nhanh 25W , hỗ trợ sạc không dây , sạc ngược cho thiết bị khác .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&S21", "6&&FE"], "object": [], "aspect": ["8&&dung", "9&&lượng", "10&&pin"], "predicate": ["11&&kém", "12&&hơn"], "label": "COM-"}
+
+alt: Sạc không dây trên Samsung Galaxy s21 FE	alt : Sạc không dây trên Samsung Galaxy s21 FE
+
+des: Sạc không dây trên Samsung Galaxy s21 FE	des : Sạc không dây trên Samsung Galaxy s21 FE
+
+Sạc không dây trên Samsung Galaxy s21 FE.	Sạc không dây trên Samsung Galaxy s21 FE .
+
+Tiện ích	Tiện ích
+
+Trên cả 2 thiết bị đều có bảo mật nâng cao khoá vân tay dưới màn hình.	Trên cả 2 thiết bị đều có bảo mật nâng cao khoá vân tay dưới màn hình .
+{"subject": ["2&&cả", "3&&2", "4&&thiết", "5&&bị"], "object": ["2&&cả", "3&&2", "4&&thiết", "5&&bị"], "aspect": ["8&&bảo", "9&&mật", "10&&nâng", "11&&cao", "12&&khoá", "13&&vân", "14&&tay", "15&&dưới", "16&&màn", "17&&hình"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
+
+Tuy nhiên Samsung  Galaxy S21 FE  còn có mở khóa khuôn mặt.	Tuy nhiên Samsung Galaxy S21 FE còn có mở khóa khuôn mặt .
+
+4.	4 .
+
+Bảng so sánh giữa Samsung Galaxy A73 và S21 FE	Bảng so sánh giữa Samsung Galaxy A73 và S21 FE
+
+5.	5 .
+
+Nên mua điện thoại Samsung Galaxy A73 hay S21 FE	Nên mua điện thoại Samsung Galaxy A73 hay S21 FE
+
+Cả  Samsung Galaxy A73  và  S21 FE  đều là những chiếc điện thoại hỗ trợ đầy đủ các tính năng và thực hiện tốt các tác vụ hằng ngày.	Cả Samsung Galaxy A73 và S21 FE đều là những chiếc điện thoại hỗ trợ đầy đủ các tính năng và thực hiện tốt các tác vụ hằng ngày .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&A73"], "object": ["6&&S21", "7&&FE"], "aspect": ["14&&hỗ", "15&&trợ", "16&&đầy", "17&&đủ", "18&&các", "19&&tính", "20&&năng"], "predicate": ["8&&đều"], "label": "EQL"}
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&A73"], "object": ["6&&S21", "7&&FE"], "aspect": ["22&&thực", "23&&hiện", "24&&tốt", "25&&các", "26&&tác", "27&&vụ", "28&&hằng", "29&&ngày"], "predicate": ["8&&đều"], "label": "EQL"}
+
+Đối với những người yêu thích  màn hình sống động , với gam màu nổi bật, đa dạng kiểu bảo mật cùng với đó là  hỗ trợ nhiều tính năng  nổi bật như sạc ngược, sạc không dây thì chiếc Samsung Galaxy S21 FE sẽ là lựa chọn phù hợp.	Đối với những người yêu thích màn hình sống động , với gam màu nổi bật , đa dạng kiểu bảo mật cùng với đó là hỗ trợ nhiều tính năng nổi bật như sạc ngược , sạc không dây thì chiếc Samsung Galaxy S21 FE sẽ là lựa chọn phù hợp .
+
+Còn đối với những ai có kinh phí không quá cao, nhu cầu sử dụng vừa đủ thì Samsung Galaxy A73 cũng vẫn đáp ứng tốt từ  nhu cầu chơi game , khi được trang bị  chip Snapdragon 778G  mạnh mẽ, dung lượng pin cao  5000mAh  cho bạn dùng cả ngày và một Camera chính có độ phân giải lên đến  108MP .	Còn đối với những ai có kinh phí không quá cao , nhu cầu sử dụng vừa đủ thì Samsung Galaxy A73 cũng vẫn đáp ứng tốt từ nhu cầu chơi game , khi được trang bị chip Snapdragon 778G mạnh mẽ , dung lượng pin cao 5000mAh cho bạn dùng cả ngày và một Camera chính có độ phân giải lên đến 108MP .
+
+alt: Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình	alt : Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình
+
+des: Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình	des : Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình
+
+Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình.	Lựa chọn điện thoại phù hợp với nhu cầu sử dụng của mình .
+
+6.	6 .
+
+Chính sách bảo hành khi mua điện thoại Samsung Galaxy A73, S21 FE tại TGDĐ	Chính sách bảo hành khi mua điện thoại Samsung Galaxy A73 , S21 FE tại TGDĐ
+
+Nếu đã quyết định mua  Samsung Galaxy A73  và  S21 FE  thì bạn nên lựa chọn mua ở những cửa hàng uy tín để có thể mua được sản phẩm chất lượng và được hưởng các chính sách bảo hành chính hãng.	Nếu đã quyết định mua Samsung Galaxy A73 và S21 FE thì bạn nên lựa chọn mua ở những cửa hàng uy tín để có thể mua được sản phẩm chất lượng và được hưởng các chính sách bảo hành chính hãng .
+
+Bạn hoàn toàn có thể an tâm khi mua điện thoại ở  Thế Giới Di Động  với nhiều ưu đãi cùng chính sách bảo hành hấp dẫn.	Bạn hoàn toàn có thể an tâm khi mua điện thoại ở Thế Giới Di Động với nhiều ưu đãi cùng chính sách bảo hành hấp dẫn .
+
+- Bảo hành chính hãng điện thoại  1 năm .	- Bảo hành chính hãng điện thoại 1 năm .
+
+-  Hư gì đổi nấy 12 tháng  tại hệ thống siêu thị trên toàn quốc (miễn phí tháng đầu).	- Hư gì đổi nấy 12 tháng tại hệ thống siêu thị trên toàn quốc ( miễn phí tháng đầu ) .
+
+alt: Chính sách bảo hành tại Thế Giới Di Động	alt : Chính sách bảo hành tại Thế Giới Di Động
+
+des: Chính sách bảo hành tại Thế Giới Di Động	des : Chính sách bảo hành tại Thế Giới Di Động
+
+Chính sách bảo hành tại Thế Giới Di Động.	Chính sách bảo hành tại Thế Giới Di Động .
+
+(*) Trên đây là chính sách bảo hành được cập nhật vào ngày 14/04/2022.	( * ) Trên đây là chính sách bảo hành được cập nhật vào ngày 14 / 04 / 2022 .
+
+Chính sách có thể thay đổi theo thời gian, để xem chi tiết chính sách bảo hành cụ thể bạn có thể xem  TẠI ĐÂY .	Chính sách có thể thay đổi theo thời gian , để xem chi tiết chính sách bảo hành cụ thể bạn có thể xem TẠI ĐÂY .
+
+Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE, hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp.	Trên đây là những so sánh Samsung Galaxy A73 5G và Samsung Galaxy S21 FE , hy vọng bài viết có thể giúp bạn hiểu rõ chi tiết hơn về hai phiên bản này và đưa ra lựa chọn phù hợp .
+

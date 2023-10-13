@@ -1,0 +1,220 @@
+title: Galaxy S23 Ultra và Galaxy Z Fold 4: Cuộc chiến giữa các chiến binh Samsung	title : Galaxy S23 Ultra và Galaxy Z Fold 4 : Cuộc chiến giữa các chiến binh Samsung
+
+Giữa Galaxy S23 Ultra và Galaxy Z Fold 4, đâu mới là sự lựa chọn hấp dẫn hơn?	Giữa Galaxy S23 Ultra và Galaxy Z Fold 4 , đâu mới là sự lựa chọn hấp dẫn hơn ?
+
+Galaxy S23 Ultra và điện thoại màn hình gập Galaxy Z Fold 4 đều là những model hàng đầu của Samsung ở thời điểm hiện tại.	Galaxy S23 Ultra và điện thoại màn hình gập Galaxy Z Fold 4 đều là những model hàng đầu của Samsung ở thời điểm hiện tại .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": [], "predicate": ["18&&hàng", "19&&đầu", "20&&của", "21&&Samsung", "22&&ở", "23&&thời", "24&&điểm", "25&&hiện", "26&&tại"], "label": "SUP+"}
+{"subject": ["5&&điện", "6&&thoại", "7&&màn", "8&&hình", "9&&gập", "10&&Galaxy", "11&&Z", "12&&Fold", "13&&4"], "object": [], "aspect": [], "predicate": ["18&&hàng", "19&&đầu", "20&&của", "21&&Samsung", "22&&ở", "23&&thời", "24&&điểm", "25&&hiện", "26&&tại"], "label": "SUP+"}
+
+Cả hai đều có mức giá khá cao, nhưng việc sở hữu ngoại hình đẳng cấp cùng nhiều tính năng cao cấp khiến chúng trở nên hấp dẫn với nhiều người dùng.	Cả hai đều có mức giá khá cao , nhưng việc sở hữu ngoại hình đẳng cấp cùng nhiều tính năng cao cấp khiến chúng trở nên hấp dẫn với nhiều người dùng .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["3&&đều", "4&&có"], "predicate": ["5&&mức", "6&&giá", "7&&khá", "8&&cao"], "label": "EQL"}
+
+Liệu khi đặt lên bàn cân so sánh thì giữa 2 thiết bị này, đâu là lựa chọn hấp dẫn hơn?	Liệu khi đặt lên bàn cân so sánh thì giữa 2 thiết bị này , đâu là lựa chọn hấp dẫn hơn ?
+
+So sánh thiết kế và chất lượng hiển thị	So sánh thiết kế và chất lượng hiển thị
+
+Khi gập điện thoại Galaxy Z Fold 4 thì thiết bị có phần ngắn và hẹp hơn so với Galaxy S23 Ultra.	Khi gập điện thoại Galaxy Z Fold 4 thì thiết bị có phần ngắn và hẹp hơn so với Galaxy S23 Ultra .
+{"subject": ["10&&thiết", "11&&bị"], "object": ["20&&Galaxy", "21&&S23", "22&&Ultra"], "aspect": [], "predicate": ["12&&có", "13&&phần", "14&&ngắn", "15&&và", "16&&hẹp", "17&&hơn"], "label": "COM-"}
+
+Tuy nhiên, nó cũng khá dày và cồng kềnh hơn khi bỏ vào túi của bạn.	Tuy nhiên , nó cũng khá dày và cồng kềnh hơn khi bỏ vào túi của bạn .
+{"subject": ["4&&nó"], "object": [], "aspect": [], "predicate": ["6&&khá", "7&&dày", "8&&và", "9&&cồng", "10&&kềnh", "11&&hơn"], "label": "COM-"}
+
+Khoảng cánh về diện tích viền và khả năng hiển thị nếp gấp của Samsung còn khá hạn chế.	Khoảng cánh về diện tích viền và khả năng hiển thị nếp gấp của Samsung còn khá hạn chế .
+
+Do đó ở khía cạnh này Galaxy S23 Ultra là model dành chiến thắng.	Do đó ở khía cạnh này Galaxy S23 Ultra là model dành chiến thắng .
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": [], "aspect": ["4&&khía", "5&&cạnh", "6&&này"], "predicate": ["13&&chiến", "14&&thắng"], "label": "COM+"}
+
+alt: So sánh thiết kế và chất lượng hiển thị Galaxy S23 Ultra với Galaxy Z Fold 4	alt : So sánh thiết kế và chất lượng hiển thị Galaxy S23 Ultra với Galaxy Z Fold 4
+
+des:	des :
+
+Samsung trang bị cho Galaxy Z Fold 4 màn hình phụ bên ngoài với kích thước 6,2 inch.	Samsung trang bị cho Galaxy Z Fold 4 màn hình phụ bên ngoài với kích thước 6,2 inch .
+
+Khá tiện lợi và giúp người dùng dễ dàng thao tác bằng một tay.	Khá tiện lợi và giúp người dùng dễ dàng thao tác bằng một tay .
+
+Tuy nhiên, tổng thể dày và nặng vẫn luôn hiện hữu trên thiết bị.	Tuy nhiên , tổng thể dày và nặng vẫn luôn hiện hữu trên thiết bị .
+
+Ưu điểm lớn nhất của smartphone màn hình gập tốt nhất hiện nay của Samsung so với Galaxy S23 Ultra là sở hữu màn hình lên đến 7,6 inch.	Ưu điểm lớn nhất của smartphone màn hình gập tốt nhất hiện nay của Samsung so với Galaxy S23 Ultra là sở hữu màn hình lên đến 7,6 inch .
+{"subject": ["6&&smartphone", "7&&màn", "8&&hình", "9&&gập", "10&&tốt", "11&&nhất", "12&&hiện", "13&&nay", "14&&của", "15&&Samsung"], "object": ["18&&Galaxy", "19&&S23", "20&&Ultra"], "aspect": ["24&&màn", "25&&hình"], "predicate": ["1&&Ưu", "2&&điểm", "3&&lớn", "4&&nhất"], "label": "COM+"}
+
+Điều này mang đến không gian hiển thị rộng rãi.	Điều này mang đến không gian hiển thị rộng rãi .
+
+Giúp người dùng thoải mái lướt web, chơi game, xem phim...Thực tế kích thước 7,6 inch không lớn hơn nhiều so với màn hình 6,8 inch của biến thể Ultra.	Giúp người dùng thoải mái lướt web , chơi game , xem phim . . . Thực tế kích thước 7,6 inch không lớn hơn nhiều so với màn hình 6,8 inch của biến thể Ultra .
+{"subject": ["19&&kích", "20&&thước", "21&&7,6", "22&&inch"], "object": ["29&&màn", "30&&hình", "31&&6,8", "32&&inch", "33&&của", "34&&biến", "35&&thể", "36&&Ultra"], "aspect": [], "predicate": ["23&&không", "24&&lớn", "25&&hơn", "26&&nhiều"], "label": "EQL"}
+
+Nhưng việc sử dụng tỷ lệ gần như vuông.	Nhưng việc sử dụng tỷ lệ gần như vuông .
+
+Đã giúp diện tích bề mặt Galaxy Z Fold 4 lớn hơn nhiều.	Đã giúp diện tích bề mặt Galaxy Z Fold 4 lớn hơn nhiều .
+{"subject": ["7&&Galaxy", "8&&Z", "9&&Fold", "10&&4"], "object": [], "aspect": ["3&&diện", "4&&tích", "5&&bề", "6&&mặt"], "predicate": ["11&&lớn", "12&&hơn", "13&&nhiều"], "label": "COM+"}
+
+Samsung Galaxy S23 Ultra nổi bật với bút S-Pen được tích hợp bên trong thân máy.	Samsung Galaxy S23 Ultra nổi bật với bút S-Pen được tích hợp bên trong thân máy .
+
+Mặc dù Samsung Z Fold 4 cũng được hỗ trợ chiếc bút thần thánh này.	Mặc dù Samsung Z Fold 4 cũng được hỗ trợ chiếc bút thần thánh này .
+
+Nhưng người dùng phải mang theo như một món phụ kiện.	Nhưng người dùng phải mang theo như một món phụ kiện .
+
+Đây là lợi thế mà Samsung mang đến cho flagship Galaxy S của mình.	Đây là lợi thế mà Samsung mang đến cho flagship Galaxy S của mình .
+
+Đối với chất lượng hiển thị, màn hình Samsung S23 Ultra sử dụng cống nghệ tấm nền OLED thế hệ thứ 12 mới nhất đã được ra mắt trên Galaxy Z Fold 4.	Đối với chất lượng hiển thị , màn hình Samsung S23 Ultra sử dụng cống nghệ tấm nền OLED thế hệ thứ 12 mới nhất đã được ra mắt trên Galaxy Z Fold 4 .
+
+alt: So sánh thiết kế và chất lượng hiển thị Galaxy S23 Ultra với Galaxy Z Fold 4	alt : So sánh thiết kế và chất lượng hiển thị Galaxy S23 Ultra với Galaxy Z Fold 4
+
+des:	des :
+
+Tuy nhiên, trên Galaxy S23 Ultra có độ sáng tối đa cao hơn.	Tuy nhiên , trên Galaxy S23 Ultra có độ sáng tối đa cao hơn .
+{"subject": ["5&&Galaxy", "6&&S23", "7&&Ultra"], "object": [], "aspect": ["9&&độ", "10&&sáng", "11&&tối", "12&&đa"], "predicate": ["13&&cao", "14&&hơn"], "label": "COM+"}
+
+Cả hai điện thoại đều mang đến khả năng hiển thị tuyệt vời nhờ trang bị tần số quét 1- 120Hz.	Cả hai điện thoại đều mang đến khả năng hiển thị tuyệt vời nhờ trang bị tần số quét 1 - 120Hz .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&khả", "9&&năng", "10&&hiển", "11&&thị", "12&&tuyệt", "13&&vời"], "predicate": ["5&&đều", "6&&mang", "7&&đến"], "label": "EQL"}
+
+Việc sở hữu màn hình sáng hơn khiến biến thể Ultra có lợi thế hơn một chút so với Galaxy Z Fold 4.	Việc sở hữu màn hình sáng hơn khiến biến thể Ultra có lợi thế hơn một chút so với Galaxy Z Fold 4 .
+{"subject": ["9&&biến", "10&&thể", "11&&Ultra"], "object": ["20&&Galaxy", "21&&Z", "22&&Fold", "23&&4"], "aspect": ["4&&màn", "5&&hình"], "predicate": ["6&&sáng", "7&&hơn"], "label": "COM+"}
+{"subject": ["9&&biến", "10&&thể", "11&&Ultra"], "object": ["20&&Galaxy", "21&&Z", "22&&Fold", "23&&4"], "aspect": [], "predicate": ["13&&lợi", "14&&thế", "15&&hơn", "16&&một", "17&&chút"], "label": "COM+"}
+
+Với điện thoại màn hình gập Galaxy Z Fold 4 sẽ mang đến không gian hiển thị linh hoạt hơn với 2 màn hình.	Với điện thoại màn hình gập Galaxy Z Fold 4 sẽ mang đến không gian hiển thị linh hoạt hơn với 2 màn hình .
+{"subject": ["2&&điện", "3&&thoại", "4&&màn", "5&&hình", "6&&gập", "7&&Galaxy", "8&&Z", "9&&Fold", "10&&4"], "object": ["2&&điện", "3&&thoại", "4&&màn", "5&&hình", "6&&gập", "7&&Galaxy", "8&&Z", "9&&Fold", "10&&4"], "aspect": ["14&&không", "15&&gian", "16&&hiển", "17&&thị"], "predicate": ["18&&linh", "19&&hoạt", "20&&hơn"], "label": "COM+"}
+
+Trong khi Samsung S23 Ultra sở hữu màn hình cong tràn, không có nếp gấp và độ sáng tốt hơn.	Trong khi Samsung S23 Ultra sở hữu màn hình cong tràn , không có nếp gấp và độ sáng tốt hơn .
+{"subject": ["3&&Samsung", "4&&S23", "5&&Ultra"], "object": [], "aspect": ["18&&độ", "19&&sáng"], "predicate": ["20&&tốt", "21&&hơn"], "label": "COM+"}
+
+So sánh máy ảnh giữa Galaxy S23 Ultra và Galaxy Z Fold 4	So sánh máy ảnh giữa Galaxy S23 Ultra và Galaxy Z Fold 4
+
+Camera Galaxy S23 Ultra nổi bật với cảm biến chính 200MP ISOCELL HP2.	Camera Galaxy S23 Ultra nổi bật với cảm biến chính 200MP ISOCELL HP2 .
+
+Lớn hơn khá nhiều so với cảm biến 50MP khiêm tốn trên Galaxy Z Fold 4.	Lớn hơn khá nhiều so với cảm biến 50MP khiêm tốn trên Galaxy Z Fold 4 .
+{"subject": [], "object": ["13&&Galaxy", "14&&Z", "15&&Fold", "16&&4"], "aspect": [], "predicate": ["1&&Lớn", "2&&hơn", "3&&khá", "4&&nhiều"], "label": "COM+"}
+
+Mặc dù gã khổng lồ công nghệ Hàn Quốc đã ngừng đưa các cảm biến 12MP trên các model màn hình gập của mình.	Mặc dù gã khổng lồ công nghệ Hàn Quốc đã ngừng đưa các cảm biến 12MP trên các model màn hình gập của mình .
+
+Nhưng ngay cả khi camera 50MP cũng không thể so với Galaxy S23 Ultra.	Nhưng ngay cả khi camera 50MP cũng không thể so với Galaxy S23 Ultra .
+{"subject": ["5&&camera", "6&&50MP"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": [], "predicate": ["8&&không", "9&&thể", "10&&so", "11&&với"], "label": "COM-"}
+
+Đó là chưa kể đến khả năng zoom ấn tượng trên điện thoại.	Đó là chưa kể đến khả năng zoom ấn tượng trên điện thoại .
+
+Dưới đây là thông số camera của hai thiết bị:	Dưới đây là thông số camera của hai thiết bị :
+
+Galaxy S23 Ultra:	Galaxy S23 Ultra :
+
+- Camera chính 200MP	- Camera chính 200MP
+
+- Camera siêu rộng 12MP, f/2.2	- Camera siêu rộng 12MP , f / 2.2
+
+- 2 camera tele 10MP hỗ trợ zoom quang 10x và 3x	- 2 camera tele 10MP hỗ trợ zoom quang 10x và 3x
+
+Galaxy Z Fold 4:	Galaxy Z Fold 4 :
+
+- Camera chính 50MP	- Camera chính 50MP
+
+- Camera siêu rộng 12MP, f/2.2	- Camera siêu rộng 12MP , f / 2.2
+
+- Camera tele 12MP hỗ trợ zoom quang 3x	- Camera tele 12MP hỗ trợ zoom quang 3x
+
+Với khả năng phóng đại kính tiềm vọng 10 lần và zoom tele 3x để chụp chân dung và các vật thể gần hơn.	Với khả năng phóng đại kính tiềm vọng 10 lần và zoom tele 3x để chụp chân dung và các vật thể gần hơn .
+
+Các mẫu Ultra của Samsung chiếm ưu thế trong cuộc cạnh tranh.	Các mẫu Ultra của Samsung chiếm ưu thế trong cuộc cạnh tranh .
+
+Camera chính trên Samsung S23 Ultra cung cấp hình ảnh sắc nét.	Camera chính trên Samsung S23 Ultra cung cấp hình ảnh sắc nét .
+
+Nhiều chi tiết và dải động tốt hơn so với điện thoại màn hình gập Galaxy Z Fold 4.	Nhiều chi tiết và dải động tốt hơn so với điện thoại màn hình gập Galaxy Z Fold 4 .
+{"subject": [], "object": ["11&&điện", "12&&thoại", "13&&màn", "14&&hình", "15&&gập", "16&&Galaxy", "17&&Z", "18&&Fold", "19&&4"], "aspect": [], "predicate": ["1&&Nhiều", "2&&chi", "3&&tiết", "4&&và", "5&&dải", "6&&động", "7&&tốt", "8&&hơn"], "label": "COM+"}
+
+alt: trên Galaxy S23 Ultra có độ sáng tối đa cao hơn Galaxy Z Fold 4	alt : trên Galaxy S23 Ultra có độ sáng tối đa cao hơn Galaxy Z Fold 4
+
+des:	des :
+
+Đối với khả năng chụp ảnh thu phóng là một cuộc chiến không công bằng bởi Samsung S23 Ultra mang đến khả năng thu phóng quang học gấp 10 lần.	Đối với khả năng chụp ảnh thu phóng là một cuộc chiến không công bằng bởi Samsung S23 Ultra mang đến khả năng thu phóng quang học gấp 10 lần .
+
+Trong khi ở mức 30x, hình ảnh chụp từ Galaxy Z Fold 4 khá mờ ảo.	Trong khi ở mức 30x , hình ảnh chụp từ Galaxy Z Fold 4 khá mờ ảo .
+
+Các thuật toán máy ảnh Galaxy S23 Ultra cũng mang đến chất lượng tốt trong các điều kiện.	Các thuật toán máy ảnh Galaxy S23 Ultra cũng mang đến chất lượng tốt trong các điều kiện .
+
+Bên cạnh đó, khả năng chụp ảnh chiếu sáng trên camera Galaxy S23 Ultra cũng được đánh giá caoo với chi tiết được cải thiện.	Bên cạnh đó , khả năng chụp ảnh chiếu sáng trên camera Galaxy S23 Ultra cũng được đánh giá caoo với chi tiết được cải thiện .
+
+Trong các tình huống có điều kiện ánh sáng không mấy thuận lợi,  kích thước pixel của cảm biến 200MP sẽ tăng lên 2,4 micron pixel ảo bằng cách kết hợp 16 thành 1.	Trong các tình huống có điều kiện ánh sáng không mấy thuận lợi , kích thước pixel của cảm biến 200MP sẽ tăng lên 2,4 micron pixel ảo bằng cách kết hợp 16 thành 1 .
+
+Điều này có thể tạo ra một bức ảnh chụp ở 12,5 MP nhưng với độ nhạy sáng tăng lên rất nhiều.	Điều này có thể tạo ra một bức ảnh chụp ở 12,5 MP nhưng với độ nhạy sáng tăng lên rất nhiều .
+
+Bên cạnh đó, khả năng xử lý hình ảnh của chip Snapdragon 8 Gen 2 cũng đến nhiều tính năng chụp ảnh mới cho Samsung S23 Ultra.	Bên cạnh đó , khả năng xử lý hình ảnh của chip Snapdragon 8 Gen 2 cũng đến nhiều tính năng chụp ảnh mới cho Samsung S23 Ultra .
+
+Camera trước giờ đây có các tính năng phân đoạn ngữ nghĩa của nó.	Camera trước giờ đây có các tính năng phân đoạn ngữ nghĩa của nó .
+
+Hình ảnh có màu sắc chân thật hơn Z Fold 4 và chế độ Super HDR được áp dụng cho camera selfie mang lại dải động tốt hơn so với camera trước của điện thoại màn hình gập.	Hình ảnh có màu sắc chân thật hơn Z Fold 4 và chế độ Super HDR được áp dụng cho camera selfie mang lại dải động tốt hơn so với camera trước của điện thoại màn hình gập .
+{"subject": ["1&&Hình", "2&&ảnh"], "object": ["9&&Z", "10&&Fold", "11&&4"], "aspect": ["4&&màu", "5&&sắc"], "predicate": ["6&&chân", "7&&thật", "8&&hơn"], "label": "COM+"}
+{"subject": ["21&&camera", "22&&selfie"], "object": ["31&&camera", "32&&trước", "33&&của", "34&&điện", "35&&thoại", "36&&màn", "37&&hình", "38&&gập"], "aspect": ["25&&dải", "26&&động"], "predicate": ["27&&tốt", "28&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["9&&Z", "10&&Fold", "11&&4"], "aspect": ["1&&Hình", "2&&ảnh"], "predicate": ["4&&màu", "5&&sắc", "6&&chân", "7&&thật", "8&&hơn"], "label": "COM+"}
+
+Bên cạnh đó, Samsung còn tích hợp tính năng ổn định độc đáo ở chế độ quay video 360 độ trên Galaxy S23 Ultra cũng mượt mà hơn.	Bên cạnh đó , Samsung còn tích hợp tính năng ổn định độc đáo ở chế độ quay video 360 độ trên Galaxy S23 Ultra cũng mượt mà hơn .
+{"subject": ["23&&Galaxy", "24&&S23", "25&&Ultra"], "object": [], "aspect": ["16&&chế", "17&&độ", "18&&quay", "19&&video", "20&&360", "21&&độ"], "predicate": ["27&&mượt", "28&&mà", "29&&hơn"], "label": "COM+"}
+
+Hiệu suất và phần mềm	Hiệu suất và phần mềm
+
+Cấu hình Galaxy S23 Ultra được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2.	Cấu hình Galaxy S23 Ultra được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 2 .
+
+Mặc dù chipset mới nhất của Qualcomm vẫn được sản xuất trên tiến trình 4nm, nhưng nó là thế hệ thứ 2.	Mặc dù chipset mới nhất của Qualcomm vẫn được sản xuất trên tiến trình 4nm , nhưng nó là thế hệ thứ 2 .
+
+Bên cạnh đó, việc bổ sung cải tiến SoC mới đã giúp hiệu suất Galaxy S23 Ultra vượt trội hơn Galaxy Z Fold 4 với chip Snapdragon 8 Gen 1.	Bên cạnh đó , việc bổ sung cải tiến SoC mới đã giúp hiệu suất Galaxy S23 Ultra vượt trội hơn Galaxy Z Fold 4 với chip Snapdragon 8 Gen 1 .
+{"subject": ["16&&Galaxy", "17&&S23", "18&&Ultra"], "object": ["22&&Galaxy", "23&&Z", "24&&Fold", "25&&4"], "aspect": ["14&&hiệu", "15&&suất"], "predicate": ["19&&vượt", "20&&trội", "21&&hơn"], "label": "COM+"}
+
+alt: So sánh máy ảnh Galaxy S23 Ultra và Galaxy Z Fold 4	alt : So sánh máy ảnh Galaxy S23 Ultra và Galaxy Z Fold 4
+
+des:	des :
+
+Qualcomm đã trang bị tốc độ  3,36 GHz nhanh hơn cho Snapdragon 8 Gen 2 dành cho các biến thể Galaxy S23.	Qualcomm đã trang bị tốc độ 3,36 GHz nhanh hơn cho Snapdragon 8 Gen 2 dành cho các biến thể Galaxy S23 .
+
+Tốc độ xung nhịp cao hơn phiên bản 3.2 GHZ được Qualcomm công bố.	Tốc độ xung nhịp cao hơn phiên bản 3.2 GHZ được Qualcomm công bố .
+{"subject": [], "object": ["7&&phiên", "8&&bản", "9&&3.2", "10&&GHZ"], "aspect": ["1&&Tốc", "2&&độ", "3&&xung", "4&&nhịp"], "predicate": ["5&&cao", "6&&hơn"], "label": "COM+"}
+
+Điểm số Geekbench trong các bài kiểm tra điểm chuẩn đơn và đa lõi cũng vượt qua điểm số của Snapdragon 8 Gen 1 của Z Fold 4.	Điểm số Geekbench trong các bài kiểm tra điểm chuẩn đơn và đa lõi cũng vượt qua điểm số của Snapdragon 8 Gen 1 của Z Fold 4 .
+{"subject": [], "object": ["18&&điểm", "19&&số", "20&&của", "21&&Snapdragon", "22&&8", "23&&Gen", "24&&1", "25&&của", "26&&Z", "27&&Fold", "28&&4"], "aspect": ["1&&Điểm", "2&&số", "3&&Geekbench", "4&&trong", "5&&các", "6&&bài", "7&&kiểm", "8&&tra", "9&&điểm", "10&&chuẩn", "11&&đơn", "12&&và", "13&&đa", "14&&lõi"], "predicate": ["16&&vượt", "17&&qua"], "label": "COM+"}
+
+Chưa kể đến khả năng của hệ thống con đồ họa vượt trội.	Chưa kể đến khả năng của hệ thống con đồ họa vượt trội .
+
+Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ, ổn định nhất của Qualcomm ở thời điểm hiện tại.	Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ , ổn định nhất của Qualcomm ở thời điểm hiện tại .
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": [], "predicate": ["12&&mạnh", "13&&mẽ", "14&&,", "15&&ổn", "16&&định", "17&&nhất", "18&&của", "19&&Qualcomm", "20&&ở", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "SUP+"}
+
+SoC còn hỗ trợ các xu hướng kết xuất đồ họa 3D mới nhất.	SoC còn hỗ trợ các xu hướng kết xuất đồ họa 3D mới nhất .
+
+Thậm chí chipset này có thể ngang bằng với A16 Bionic trên iPhone 14.	Thậm chí chipset này có thể ngang bằng với A16 Bionic trên iPhone 14 .
+{"subject": ["3&&chipset", "4&&này"], "object": ["10&&A16", "11&&Bionic", "12&&trên", "13&&iPhone", "14&&14"], "aspect": [], "predicate": ["7&&ngang", "8&&bằng"], "label": "EQL"}
+
+Nhìn chung ở phần hiệu suất.	Nhìn chung ở phần hiệu suất .
+
+Điện thoại Galaxy S23 Ultra đã giành chiến thắng so với người anh em của mình.	Điện thoại Galaxy S23 Ultra đã giành chiến thắng so với người anh em của mình .
+{"subject": ["1&&Điện", "2&&thoại", "3&&Galaxy", "4&&S23", "5&&Ultra"], "object": ["12&&người", "13&&anh", "14&&em", "15&&của", "16&&mình"], "aspect": [], "predicate": ["8&&chiến", "9&&thắng"], "label": "COM+"}
+
+Tuổi thọ pin và tốc độ sạc	Tuổi thọ pin và tốc độ sạc
+
+Việc trang bị kích thước màn hình lớn cùng với gánh 2 màn hình đã khiến Galaxy Z Fold 4 tiêu tốn khá nhiều năng lượng.	Việc trang bị kích thước màn hình lớn cùng với gánh 2 màn hình đã khiến Galaxy Z Fold 4 tiêu tốn khá nhiều năng lượng .
+
+Bất chấp điện thoại được Samsung trang bị chipset tiết kiệm điện năng.	Bất chấp điện thoại được Samsung trang bị chipset tiết kiệm điện năng .
+
+Điện thoại được tranh bị viên pin có dung lượng 4.400mAh, trong khi Galaxy S23 Ultra sở hữu viên pin 5000mAh.	Điện thoại được tranh bị viên pin có dung lượng 4.400mAh , trong khi Galaxy S23 Ultra sở hữu viên pin 5000mAh .
+
+alt: Tuổi thọ pin và tốc độ sạc Galaxy S23 Ultra với Galaxy Z Fold 4	alt : Tuổi thọ pin và tốc độ sạc Galaxy S23 Ultra với Galaxy Z Fold 4
+
+des:	des :
+
+Mặt khác, chip xử lý mới của Qualcomm cũng hiệu quả hơn trong việc tiết kiệm năng lượng.	Mặt khác , chip xử lý mới của Qualcomm cũng hiệu quả hơn trong việc tiết kiệm năng lượng .
+{"subject": ["4&&chip", "5&&xử", "6&&lý", "7&&mới", "8&&của", "9&&Qualcomm"], "object": [], "aspect": ["16&&tiết", "17&&kiệm", "18&&năng", "19&&lượng"], "predicate": ["11&&hiệu", "12&&quả", "13&&hơn"], "label": "COM+"}
+
+Theo như công bố của Samsung thì nó giúp tăng thời lượng pin lên 20% so với model tiền nhiệm và đánh bại thời lượng pin trên Samsung Z Fold 4.	Theo như công bố của Samsung thì nó giúp tăng thời lượng pin lên 20% so với model tiền nhiệm và đánh bại thời lượng pin trên Samsung Z Fold 4 .
+{"subject": ["8&&nó"], "object": ["18&&model", "19&&tiền", "20&&nhiệm"], "aspect": ["11&&thời", "12&&lượng", "13&&pin"], "predicate": ["10&&tăng"], "label": "COM+"}
+{"subject": ["8&&nó"], "object": ["28&&Samsung", "29&&Z", "30&&Fold", "31&&4"], "aspect": ["24&&thời", "25&&lượng", "26&&pin"], "predicate": ["22&&đánh", "23&&bại"], "label": "COM+"}
+
+Ngoài ra, Samsung S23 Ultra cũng mang đến khả năng sạc nhanh hơn là 66 phút thay vì 73 phút như Galaxy Z Fold 4.	Ngoài ra , Samsung S23 Ultra cũng mang đến khả năng sạc nhanh hơn là 66 phút thay vì 73 phút như Galaxy Z Fold 4 .
+{"subject": ["4&&Samsung", "5&&S23", "6&&Ultra"], "object": ["23&&Galaxy", "24&&Z", "25&&Fold", "26&&4"], "aspect": ["10&&khả", "11&&năng", "12&&sạc"], "predicate": ["13&&nhanh", "14&&hơn"], "label": "COM+"}
+
+Điện thoại được hỗ trợ sạc nhanh với công suất 45W.	Điện thoại được hỗ trợ sạc nhanh với công suất 45W .
+
+Nên mua Galaxy S23 Ultra hay Galaxy Z Fold 4?	Nên mua Galaxy S23 Ultra hay Galaxy Z Fold 4 ?
+
+So sánh Galaxy S23 Ultra và Galaxy Z Fold 4 cho thấy khá dễ dàng để đưa ra quyết định.	So sánh Galaxy S23 Ultra và Galaxy Z Fold 4 cho thấy khá dễ dàng để đưa ra quyết định .
+
+Nếu bạn thích trải nghiệm một chiếc điện thoại với máy ảnh hàng đầu, hiệu năng mạnh mẽ, màn hình sắc nét...cùng với những tiện ích về bút S-Pen thì chắc chắn Galaxy S23 Ultra sẽ là lựa chọn tốt hơn.	Nếu bạn thích trải nghiệm một chiếc điện thoại với máy ảnh hàng đầu , hiệu năng mạnh mẽ , màn hình sắc nét . . . cùng với những tiện ích về bút S-Pen thì chắc chắn Galaxy S23 Ultra sẽ là lựa chọn tốt hơn .
+
+Galaxy Z Fold 4 có thể gây cảm giác cồng kềnh khi cầm trên tay và trong túi.	Galaxy Z Fold 4 có thể gây cảm giác cồng kềnh khi cầm trên tay và trong túi .
+
+Nhưng lại đáp ứng nhu cầu thông tin giải trí của một người khi mở ra.	Nhưng lại đáp ứng nhu cầu thông tin giải trí của một người khi mở ra .
+
+Vì vậy sự lựa chọn tập trung vào yếu tố hiển thị.	Vì vậy sự lựa chọn tập trung vào yếu tố hiển thị .
+

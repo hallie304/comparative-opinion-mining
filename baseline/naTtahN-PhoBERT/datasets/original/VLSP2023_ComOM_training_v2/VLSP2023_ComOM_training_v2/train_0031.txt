@@ -1,0 +1,273 @@
+title: Đánh giá Galaxy Z Flip: Đột phá trong thiết kế của Samsung	title : Đánh giá Galaxy Z Flip : Đột phá trong thiết kế của Samsung
+
+Galaxy Z Flip đang là một trong những smartphone đắt nhất của Samsung.	Galaxy Z Flip đang là một trong những smartphone đắt nhất của Samsung .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Flip"], "object": [], "aspect": [], "predicate": ["10&&đắt", "11&&nhất", "12&&của", "13&&Samsung"], "label": "SUP-"}
+
+Và cũng là chiếc smartphone gây cảm giác rất lẫn lộn.	Và cũng là chiếc smartphone gây cảm giác rất lẫn lộn .
+
+Hãy theo dõi bài đánh giá Galaxy Z Flip sau để cảm nhận rõ hơn về chiếc điện thoại gập này nhé.	Hãy theo dõi bài đánh giá Galaxy Z Flip sau để cảm nhận rõ hơn về chiếc điện thoại gập này nhé .
+
+Ai cũng háo hức muốn thử cảm giác được cầm trên tay chiếc điện thoại tới-từ-tương-lai này.	Ai cũng háo hức muốn thử cảm giác được cầm trên tay chiếc điện thoại tới-từ-tương-lai này .
+
+Nhưng rất nhiều người nghi vấn về độ bền của nó.	Nhưng rất nhiều người nghi vấn về độ bền của nó .
+
+Và còn nhiều thông số khác nữa.	Và còn nhiều thông số khác nữa .
+
+Thiết kế: Một cuộc cách mạng thực sự	Thiết kế : Một cuộc cách mạng thực sự
+
+Thiết kế là điểm thu hút nhiều sự chú ý nhất.	Thiết kế là điểm thu hút nhiều sự chú ý nhất .
+
+Nếu bạn cầm chiếc điện thoại này trên tay, sẽ có một hàng dài người xếp hàng để được chiêm ngưỡng nó.	Nếu bạn cầm chiếc điện thoại này trên tay , sẽ có một hàng dài người xếp hàng để được chiêm ngưỡng nó .
+
+Không chỉ đàn ông mà cả phụ nữ cũng hứng thú.	Không chỉ đàn ông mà cả phụ nữ cũng hứng thú .
+
+Rõ ràng, Samsung đã thiết kế chiếc Z Flip như một món phụ kiện thời trang.	Rõ ràng , Samsung đã thiết kế chiếc Z Flip như một món phụ kiện thời trang .
+
+Với mặt kính màu tím mộng mơ, chiếc điện thoại này như đang toả sáng trên tay bạn.	Với mặt kính màu tím mộng mơ , chiếc điện thoại này như đang toả sáng trên tay bạn .
+
+Do đó, xét về mặt thẩm mỹ, người dùng sẽ đánh giá cao Galaxy Z Flip.	Do đó , xét về mặt thẩm mỹ , người dùng sẽ đánh giá cao Galaxy Z Flip .
+
+alt: đánh giá Galaxy z flip 1	alt : đánh giá Galaxy z flip 1
+
+des:	des :
+
+Còn một điều thú vị nữa.	Còn một điều thú vị nữa .
+
+Thiết kế của Samsung thực sự hữu dụng trong nhiều hoàn cảnh.	Thiết kế của Samsung thực sự hữu dụng trong nhiều hoàn cảnh .
+
+Đa số phụ nữ mặc quần jean với túi trước rất nông.	Đa số phụ nữ mặc quần jean với túi trước rất nông .
+
+Khả năng gập của Z Flip sẽ khiến chiếc điện thoại này nằm gọn trong túi quần của bạn một cách hoàn hảo.	Khả năng gập của Z Flip sẽ khiến chiếc điện thoại này nằm gọn trong túi quần của bạn một cách hoàn hảo .
+
+Còn đối với đàn ông, chiếc điện thoại này sẽ vừa vặn trong túi áo sơ-mi, điều mà không smartphone kiểu dáng thanh nào ngày nay có thể làm được.	Còn đối với đàn ông , chiếc điện thoại này sẽ vừa vặn trong túi áo sơ-mi , điều mà không smartphone kiểu dáng thanh nào ngày nay có thể làm được .
+{"subject": ["22&&smartphone", "23&&kiểu", "24&&dáng", "25&&thanh"], "object": [], "aspect": [], "predicate": ["21&&không", "22&&smartphone", "23&&kiểu", "24&&dáng", "25&&thanh", "26&&nào", "27&&ngày", "28&&nay", "29&&có", "30&&thể", "31&&làm", "32&&được"], "label": "COM-"}
+
+Mặc dù vậy, cảm giác mở máy không còn như xưa nữa.	Mặc dù vậy , cảm giác mở máy không còn như xưa nữa .
+{"subject": [], "object": [], "aspect": ["5&&cảm", "6&&giác", "7&&mở", "8&&máy"], "predicate": ["9&&không", "10&&còn", "11&&như", "12&&xưa"], "label": "DIF"}
+
+Bạn khó mà có thể mở máy bằng một tay.	Bạn khó mà có thể mở máy bằng một tay .
+
+Và ngay cả khi tay bạn đủ khoẻ, mở bằng một tay có nghĩa rằng bạn sẽ “cà” mạnh móng tay của mình vào màn hình.	Và ngay cả khi tay bạn đủ khoẻ , mở bằng một tay có nghĩa rằng bạn sẽ “ cà ” mạnh móng tay của mình vào màn hình .
+
+Đây rõ ràng là một điều không nên.	Đây rõ ràng là một điều không nên .
+
+Samsung đã khuyến cáo việc này ngay từ khi bóc hộp máy.	Samsung đã khuyến cáo việc này ngay từ khi bóc hộp máy .
+
+Tuy nhiên, bản lề Samsung làm thực sự tốt.	Tuy nhiên , bản lề Samsung làm thực sự tốt .
+
+Nó đủ cứng cáp, và theo nhà sản xuất nói có thể chịu được 200.000 lần đóng mở.	Nó đủ cứng cáp , và theo nhà sản xuất nói có thể chịu được 200.000 lần đóng mở .
+
+Samsung đã lắp vào bản lề một vài “bàn chải” bằng các sợi nylon, giúp bụi bẩn không chui vào bên trong.	Samsung đã lắp vào bản lề một vài “ bàn chải ” bằng các sợi nylon , giúp bụi bẩn không chui vào bên trong .
+
+Tất nhiên, đây không phải tiêu chuẩn IP.	Tất nhiên , đây không phải tiêu chuẩn IP .
+
+Bạn phải đánh đổi cả khả năng chống nước để đổi lấy khả năng gập của máy.	Bạn phải đánh đổi cả khả năng chống nước để đổi lấy khả năng gập của máy .
+
+alt: đánh giá Galaxy z flip 2	alt : đánh giá Galaxy z flip 2
+
+des:	des :
+
+Có một điều mà bạn sẽ thấy lạ trên chiếc máy này.	Có một điều mà bạn sẽ thấy lạ trên chiếc máy này .
+
+Đó là phân bố trọng lượng không đều giữa hai nửa.	Đó là phân bố trọng lượng không đều giữa hai nửa .
+{"subject": ["10&&hai", "11&&nửa"], "object": ["10&&hai", "11&&nửa"], "aspect": ["5&&trọng", "6&&lượng"], "predicate": ["7&&không", "8&&đều"], "label": "DIF"}
+
+Phần trên có vẻ nặng hơn phần dưới.	Phần trên có vẻ nặng hơn phần dưới .
+{"subject": ["1&&Phần", "2&&trên"], "object": ["7&&phần", "8&&dưới"], "aspect": [], "predicate": ["5&&nặng", "6&&hơn"], "label": "COM"}
+
+Bạn sẽ cảm nhận rõ điều này khi cầm máy bằng một tay.	Bạn sẽ cảm nhận rõ điều này khi cầm máy bằng một tay .
+
+Đây không phải điều gì gây khó chịu, nhưng bạn sẽ để ý để đến nó ngay lần đầu trải nghiệm.	Đây không phải điều gì gây khó chịu , nhưng bạn sẽ để ý để đến nó ngay lần đầu trải nghiệm .
+
+Cảm biến vân tay lại là một điểm đáng khen.	Cảm biến vân tay lại là một điểm đáng khen .
+
+Thay vì cảm biến vân tay siêu âm dưới màn hình kém nhạy, Samsung trang bị cho Z Flip cảm biến vân tay điện dung ở cạnh máy.	Thay vì cảm biến vân tay siêu âm dưới màn hình kém nhạy , Samsung trang bị cho Z Flip cảm biến vân tay điện dung ở cạnh máy .
+
+Thiết kế này giống như chiếc Galaxy S10e được tung ra năm ngoái.	Thiết kế này giống như chiếc Galaxy S10e được tung ra năm ngoái .
+{"subject": [], "object": ["7&&Galaxy", "8&&S10e"], "aspect": ["1&&Thiết", "2&&kế", "3&&này"], "predicate": ["4&&giống", "5&&như"], "label": "EQL"}
+
+Nó thực sự hữu dụng, ít nhất với những người thuận tay phải.	Nó thực sự hữu dụng , ít nhất với những người thuận tay phải .
+
+Và chắc chắn là nó nhanh hơn cảm biến vân tay đang có trên S20 Ultra.	Và chắc chắn là nó nhanh hơn cảm biến vân tay đang có trên S20 Ultra .
+{"subject": ["5&&nó"], "object": ["15&&S20", "16&&Ultra"], "aspect": ["8&&cảm", "9&&biến", "10&&vân", "11&&tay"], "predicate": ["6&&nhanh", "7&&hơn"], "label": "COM+"}
+
+alt: đánh giá Galaxy z flip 3	alt : đánh giá Galaxy z flip 3
+
+des:	des :
+
+Màn hình	Màn hình
+
+alt: đánh giá Galaxy z flip 4	alt : đánh giá Galaxy z flip 4
+
+des:	des :
+
+Galaxy Z Flip có màn hình AMOLED rộng 6.7-inch với độ phân giải Full HD+.	Galaxy Z Flip có màn hình AMOLED rộng 6.7 - inch với độ phân giải Full HD + .
+
+Chúng ta không cần phải bàn về chất lượng của nó.	Chúng ta không cần phải bàn về chất lượng của nó .
+
+Đây vẫn là tấm nền tốt nhất của Samsung.	Đây vẫn là tấm nền tốt nhất của Samsung .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&tấm", "5&&nền"], "predicate": ["6&&tốt", "7&&nhất", "8&&của", "9&&Samsung"], "label": "SUP+"}
+
+Ngay cả khi đây không phải màn hình 2K, những yếu tố như màu sắc, độ tương phản và độ sáng vẫn rất tuyệt vời.	Ngay cả khi đây không phải màn hình 2K , những yếu tố như màu sắc , độ tương phản và độ sáng vẫn rất tuyệt vời .
+
+Bạn sẽ cảm thấy có một chút khó chịu với vết hằn ở giữa màn hình.	Bạn sẽ cảm thấy có một chút khó chịu với vết hằn ở giữa màn hình .
+
+Khi sử dụng điện thoại dưới ánh sáng mạnh, bạn sẽ để ý đến nó nhiều hơn.	Khi sử dụng điện thoại dưới ánh sáng mạnh , bạn sẽ để ý đến nó nhiều hơn .
+
+Tuy nhiên với vật liệu mới, vết hằn này không còn sâu như trên Galaxy Fold năm ngoái nữa.	Tuy nhiên với vật liệu mới , vết hằn này không còn sâu như trên Galaxy Fold năm ngoái nữa .
+{"subject": [], "object": ["16&&Galaxy", "17&&Fold", "18&&năm", "19&&ngoái"], "aspect": ["8&&vết", "9&&hằn", "10&&này"], "predicate": ["11&&không", "12&&còn", "13&&sâu", "14&&như"], "label": "COM+"}
+
+Điều mọi người lăn tăn nhất trong thời điểm hiện tại có lẽ là độ bền của màn hình này.	Điều mọi người lăn tăn nhất trong thời điểm hiện tại có lẽ là độ bền của màn hình này .
+
+Samsung đã bảo vệ tấm nền bên dưới bằng một lớp kính siêu mỏng, nhưng phủ lên trên một lớp nhựa.	Samsung đã bảo vệ tấm nền bên dưới bằng một lớp kính siêu mỏng , nhưng phủ lên trên một lớp nhựa .
+
+Thứ bạn thực sự chạm vào hàng ngày là nhựa và nó không thể chống xước tốt bằng kính.	Thứ bạn thực sự chạm vào hàng ngày là nhựa và nó không thể chống xước tốt bằng kính .
+
+Do vậy khi cầm Z Flip trên tay, bạn phải “nâng như nâng trứng, hứng như hứng hoa”.	Do vậy khi cầm Z Flip trên tay , bạn phải “ nâng như nâng trứng , hứng như hứng hoa ” .
+
+Móng tay của bạn cũng có thể gây ra vết xước trên màn hình này.	Móng tay của bạn cũng có thể gây ra vết xước trên màn hình này .
+
+alt: đánh giá Galaxy z flip 5	alt : đánh giá Galaxy z flip 5
+
+des:	des :
+
+Z Flip có một chiếc màn hình nhỏ ở mặt lưng, đặt bên cạnh cụm camera.	Z Flip có một chiếc màn hình nhỏ ở mặt lưng , đặt bên cạnh cụm camera .
+
+Bình thường, bạn có thể nhìn thấy ngày giờ và phần trăm pin qua màn hình này.	Bình thường , bạn có thể nhìn thấy ngày giờ và phần trăm pin qua màn hình này .
+
+Và đây cũng là một màn hình cảm ứng.	Và đây cũng là một màn hình cảm ứng .
+
+Người dùng có thể điều khiển nhạc và tắt báo thức mà không cần mở máy lên.	Người dùng có thể điều khiển nhạc và tắt báo thức mà không cần mở máy lên .
+
+Màn hình này cũng hữu dụng khi bạn có thể chụp selfie với camera sau.	Màn hình này cũng hữu dụng khi bạn có thể chụp selfie với camera sau .
+
+alt: đánh giá Galaxy z flip 6	alt : đánh giá Galaxy z flip 6
+
+des:	des :
+
+Camera	Camera
+
+Z Flip có cụm 2 camera chính – nghe có vẻ hơi yếu thế so với thị trường smartphone hiện tại.	Z Flip có cụm 2 camera chính – nghe có vẻ hơi yếu thế so với thị trường smartphone hiện tại .
+{"subject": ["1&&Z", "2&&Flip"], "object": ["17&&thị", "18&&trường", "19&&smartphone", "20&&hiện", "21&&tại"], "aspect": ["4&&cụm", "5&&2", "6&&camera", "7&&chính"], "predicate": ["12&&hơi", "13&&yếu", "14&&thế", "15&&so", "16&&với"], "label": "COM-"}
+
+Samsung mang tới một camera chính và một camera góc siêu rộng, cả hai đều có độ phân giải 12MP.	Samsung mang tới một camera chính và một camera góc siêu rộng , cả hai đều có độ phân giải 12MP .
+{"subject": ["14&&cả", "15&&hai"], "object": ["14&&cả", "15&&hai"], "aspect": ["18&&độ", "19&&phân", "20&&giải", "21&&12MP"], "predicate": ["16&&đều", "17&&có"], "label": "EQL"}
+
+Cảm biến chính có thông số giống như chiếc S10 Plus, và camera góc rộng có một chút nâng cấp nhẹ so với thiết bị năm ngoái.	Cảm biến chính có thông số giống như chiếc S10 Plus , và camera góc rộng có một chút nâng cấp nhẹ so với thiết bị năm ngoái .
+{"subject": ["1&&Cảm", "2&&biến", "3&&chính"], "object": ["9&&chiếc", "10&&S10", "11&&Plus"], "aspect": ["5&&thông", "6&&số"], "predicate": ["7&&giống", "8&&như"], "label": "EQL"}
+{"subject": [], "object": ["25&&thiết", "26&&bị", "27&&năm", "28&&ngoái"], "aspect": ["14&&camera", "15&&góc", "16&&rộng"], "predicate": ["18&&một", "19&&chút", "20&&nâng", "21&&cấp", "22&&nhẹ", "23&&so", "24&&với"], "label": "COM+"}
+{"subject": [], "object": ["9&&chiếc", "10&&S10", "11&&Plus"], "aspect": ["1&&Cảm", "2&&biến", "3&&chính"], "predicate": ["5&&thông", "6&&số", "7&&giống", "8&&như"], "label": "EQL"}
+
+Về phần mềm, tính năng Chụp một chạm đã có mặt trên chiếc điện thoại này.	Về phần mềm , tính năng Chụp một chạm đã có mặt trên chiếc điện thoại này .
+
+Ngoài ra, chế độ chụp đêm, quay video siêu ổn định và chụp thủ công vẫn là những thứ người dùng được trải nghiệm.	Ngoài ra , chế độ chụp đêm , quay video siêu ổn định và chụp thủ công vẫn là những thứ người dùng được trải nghiệm .
+
+alt:	alt :
+
+des: Ảnh chụp từ cụm camera kép của Galaxy Z Flip	des : Ảnh chụp từ cụm camera kép của Galaxy Z Flip
+
+alt:	alt :
+
+des: Ảnh chụp từ cụm camera kép của Galaxy Z Flip	des : Ảnh chụp từ cụm camera kép của Galaxy Z Flip
+
+Camera trước của máy có độ phân giải 10MP.	Camera trước của máy có độ phân giải 10MP .
+
+Samsung cũng cho phép bạn chụp selfie với camera sau qua màn hình phụ khi máy gập lại.	Samsung cũng cho phép bạn chụp selfie với camera sau qua màn hình phụ khi máy gập lại .
+
+Thao tác này thực sự gọn nhẹ.	Thao tác này thực sự gọn nhẹ .
+
+Chỉ cần bấm hai lần vào phím nguồn, màn hình phụ ở cạnh camera sẽ trở thành một viewfinder để chụp selfie.	Chỉ cần bấm hai lần vào phím nguồn , màn hình phụ ở cạnh camera sẽ trở thành một viewfinder để chụp selfie .
+
+Vẫn còn một cách chụp thú vị khác trên Galaxy Z Flip.	Vẫn còn một cách chụp thú vị khác trên Galaxy Z Flip .
+
+Người dùng có thể mở máy theo hình chữ L, đặt máy trên bề mặt phẳng và hẹn giờ chụp.	Người dùng có thể mở máy theo hình chữ L , đặt máy trên bề mặt phẳng và hẹn giờ chụp .
+
+Giờ thì bạn có thể chụp ảnh cả một bữa tiệc mà không cần cầm điện thoại.	Giờ thì bạn có thể chụp ảnh cả một bữa tiệc mà không cần cầm điện thoại .
+
+Chất lượng hình ảnh cho ra là khá ổn.	Chất lượng hình ảnh cho ra là khá ổn .
+
+Ảnh cho ra khá giống chiếc Galaxy S10e năm ngoái.	Ảnh cho ra khá giống chiếc Galaxy S10e năm ngoái .
+{"subject": [], "object": ["6&&chiếc", "7&&Galaxy", "8&&S10e", "9&&năm", "10&&ngoái"], "aspect": ["1&&Ảnh"], "predicate": ["4&&khá", "5&&giống"], "label": "EQL"}
+
+Ngoài ra, độ nét đã được cải thiện khá nhiều.	Ngoài ra , độ nét đã được cải thiện khá nhiều .
+{"subject": ["4&&độ", "5&&nét"], "object": [], "aspect": [], "predicate": ["7&&được", "8&&cải", "9&&thiện", "10&&khá", "11&&nhiều"], "label": "COM+"}
+
+alt: Galaxy-Z-Flip-photo-main-camera-2	alt : Galaxy-Z-Flip-photo-main-camera - 2
+
+des: Một vài hình ảnh chụp từ Galaxy Z Flip	des : Một vài hình ảnh chụp từ Galaxy Z Flip
+
+Hiệu năng và phần mềm	Hiệu năng và phần mềm
+
+Cấu hình của Galaxy Z Flip khó có thể được đánh giá thấp.	Cấu hình của Galaxy Z Flip khó có thể được đánh giá thấp .
+
+Máy được trang bị CPU Snapdragon 855+.	Máy được trang bị CPU Snapdragon 855 + .
+
+Đây không phải cấu hình khủng nhất năm nay.	Đây không phải cấu hình khủng nhất năm nay .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["4&&cấu", "5&&hình"], "predicate": ["2&&không", "3&&phải", "4&&cấu", "5&&hình", "6&&khủng", "7&&nhất", "8&&năm", "9&&nay"], "label": "COM-"}
+
+Ngoài ra, máy có RAM 8 RAM và bộ nhớ 256GB – những con số rất đủ dùng.	Ngoài ra , máy có RAM 8 RAM và bộ nhớ 256GB – những con số rất đủ dùng .
+
+Một điểm kì lạ là bạn không thể lắp thêm thẻ nhớ trên chiếc điện thoại này.	Một điểm kì lạ là bạn không thể lắp thêm thẻ nhớ trên chiếc điện thoại này .
+
+Với cấu hình như vậy, hiệu năng của máy tuy không phải top đầu nhưng cũng vô cùng mạnh mẽ.	Với cấu hình như vậy , hiệu năng của máy tuy không phải top đầu nhưng cũng vô cùng mạnh mẽ .
+{"subject": ["7&&hiệu", "8&&năng", "9&&của", "10&&máy"], "object": [], "aspect": [], "predicate": ["12&&không", "13&&phải", "14&&top", "15&&đầu"], "label": "COM-"}
+
+Máy đạt khoảng 440.000 điểm AnTuTu, chỉ kém iPhone 11 Pro một tẹo.	Máy đạt khoảng 440.000 điểm AnTuTu , chỉ kém iPhone 11 Pro một tẹo .
+{"subject": ["1&&Máy"], "object": ["10&&iPhone", "11&&11", "12&&Pro"], "aspect": ["5&&điểm", "6&&AnTuTu"], "predicate": ["9&&kém", "10&&iPhone", "11&&11", "12&&Pro", "13&&một", "14&&tẹo"], "label": "COM-"}
+
+Hiếm có game hay ứng dụng nào có thể gây khó khăn cho chiếc điện thoại này.	Hiếm có game hay ứng dụng nào có thể gây khó khăn cho chiếc điện thoại này .
+
+Tất nhiên vẫn có một vài hiện tượng giật mà chúng ta khó tránh khỏi khi dùng các thiết bị Samsung.	Tất nhiên vẫn có một vài hiện tượng giật mà chúng ta khó tránh khỏi khi dùng các thiết bị Samsung .
+
+Rõ ràng hiện tượng này đến từ phần mềm nặng nề mà nhà sản xuất này mang lên các đời điện thoại.	Rõ ràng hiện tượng này đến từ phần mềm nặng nề mà nhà sản xuất này mang lên các đời điện thoại .
+
+Z Flip đang chạy trên Android 10 với giao diện One UI 2.0.	Z Flip đang chạy trên Android 10 với giao diện One UI 2.0 .
+
+Ở phiên bản này, có rất nhiều tính năng hay ho như chế độ tối và đặc biệt là Quick Share.	Ở phiên bản này , có rất nhiều tính năng hay ho như chế độ tối và đặc biệt là Quick Share .
+
+Đây là tính năng tương tự Airdrop trên iOS, cho phép gửi file nhanh chóng giữa các máy thông qua Wi-Fi Direct.	Đây là tính năng tương tự Airdrop trên iOS , cho phép gửi file nhanh chóng giữa các máy thông qua Wi-Fi Direct .
+
+Nếu bạn chuyển sang sử dụng Z Flip từ các thiết bị Samsung khác, bạn sẽ thấy một sự quen thuộc như ở nhà vậy.	Nếu bạn chuyển sang sử dụng Z Flip từ các thiết bị Samsung khác , bạn sẽ thấy một sự quen thuộc như ở nhà vậy .
+
+Thời lượng pin: Tốt hơn dự đoán rất nhiều	Thời lượng pin : Tốt hơn dự đoán rất nhiều
+{"subject": [], "object": ["7&&dự", "8&&đoán"], "aspect": ["1&&Thời", "2&&lượng", "3&&pin"], "predicate": ["5&&Tốt", "6&&hơn", "7&&dự", "8&&đoán", "9&&rất", "10&&nhiều"], "label": "COM+"}
+
+Qua những video “mổ xẻ”, người dùng được chiêm ngưỡng cách thiết kế pin khá hay của Galaxy Z Flip.	Qua những video “ mổ xẻ ” , người dùng được chiêm ngưỡng cách thiết kế pin khá hay của Galaxy Z Flip .
+
+Hai viên pin của máy được đặt ở hai nửa, với dung lượng tổng cộng là 3.300mAh.	Hai viên pin của máy được đặt ở hai nửa , với dung lượng tổng cộng là 3.300mAh .
+
+Con số này nhỏ hơn các flagship trên thị trường, nhưng những gì nó đem lại là rất ổn.	Con số này nhỏ hơn các flagship trên thị trường , nhưng những gì nó đem lại là rất ổn .
+{"subject": [], "object": ["6&&các", "7&&flagship", "8&&trên", "9&&thị", "10&&trường"], "aspect": ["1&&Con", "2&&số", "3&&này"], "predicate": ["4&&nhỏ", "5&&hơn"], "label": "COM-"}
+
+Chiếc điện thoại này sẽ không trụ nổi 2 ngày.	Chiếc điện thoại này sẽ không trụ nổi 2 ngày .
+
+Nhưng bạn sẽ không gặp vấn đề gì với một ngày sử dụng.	Nhưng bạn sẽ không gặp vấn đề gì với một ngày sử dụng .
+
+Một ngày bình thường của mình sẽ kết thúc với 35% còn lại.	Một ngày bình thường của mình sẽ kết thúc với 35% còn lại .
+
+Theo kết quả đo đạc, thì thời lượng pin của chiếc máy này sẽ tương đương với iPhone 11 Pro.	Theo kết quả đo đạc , thì thời lượng pin của chiếc máy này sẽ tương đương với iPhone 11 Pro .
+{"subject": ["12&&chiếc", "13&&máy", "14&&này"], "object": ["19&&iPhone", "20&&11", "21&&Pro"], "aspect": ["8&&thời", "9&&lượng", "10&&pin"], "predicate": ["16&&tương", "17&&đương", "18&&với"], "label": "EQL"}
+
+Z Flip cũng không có khả năng sạc nhanh vượt trội như Galaxy S20.	Z Flip cũng không có khả năng sạc nhanh vượt trội như Galaxy S20 .
+{"subject": ["1&&Z", "2&&Flip"], "object": ["13&&Galaxy", "14&&S20"], "aspect": ["6&&khả", "7&&năng", "8&&sạc", "9&&nhanh", "10&&vượt", "11&&trội"], "predicate": ["4&&không", "5&&có", "6&&khả", "7&&năng", "8&&sạc", "9&&nhanh", "10&&vượt", "11&&trội", "12&&như"], "label": "DIF"}
+
+Cục sạc đi kèm máy có nguồn ra chỉ 9V-1.67A.	Cục sạc đi kèm máy có nguồn ra chỉ 9V - 1.67A .
+
+Máy vẫn hỗ trợ sạc không dây, nhưng hơi kì cục một chút.	Máy vẫn hỗ trợ sạc không dây , nhưng hơi kì cục một chút .
+
+Bộ phận sạc không dây trên chiếc máy này nằm ở nửa dưới thay vì chính giữa như nhiều smartphone khác.	Bộ phận sạc không dây trên chiếc máy này nằm ở nửa dưới thay vì chính giữa như nhiều smartphone khác .
+
+Vì vậy, bạn phải gập máy lại để có thể đặt lên đế sạc không dây.	Vì vậy , bạn phải gập máy lại để có thể đặt lên đế sạc không dây .
+
+Tạm kết	Tạm kết
+
+Thật khó để đánh giá Galaxy Z Flip.	Thật khó để đánh giá Galaxy Z Flip .
+
+Đây là một thiết bị “cách mạng” của Samsung.	Đây là một thiết bị “ cách mạng ” của Samsung .
+
+Samsung thực sự đã đầu tư rất nhiều cho thiết kế của chiếc máy này.	Samsung thực sự đã đầu tư rất nhiều cho thiết kế của chiếc máy này .
+
+Nó thực sự đẹp, nhưng bạn sẽ không thể mong chờ độ bền ấn tượng.	Nó thực sự đẹp , nhưng bạn sẽ không thể mong chờ độ bền ấn tượng .
+
+Dù sao đây vẫn smartphone gập rẻ và bền nhất bạn có thể mua ở thời điểm hiện tại.	Dù sao đây vẫn smartphone gập rẻ và bền nhất bạn có thể mua ở thời điểm hiện tại .
+

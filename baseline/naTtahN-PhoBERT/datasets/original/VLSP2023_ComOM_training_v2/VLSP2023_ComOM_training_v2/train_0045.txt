@@ -1,0 +1,112 @@
+Title: Cùng phân khúc, nên mua iPhone 13 Pro Max hay Xiaomi Mi 11 Ultra?	Title : Cùng phân khúc , nên mua iPhone 13 Pro Max hay Xiaomi Mi 11 Ultra ?
+
+Trong bài viết ngày hôm nay, hãy cùng FPTShop so sánh hai chiếc smartphone cao cấp có thể nói là tốt nhất trên thị trường hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé!	Trong bài viết ngày hôm nay , hãy cùng FPTShop so sánh hai chiếc smartphone cao cấp có thể nói là tốt nhất trên thị trường hiện nay là iPhone 13 Pro Max và Galaxy S21 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
+{"subject": ["13&&hai", "14&&chiếc", "15&&smartphone", "16&&cao", "17&&cấp"], "object": [], "aspect": [], "predicate": ["22&&tốt", "23&&nhất", "24&&trên", "25&&thị", "26&&trường", "27&&hiện", "28&&nay"], "label": "SUP+"}
+
+Trong bài viết ngày hôm nay, hãy cùng so sánh 2 chiếc smartphone tốt nhất của Apple và Xiaomi ở thời điểm hiện tại là iPhone 13 Pro Max chính hãng và Xiaomi Mi 11 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé!	Trong bài viết ngày hôm nay , hãy cùng so sánh 2 chiếc smartphone tốt nhất của Apple và Xiaomi ở thời điểm hiện tại là iPhone 13 Pro Max chính hãng và Xiaomi Mi 11 Ultra để xem đâu mới là lựa chọn tốt hơn cho người dùng nhé !
+
+Thiết kế	Thiết kế
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 1)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 1 )
+
+des:	des :
+
+Tổng quan về thiết kế, mặc dù có phần notch lớn ở mặt trước nhưng với nhiều người iPhone 13 Pro Max trông hấp dẫn hơn so với Xiaomi Mi 11 Ultra.	Tổng quan về thiết kế , mặc dù có phần notch lớn ở mặt trước nhưng với nhiều người iPhone 13 Pro Max trông hấp dẫn hơn so với Xiaomi Mi 11 Ultra .
+{"subject": ["20&&iPhone", "21&&13", "22&&Pro", "23&&Max"], "object": ["30&&Xiaomi", "31&&Mi", "32&&11", "33&&Ultra"], "aspect": ["4&&thiết", "5&&kế"], "predicate": ["25&&hấp", "26&&dẫn", "27&&hơn"], "label": "COM+"}
+
+Đó là bởi vì điện thoại của Apple có chất lượng hoàn thiện cao cấp hơn với thân máy mỏng và nhẹ hơn đối thủ của nó.	Đó là bởi vì điện thoại của Apple có chất lượng hoàn thiện cao cấp hơn với thân máy mỏng và nhẹ hơn đối thủ của nó .
+{"subject": ["5&&điện", "6&&thoại", "7&&của", "8&&Apple"], "object": ["24&&đối", "25&&thủ", "26&&của", "27&&nó"], "aspect": ["10&&chất", "11&&lượng", "12&&hoàn", "13&&thiện"], "predicate": ["14&&cao", "15&&cấp", "16&&hơn"], "label": "COM+"}
+{"subject": ["5&&điện", "6&&thoại", "7&&của", "8&&Apple"], "object": ["24&&đối", "25&&thủ", "26&&của", "27&&nó"], "aspect": ["18&&thân", "19&&máy"], "predicate": ["20&&mỏng", "21&&và", "22&&nhẹ", "23&&hơn"], "label": "COM+"}
+
+Ngoài ra, di động Apple có khung viền được hoàn thiện từ chất liệu thép không gỉ cao cấp hơn khung nhôm của Mi 11 Ultra.	Ngoài ra , di động Apple có khung viền được hoàn thiện từ chất liệu thép không gỉ cao cấp hơn khung nhôm của Mi 11 Ultra .
+{"subject": ["4&&di", "5&&động", "6&&Apple"], "object": ["25&&Mi", "26&&11", "27&&Ultra"], "aspect": ["8&&khung", "9&&viền"], "predicate": ["14&&chất", "15&&liệu", "16&&thép", "17&&không", "18&&gỉ", "19&&cao", "20&&cấp", "21&&hơn"], "label": "COM+"}
+{"subject": ["4&&di", "5&&động", "6&&Apple", "7&&có", "8&&khung", "9&&viền"], "object": ["22&&khung", "23&&nhôm", "24&&của", "25&&Mi", "26&&11", "27&&Ultra"], "aspect": ["14&&chất", "15&&liệu", "16&&thép", "17&&không", "18&&gỉ"], "predicate": ["19&&cao", "20&&cấp", "21&&hơn"], "label": "COM+"}
+
+Mặt lưng chiếc iPhone này được bảo vệ bởi kính Ceramic Shield siêu bền và nó có khả năng sống sót dưới nước ở độ sâu 6 mét trong tối đa 30 phút.	Mặt lưng chiếc iPhone này được bảo vệ bởi kính Ceramic Shield siêu bền và nó có khả năng sống sót dưới nước ở độ sâu 6 mét trong tối đa 30 phút .
+
+Trong khi đó, mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến mặt sau của nó kém thẩm mỹ hơn so với đối thủ Apple.	Trong khi đó , mô-đun máy ảnh lớn của Xiaomi Mi 11 Ultra khiến mặt sau của nó kém thẩm mỹ hơn so với đối thủ Apple .
+{"subject": ["18&&nó"], "object": ["25&&đối", "26&&thủ", "27&&Apple"], "aspect": ["15&&mặt", "16&&sau"], "predicate": ["19&&kém", "20&&thẩm", "21&&mỹ", "22&&hơn"], "label": "COM-"}
+
+Nhưng như đề cập ở trên, mặt trước trên mẫu flagship mới của Xiaomi trông đẹp hơn iPhone 13 Pro Max nhờ sử dụng màn hình đục lỗ, hai cạnh bên được uốn cong tràn và tỷ lệ màn hình trên thân máy cao hơn.	Nhưng như đề cập ở trên , mặt trước trên mẫu flagship mới của Xiaomi trông đẹp hơn iPhone 13 Pro Max nhờ sử dụng màn hình đục lỗ , hai cạnh bên được uốn cong tràn và tỷ lệ màn hình trên thân máy cao hơn .
+{"subject": ["11&&mẫu", "12&&flagship", "13&&mới", "14&&của", "15&&Xiaomi"], "object": ["19&&iPhone", "20&&13", "21&&Pro", "22&&Max"], "aspect": ["8&&mặt", "9&&trước"], "predicate": ["17&&đẹp", "18&&hơn"], "label": "COM+"}
+{"subject": ["11&&mẫu", "12&&flagship", "13&&mới", "14&&của", "15&&Xiaomi"], "object": ["19&&iPhone", "20&&13", "21&&Pro", "22&&Max"], "aspect": ["39&&tỷ", "40&&lệ", "41&&màn", "42&&hình", "43&&trên", "44&&thân", "45&&máy"], "predicate": ["46&&cao", "47&&hơn"], "label": "COM+"}
+
+Màn hình	Màn hình
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 2)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 2 )
+
+des:	des :
+
+Đều là những chiếc smartphone cao cấp nhất của Apple và Xiaomi ở thời điểm hiện tại, thế nên cả iPhone 13 Pro Max và Mi 11 Ultra đều có màn hình cực kỳ chất lượng và dư sức mang đến những giây phút giải trí đa phương tiện tốt nhất cho người dùng.	Đều là những chiếc smartphone cao cấp nhất của Apple và Xiaomi ở thời điểm hiện tại , thế nên cả iPhone 13 Pro Max và Mi 11 Ultra đều có màn hình cực kỳ chất lượng và dư sức mang đến những giây phút giải trí đa phương tiện tốt nhất cho người dùng .
+
+Tuy nhiên, trên lý thuyết thì màn hình Xiaomi Mi 11 Ultra có chất lượng hiển thị nhỉnh hơn một chút so với iPhone 13 Pro Max khi nó sử dụng tấm nền AMOLED hiển thị tới một tỷ màu, có tần số quét 120Hz, chứng nhận HDR10+, Dolby Vision và độ sáng cực đại cao (lên đến 1,700 nits), cũng như độ phân giải Quad-HD+.	Tuy nhiên , trên lý thuyết thì màn hình Xiaomi Mi 11 Ultra có chất lượng hiển thị nhỉnh hơn một chút so với iPhone 13 Pro Max khi nó sử dụng tấm nền AMOLED hiển thị tới một tỷ màu , có tần số quét 120Hz , chứng nhận HDR10 + , Dolby Vision và độ sáng cực đại cao ( lên đến 1,700 nits ) , cũng như độ phân giải Quad-HD + .
+{"subject": ["8&&màn", "9&&hình", "10&&Xiaomi", "11&&Mi", "12&&11", "13&&Ultra"], "object": ["25&&iPhone", "26&&13", "27&&Pro", "28&&Max"], "aspect": ["15&&chất", "16&&lượng", "17&&hiển", "18&&thị"], "predicate": ["19&&nhỉnh", "20&&hơn", "21&&một", "22&&chút"], "label": "COM+"}
+{"subject": ["10&&Xiaomi", "11&&Mi", "12&&11", "13&&Ultra"], "object": ["25&&iPhone", "26&&13", "27&&Pro", "28&&Max"], "aspect": ["8&&màn", "9&&hình"], "predicate": ["15&&chất", "16&&lượng", "17&&hiển", "18&&thị", "19&&nhỉnh", "20&&hơn", "21&&một", "22&&chút"], "label": "COM+"}
+
+Thông số kỹ thuật và phần mềm	Thông số kỹ thuật và phần mềm
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 3)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 3 )
+
+des:	des :
+
+Trên lý thuyết, Xiaomi Mi 11 Ultra trông mạnh mẽ hơn khi đi kèm với RAM lên đến 12GB, nhưng thực tế là iPhone 13 Pro Max sẽ cho hiệu suất tốt hơn do chip Apple A15 Bionic mạnh hơn và sự tối ưu hóa tốt hơn của hệ điều hành iOS.	Trên lý thuyết , Xiaomi Mi 11 Ultra trông mạnh mẽ hơn khi đi kèm với RAM lên đến 12GB , nhưng thực tế là iPhone 13 Pro Max sẽ cho hiệu suất tốt hơn do chip Apple A15 Bionic mạnh hơn và sự tối ưu hóa tốt hơn của hệ điều hành iOS .
+{"subject": ["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"], "object": ["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"], "aspect": [], "predicate": ["10&&mạnh", "11&&mẽ", "12&&hơn"], "label": "COM+"}
+{"subject": ["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"], "object": ["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"], "aspect": ["32&&hiệu", "33&&suất"], "predicate": ["34&&tốt", "35&&hơn"], "label": "COM+"}
+{"subject": ["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"], "object": ["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"], "aspect": ["37&&chip"], "predicate": ["41&&mạnh", "42&&hơn"], "label": "COM+"}
+{"subject": ["26&&iPhone", "27&&13", "28&&Pro", "29&&Max"], "object": ["5&&Xiaomi", "6&&Mi", "7&&11", "8&&Ultra"], "aspect": ["45&&tối", "46&&ưu", "47&&hóa"], "predicate": ["48&&tốt", "49&&hơn"], "label": "COM+"}
+
+Mặc dù chỉ có RAM 6GB nhưng iPhone 13 Pro Max có thể nhanh hơn và mạnh hơn.	Mặc dù chỉ có RAM 6GB nhưng iPhone 13 Pro Max có thể nhanh hơn và mạnh hơn .
+{"subject": ["8&&iPhone", "9&&13", "10&&Pro", "11&&Max"], "object": [], "aspect": [], "predicate": ["14&&nhanh", "15&&hơn"], "label": "COM+"}
+{"subject": ["8&&iPhone", "9&&13", "10&&Pro", "11&&Max"], "object": [], "aspect": [], "predicate": ["17&&mạnh", "18&&hơn"], "label": "COM+"}
+
+Xiaomi Mi 11 Ultra chạy Android 11 khi xuất xưởng và nó sẽ là một trong những điện thoại Xiaomi đầu tiên nhận được bản cập nhật Android 12, trong khi iPhone 13 Pro Max chạy iOS 15.	Xiaomi Mi 11 Ultra chạy Android 11 khi xuất xưởng và nó sẽ là một trong những điện thoại Xiaomi đầu tiên nhận được bản cập nhật Android 12 , trong khi iPhone 13 Pro Max chạy iOS 15 .
+
+Máy ảnh	Máy ảnh
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 4)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 4 )
+
+des:	des :
+
+Trong hai điện thoại này, Xiaomi Mi 11 Ultra cho chất lượng chụp ảnh tốt hơn.	Trong hai điện thoại này , Xiaomi Mi 11 Ultra cho chất lượng chụp ảnh tốt hơn .
+{"subject": ["7&&Xiaomi", "8&&Mi", "9&&11", "10&&Ultra"], "object": [], "aspect": ["12&&chất", "13&&lượng", "14&&chụp", "15&&ảnh"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Theo DxOMark, đây là chiếc điện thoại có camera tốt nhất trên thị trường.	Theo DxOMark , đây là chiếc điện thoại có camera tốt nhất trên thị trường .
+{"subject": ["4&&đây"], "object": [], "aspect": ["10&&camera"], "predicate": ["11&&tốt", "12&&nhất", "13&&trên", "14&&thị", "15&&trường"], "label": "EQL"}
+
+Nó có camera chính 50MP và một cặp cảm biến 48MP: một là ống kính tiềm vọng với OIS và zoom quang 5x, trong khi cảm biến còn lại là ống kính góc siêu rộng.	Nó có camera chính 50MP và một cặp cảm biến 48MP : một là ống kính tiềm vọng với OIS và zoom quang 5x , trong khi cảm biến còn lại là ống kính góc siêu rộng .
+
+Chính vì vậy mà mẫu flagship mới nhất của Xiaomi có thể chụp được những bức ảnh tuyệt vời trong mọi điều kiện ánh sáng và quay video với độ phân giải lên đến 8K.	Chính vì vậy mà mẫu flagship mới nhất của Xiaomi có thể chụp được những bức ảnh tuyệt vời trong mọi điều kiện ánh sáng và quay video với độ phân giải lên đến 8K .
+
+Còn với iPhone 13 Pro Max thì dù hệ thống máy ảnh của điện thoại này cũng cực kỳ chất lượng và dư sức làm hài lòng bất kỳ người dùng khó tính nào, nhưng nó chỉ đi kèm ống kính tele hỗ trợ zoom quang học tối đa chỉ 3x.	Còn với iPhone 13 Pro Max thì dù hệ thống máy ảnh của điện thoại này cũng cực kỳ chất lượng và dư sức làm hài lòng bất kỳ người dùng khó tính nào , nhưng nó chỉ đi kèm ống kính tele hỗ trợ zoom quang học tối đa chỉ 3x .
+
+Do đó, xét về tính linh hoạt thì di động Apple kém hơn một chút so với đối thủ của nó.	Do đó , xét về tính linh hoạt thì di động Apple kém hơn một chút so với đối thủ của nó .
+{"subject": ["10&&di", "11&&động", "12&&Apple"], "object": ["19&&đối", "20&&thủ", "21&&của", "22&&nó"], "aspect": ["6&&tính", "7&&linh", "8&&hoạt"], "predicate": ["13&&kém", "14&&hơn", "15&&một", "16&&chút"], "label": "COM-"}
+
+Thời lượng pin	Thời lượng pin
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 5)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 5 )
+
+des:	des :
+
+Mặc dù Xiaomi Mi 11 Ultra có pin 5,000 mAh lớn hơn, nhưng iPhone 13 Pro Max có thể cung cấp thời lượng pin lâu hơn trong một lần sạc vì nó có tối ưu hóa phần mềm tốt hơn.	Mặc dù Xiaomi Mi 11 Ultra có pin 5,000 mAh lớn hơn , nhưng iPhone 13 Pro Max có thể cung cấp thời lượng pin lâu hơn trong một lần sạc vì nó có tối ưu hóa phần mềm tốt hơn .
+{"subject": ["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"], "object": ["15&&iPhone", "16&&13", "17&&Pro", "18&&Max"], "aspect": ["8&&pin"], "predicate": ["11&&lớn", "12&&hơn"], "label": "COM+"}
+{"subject": ["15&&iPhone", "16&&13", "17&&Pro", "18&&Max"], "object": ["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"], "aspect": ["23&&thời", "24&&lượng", "25&&pin"], "predicate": ["26&&lâu", "27&&hơn"], "label": "COM+"}
+{"subject": ["33&&nó"], "object": ["3&&Xiaomi", "4&&Mi", "5&&11", "6&&Ultra"], "aspect": ["35&&tối", "36&&ưu", "37&&hóa", "38&&phần", "39&&mềm"], "predicate": ["40&&tốt", "41&&hơn"], "label": "COM+"}
+
+Mặt khác, chiếc flagship Xiaomi có tốc độ sạc nhanh hơn nhờ công suất 65W cho cả sạc có dây và sạc không dây.	Mặt khác , chiếc flagship Xiaomi có tốc độ sạc nhanh hơn nhờ công suất 65W cho cả sạc có dây và sạc không dây .
+{"subject": ["4&&chiếc", "5&&flagship", "6&&Xiaomi"], "object": [], "aspect": ["8&&tốc", "9&&độ", "10&&sạc"], "predicate": ["11&&nhanh", "12&&hơn"], "label": "COM+"}
+
+Tạm kết	Tạm kết
+
+alt: So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra (ảnh 6)	alt : So sánh iPhone 13 Pro Max và Xiaomi Mi 11 Ultra ( ảnh 6 )
+
+des:	des :
+
+Nhìn chung, đây vẫn là cuộc chiến chưa có hồi kết của 2 ông lớn công nghệ.	Nhìn chung , đây vẫn là cuộc chiến chưa có hồi kết của 2 ông lớn công nghệ .
+
+Mỗi điện thoại đều có ưu điểm riêng của mình.	Mỗi điện thoại đều có ưu điểm riêng của mình .
+
+Nếu bạn muốn sở hữu một chiếc điện thoại thiết kế đẹp, chống nước tốt, bền bỉ thì iPhone 13 Pro Max là lựa chọn không thể bỏ qua.	Nếu bạn muốn sở hữu một chiếc điện thoại thiết kế đẹp , chống nước tốt , bền bỉ thì iPhone 13 Pro Max là lựa chọn không thể bỏ qua .
+
+Ngược lại, Mi 11 Ultra sẽ phù hợp với người dùng yêu thích thiết kế mới lạ với màn hình phụ ở mặt lưng và hệ thống camera cực kỳ chất lượng.	Ngược lại , Mi 11 Ultra sẽ phù hợp với người dùng yêu thích thiết kế mới lạ với màn hình phụ ở mặt lưng và hệ thống camera cực kỳ chất lượng .
+

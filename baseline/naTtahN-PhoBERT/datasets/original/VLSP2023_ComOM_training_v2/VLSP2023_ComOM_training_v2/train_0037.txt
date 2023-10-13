@@ -1,0 +1,88 @@
+title: So sánh Samsung Galaxy S21 Ultra và Galaxy Z Fold3: smartphone nào xứng đáng ngôi vương của hãng?	title : So sánh Samsung Galaxy S21 Ultra và Galaxy Z Fold3 : smartphone nào xứng đáng ngôi vương của hãng ?
+
+Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3.	Galaxy S21 Ultra đã trở thành chiếc điện thoại hot nhất của Samsung vào cuối năm ngoái nhưng hiện tại đã có một đối thủ mới là Galaxy Z Fold3 .
+
+Phần so sánh dưới đây sẽ làm nổi bật các thông số kỹ thuật của hai dòng smartphone cao cấp nhất này.	Phần so sánh dưới đây sẽ làm nổi bật các thông số kỹ thuật của hai dòng smartphone cao cấp nhất này .
+
+Thiết kế và màn hình điện thoại	Thiết kế và màn hình điện thoại
+
+Galaxy S21 Ultra và Galaxy Z Fold3 có hai kiểu thiết kế rất khác nhau.	Galaxy S21 Ultra và Galaxy Z Fold3 có hai kiểu thiết kế rất khác nhau .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": ["5&&Galaxy", "6&&Z", "7&&Fold3"], "aspect": ["10&&kiểu", "11&&thiết", "12&&kế"], "predicate": ["13&&rất", "14&&khác", "15&&nhau"], "label": "DIF"}
+
+Trong khi S21 Ultra là một chiếc smartphone 6,8″ kiểu dáng thông thường thì Z Fold3 có thể gập lại với bản lề ở chế độ linh hoạt cho phép mở ở mọi góc độ.	Trong khi S21 Ultra là một chiếc smartphone 6,8 ″ kiểu dáng thông thường thì Z Fold3 có thể gập lại với bản lề ở chế độ linh hoạt cho phép mở ở mọi góc độ .
+
+Z Fold3 có màn hình 6,2″ kích thước thu gọn ở mặt trước và màn hình bên trong có thể mở rộng đến 7,6″.	Z Fold3 có màn hình 6,2 ″ kích thước thu gọn ở mặt trước và màn hình bên trong có thể mở rộng đến 7,6 ″ .
+
+Cả hai thiết bị đều có màn hình OLED với tốc độ làm mới thay đổi lên đến tối đa 120Hz.	Cả hai thiết bị đều có màn hình OLED với tốc độ làm mới thay đổi lên đến tối đa 120Hz .
+{"subject": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "object": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "aspect": ["7&&màn", "8&&hình", "9&&OLED", "10&&với", "11&&tốc", "12&&độ", "13&&làm", "14&&mới", "15&&thay", "16&&đổi", "17&&lên", "18&&đến", "19&&tối", "20&&đa", "21&&120Hz"], "predicate": ["5&&đều", "6&&có"], "label": "EQL"}
+
+alt: so-sanh-galaxy-s21-ultra-va-galaxy-z-fold3-smartphone-3	alt : so-sanh-galaxy-s21 - ultra-va-galaxy-z-fold3 - smartphone - 3
+
+des:	des :
+
+S21 Ultra có kính cường lực Gorilla Glass Victus để bảo vệ màn hình và khả năng chống bụi, nước IP68 để tránh làm hỏng các thành phần bên trong.	S21 Ultra có kính cường lực Gorilla Glass Victus để bảo vệ màn hình và khả năng chống bụi , nước IP68 để tránh làm hỏng các thành phần bên trong .
+
+Z Fold3 sử dụng cùng một loại kính Gorilla Glass Victus ở màn hình bên ngoài nhưng bên trong là một lớp bảo vệ mỏng hơn.	Z Fold3 sử dụng cùng một loại kính Gorilla Glass Victus ở màn hình bên ngoài nhưng bên trong là một lớp bảo vệ mỏng hơn .
+
+Chiếc điện thoại có thể gập lại được xếp hạng IPX8 về khả năng chống nước.	Chiếc điện thoại có thể gập lại được xếp hạng IPX8 về khả năng chống nước .
+
+Thông số kỹ thuật	Thông số kỹ thuật
+
+S21 Ultra và Z Fold3 đều sử dụng chip Snapdragon 888, kết hợp với RAM 12GB và bộ nhớ trong 256GB.	S21 Ultra và Z Fold3 đều sử dụng chip Snapdragon 888 , kết hợp với RAM 12GB và bộ nhớ trong 256GB .
+{"subject": ["1&&S21", "2&&Ultra"], "object": ["4&&Z", "5&&Fold3"], "aspect": ["9&&chip", "10&&Snapdragon", "11&&888"], "predicate": ["6&&đều", "7&&sử", "8&&dụng"], "label": "EQL"}
+{"subject": ["1&&S21", "2&&Ultra"], "object": ["4&&Z", "5&&Fold3"], "aspect": ["16&&RAM", "17&&12GB"], "predicate": ["6&&đều", "7&&sử", "8&&dụng"], "label": "EQL"}
+{"subject": ["1&&S21", "2&&Ultra"], "object": ["4&&Z", "5&&Fold3"], "aspect": ["19&&bộ", "20&&nhớ", "21&&trong", "22&&256GB"], "predicate": ["6&&đều", "7&&sử", "8&&dụng"], "label": "EQL"}
+
+Tùy chọn thay thế duy nhất cho Z Fold3 là tăng dung lượng lưu trữ lên 512GB.	Tùy chọn thay thế duy nhất cho Z Fold3 là tăng dung lượng lưu trữ lên 512GB .
+
+Tuy nhiên, S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và phiên bản RAM 16GB / 512GB.	Tuy nhiên , S21 Ultra lại có thêm tùy chọn RAM 12GB / 128GB rẻ hơn và phiên bản RAM 16GB / 512GB .
+
+Camera	Camera
+
+Galaxy S21 Ultra là một trong những điện thoại có camera tốt nhất và sẽ vẫn là vua camera của Samsung ngay cả sau khi Galaxy Z Fold3 ra mắt.	Galaxy S21 Ultra là một trong những điện thoại có camera tốt nhất và sẽ vẫn là vua camera của Samsung ngay cả sau khi Galaxy Z Fold3 ra mắt .
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["11&&camera"], "predicate": ["12&&tốt", "13&&nhất"], "label": "SUP+"}
+{"subject": ["1&&Galaxy", "2&&S21", "3&&Ultra"], "object": [], "aspect": ["19&&camera"], "predicate": ["17&&là", "18&&vua"], "label": "SUP+"}
+
+Ở mặt sau, Galaxy S21 Ultra sử dụng camera chính 108MP, một camera góc siêu rộng 12MP và hai camera tele 10MP, một camera zoom quang 3x và camera zoom quang 10x.	Ở mặt sau , Galaxy S21 Ultra sử dụng camera chính 108MP , một camera góc siêu rộng 12MP và hai camera tele 10MP , một camera zoom quang 3x và camera zoom quang 10x .
+
+Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một camera tele chính cùng hai camera siêu rộng và quang học 2x.	Các camera phía sau của Galaxy Z Fold3 bao gồm ba camera 12MP với một camera tele chính cùng hai camera siêu rộng và quang học 2x .
+
+alt: so-sanh-galaxy-s21-ultra-va-galaxy-z-fold3-smartphone-1	alt : so-sanh-galaxy-s21 - ultra-va-galaxy-z-fold3 - smartphone - 1
+
+des:	des :
+
+Đối với camera selfie, Galaxy S21 Ultra có camera selfie 40MP nằm chính giữa màn hình.	Đối với camera selfie , Galaxy S21 Ultra có camera selfie 40MP nằm chính giữa màn hình .
+
+Galaxy Z Fold3 giành ưu thế với camera 10MP trên màn hình phía trước trong phần notch cộng thêm một camera 4MP thứ hai được ẩn bên dưới màn hình.	Galaxy Z Fold3 giành ưu thế với camera 10MP trên màn hình phía trước trong phần notch cộng thêm một camera 4MP thứ hai được ẩn bên dưới màn hình .
+{"subject": ["1&&Galaxy", "2&&Z", "3&&Fold3"], "object": [], "aspect": [], "predicate": ["4&&giành", "5&&ưu", "6&&thế"], "label": "COM+"}
+
+Pin	Pin
+
+S21 Ultra chiếm ưu thế với dung lượng pin tới 5.000mAh, trong khi Z Fold3 chỉ là 4.400 mAh trên hệ thống pin kép.	S21 Ultra chiếm ưu thế với dung lượng pin tới 5.000mAh , trong khi Z Fold3 chỉ là 4.400 mAh trên hệ thống pin kép .
+{"subject": ["1&&S21", "2&&Ultra"], "object": [], "aspect": ["7&&dung", "8&&lượng", "9&&pin"], "predicate": ["3&&chiếm", "4&&ưu", "5&&thế"], "label": "COM+"}
+
+Tuy nhiên, cả hai điện thoại đều cung cấp các thông số kỹ thuật sạc giống nhau bao gồm sạc có dây 25W, sạc không dây 10W và sạc không dây ngược 4,5W.	Tuy nhiên , cả hai điện thoại đều cung cấp các thông số kỹ thuật sạc giống nhau bao gồm sạc có dây 25W , sạc không dây 10W và sạc không dây ngược 4,5W .
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": ["11&&các", "12&&thông", "13&&số", "14&&kỹ", "15&&thuật", "16&&sạc"], "predicate": ["8&&đều", "9&&cung", "10&&cấp"], "label": "EQL"}
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": ["21&&sạc", "22&&có", "23&&dây", "24&&25W"], "predicate": ["8&&đều", "9&&cung", "10&&cấp"], "label": "EQL"}
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": ["26&&sạc", "27&&không", "28&&dây", "29&&10W"], "predicate": ["8&&đều", "9&&cung", "10&&cấp"], "label": "EQL"}
+{"subject": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "object": ["4&&cả", "5&&hai", "6&&điện", "7&&thoại"], "aspect": ["31&&sạc", "32&&không", "33&&dây", "34&&ngược", "35&&4,5W"], "predicate": ["8&&đều", "9&&cung", "10&&cấp"], "label": "EQL"}
+
+Cả hai điện thoại đều chạy Android 11 thông qua One UI của Samsung, mặc dù phiên bản của Z Fold3 có sự khác biệt đáng kể để phù hợp với màn hình phụ.	Cả hai điện thoại đều chạy Android 11 thông qua One UI của Samsung , mặc dù phiên bản của Z Fold3 có sự khác biệt đáng kể để phù hợp với màn hình phụ .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": ["7&&Android", "8&&11"], "predicate": ["5&&đều", "6&&chạy"], "label": "EQL"}
+{"subject": ["18&&phiên", "19&&bản", "20&&của", "21&&Z", "22&&Fold3"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": [], "predicate": ["25&&khác", "26&&biệt", "27&&đáng", "28&&kể"], "label": "DIF"}
+
+Hai điện thoại đều hỗ trợ bút cảm ứng S Pen.	Hai điện thoại đều hỗ trợ bút cảm ứng S Pen .
+{"subject": ["1&&Hai", "2&&điện", "3&&thoại"], "object": ["1&&Hai", "2&&điện", "3&&thoại"], "aspect": ["7&&bút", "8&&cảm", "9&&ứng", "10&&S", "11&&Pen"], "predicate": ["4&&đều", "5&&hỗ", "6&&trợ"], "label": "EQL"}
+
+Z Fold3 có hai phiên bản S Pen để lựa chọn – S Pen Fold Edition cơ bản hoặc S Pen Pro được hỗ trợ Bluetooth.	Z Fold3 có hai phiên bản S Pen để lựa chọn – S Pen Fold Edition cơ bản hoặc S Pen Pro được hỗ trợ Bluetooth .
+
+Tạm kết	Tạm kết
+
+Hầu hết người dùng sẽ khá hài lòng với S21 Ultra vì hiệu suất và sức mạnh chụp ảnh cao nhất.	Hầu hết người dùng sẽ khá hài lòng với S21 Ultra vì hiệu suất và sức mạnh chụp ảnh cao nhất .
+{"subject": ["10&&S21", "11&&Ultra"], "object": [], "aspect": ["13&&hiệu", "14&&suất"], "predicate": ["20&&cao", "21&&nhất"], "label": "SUP+"}
+{"subject": ["10&&S21", "11&&Ultra"], "object": [], "aspect": ["16&&sức", "17&&mạnh", "18&&chụp", "19&&ảnh"], "predicate": ["20&&cao", "21&&nhất"], "label": "SUP+"}
+
+Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho bất kỳ người dùng nào muốn tận hưởng smartphone cấp cao.	Trong khi Z Fold3 sẽ là một trải nghiệm thực sự đặc biệt cho bất kỳ người dùng nào muốn tận hưởng smartphone cấp cao .
+
+Vì vậy, việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng.	Vì vậy , việc lựa chọn smartphone thích hợp với bản thân còn phụ thuộc vào nhiều yếu tố đến từ mỗi người dùng .
+

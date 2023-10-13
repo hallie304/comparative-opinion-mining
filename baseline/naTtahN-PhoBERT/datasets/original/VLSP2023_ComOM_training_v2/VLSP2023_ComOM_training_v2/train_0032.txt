@@ -1,0 +1,128 @@
+title: So sánh camera iPhone SE 2022 và iPhone 13 Pro: Chất lượng ảnh như thế nào?	title : So sánh camera iPhone SE 2022 và iPhone 13 Pro : Chất lượng ảnh như thế nào ?
+
+Chất lượng chụp ảnh trên camera iPhone SE 2022 5G so với iPhone 13 Pro series sẽ như thế nào?	Chất lượng chụp ảnh trên camera iPhone SE 2022 5G so với iPhone 13 Pro series sẽ như thế nào ?
+
+iPhone 13 Pro và iPhone 13 Pro Max là một trong những điện thoại sở hữu camera tốt nhất hiện nay.	iPhone 13 Pro và iPhone 13 Pro Max là một trong những điện thoại sở hữu camera tốt nhất hiện nay .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro"], "object": [], "aspect": ["17&&camera"], "predicate": ["18&&tốt", "19&&nhất"], "label": "SUP+"}
+{"subject": ["5&&iPhone", "6&&13", "7&&Pro", "8&&Max"], "object": [], "aspect": ["17&&camera"], "predicate": ["18&&tốt", "19&&nhất"], "label": "SUP+"}
+
+Đây cũng là đối thủ nặng ký của Galaxy S22 Ultra khi có khả năng quay video 4K, ống kính siêu rộng và ống kính tele 3x.	Đây cũng là đối thủ nặng ký của Galaxy S22 Ultra khi có khả năng quay video 4K , ống kính siêu rộng và ống kính tele 3x .
+
+Apple đã mang đến khá nhiều tính năng hấp dẫn cho máy như Deep Fusion.	Apple đã mang đến khá nhiều tính năng hấp dẫn cho máy như Deep Fusion .
+
+Thật bất ngờ khi tính năng này cũng xuất hiện trên model iPhone SE 2022 5G giá rẻ mới nhất.	Thật bất ngờ khi tính năng này cũng xuất hiện trên model iPhone SE 2022 5G giá rẻ mới nhất .
+{"subject": [], "object": ["12&&model", "13&&iPhone", "14&&SE", "15&&2022", "16&&5G", "17&&giá", "18&&rẻ", "19&&mới", "20&&nhất"], "aspect": ["5&&tính", "6&&năng", "7&&này"], "predicate": ["8&&cũng", "9&&xuất", "10&&hiện"], "label": "EQL"}
+
+Vậy sự khác biệt giữa camera iPhone rẻ nhất và iPhone đắt nhất của Apple là như thế nào?	Vậy sự khác biệt giữa camera iPhone rẻ nhất và iPhone đắt nhất của Apple là như thế nào ?
+
+Đặc biệt khi cả hai điện thoại đều được trang bị chip A15 hàng đầu và hỗ trợ các công cụ chính ảnh như Smart HDR.	Đặc biệt khi cả hai điện thoại đều được trang bị chip A15 hàng đầu và hỗ trợ các công cụ chính ảnh như Smart HDR .
+
+Thông số camera trên hai điện thoại	Thông số camera trên hai điện thoại
+
+iPhone SE 2022 5G chỉ được trang bị 1 ống kính có độ phân giải 12MP.	iPhone SE 2022 5G chỉ được trang bị 1 ống kính có độ phân giải 12MP .
+
+Trong khi iPhone 13 Pro được tích hợp 3 cảm biến sau.	Trong khi iPhone 13 Pro được tích hợp 3 cảm biến sau .
+
+Các cảm biến này bao gồm: camera chính, camera góc siêu rộng cùng với camera tele có cùng độ phân giải 12MP.	Các cảm biến này bao gồm : camera chính , camera góc siêu rộng cùng với camera tele có cùng độ phân giải 12MP .
+
+Mặc dù vậy nhưng cả hai model điều có một số điểm chung nhờ sở hữu phần cứng mạnh mẽ.	Mặc dù vậy nhưng cả hai model điều có một số điểm chung nhờ sở hữu phần cứng mạnh mẽ .
+
+Hãy cùng xem chất lượng hình ảnh chụp từ camera trên hai mẫu iPhone này nhé!	Hãy cùng xem chất lượng hình ảnh chụp từ camera trên hai mẫu iPhone này nhé !
+
+alt: Camera iPhone 13 Pro được trang bị 3 ống kính	alt : Camera iPhone 13 Pro được trang bị 3 ống kính
+
+des:	des :
+
+Camera iPhone 13 Pro được trang bị 3 ống kính	Camera iPhone 13 Pro được trang bị 3 ống kính
+
+1/ Khả năng chụp ảnh phong cảnh và HDR	1 / Khả năng chụp ảnh phong cảnh và HDR
+
+Trong điều kiện ánh sáng lý tưởng, tất cả các thiết bị ra mắt gần đây đều mang đến chất lượng khá tốt.	Trong điều kiện ánh sáng lý tưởng , tất cả các thiết bị ra mắt gần đây đều mang đến chất lượng khá tốt .
+
+Không có gì bất ngờ khi khả năng chụp ảnh trên iPhone 13 Pro rất ấn tượng.	Không có gì bất ngờ khi khả năng chụp ảnh trên iPhone 13 Pro rất ấn tượng .
+
+Tuy nhiên iPhone SE 2022 5G mới khiến chúng ta ngạc nhiên khi tạp ra những hình ảnh thực đẹp mắt và có chất lượng gần giống với mẫu iPhone đắt tiền hơn.	Tuy nhiên iPhone SE 2022 5G mới khiến chúng ta ngạc nhiên khi tạp ra những hình ảnh thực đẹp mắt và có chất lượng gần giống với mẫu iPhone đắt tiền hơn .
+{"subject": ["3&&iPhone", "4&&SE", "5&&2022", "6&&5G"], "object": ["29&&mẫu", "30&&iPhone", "31&&đắt", "32&&tiền", "33&&hơn"], "aspect": ["16&&những", "17&&hình", "18&&ảnh", "19&&thực"], "predicate": ["24&&chất", "25&&lượng", "26&&gần", "27&&giống"], "label": "EQL"}
+
+alt: Khả năng chụp ảnh phong cảnh trên iPhone SE 2022 5G và iPhone 13 Pro	alt : Khả năng chụp ảnh phong cảnh trên iPhone SE 2022 5G và iPhone 13 Pro
+
+des:	des :
+
+Khả năng chụp ảnh phong cảnh trên iPhone SE 2022 5G và iPhone 13 Pro	Khả năng chụp ảnh phong cảnh trên iPhone SE 2022 5G và iPhone 13 Pro
+
+Cả hai điện thoại đều được tích hợp Smart HDR và mỗi sản phẩm đều làm tốt công việc cân bằng giữa bóng và chi tiết nổi bật.	Cả hai điện thoại đều được tích hợp Smart HDR và mỗi sản phẩm đều làm tốt công việc cân bằng giữa bóng và chi tiết nổi bật .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["7&&tích", "8&&hợp", "9&&Smart", "10&&HDR"], "predicate": ["5&&đều"], "label": "EQL"}
+
+Mặc dù dải động của cảm biến trên  iPhone SEmới không tốt bằng iPhone 13 Pro trong các điều kiện ánh sáng yếu, nhưng sự khác biệt không quá ấn tượn.	Mặc dù dải động của cảm biến trên iPhone SEmới không tốt bằng iPhone 13 Pro trong các điều kiện ánh sáng yếu , nhưng sự khác biệt không quá ấn tượn .
+{"subject": ["9&&iPhone", "10&&SEmới"], "object": ["14&&iPhone", "15&&13", "16&&Pro"], "aspect": ["3&&dải", "4&&động", "5&&của", "6&&cảm", "7&&biến"], "predicate": ["11&&không", "12&&tốt", "13&&bằng"], "label": "COM-"}
+
+Điện thoại iPhone 13 Pro cũng có cảm biến hình ảnh lớn hơn iPhone SE 2022.	Điện thoại iPhone 13 Pro cũng có cảm biến hình ảnh lớn hơn iPhone SE 2022 .
+{"subject": ["1&&Điện", "2&&thoại", "3&&iPhone", "4&&13", "5&&Pro"], "object": ["14&&iPhone", "15&&SE", "16&&2022"], "aspect": ["8&&cảm", "9&&biến", "10&&hình", "11&&ảnh"], "predicate": ["12&&lớn", "13&&hơn"], "label": "COM+"}
+
+Điều này có nghĩa là model đắt tiền hơn có được độ sâu trường ảnh nông hơn trong một số bức ảnh.	Điều này có nghĩa là model đắt tiền hơn có được độ sâu trường ảnh nông hơn trong một số bức ảnh .
+{"subject": ["6&&model", "7&&đắt", "8&&tiền", "9&&hơn"], "object": [], "aspect": ["12&&độ", "13&&sâu", "14&&trường", "15&&ảnh"], "predicate": ["16&&nông", "17&&hơn", "18&&trong", "19&&một", "20&&số", "21&&bức", "22&&ảnh"], "label": "COM"}
+
+Hãy xem bức ảnh bên dưới,chúng ta sẽ thấy được chất lượng hình ảnh được chụp từ hai model.	Hãy xem bức ảnh bên dưới , chúng ta sẽ thấy được chất lượng hình ảnh được chụp từ hai model .
+
+2/ Deep Fusion	2 / Deep Fusion
+
+Cả hai điện thoại đều được tích hợp Deep Fusion, một kỹ thuật xử lý hình ảnh được thiết kế để giúp cải thiện độ chi tiết trong các bức ảnh chụp ánh sáng trung bình đến thiếu sáng.	Cả hai điện thoại đều được tích hợp Deep Fusion , một kỹ thuật xử lý hình ảnh được thiết kế để giúp cải thiện độ chi tiết trong các bức ảnh chụp ánh sáng trung bình đến thiếu sáng .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&Deep", "10&&Fusion"], "predicate": ["5&&đều", "6&&được", "7&&tích", "8&&hợp"], "label": "EQL"}
+
+Mặc dù bạn không có cách nào để biết khi nào Deep Fusion được kích hoạt, nhưng iPhone SE 2022 có thể tạo ra hình ảnh gần giống với iPhone 13 Pro về độ sắc nét và chi tiết khi chụp ảnh trong điều kiện ánh sáng trung bình (hoặc trong nhà).	Mặc dù bạn không có cách nào để biết khi nào Deep Fusion được kích hoạt , nhưng iPhone SE 2022 có thể tạo ra hình ảnh gần giống với iPhone 13 Pro về độ sắc nét và chi tiết khi chụp ảnh trong điều kiện ánh sáng trung bình ( hoặc trong nhà ) .
+{"subject": ["19&&iPhone", "20&&SE", "21&&2022"], "object": ["31&&iPhone", "32&&13", "33&&Pro"], "aspect": ["35&&độ", "36&&sắc", "37&&nét"], "predicate": ["28&&gần", "29&&giống"], "label": "EQL"}
+{"subject": ["19&&iPhone", "20&&SE", "21&&2022"], "object": ["31&&iPhone", "32&&13", "33&&Pro"], "aspect": ["39&&chi", "40&&tiết"], "predicate": ["28&&gần", "29&&giống"], "label": "EQL"}
+
+alt: Khả năng chụp ảnh Deep Fusion iPhone 13 Pro và iPhone SE 2022 5G	alt : Khả năng chụp ảnh Deep Fusion iPhone 13 Pro và iPhone SE 2022 5G
+
+des:	des :
+
+Khả năng chụp ảnh Deep Fusion iPhone 13 Pro và iPhone SE 2022 5G	Khả năng chụp ảnh Deep Fusion iPhone 13 Pro và iPhone SE 2022 5G
+
+Mẫu iPhone SE mới, có khả năng hiển thị chi tiết trong điều kiện ánh sáng trung bình là một ưu điểm lớn so với iPhone SE  2020.	Mẫu iPhone SE mới , có khả năng hiển thị chi tiết trong điều kiện ánh sáng trung bình là một ưu điểm lớn so với iPhone SE 2020 .
+{"subject": ["1&&Mẫu", "2&&iPhone", "3&&SE", "4&&mới"], "object": ["27&&iPhone", "28&&SE", "29&&2020"], "aspect": ["9&&hiển", "10&&thị", "11&&chi", "12&&tiết", "13&&trong", "14&&điều", "15&&kiện", "16&&ánh", "17&&sáng", "18&&trung", "19&&bình"], "predicate": ["22&&ưu", "23&&điểm", "24&&lớn", "25&&so", "26&&với"], "label": "COM+"}
+
+Trong điều kiện ánh sáng yếu thì chất lượng hình ảnh của điện thoại iPhone giá rẻ̉không thật sự tốt.	Trong điều kiện ánh sáng yếu thì chất lượng hình ảnh của điện thoại iPhone giá rẻ̉không thật sự tốt .
+
+Điều này cũng dễ hiểu khi máy không có chế độ ban đêm như trên iPhone 13 Pro.	Điều này cũng dễ hiểu khi máy không có chế độ ban đêm như trên iPhone 13 Pro .
+
+Hình ảnh được chụp vào ban đêm không có nhiều ánh sáng xung quanh, trông khá nhiễu vì điện thoại không thể chụp ảnh phơi sáng lâu hơn.	Hình ảnh được chụp vào ban đêm không có nhiều ánh sáng xung quanh , trông khá nhiễu vì điện thoại không thể chụp ảnh phơi sáng lâu hơn .
+
+Việc không được trang bị chế độ ban đêm là một thiếu sót trên iPhone SE 2022, đặc biệt là khi so sánh với các mẫu Android tầm trung.	Việc không được trang bị chế độ ban đêm là một thiếu sót trên iPhone SE 2022 , đặc biệt là khi so sánh với các mẫu Android tầm trung .
+
+Các điện thoại giá rẻ như Google Pixel 5A, Galaxy A53 5G...được ra mắt gần đây đều được trang bị tính năng này.	Các điện thoại giá rẻ như Google Pixel 5A , Galaxy A53 5G . . . được ra mắt gần đây đều được trang bị tính năng này .
+
+3/ Chụp ảnh ở chế độ chân dung	3 / Chụp ảnh ở chế độ chân dung
+
+Ở khía cạnh này, chiến thắng hoàn toàn thuộc về iPhone 13 Pro.	Ở khía cạnh này , chiến thắng hoàn toàn thuộc về iPhone 13 Pro .
+{"subject": ["12&&iPhone", "13&&13", "14&&Pro"], "object": [], "aspect": ["2&&khía", "3&&cạnh", "4&&này"], "predicate": ["6&&chiến", "7&&thắng", "8&&hoàn", "9&&toàn"], "label": "COM+"}
+
+Điện thoại cho phép, người dụng sử dụng máy ảnh tele góc rộng hoặc ống kính 3x để tạo khung hình cho các bức ảnh chân dung.	Điện thoại cho phép , người dụng sử dụng máy ảnh tele góc rộng hoặc ống kính 3x để tạo khung hình cho các bức ảnh chân dung .
+
+Trong khi iPhone SE 2022 chỉ có một góc nhìn từ ống kính của nó.	Trong khi iPhone SE 2022 chỉ có một góc nhìn từ ống kính của nó .
+
+Rõ ràng phối cạnh 3x sẽ đẹp hơn nhiều cho khuôn mặt so với cùng một hình ảnh trên camera rộng.	Rõ ràng phối cạnh 3x sẽ đẹp hơn nhiều cho khuôn mặt so với cùng một hình ảnh trên camera rộng .
+{"subject": ["3&&phối", "4&&cạnh", "5&&3x"], "object": ["16&&một", "17&&hình", "18&&ảnh", "19&&trên", "20&&camera", "21&&rộng"], "aspect": ["11&&khuôn", "12&&mặt"], "predicate": ["7&&đẹp", "8&&hơn", "9&&nhiều"], "label": "COM+"}
+
+alt: Chụp ảnh ở chế độ chân dung iPhone 13 Pro và iPhone SE 2022 5G	alt : Chụp ảnh ở chế độ chân dung iPhone 13 Pro và iPhone SE 2022 5G
+
+des:	des :
+
+Chụp ảnh ở chế độ chân dung iPhone 13 Pro và iPhone SE 2022 5G	Chụp ảnh ở chế độ chân dung iPhone 13 Pro và iPhone SE 2022 5G
+
+Tính năng phát hiện cạnh không mạnh trên iPhone SE mới vì nó vô tình làm mờ hoặc cắt đi một số chi tiết mà iPhone 13 Pro xác định chính xác, chẳng hạn như kính râm nằm trên đầu ai đó.	Tính năng phát hiện cạnh không mạnh trên iPhone SE mới vì nó vô tình làm mờ hoặc cắt đi một số chi tiết mà iPhone 13 Pro xác định chính xác , chẳng hạn như kính râm nằm trên đầu ai đó .
+
+Có một lợi thế rõ ràng khác trên iPhone 13 Pro là nó cho phép bạn chụp ảnh ở chế độ chân dung ở khá nhiều thứ bạn muốn, từ thú cưng đến hoa.	Có một lợi thế rõ ràng khác trên iPhone 13 Pro là nó cho phép bạn chụp ảnh ở chế độ chân dung ở khá nhiều thứ bạn muốn , từ thú cưng đến hoa .
+
+Bởi vì iPhone SE 2022 chỉ có một ống kính duy nhất ở phía sau, nên thiết bị không thể chụp chân dung bất cứ thứ gì ngoại trừ con người.	Bởi vì iPhone SE 2022 chỉ có một ống kính duy nhất ở phía sau , nên thiết bị không thể chụp chân dung bất cứ thứ gì ngoại trừ con người .
+
+Ngoài ra, điện thoại hàng đầu của Apple cũng cho phép bạn chụp ở định dạng ProRaw để có sự linh hoạt và vĩ độ nhất để chỉnh sửa hình ảnh của bạn.	Ngoài ra , điện thoại hàng đầu của Apple cũng cho phép bạn chụp ở định dạng ProRaw để có sự linh hoạt và vĩ độ nhất để chỉnh sửa hình ảnh của bạn .
+
+Máy ảnh góc rộng của iPhone 13 Pro cũng hỗ trợ tự động lấy nét, có nghĩa là bạn có thể đến gần đối tượng của mình hơn.	Máy ảnh góc rộng của iPhone 13 Pro cũng hỗ trợ tự động lấy nét , có nghĩa là bạn có thể đến gần đối tượng của mình hơn .
+
+Mặc dù điện thoại đắt tiền hơn của Apple có một số lợi thế phần cứng rõ ràng như cảm biến lớn hơn, độ dài tiêu cự bổ sung và chế độ ban đêm.	Mặc dù điện thoại đắt tiền hơn của Apple có một số lợi thế phần cứng rõ ràng như cảm biến lớn hơn , độ dài tiêu cự bổ sung và chế độ ban đêm .
+{"subject": ["3&&điện", "4&&thoại", "5&&đắt", "6&&tiền", "7&&hơn", "8&&của", "9&&Apple"], "object": [], "aspect": ["15&&phần", "16&&cứng"], "predicate": ["13&&lợi", "14&&thế"], "label": "COM+"}
+{"subject": ["3&&điện", "4&&thoại", "5&&đắt", "6&&tiền", "7&&hơn", "8&&của", "9&&Apple"], "object": [], "aspect": ["20&&cảm", "21&&biến"], "predicate": ["22&&lớn", "23&&hơn"], "label": "COM+"}
+
+Nhưng iPhone SE 2022 5G vẫn khiến chúng ta ngạc nhiên khi mang đến chất lượng chụp ảnh cũng khác tốt.	Nhưng iPhone SE 2022 5G vẫn khiến chúng ta ngạc nhiên khi mang đến chất lượng chụp ảnh cũng khác tốt .
+

@@ -1,0 +1,118 @@
+title: So sánh OPPO A74 và Samsung Galaxy A32: Chọn lựa nào hợp lý khi có cùng giá 6.69 triệu đồng?	title : So sánh OPPO A74 và Samsung Galaxy A32 : Chọn lựa nào hợp lý khi có cùng giá 6.69 triệu đồng ?
+
+Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO.	Galaxy A32 và OPPO A74 thuộc dòng A của hai thương hiệu lớn là Samsung và OPPO .
+
+Đây là dòng điện thoại hướng tới người dùng trẻ với các tính năng mới cùng giá bán phải chăng.	Đây là dòng điện thoại hướng tới người dùng trẻ với các tính năng mới cùng giá bán phải chăng .
+
+OPPO A74 và Samsung Galaxy A32 có cùng mức giá 6.69 triệu và cả hai đều là những chiến binh tầm trung trong nửa đầu năm 2021.	OPPO A74 và Samsung Galaxy A32 có cùng mức giá 6.69 triệu và cả hai đều là những chiến binh tầm trung trong nửa đầu năm 2021 .
+{"subject": ["1&&OPPO", "2&&A74"], "object": ["4&&Samsung", "5&&Galaxy", "6&&A32"], "aspect": ["9&&mức", "10&&giá"], "predicate": ["7&&có", "8&&cùng"], "label": "EQL"}
+{"subject": ["14&&cả", "15&&hai"], "object": ["14&&cả", "15&&hai"], "aspect": [], "predicate": ["16&&đều", "17&&là", "18&&những", "19&&chiến", "20&&binh", "21&&tầm", "22&&trung", "23&&trong", "24&&nửa", "25&&đầu", "26&&năm", "27&&2021"], "label": "EQL"}
+
+Vậy chọn chiếc điện thoại nào hợp lý hơn, cùng FPT Shop so sánh dưới bài viết nhé!	Vậy chọn chiếc điện thoại nào hợp lý hơn , cùng FPT Shop so sánh dưới bài viết nhé !
+
+Thiết kế: Mỗi điện thoại có thế mạnh riêng	Thiết kế : Mỗi điện thoại có thế mạnh riêng
+
+Năm nay, Galaxy A 2021 của Samsung sở hữu thiết kế khác biệt so với thị trường.	Năm nay , Galaxy A 2021 của Samsung sở hữu thiết kế khác biệt so với thị trường .
+{"subject": ["4&&Galaxy", "5&&A", "6&&2021"], "object": ["17&&thị", "18&&trường"], "aspect": ["11&&thiết", "12&&kế"], "predicate": ["13&&khác", "14&&biệt"], "label": "DIF"}
+
+Kiểu thiết kế tinh giản cùng các phiên bản màu sắc thời thượng tím, xanh, trắng và đen.	Kiểu thiết kế tinh giản cùng các phiên bản màu sắc thời thượng tím , xanh , trắng và đen .
+
+Các cảm biến camera cũng được tích hợp sẵn vào mặt lưng, tạo vẻ ngoài hiện đại và thời thượng.	Các cảm biến camera cũng được tích hợp sẵn vào mặt lưng , tạo vẻ ngoài hiện đại và thời thượng .
+
+alt:	alt :
+
+des: Mặt lưng Samsung Galaxy A32	des : Mặt lưng Samsung Galaxy A32
+
+Đối với OPPO A74 là thiết kế mặt lưng bóng bẩy và đổ màu gradient cùng cụm camera hình chữ nhật.	Đối với OPPO A74 là thiết kế mặt lưng bóng bẩy và đổ màu gradient cùng cụm camera hình chữ nhật .
+
+Điện thoại có hai tùy chọn cho bạn là xanh và đen.	Điện thoại có hai tùy chọn cho bạn là xanh và đen .
+
+Phiên bản màu xanh khá “cuốn”, phù hợp với người dùng thích sự tinh tế.	Phiên bản màu xanh khá “ cuốn ” , phù hợp với người dùng thích sự tinh tế .
+
+alt:	alt :
+
+des: Mặt lưng OPPO A74	des : Mặt lưng OPPO A74
+
+Màn hình: Galaxy A32 “nhỉnh” hơn với màn 90Hz	Màn hình : Galaxy A32 “ nhỉnh ” hơn với màn 90Hz
+{"subject": ["4&&Galaxy", "5&&A32"], "object": [], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["6&&“", "7&&nhỉnh", "8&&”", "9&&hơn"], "label": "COM+"}
+
+Samsung năm nay đã có bước cải tiến khá lớn về màn hình cho chiếc điện thoại tầm giá 6-7 triệu của mình là màn hình 90Hz.	Samsung năm nay đã có bước cải tiến khá lớn về màn hình cho chiếc điện thoại tầm giá 6 - 7 triệu của mình là màn hình 90Hz .
+
+Với màn hình này, bạn có thể trải nghiệm tuyệt vời với khả năng “lướt”, “vuốt” mượt mà so với màn hình 60Hz của OPPO A74.	Với màn hình này , bạn có thể trải nghiệm tuyệt vời với khả năng “ lướt ” , “ vuốt ” mượt mà so với màn hình 60Hz của OPPO A74 .
+
+alt:	alt :
+
+des: Màn hình Samsung Galaxy A32	des : Màn hình Samsung Galaxy A32
+
+Tuy nhiên nhìn đi nhìn lại thì OPPO A74 có màn hình “đục lỗ” sẽ nhìn hợp xu hướng hơn so với màn hình “giọt sương” trên Galaxy A32.	Tuy nhiên nhìn đi nhìn lại thì OPPO A74 có màn hình “ đục lỗ ” sẽ nhìn hợp xu hướng hơn so với màn hình “ giọt sương ” trên Galaxy A32 .
+{"subject": ["8&&OPPO", "9&&A74"], "object": ["32&&Galaxy", "33&&A32"], "aspect": ["11&&màn", "12&&hình"], "predicate": ["19&&hợp", "20&&xu", "21&&hướng", "22&&hơn"], "label": "COM+"}
+
+Về kích thước thì cả hai không sự khác biệt khi cùng thông số 6.4 inch Full HD+.	Về kích thước thì cả hai không sự khác biệt khi cùng thông số 6.4 inch Full HD + .
+{"subject": ["5&&cả", "6&&hai"], "object": ["5&&cả", "6&&hai"], "aspect": ["2&&kích", "3&&thước"], "predicate": ["7&&không", "8&&sự", "9&&khác", "10&&biệt"], "label": "EQL"}
+{"subject": ["5&&cả", "6&&hai"], "object": ["5&&cả", "6&&hai"], "aspect": ["13&&thông", "14&&số", "15&&6.4", "16&&inch", "17&&Full", "18&&HD", "19&&+"], "predicate": ["12&&cùng"], "label": "EQL"}
+
+Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì cả hai đều được trang bị tấm nền cao cấp, cho chất lượng hiển thị sắc nét và chân thực.	Màn hình lớn sẽ giúp bạn có không gian giải trí tuyệt vời và dù thế nào thì cả hai đều được trang bị tấm nền cao cấp , cho chất lượng hiển thị sắc nét và chân thực .
+{"subject": ["19&&cả", "20&&hai"], "object": ["19&&cả", "20&&hai"], "aspect": ["25&&tấm", "26&&nền", "27&&cao", "28&&cấp"], "predicate": ["21&&đều", "22&&được", "23&&trang", "24&&bị"], "label": "EQL"}
+
+alt:	alt :
+
+des: Màn hình OPPO A74	des : Màn hình OPPO A74
+
+Vi xử lý khá tương đồng	Vi xử lý khá tương đồng
+{"subject": [], "object": [], "aspect": ["1&&Vi", "2&&xử", "3&&lý"], "predicate": ["4&&khá", "5&&tương", "6&&đồng"], "label": "EQL"}
+
+OPPO A74 sở hữu vi xử lý Snapdragon 662 và Galaxy A32 là Helio G80.	OPPO A74 sở hữu vi xử lý Snapdragon 662 và Galaxy A32 là Helio G80 .
+
+So điểm hiệu năng trên Antutu thì Helio G80 có số điểm cao hơn khi nằm khoảng gần 200.000 điểm và Snapdragon 662 khoảng 180.000 điểm.	So điểm hiệu năng trên Antutu thì Helio G80 có số điểm cao hơn khi nằm khoảng gần 200.000 điểm và Snapdragon 662 khoảng 180.000 điểm .
+{"subject": ["8&&Helio", "9&&G80"], "object": ["22&&Snapdragon", "23&&662"], "aspect": ["2&&điểm", "3&&hiệu", "4&&năng", "5&&trên", "6&&Antutu"], "predicate": ["13&&cao", "14&&hơn"], "label": "COM+"}
+
+Đối với điểm hiệu năng trên GeekBench 5 thì SD662 có 319 điểm đơn lõi, 1401 điểm đa lõi và Helio G80 là 355 điểm đơn lõi, 1311 điểm đa lõi.	Đối với điểm hiệu năng trên GeekBench 5 thì SD662 có 319 điểm đơn lõi , 1401 điểm đa lõi và Helio G80 là 355 điểm đơn lõi , 1311 điểm đa lõi .
+
+Chính vì thế mà hiệu năng điện thoại cũng không chênh lệch nhiều, nhưng so về độ ổn định thì Qualcomm sẽ có lợi thế về lâu dài hơn so với chip từ MediaTek.	Chính vì thế mà hiệu năng điện thoại cũng không chênh lệch nhiều , nhưng so về độ ổn định thì Qualcomm sẽ có lợi thế về lâu dài hơn so với chip từ MediaTek .
+{"subject": ["22&&Qualcomm"], "object": ["35&&MediaTek"], "aspect": ["5&&hiệu", "6&&năng"], "predicate": ["10&&không", "11&&chênh", "12&&lệch", "13&&nhiều"], "label": "EQL"}
+{"subject": ["22&&Qualcomm"], "object": ["35&&MediaTek"], "aspect": ["18&&độ", "19&&ổn", "20&&định"], "predicate": ["24&&có", "25&&lợi", "26&&thế", "27&&về", "28&&lâu", "29&&dài", "30&&hơn"], "label": "COM+"}
+
+Dung lượng pin và sạc nhanh	Dung lượng pin và sạc nhanh
+
+OPPO A74 và Galaxy A32 sở hữu viên pin lớn 5.000mAh.	OPPO A74 và Galaxy A32 sở hữu viên pin lớn 5.000mAh .
+
+Đây là viên pin để bạn có thể sử dụng đến hai ngày dài.	Đây là viên pin để bạn có thể sử dụng đến hai ngày dài .
+
+Sự khác biệt sẽ đến từ sạc nhanh khi Samsung chỉ hỗ trợ sạc nhanh 15W trong khi đó OPPO đến tận 33W.	Sự khác biệt sẽ đến từ sạc nhanh khi Samsung chỉ hỗ trợ sạc nhanh 15W trong khi đó OPPO đến tận 33W .
+{"subject": ["10&&Samsung"], "object": ["20&&OPPO"], "aspect": ["7&&sạc", "8&&nhanh"], "predicate": ["2&&khác", "3&&biệt"], "label": "DIF"}
+
+Quá trình thử nghiệm cho thấy Galaxy A32 đạt 100% pin trong vòng khoảng 2 tiếng 20 phút và OPPO A74 là khoảng 2 tiếng.	Quá trình thử nghiệm cho thấy Galaxy A32 đạt 100% pin trong vòng khoảng 2 tiếng 20 phút và OPPO A74 là khoảng 2 tiếng .
+
+alt: OPPO A74	alt : OPPO A74
+
+des:	des :
+
+Camera	Camera
+
+Phải nói năm nay Samsung chơi lớn trên những chiếc điện thoại dòng A. Khi Galalxy A32 có tận bốn camera sau là camera chính 64MP, góc rộng 8MP, camera macro 5MP và camera đo độ sâu 5MP.	Phải nói năm nay Samsung chơi lớn trên những chiếc điện thoại dòng A . Khi Galalxy A32 có tận bốn camera sau là camera chính 64MP , góc rộng 8MP , camera macro 5MP và camera đo độ sâu 5MP .
+
+Các camera này sẽ mang đến từng tấm ảnh khác cho từng góc chụp.	Các camera này sẽ mang đến từng tấm ảnh khác cho từng góc chụp .
+
+Đi kèm 4 camera sau, Galaxy A32 cũng tích hợp camera selfie đến 20MP, để bạn thỏa thích chụp được các tấm ảnh selfie sắc nét.	Đi kèm 4 camera sau , Galaxy A32 cũng tích hợp camera selfie đến 20MP , để bạn thỏa thích chụp được các tấm ảnh selfie sắc nét .
+
+Trong khi đó, OPPO A74 chỉ có ba camera sau bao gồm camera chính 48MP, camera macro 2MP, camera đo độ sâu 2MP và camera selfie dừng lại ở độ phân giải 16MP.	Trong khi đó , OPPO A74 chỉ có ba camera sau bao gồm camera chính 48MP , camera macro 2MP , camera đo độ sâu 2MP và camera selfie dừng lại ở độ phân giải 16MP .
+
+Điều này cũng có nghĩa Galaxy A32 sẽ hơn hẳn camera của OPPO A74 từ các độ sắc nét cho đến các góc chụp.	Điều này cũng có nghĩa Galaxy A32 sẽ hơn hẳn camera của OPPO A74 từ các độ sắc nét cho đến các góc chụp .
+{"subject": ["6&&Galaxy", "7&&A32"], "object": ["11&&camera", "12&&của", "13&&OPPO", "14&&A74"], "aspect": ["17&&độ", "18&&sắc", "19&&nét"], "predicate": ["9&&hơn", "10&&hẳn"], "label": "COM+"}
+{"subject": ["6&&Galaxy", "7&&A32"], "object": ["11&&camera", "12&&của", "13&&OPPO", "14&&A74"], "aspect": ["22&&các", "23&&góc", "24&&chụp"], "predicate": ["9&&hơn", "10&&hẳn"], "label": "COM+"}
+
+Vậy chọn Samsung Galaxy A32 hay OPPO A74?	Vậy chọn Samsung Galaxy A32 hay OPPO A74 ?
+
+Nhìn chung cả hai điện thoại đều có thế mạnh nhất định.	Nhìn chung cả hai điện thoại đều có thế mạnh nhất định .
+
+Nếu bạn đang tìm kiếm chiếc điện thoại có thiết kế chuyển màu ấn tượng, hỗ trợ sạc nhanh cùng hiệu năng ổn định dài lâu thì OPPO A74 rất lý tưởng.	Nếu bạn đang tìm kiếm chiếc điện thoại có thiết kế chuyển màu ấn tượng , hỗ trợ sạc nhanh cùng hiệu năng ổn định dài lâu thì OPPO A74 rất lý tưởng .
+
+Đối với người dùng yêu cầu về camera “xịn”, thiết kế tinh giản và màn hình mượt mà thì Galaxy A32 rất phù hợp.	Đối với người dùng yêu cầu về camera “ xịn ” , thiết kế tinh giản và màn hình mượt mà thì Galaxy A32 rất phù hợp .
+
+Ngoài ra giữa hai chọn lựa OPPO hay Samsung còn phụ thuộc vào việc bạn yêu thích thương hiệu nào hơn.	Ngoài ra giữa hai chọn lựa OPPO hay Samsung còn phụ thuộc vào việc bạn yêu thích thương hiệu nào hơn .
+
+Vì cả hai đều là sản phẩm ấn tượng trong phân khúc của chính nó.	Vì cả hai đều là sản phẩm ấn tượng trong phân khúc của chính nó .
+{"subject": ["2&&cả", "3&&hai"], "object": ["2&&cả", "3&&hai"], "aspect": [], "predicate": ["4&&đều", "5&&là", "6&&sản", "7&&phẩm", "8&&ấn", "9&&tượng", "10&&trong", "11&&phân", "12&&khúc", "13&&của", "14&&chính", "15&&nó"], "label": "EQL"}
+
+Mẫu điện thoại tầm trung OPPO A77s được nhiều tín đồ săn đón sẽ không làm bạn thất vọng, cùng tìm hiểu thử nhé!	Mẫu điện thoại tầm trung OPPO A77s được nhiều tín đồ săn đón sẽ không làm bạn thất vọng , cùng tìm hiểu thử nhé !
+

@@ -1,0 +1,104 @@
+title: So sánh Xiaomi Redmi Note 11 Pro+ và Samsung Galaxy M32 5G	title : So sánh Xiaomi Redmi Note 11 Pro + và Samsung Galaxy M32 5G
+
+Thiết kế	Thiết kế
+
+alt: Galaxy M52 5G (ảnh 1)	alt : Galaxy M52 5G ( ảnh 1 )
+
+des: Galaxy M52 5G (ảnh 1)	des : Galaxy M52 5G ( ảnh 1 )
+
+Bạn thích sử dụng một chiếc  điện thoại  có thiết kế đẹp hơn hay có chất liệu hoàn thiện cao cấp hơn.	Bạn thích sử dụng một chiếc điện thoại có thiết kế đẹp hơn hay có chất liệu hoàn thiện cao cấp hơn .
+
+Nếu chọn câu trả lời đầu tiên thì bạn nên mua Galaxy M52 5G.	Nếu chọn câu trả lời đầu tiên thì bạn nên mua Galaxy M52 5G .
+
+Mẫu  điện thoại tầm trung  của  Samsung  được trang bị màn hình đục lỗ bắt mắt ở mặt trước với viền bezel các cạnh khá mỏng.	Mẫu điện thoại tầm trung của Samsung được trang bị màn hình đục lỗ bắt mắt ở mặt trước với viền bezel các cạnh khá mỏng .
+
+Ở mặt sau, smartphone này sở hữu cụm máy ảnh hình chữ nhật khá lớn nằm ở góc trên cùng bên trái nhưng được thiết kế cùng màu với mặt lưng nên trông rất ấn tượng.	Ở mặt sau , smartphone này sở hữu cụm máy ảnh hình chữ nhật khá lớn nằm ở góc trên cùng bên trái nhưng được thiết kế cùng màu với mặt lưng nên trông rất ấn tượng .
+
+Mặt khác,  Xiaomi Redmi Note 11 Pro Plus  có chất lượng hoàn thiện cao cấp hơn khi cả mặt trước lẫn sau của điện thoại này đều được bảo vệ bởi lớp kính cường lực Gorilla Glass 5.	Mặt khác , Xiaomi Redmi Note 11 Pro Plus có chất lượng hoàn thiện cao cấp hơn khi cả mặt trước lẫn sau của điện thoại này đều được bảo vệ bởi lớp kính cường lực Gorilla Glass 5 .
+{"subject": ["4&&Xiaomi", "5&&Redmi", "6&&Note", "7&&11", "8&&Pro", "9&&Plus"], "object": [], "aspect": ["11&&chất", "12&&lượng", "13&&hoàn", "14&&thiện"], "predicate": ["15&&cao", "16&&cấp", "17&&hơn"], "label": "COM+"}
+
+Di động  Xiaomi  nhỏ gọn hơn một chút, nhưng nó dày và nặng hơn so với  Samsung Galaxy M52 5G .	Di động Xiaomi nhỏ gọn hơn một chút , nhưng nó dày và nặng hơn so với Samsung Galaxy M52 5G .
+{"subject": ["1&&Di", "2&&động", "3&&Xiaomi"], "object": ["18&&Samsung", "19&&Galaxy", "20&&M52", "21&&5G"], "aspect": [], "predicate": ["4&&nhỏ", "5&&gọn", "6&&hơn", "7&&một", "8&&chút"], "label": "COM+"}
+{"subject": ["11&&nó"], "object": ["18&&Samsung", "19&&Galaxy", "20&&M52", "21&&5G"], "aspect": [], "predicate": ["12&&dày", "13&&và", "14&&nặng", "15&&hơn"], "label": "COM-"}
+
+Màn hình	Màn hình
+
+alt: Xiaomi Redmi Note 11 Pro+ (ảnh 1)	alt : Xiaomi Redmi Note 11 Pro + ( ảnh 1 )
+
+des: Xiaomi Redmi Note 11 Pro+ (ảnh 1)	des : Xiaomi Redmi Note 11 Pro + ( ảnh 1 )
+
+Màn hình của Redmi Note 11 Pro+ và Samsung Galaxy M52 5G có chất lượng hiển thị khá tương đồng nhau.	Màn hình của Redmi Note 11 Pro + và Samsung Galaxy M52 5G có chất lượng hiển thị khá tương đồng nhau .
+{"subject": ["1&&Màn", "2&&hình", "3&&của", "4&&Redmi", "5&&Note", "6&&11", "7&&Pro", "8&&+"], "object": ["10&&Samsung", "11&&Galaxy", "12&&M52", "13&&5G"], "aspect": ["15&&chất", "16&&lượng", "17&&hiển", "18&&thị"], "predicate": ["19&&khá", "20&&tương", "21&&đồng", "22&&nhau"], "label": "EQL"}
+
+Cả hai smartphone này đều sử dụng tấm nền AMOLED cao cấp, hỗ trợ độ phân giải Full-HD+ sắc nét và tần số quét 120Hz mượt mà.	Cả hai smartphone này đều sử dụng tấm nền AMOLED cao cấp , hỗ trợ độ phân giải Full-HD + sắc nét và tần số quét 120Hz mượt mà .
+
+Tuy nhiên, Redmi Note 11 Pro+ đạt chứng nhận HDR10 giúp cung cấp chất lượng hình ảnh cao hơn trên các nền tảng phát trực tuyến, trong khi tấm nền của Galaxy M52 5G được gọi là Super AMOLED Plus do khả năng tái tạo hình ảnh tốt hơn nếu so với các tấm nền AMOLED khác.	Tuy nhiên , Redmi Note 11 Pro + đạt chứng nhận HDR10 giúp cung cấp chất lượng hình ảnh cao hơn trên các nền tảng phát trực tuyến , trong khi tấm nền của Galaxy M52 5G được gọi là Super AMOLED Plus do khả năng tái tạo hình ảnh tốt hơn nếu so với các tấm nền AMOLED khác .
+{"subject": ["4&&Redmi", "5&&Note", "6&&11", "7&&Pro", "8&&+"], "object": [], "aspect": ["16&&chất", "17&&lượng", "18&&hình", "19&&ảnh"], "predicate": ["20&&cao", "21&&hơn"], "label": "COM+"}
+{"subject": ["41&&Super", "42&&AMOLED", "43&&Plus"], "object": ["56&&các", "57&&tấm", "58&&nền", "59&&AMOLED", "60&&khác"], "aspect": ["45&&khả", "46&&năng", "47&&tái", "48&&tạo", "49&&hình", "50&&ảnh"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+
+Lưu ý rằng, mặc dù đều sử dụng tấm nền AMOLED, nhưng cả hai điện thoại này chỉ có máy quét dấu vân tay được tích hợp vào nút nguồn ở cạnh bên thay vì cảm biến sinh trắc học trong màn hình.	Lưu ý rằng , mặc dù đều sử dụng tấm nền AMOLED , nhưng cả hai điện thoại này chỉ có máy quét dấu vân tay được tích hợp vào nút nguồn ở cạnh bên thay vì cảm biến sinh trắc học trong màn hình .
+
+Âm thanh do Redmi Note 11 Pro+ cung cấp to hơn nhờ hệ thống  loa  stereo do JBL điều chỉnh, trong khi Galaxy M52 5G chỉ có loa đơn.	Âm thanh do Redmi Note 11 Pro + cung cấp to hơn nhờ hệ thống loa stereo do JBL điều chỉnh , trong khi Galaxy M52 5G chỉ có loa đơn .
+{"subject": ["1&&Âm", "2&&thanh", "3&&do", "4&&Redmi", "5&&Note", "6&&11", "7&&Pro", "8&&+"], "object": ["25&&Galaxy", "26&&M52", "27&&5G"], "aspect": ["11&&to"], "predicate": ["12&&hơn"], "label": "COM+"}
+{"subject": ["4&&Redmi", "5&&Note", "6&&11", "7&&Pro", "8&&+"], "object": ["25&&Galaxy", "26&&M52", "27&&5G"], "aspect": ["1&&Âm", "2&&thanh"], "predicate": ["11&&to", "12&&hơn"], "label": "COM+"}
+
+Phần cứng và phần mềm	Phần cứng và phần mềm
+
+alt: Bảng thông số kỹ thuật	alt : Bảng thông số kỹ thuật
+
+des: Bảng thông số kỹ thuật	des : Bảng thông số kỹ thuật
+
+Ở đây, chúng ta có một trận chiến rất thú vị: Mediatek Dimensity 920 5G và Qualcomm Snapdragon 778G.	Ở đây , chúng ta có một trận chiến rất thú vị : Mediatek Dimensity 920 5G và Qualcomm Snapdragon 778G .
+
+Theo các điểm chuẩn, bộ xử lý Snapdragon 778G được tìm thấy trên Galaxy M52 5G mạnh hơn một chút so với Dimensity 920 trên Redmi Note 11 Pro+.	Theo các điểm chuẩn , bộ xử lý Snapdragon 778G được tìm thấy trên Galaxy M52 5G mạnh hơn một chút so với Dimensity 920 trên Redmi Note 11 Pro + .
+{"subject": ["6&&bộ", "7&&xử", "8&&lý", "9&&Snapdragon", "10&&778G"], "object": ["24&&Dimensity", "25&&920"], "aspect": ["2&&các", "3&&điểm", "4&&chuẩn"], "predicate": ["18&&mạnh", "19&&hơn", "20&&một", "21&&chút"], "label": "COM+"}
+
+Mặt khác, bạn có thể nhận được dung lượng lưu trữ cao hơn với Redmi Note 11 Pro+, lên đến 256GB bộ nhớ trong UFS 2.2. Do sự khác biệt nhỏ giữa các bộ phận phần cứng, nên hiệu năng của hai smartphone này không chênh lệch nhau nhiều và dư sức xử lý các tác vụ hàng ngày của người dùng.	Mặt khác , bạn có thể nhận được dung lượng lưu trữ cao hơn với Redmi Note 11 Pro + , lên đến 256GB bộ nhớ trong UFS 2.2 . Do sự khác biệt nhỏ giữa các bộ phận phần cứng , nên hiệu năng của hai smartphone này không chênh lệch nhau nhiều và dư sức xử lý các tác vụ hàng ngày của người dùng .
+{"subject": ["16&&Redmi", "17&&Note", "18&&11", "19&&Pro", "20&&+"], "object": [], "aspect": ["9&&dung", "10&&lượng", "11&&lưu", "12&&trữ"], "predicate": ["13&&cao", "14&&hơn"], "label": "COM+"}
+{"subject": ["47&&hai", "48&&smartphone", "49&&này"], "object": ["47&&hai", "48&&smartphone", "49&&này"], "aspect": ["44&&hiệu", "45&&năng"], "predicate": ["50&&không", "51&&chênh", "52&&lệch", "53&&nhau", "54&&nhiều"], "label": "EQL"}
+
+Về phần mềm, bộ đôi này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng.	Về phần mềm , bộ đôi này đều chạy trên hệ điều hành Android 11 với giao diện tùy chỉnh riêng của mỗi hãng .
+
+Máy ảnh	Máy ảnh
+
+alt: Xiaomi Redmi Note 11 Pro+ có 3 camera ở phía sau	alt : Xiaomi Redmi Note 11 Pro + có 3 camera ở phía sau
+
+des: Xiaomi Redmi Note 11 Pro+ có 3 camera ở phía sau	des : Xiaomi Redmi Note 11 Pro + có 3 camera ở phía sau
+
+Redmi Note 11 Pro+ được trang bị camera chính tốt hơn: cảm biến 108MP hỗ trợ quay video 4K so với camera chính 64MP của đối thủ.	Redmi Note 11 Pro + được trang bị camera chính tốt hơn : cảm biến 108MP hỗ trợ quay video 4K so với camera chính 64MP của đối thủ .
+{"subject": ["1&&Redmi", "2&&Note", "3&&11", "4&&Pro", "5&&+"], "object": ["24&&camera", "25&&chính", "26&&64MP", "27&&của", "28&&đối", "29&&thủ"], "aspect": ["9&&camera", "10&&chính"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Mặt khác, Galaxy M52 5G có các cảm biến phụ tốt hơn: một camera góc siêu rộng 12MP (thay vì chỉ 8 MP) và một camera macro 5MP (thay vì 2 MP).	Mặt khác , Galaxy M52 5G có các cảm biến phụ tốt hơn : một camera góc siêu rộng 12MP ( thay vì chỉ 8 MP ) và một camera macro 5MP ( thay vì 2 MP ) .
+{"subject": ["4&&Galaxy", "5&&M52", "6&&5G"], "object": [], "aspect": ["8&&các", "9&&cảm", "10&&biến", "11&&phụ"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
+
+Cuối cùng nhưng không kém phần quan trọng, Galaxy M52 5G có camera trước tốt hơn với độ phân giải 32MP, trong khi Redmi Note 11 Pro+ chỉ sở hữu cảm biến 16MP kém hơn.	Cuối cùng nhưng không kém phần quan trọng , Galaxy M52 5G có camera trước tốt hơn với độ phân giải 32MP , trong khi Redmi Note 11 Pro + chỉ sở hữu cảm biến 16MP kém hơn .
+{"subject": ["10&&Galaxy", "11&&M52", "12&&5G"], "object": ["26&&Redmi", "27&&Note", "28&&11", "29&&Pro", "30&&+"], "aspect": ["14&&camera", "15&&trước"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+{"subject": ["26&&Redmi", "27&&Note", "28&&11", "29&&Pro", "30&&+"], "object": ["10&&Galaxy", "11&&M52", "12&&5G"], "aspect": ["34&&cảm", "35&&biến", "36&&16MP"], "predicate": ["37&&kém", "38&&hơn"], "label": "COM-"}
+
+Thời lượng pin	Thời lượng pin
+
+alt: Galaxy M52 5G (ảnh 4)	alt : Galaxy M52 5G ( ảnh 4 )
+
+des: Galaxy M52 5G (ảnh 4)	des : Galaxy M52 5G ( ảnh 4 )
+
+Samsung Galaxy M52 5G thực sự có thời lượng pin lâu hơn đơn giản vì nó có pin lớn hơn với dung lượng 5,000 mAh. Mặc khác, Redmi Note 11 Pro+ dù có pin 4,500 mAh nhỏ hơn nhưng điện thoại này gây ấn tượng với công nghệ sạc nhanh 120W siêu tốc, giúp sạc đầy pin chỉ trong 15 phút.	Samsung Galaxy M52 5G thực sự có thời lượng pin lâu hơn đơn giản vì nó có pin lớn hơn với dung lượng 5,000 mAh . Mặc khác , Redmi Note 11 Pro + dù có pin 4,500 mAh nhỏ hơn nhưng điện thoại này gây ấn tượng với công nghệ sạc nhanh 120W siêu tốc , giúp sạc đầy pin chỉ trong 15 phút .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M52", "4&&5G"], "object": [], "aspect": ["8&&thời", "9&&lượng", "10&&pin"], "predicate": ["11&&lâu", "12&&hơn"], "label": "COM+"}
+{"subject": ["16&&nó"], "object": [], "aspect": ["18&&pin"], "predicate": ["19&&lớn", "20&&hơn"], "label": "COM+"}
+{"subject": ["30&&Redmi", "31&&Note", "32&&11", "33&&Pro", "34&&+"], "object": [], "aspect": ["37&&pin"], "predicate": ["40&&nhỏ", "41&&hơn"], "label": "COM-"}
+
+Tạm kết	Tạm kết
+
+alt: Xiaomi Redmi Note 11 Pro+ (ảnh 4)	alt : Xiaomi Redmi Note 11 Pro + ( ảnh 4 )
+
+des: Xiaomi Redmi Note 11 Pro+ (ảnh 4)	des : Xiaomi Redmi Note 11 Pro + ( ảnh 4 )
+
+Nhìn chung, không có smartphone chiến thắng trong bài so sánh này vì mỗi điện thoại đều có ưu và nhược điểm của riêng mình.	Nhìn chung , không có smartphone chiến thắng trong bài so sánh này vì mỗi điện thoại đều có ưu và nhược điểm của riêng mình .
+
+Với Redmi Note 11 Pro+, điện thoại này gây ấn tượng với người dùng nhờ khả năng sạc nhanh 120W ấn tượng và camera chính 50MP chất lượng.	Với Redmi Note 11 Pro + , điện thoại này gây ấn tượng với người dùng nhờ khả năng sạc nhanh 120W ấn tượng và camera chính 50MP chất lượng .
+
+Còn với Galaxy M52 5G, smartphone này có thiết kế bắt mắt hơn, pin lớn, camera linh hoạt hơn và bộ xử lý cao cấp để chơi game.	Còn với Galaxy M52 5G , smartphone này có thiết kế bắt mắt hơn , pin lớn , camera linh hoạt hơn và bộ xử lý cao cấp để chơi game .
+{"subject": ["7&&smartphone", "8&&này"], "object": [], "aspect": ["10&&thiết", "11&&kế"], "predicate": ["12&&bắt", "13&&mắt", "14&&hơn"], "label": "COM+"}
+{"subject": ["7&&smartphone", "8&&này"], "object": [], "aspect": ["19&&camera"], "predicate": ["20&&linh", "21&&hoạt", "22&&hơn"], "label": "COM+"}
+
+Bạn sẽ mua điện thoại nào?	Bạn sẽ mua điện thoại nào ?
+

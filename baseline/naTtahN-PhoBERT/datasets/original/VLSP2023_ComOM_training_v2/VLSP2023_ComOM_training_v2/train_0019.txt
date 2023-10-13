@@ -1,0 +1,143 @@
+title: Galaxy Note 9 và Galaxy A23: Liệu cũ có phải là không tốt?	title : Galaxy Note 9 và Galaxy A23 : Liệu cũ có phải là không tốt ?
+
+Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn?	Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ?
+
+Galaxy Note 9, chiếc điện thoại từng được xếp vào hàng cao cấp cách đây 4 năm.	Galaxy Note 9 , chiếc điện thoại từng được xếp vào hàng cao cấp cách đây 4 năm .
+
+Galaxy A23, mẫu điện thoại được Samsung tạo ra hướng tới phần khúc tầm trung trở xuống.	Galaxy A23 , mẫu điện thoại được Samsung tạo ra hướng tới phần khúc tầm trung trở xuống .
+
+Khoảng cách 4 năm khiến 2 mẫu điện thoại có mức giá gần như ngang bằng nhau.	Khoảng cách 4 năm khiến 2 mẫu điện thoại có mức giá gần như ngang bằng nhau .
+{"subject": ["6&&2", "7&&mẫu", "8&&điện", "9&&thoại"], "object": ["6&&2", "7&&mẫu", "8&&điện", "9&&thoại"], "aspect": ["11&&mức", "12&&giá"], "predicate": ["13&&gần", "14&&như", "15&&ngang", "16&&bằng", "17&&nhau"], "label": "EQL"}
+
+Vậy giữa một chiếc smartphone mới và flagship cũ, sản phẩm nào sẽ đáng để bạn xuống tiền hơn?	Vậy giữa một chiếc smartphone mới và flagship cũ , sản phẩm nào sẽ đáng để bạn xuống tiền hơn ?
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích
+
+des:	des :
+
+Galaxy Note 9 vs Galaxy A23	Galaxy Note 9 vs Galaxy A23
+
+Hình dáng theo hai trường phái khác nhau	Hình dáng theo hai trường phái khác nhau
+{"subject": [], "object": [], "aspect": ["1&&Hình", "2&&dáng"], "predicate": ["7&&khác", "8&&nhau"], "label": "DIF"}
+
+Galaxy Note 9 là mẫu điện thoại từng được xếp vào hàng cao cấp nhất năm 2018, thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính, khung viền nhôm, cảm biến vân tay, chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung: Bút S-Pen.	Galaxy Note 9 là mẫu điện thoại từng được xếp vào hàng cao cấp nhất năm 2018 , thế nên không quá khó hiểu vì sao mẫu máy này lại sở hữu nhiều đặc tính cho đến nay vẫn được xem là cao cấp trong thiết kế như mặt lưng kính , khung viền nhôm , cảm biến vân tay , chuẩn kháng nước IP68 và biểu tượng đặc trưng của dòng Note nhà Samsung : Bút S-Pen .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&9"], "object": [], "aspect": [], "predicate": ["13&&cao", "14&&cấp", "15&&nhất", "16&&năm", "17&&2018"], "label": "SUP+"}
+
+Trái ngược với sự sang trọng của Note 9, A23 được hướng tới người dùng trẻ, đề cao sự gọn nhẹ và năng động.	Trái ngược với sự sang trọng của Note 9 , A23 được hướng tới người dùng trẻ , đề cao sự gọn nhẹ và năng động .
+
+Chính vì thế mà chiếc điện thoại này chỉ được sử dụng vật liệu nhựa.	Chính vì thế mà chiếc điện thoại này chỉ được sử dụng vật liệu nhựa .
+
+Ưu điểm của chất liệu này là không làm tăng khối lượng máy, dễ lên màu và hơn hết là được làm nhám để tăng cảm giác cầm nắm, tránh bám vân tay hoặc mồ hôi.	Ưu điểm của chất liệu này là không làm tăng khối lượng máy , dễ lên màu và hơn hết là được làm nhám để tăng cảm giác cầm nắm , tránh bám vân tay hoặc mồ hôi .
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích thiết kế	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích thiết kế
+
+des:	des :
+
+Ra mắt đã lâu nhưng Note 9 vẫn có nhiều đặc điểm cao cấp	Ra mắt đã lâu nhưng Note 9 vẫn có nhiều đặc điểm cao cấp
+
+Cách bố trí camera sau của hai chiếc máy cũng có những sự khác biệt.	Cách bố trí camera sau của hai chiếc máy cũng có những sự khác biệt .
+{"subject": ["7&&hai", "8&&chiếc", "9&&máy"], "object": ["7&&hai", "8&&chiếc", "9&&máy"], "aspect": ["1&&Cách", "2&&bố", "3&&trí", "4&&camera", "5&&sau"], "predicate": ["14&&khác", "15&&biệt"], "label": "DIF"}
+
+Tuy nhiên nếu để lựa chọn, mình thích cách bố trí ống kính ngang của Note 9 hơn bởi nó độc lạ và dễ nổi bật hơn khi được sử dụng giữa đám đông.	Tuy nhiên nếu để lựa chọn , mình thích cách bố trí ống kính ngang của Note 9 hơn bởi nó độc lạ và dễ nổi bật hơn khi được sử dụng giữa đám đông .
+{"subject": ["21&&nó"], "object": [], "aspect": [], "predicate": ["22&&độc", "23&&lạ", "24&&và", "25&&dễ", "26&&nổi", "27&&bật", "28&&hơn"], "label": "COM+"}
+
+Ngược lại, cách sắp xếp camera trên A23 tương đối đơn giản và khá phổ biến hiện nay.	Ngược lại , cách sắp xếp camera trên A23 tương đối đơn giản và khá phổ biến hiện nay .
+
+Không nói đâu xa,  ngoài A23 thì chúng còn Galaxy A13, A33, A53 hay thậm chí là A73 đều có cùng một thiết kế này.	Không nói đâu xa , ngoài A23 thì chúng còn Galaxy A13 , A33 , A53 hay thậm chí là A73 đều có cùng một thiết kế này .
+{"subject": ["7&&A23"], "object": ["11&&Galaxy", "12&&A13", "13&&,", "14&&A33", "15&&,", "16&&A53", "17&&hay", "18&&thậm", "19&&chí", "20&&là", "21&&A73"], "aspect": ["26&&thiết", "27&&kế", "28&&này"], "predicate": ["22&&đều", "23&&có"], "label": "EQL"}
+
+Màn hình khác biệt	Màn hình khác biệt
+
+Đây có lẽ là nơi cho thấy sự khác biệt rõ ràng nhất giữa một chiếc máy cao cấp và một chiếc điện thoại tầm trung.	Đây có lẽ là nơi cho thấy sự khác biệt rõ ràng nhất giữa một chiếc máy cao cấp và một chiếc điện thoại tầm trung .
+{"subject": ["15&&một", "16&&chiếc", "17&&máy", "18&&cao", "19&&cấp"], "object": ["21&&một", "22&&chiếc", "23&&điện", "24&&thoại", "25&&tầm", "26&&trung"], "aspect": [], "predicate": ["8&&sự", "9&&khác", "10&&biệt", "11&&rõ", "12&&ràng", "13&&nhất"], "label": "DIF"}
+
+Galaxy A23 sở hữu màn hình 6.6 inch với tấm nền PLS LCD hỗ trợ tần số quét 90Hz cùng độ phân giải 1080x2408 Pixels.	Galaxy A23 sở hữu màn hình 6.6 inch với tấm nền PLS LCD hỗ trợ tần số quét 90Hz cùng độ phân giải 1080x2408 Pixels .
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích màn hình	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích màn hình
+
+des:	des :
+
+Màn hình Note 9 tốt hơn so với Galaxy A23	Màn hình Note 9 tốt hơn so với Galaxy A23
+{"subject": ["3&&Note", "4&&9"], "object": ["9&&Galaxy", "10&&A23"], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["5&&tốt", "6&&hơn"], "label": "COM+"}
+
+Khoảng cách 4 năm khiến Note 9 chỉ có được chuẩn quét màn hình 60Hz, tuy nhiên bù lại thì chiếc máy sở hữu tấm nền Super AMOLED hỗ trợ HDR10 với độ phân giải lên đến 1440x2960 pixels.	Khoảng cách 4 năm khiến Note 9 chỉ có được chuẩn quét màn hình 60Hz , tuy nhiên bù lại thì chiếc máy sở hữu tấm nền Super AMOLED hỗ trợ HDR10 với độ phân giải lên đến 1440x2960 pixels .
+
+Như vậy, dù cho có nhỏ hơn đôi chút về kích thước so A23 nhưng chắc chắn hình ảnh hiển thị trên màn hình của Galaxy Note 9 sẽ sắc nét và chi tiết hơn.	Như vậy , dù cho có nhỏ hơn đôi chút về kích thước so A23 nhưng chắc chắn hình ảnh hiển thị trên màn hình của Galaxy Note 9 sẽ sắc nét và chi tiết hơn .
+{"subject": ["27&&Galaxy", "28&&Note", "29&&9"], "object": ["15&&A23"], "aspect": ["12&&kích", "13&&thước"], "predicate": ["7&&nhỏ", "8&&hơn", "9&&đôi", "10&&chút"], "label": "COM-"}
+{"subject": ["27&&Galaxy", "28&&Note", "29&&9"], "object": ["15&&A23"], "aspect": ["19&&hình", "20&&ảnh", "21&&hiển", "22&&thị", "23&&trên", "24&&màn", "25&&hình"], "predicate": ["31&&sắc", "32&&nét", "33&&và", "34&&chi", "35&&tiết", "36&&hơn"], "label": "COM+"}
+
+Camera chênh lệch về thông số	Camera chênh lệch về thông số
+
+Nếu chỉ xét về thông số ống kính, chắc chắn Galaxy A23 sẽ là chiếc máy vượt trội hơn bởi nó được trang bị tới tận 4 ống kính sau với độ phân giải 50/5/2/2 MP.	Nếu chỉ xét về thông số ống kính , chắc chắn Galaxy A23 sẽ là chiếc máy vượt trội hơn bởi nó được trang bị tới tận 4 ống kính sau với độ phân giải 50 / 5 / 2 / 2 MP .
+{"subject": ["12&&Galaxy", "13&&A23"], "object": [], "aspect": ["5&&thông", "6&&số", "7&&ống", "8&&kính"], "predicate": ["18&&vượt", "19&&trội", "20&&hơn"], "label": "COM+"}
+
+Trong khi đó Galaxy Note 9 chỉ được trang bị một camera kép ở mặt sau với độ phân giải của cả hai ống kính đều là 12MP.	Trong khi đó Galaxy Note 9 chỉ được trang bị một camera kép ở mặt sau với độ phân giải của cả hai ống kính đều là 12MP .
+
+Tuy nhiên nếu xét về khả năng quay chụp cũng như các tính năng hỗ trợ, mẫu điện thoại flagship lại cho thấy sự vượt trội của mình.	Tuy nhiên nếu xét về khả năng quay chụp cũng như các tính năng hỗ trợ , mẫu điện thoại flagship lại cho thấy sự vượt trội của mình .
+{"subject": ["18&&mẫu", "19&&điện", "20&&thoại", "21&&flagship"], "object": [], "aspect": ["6&&khả", "7&&năng", "8&&quay", "9&&chụp"], "predicate": ["26&&vượt", "27&&trội"], "label": "COM+"}
+{"subject": ["18&&mẫu", "19&&điện", "20&&thoại", "21&&flagship"], "object": [], "aspect": ["12&&các", "13&&tính", "14&&năng", "15&&hỗ", "16&&trợ"], "predicate": ["26&&vượt", "27&&trội"], "label": "COM+"}
+
+Cụ thể thì Galaxy A23 chỉ có thể quay phim ở 2 chuẩn là 4K@30fps và 1080p@30fps.	Cụ thể thì Galaxy A23 chỉ có thể quay phim ở 2 chuẩn là 4K @ 30fps và 1080p @ 30fps .
+
+Trong khi đó người đàn anh chiếc điện thoại này lại có tới 6 chuẩn hình ảnh khác nhau để qua video, tiêu biểu nhất là chế độ 4K@60fps và 720p@960fps dành cho chế độ slow motion.	Trong khi đó người đàn anh chiếc điện thoại này lại có tới 6 chuẩn hình ảnh khác nhau để qua video , tiêu biểu nhất là chế độ 4K @ 60fps và 720p @ 960fps dành cho chế độ slow motion .
+
+Rõ ràng thông số ống kính không thể nói lên nhiều điều phải không nào?	Rõ ràng thông số ống kính không thể nói lên nhiều điều phải không nào ?
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích màn hình	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích màn hình
+
+des:	des :
+
+Galaxy A23 sở hữu tới 4 camera sau	Galaxy A23 sở hữu tới 4 camera sau
+
+Về mặt trước, Galaxy A23 và Note 9 đều được trang bị ống kính 8MP nhưng khẩu độ của chiếc điện thoại dòng A chỉ là f/2.2, trong khi đó thì smartphone dòng Note lên đến f/1.7.	Về mặt trước , Galaxy A23 và Note 9 đều được trang bị ống kính 8MP nhưng khẩu độ của chiếc điện thoại dòng A chỉ là f / 2.2 , trong khi đó thì smartphone dòng Note lên đến f / 1.7 .
+
+Chưa dừng lại ở đó, camera trước của Galaxy Note 9 còn được trang bị thêm ống kính dedicated iris scanner 2 MP để chất lượng ảnh được tốt hơn.	Chưa dừng lại ở đó , camera trước của Galaxy Note 9 còn được trang bị thêm ống kính dedicated iris scanner 2 MP để chất lượng ảnh được tốt hơn .
+{"subject": ["7&&camera", "8&&trước", "9&&của", "10&&Galaxy", "11&&Note", "12&&9"], "object": [], "aspect": ["26&&chất", "27&&lượng", "28&&ảnh"], "predicate": ["30&&tốt", "31&&hơn"], "label": "COM+"}
+
+Cấu hình mạnh mẽ bất chấp thời gian	Cấu hình mạnh mẽ bất chấp thời gian
+
+Tuy ra đời sau tận 4 năm nhưng Galaxy A23 chỉ là một chiếc máy phân khúc tầm trung, thế nên nó chỉ được Samsung trang bị chip Snapdragon 680.	Tuy ra đời sau tận 4 năm nhưng Galaxy A23 chỉ là một chiếc máy phân khúc tầm trung , thế nên nó chỉ được Samsung trang bị chip Snapdragon 680 .
+
+Nếu so với Snapdragon 845, chắc chắn sẽ không thể bằng được về khả năng xử lý tác vụ, bên cạnh đó, chiếc máy năm 2022 cũng chỉ được hỗ trợ Ram 4GB và bộ nhớ 128GB.	Nếu so với Snapdragon 845 , chắc chắn sẽ không thể bằng được về khả năng xử lý tác vụ , bên cạnh đó , chiếc máy năm 2022 cũng chỉ được hỗ trợ Ram 4GB và bộ nhớ 128GB .
+{"subject": [], "object": ["4&&Snapdragon", "5&&845"], "aspect": ["15&&khả", "16&&năng", "17&&xử", "18&&lý", "19&&tác", "20&&vụ"], "predicate": ["10&&không", "11&&thể", "12&&bằng", "13&&được"], "label": "COM-"}
+
+Trong khi đó thì chiếc flagship năm 2018 được sở hữu cấu hình gồm 6GB Ram và 512 GB Rom.	Trong khi đó thì chiếc flagship năm 2018 được sở hữu cấu hình gồm 6GB Ram và 512 GB Rom .
+
+Khác biệt rõ ràng là quá lớn!	Khác biệt rõ ràng là quá lớn !
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích cấu hình	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích cấu hình
+
+des:	des :
+
+Galaxy Note 9 trang bị Snapdragon 845	Galaxy Note 9 trang bị Snapdragon 845
+
+Tuy vậy, có một ưu điểm ở Galaxy A23 và Note 9 không có đó là chiếc máy được hỗ trợ công nghệ 5G.	Tuy vậy , có một ưu điểm ở Galaxy A23 và Note 9 không có đó là chiếc máy được hỗ trợ công nghệ 5G .
+{"subject": ["9&&Galaxy", "10&&A23"], "object": ["12&&Note", "13&&9"], "aspect": ["23&&công", "24&&nghệ", "25&&5G"], "predicate": ["14&&không", "15&&có"], "label": "DIF"}
+
+Điều này có thể giúp cho mẫu điện thoại tầm trung của Samsung có chút lợi thế hơn người anh em của mình về mặt kết nối internet trong tương lai.	Điều này có thể giúp cho mẫu điện thoại tầm trung của Samsung có chút lợi thế hơn người anh em của mình về mặt kết nối internet trong tương lai .
+{"subject": ["7&&mẫu", "8&&điện", "9&&thoại", "10&&tầm", "11&&trung", "12&&của", "13&&Samsung"], "object": ["19&&người", "20&&anh", "21&&em", "22&&của", "23&&mình"], "aspect": ["26&&kết", "27&&nối", "28&&internet"], "predicate": ["15&&chút", "16&&lợi", "17&&thế", "18&&hơn"], "label": "COM+"}
+
+Mức pin gần bằng nhau	Mức pin gần bằng nhau
+{"subject": [], "object": [], "aspect": ["1&&Mức", "2&&pin"], "predicate": ["3&&gần", "4&&bằng", "5&&nhau"], "label": "EQL"}
+
+Với một chiếc điện thoại đã ra mắt cách 4 năm, rất khó để bạn tìm ra một chiếc máy có thể giữ nguyên mức pin 4000 mAh, tuy nhiên với sạc nhanh 15W, có lẽ nó cũng sẽ không phải là vấn đề lớn.	Với một chiếc điện thoại đã ra mắt cách 4 năm , rất khó để bạn tìm ra một chiếc máy có thể giữ nguyên mức pin 4000 mAh , tuy nhiên với sạc nhanh 15W , có lẽ nó cũng sẽ không phải là vấn đề lớn .
+
+Trong khi đó Galaxy A23 sẽ được sở hữu viên pin với dung lượng lớn hơn, 5000 mAh đi kèm với sạc nhanh 25W.	Trong khi đó Galaxy A23 sẽ được sở hữu viên pin với dung lượng lớn hơn , 5000 mAh đi kèm với sạc nhanh 25W .
+
+Trên phương diện năng lượng, A23 tỏ ra vượt trội hơn là điều dễ hiểu.	Trên phương diện năng lượng , A23 tỏ ra vượt trội hơn là điều dễ hiểu .
+{"subject": ["7&&A23"], "object": [], "aspect": ["4&&năng", "5&&lượng"], "predicate": ["10&&vượt", "11&&trội", "12&&hơn"], "label": "COM+"}
+
+alt: Cùng mức giá, Galaxy Note 9 hay Galaxy A23 tốt hơn? Phân tích pin	alt : Cùng mức giá , Galaxy Note 9 hay Galaxy A23 tốt hơn ? Phân tích pin
+
+des:	des :
+
+Galaxy A23 có mức pin vượt trội hơn Galaxy Note 9	Galaxy A23 có mức pin vượt trội hơn Galaxy Note 9
+{"subject": ["1&&Galaxy", "2&&A23"], "object": ["9&&Galaxy", "10&&Note", "11&&9"], "aspect": ["4&&mức", "5&&pin"], "predicate": ["6&&vượt", "7&&trội", "8&&hơn"], "label": "COM+"}
+
+Mức giá hiện nay	Mức giá hiện nay
+
+Hiện Galaxy A23 đang bán tại XTmobile với cấu hình 4GB/128GB có mức giá khoảng 5.1 triệu đồng, trong khi đó Galaxy Note 9 phiên bản 8GB/512GB lại chỉ mắc hơn 1 chút, khoảng 5.4 triệu đồng.	Hiện Galaxy A23 đang bán tại XTmobile với cấu hình 4GB / 128GB có mức giá khoảng 5.1 triệu đồng , trong khi đó Galaxy Note 9 phiên bản 8GB / 512GB lại chỉ mắc hơn 1 chút , khoảng 5.4 triệu đồng .
+{"subject": ["25&&Galaxy", "26&&Note", "27&&9"], "object": ["2&&Galaxy", "3&&A23"], "aspect": ["15&&mức", "16&&giá"], "predicate": ["35&&mắc", "36&&hơn", "37&&1", "38&&chút"], "label": "COM-"}
+
+Vậy đâu sẽ là sự lựa chọn của bạn?	Vậy đâu sẽ là sự lựa chọn của bạn ?
+

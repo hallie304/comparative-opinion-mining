@@ -1,0 +1,51 @@
+Title: So sánh ảnh chụp thực tế của iPhone 13 với các thế hệ iPhone tiền nhiệm	Title : So sánh ảnh chụp thực tế của iPhone 13 với các thế hệ iPhone tiền nhiệm
+
+Chất lượng camera của iPhone 13 được so sánh với các thế hệ iPhone tiền nhiệm của chúng dựa trên những bức ảnh chụp đến từ người sở hữu sớm, một lần nữa khẳng định việc nâng cấp đời smartphone mới là vô cùng xứng đáng!	Chất lượng camera của iPhone 13 được so sánh với các thế hệ iPhone tiền nhiệm của chúng dựa trên những bức ảnh chụp đến từ người sở hữu sớm , một lần nữa khẳng định việc nâng cấp đời smartphone mới là vô cùng xứng đáng !
+
+So sánh ảnh chụp của iPhone 13	So sánh ảnh chụp của iPhone 13
+
+Trang MacRumors gần đây đã post những bức ảnh được chụp bởi iPhone 13 với iPhone 11 Pro, iPhone 8 và iPhone 6 và đi đến kết luận rằng nếu bạn yêu thích chụp ảnh và đang sử dụng đời máy cũ thì iPhone 13 đáng để nâng cấp.	Trang MacRumors gần đây đã post những bức ảnh được chụp bởi iPhone 13 với iPhone 11 Pro , iPhone 8 và iPhone 6 và đi đến kết luận rằng nếu bạn yêu thích chụp ảnh và đang sử dụng đời máy cũ thì iPhone 13 đáng để nâng cấp .
+
+Cùng ngắm nhìn những bức ảnh thực tế được chụp bởi những người sở hữu iPhone 13 sớm nhất tại các nước ở dưới đây.	Cùng ngắm nhìn những bức ảnh thực tế được chụp bởi những người sở hữu iPhone 13 sớm nhất tại các nước ở dưới đây .
+
+alt:	alt :
+
+des: So sánh camera các đời iPhone chụp ảnh đường hoàng hôn.	des : So sánh camera các đời iPhone chụp ảnh đường hoàng hôn .
+
+Sẽ không có gì ngạc nhiên khi iPhone 13 vượt trội hơn iPhone 6 bởi một số khác biệt rõ rệt nhất.	Sẽ không có gì ngạc nhiên khi iPhone 13 vượt trội hơn iPhone 6 bởi một số khác biệt rõ rệt nhất .
+{"subject": ["8&&iPhone", "9&&13"], "object": ["13&&iPhone", "14&&6"], "aspect": [], "predicate": ["10&&vượt", "11&&trội", "12&&hơn"], "label": "COM+"}
+
+iPhone 8 có chất lượng ảnh tốt hơn và có cấu hình màu sắc thực sự khá giống với iPhone 13, nhưng vẫn có sự chênh lệch rõ ràng trong điều kiện ánh sáng thấp hơn.	iPhone 8 có chất lượng ảnh tốt hơn và có cấu hình màu sắc thực sự khá giống với iPhone 13 , nhưng vẫn có sự chênh lệch rõ ràng trong điều kiện ánh sáng thấp hơn .
+{"subject": ["1&&iPhone", "2&&8"], "object": ["20&&iPhone", "21&&13"], "aspect": ["4&&chất", "5&&lượng", "6&&ảnh"], "predicate": ["7&&tốt", "8&&hơn"], "label": "COM+"}
+{"subject": ["1&&iPhone", "2&&8"], "object": ["20&&iPhone", "21&&13"], "aspect": ["11&&cấu", "12&&hình", "13&&màu", "14&&sắc"], "predicate": ["15&&thực", "16&&sự", "17&&khá", "18&&giống"], "label": "EQL"}
+{"subject": ["1&&iPhone", "2&&8"], "object": ["20&&iPhone", "21&&13"], "aspect": ["32&&điều", "33&&kiện", "34&&ánh", "35&&sáng", "36&&thấp", "37&&hơn"], "predicate": ["27&&chênh", "28&&lệch", "29&&rõ", "30&&ràng"], "label": "DIF"}
+
+alt:	alt :
+
+des: So sánh những bức hình chụp mặt trời lặn.	des : So sánh những bức hình chụp mặt trời lặn .
+
+Với iPhone 11 Pro, khó có thể thấy những cải tiến trong ảnh chụp với điều kiện ánh sáng yếu nhưng iPhone 13 làm tốt hơn nhiều với ánh sáng vào ban đêm (ít gây lóa ống kính hơn).	Với iPhone 11 Pro , khó có thể thấy những cải tiến trong ảnh chụp với điều kiện ánh sáng yếu nhưng iPhone 13 làm tốt hơn nhiều với ánh sáng vào ban đêm ( ít gây lóa ống kính hơn ) .
+{"subject": ["23&&iPhone", "24&&13"], "object": ["2&&iPhone", "3&&11", "4&&Pro"], "aspect": ["37&&gây", "38&&lóa", "39&&ống", "40&&kính"], "predicate": ["36&&ít", "37&&gây", "38&&lóa", "39&&ống", "40&&kính", "41&&hơn"], "label": "COM+"}
+
+Tính năng Deep Fusion hoạt động chủ yếu với ánh sáng trong nhà tạo ra sự khác biệt lớn về chất lượng bức ảnh được thể hiện ở ảnh so sánh dưới đây.	Tính năng Deep Fusion hoạt động chủ yếu với ánh sáng trong nhà tạo ra sự khác biệt lớn về chất lượng bức ảnh được thể hiện ở ảnh so sánh dưới đây .
+
+alt:	alt :
+
+des: So sánh ảnh chụp động vật nuôi.	des : So sánh ảnh chụp động vật nuôi .
+
+Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong việc phơi sáng chính xác các khu vực khác nhau có ánh sáng không đồng đều và Apple đã thực hiện rất nhiều cải tiến về chất lượng camera trong vài năm qua.	Những chiếc iPhone trước đây đã gặp rất nhiều khó khăn trong việc phơi sáng chính xác các khu vực khác nhau có ánh sáng không đồng đều và Apple đã thực hiện rất nhiều cải tiến về chất lượng camera trong vài năm qua .
+
+Thông tin khác về iPhone 13	Thông tin khác về iPhone 13
+
+Màn hình của iPhone 13 mới được cải tiến hơn so với các thế hệ tiền nhiệm của chúng cộng thêm các sản phẩm chứa thời lượng pin dài hơn.	Màn hình của iPhone 13 mới được cải tiến hơn so với các thế hệ tiền nhiệm của chúng cộng thêm các sản phẩm chứa thời lượng pin dài hơn .
+{"subject": ["4&&iPhone", "5&&13"], "object": ["13&&các", "14&&thế", "15&&hệ", "16&&tiền", "17&&nhiệm", "18&&của", "19&&chúng"], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["8&&cải", "9&&tiến", "10&&hơn"], "label": "COM+"}
+{"subject": ["22&&các", "23&&sản", "24&&phẩm"], "object": [], "aspect": ["26&&thời", "27&&lượng", "28&&pin"], "predicate": ["29&&dài", "30&&hơn"], "label": "COM+"}
+
+Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đang được đánh giá là con chip tốt nhất hiện nay.	Chip A15 Bionic cung cấp hiệu năng khủng cho iPhone 13 đang được đánh giá là con chip tốt nhất hiện nay .
+{"subject": ["1&&Chip", "2&&A15", "3&&Bionic", "4&&cung", "5&&cấp", "6&&hiệu", "7&&năng", "8&&khủng", "9&&cho", "10&&iPhone", "11&&13"], "object": [], "aspect": [], "predicate": ["19&&tốt", "20&&nhất", "21&&hiện", "22&&nay"], "label": "SUP+"}
+
+Con chip cho phép người dùng sử dụng nhiều tính năng quay phim chụp ảnh chuyên nghiệp hơn.	Con chip cho phép người dùng sử dụng nhiều tính năng quay phim chụp ảnh chuyên nghiệp hơn .
+{"subject": [], "object": [], "aspect": ["12&&quay", "13&&phim", "14&&chụp", "15&&ảnh"], "predicate": ["16&&chuyên", "17&&nghiệp", "18&&hơn"], "label": "COM+"}
+
+Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất.	Apple đã cải tiến bộ phận camera vốn đã hoàn chỉnh với các cảm biến mới hỗ trợ người dùng có những bức ảnh đẹp nhất .
+

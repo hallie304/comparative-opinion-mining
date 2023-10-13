@@ -1,0 +1,56 @@
+Title: So sánh chi tiết bộ đôi smartphone Xiaomi Mi 11 và Apple iPhone 12	Title : So sánh chi tiết bộ đôi smartphone Xiaomi Mi 11 và Apple iPhone 12
+
+Xiaomi Mi 11 và Apple iPhone 12 là những thiết bị có điểm chung quan trọng: cả hai đều là những chiếc flagship giá cả phải chăng và chúng không có bộ sạc đi kèm.	Xiaomi Mi 11 và Apple iPhone 12 là những thiết bị có điểm chung quan trọng : cả hai đều là những chiếc flagship giá cả phải chăng và chúng không có bộ sạc đi kèm .
+
+Dưới đây là phần so sánh giữa các thông số kỹ thuật của hai chiếc smartphone hot nhất hiện nay.	Dưới đây là phần so sánh giữa các thông số kỹ thuật của hai chiếc smartphone hot nhất hiện nay .
+
+So sánh thông số kĩ thuật Mi 11 và iPhone 12	So sánh thông số kĩ thuật Mi 11 và iPhone 12
+
+Cả Xiaomi Mi 11 và iPhone 12 đều có thiết kế hiện đại và sang trọng.	Cả Xiaomi Mi 11 và iPhone 12 đều có thiết kế hiện đại và sang trọng .
+{"subject": ["2&&Xiaomi", "3&&Mi", "4&&11"], "object": ["6&&iPhone", "7&&12"], "aspect": ["10&&thiết", "11&&kế", "12&&hiện", "13&&đại", "14&&và", "15&&sang", "16&&trọng"], "predicate": ["8&&đều", "9&&có"], "label": "EQL"}
+
+Xiaomi Mi 11 có viền hẹp và không có phần khoét màn hình trong khi iPhone 12 có chất lượng vẻ bề ngoài tốt hơn vì được chế tạo bằng vật liệu tốt hơn và có khả năng chống thấm nước với chứng nhận IP68.	Xiaomi Mi 11 có viền hẹp và không có phần khoét màn hình trong khi iPhone 12 có chất lượng vẻ bề ngoài tốt hơn vì được chế tạo bằng vật liệu tốt hơn và có khả năng chống thấm nước với chứng nhận IP68 .
+{"subject": ["16&&iPhone", "17&&12"], "object": [], "aspect": ["19&&chất", "20&&lượng", "21&&vẻ", "22&&bề", "23&&ngoài"], "predicate": ["24&&tốt", "25&&hơn"], "label": "COM+"}
+{"subject": ["16&&iPhone", "17&&12"], "object": ["1&&Xiaomi", "2&&Mi", "3&&11"], "aspect": ["31&&vật", "32&&liệu"], "predicate": ["33&&tốt", "34&&hơn"], "label": "COM+"}
+
+Hơn nữa, iPhone 12 có kích thước nhỏ gọn hơn và nhẹ hơn.	Hơn nữa , iPhone 12 có kích thước nhỏ gọn hơn và nhẹ hơn .
+{"subject": ["4&&iPhone", "5&&12"], "object": [], "aspect": ["7&&kích", "8&&thước"], "predicate": ["9&&nhỏ", "10&&gọn", "11&&hơn"], "label": "COM+"}
+{"subject": ["4&&iPhone", "5&&12"], "object": [], "aspect": [], "predicate": ["13&&nhẹ", "14&&hơn"], "label": "COM+"}
+
+alt: o-sanh-chi-tiet-xiaomi-mi-11-voi-iphone-12-1	alt : o-sanh-chi-tiet-xiaomi-mi - 11 - voi-iphone - 12 - 1
+
+des: Bảng so sánh thông số Xiaomi Mi 11 và iPhone 12	des : Bảng so sánh thông số Xiaomi Mi 11 và iPhone 12
+
+Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc, có tốc độ hiển thị 120 Hz. Đây là màn hình smartphone Xiaomi tốt nhất cho đến nay và cảm biến vân tay ở phía dưới màn hình.	Xiaomi Mi 11 sở hữu màn hình nền AMOLED có thể hiển thị tới một tỷ màu sắc , có tốc độ hiển thị 120 Hz . Đây là màn hình smartphone Xiaomi tốt nhất cho đến nay và cảm biến vân tay ở phía dưới màn hình .
+{"subject": ["32&&smartphone", "33&&Xiaomi"], "object": [], "aspect": ["30&&màn", "31&&hình"], "predicate": ["34&&tốt", "35&&nhất", "36&&cho", "37&&đến", "38&&nay"], "label": "SUP+"}
+
+Dòng iPhone 12 của nhà Táo cũng sở hữu một trong những màn hình tốt nhất trên thị trường, không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa.	Dòng iPhone 12 của nhà Táo cũng sở hữu một trong những màn hình tốt nhất trên thị trường , không được trang bị đầu đọc vân tay nhưng dựa vào Face ID để mở khóa .
+{"subject": ["1&&Dòng", "2&&iPhone", "3&&12", "4&&của", "5&&nhà", "6&&Táo"], "object": [], "aspect": ["13&&màn", "14&&hình"], "predicate": ["15&&tốt", "16&&nhất", "17&&trên", "18&&thị", "19&&trường"], "label": "SUP+"}
+
+Về cấu hình, hai sản phẩm này được trang bị các loại chipset và hệ điều hành mới nhất hiện nay.	Về cấu hình , hai sản phẩm này được trang bị các loại chipset và hệ điều hành mới nhất hiện nay .
+{"subject": ["5&&hai", "6&&sản", "7&&phẩm", "8&&này"], "object": ["5&&hai", "6&&sản", "7&&phẩm", "8&&này"], "aspect": ["2&&cấu", "3&&hình"], "predicate": ["9&&được", "10&&trang", "11&&bị", "12&&các", "13&&loại", "14&&chipset", "15&&và", "16&&hệ", "17&&điều", "18&&hành", "19&&mới", "20&&nhất", "21&&hiện", "22&&nay"], "label": "EQL"}
+
+Xiaomi Mi 11 sở hữu chip Snapdragon 888 kết hợp với RAM lên đến 12GB, bộ nhớ trong lên tới 256GB.	Xiaomi Mi 11 sở hữu chip Snapdragon 888 kết hợp với RAM lên đến 12GB , bộ nhớ trong lên tới 256GB .
+
+iPhone 12 có chipset Apple A14 Bionic, RAM 4GB và bộ nhớ tuỳ chọn 64GB, 128GB và 256GB.	iPhone 12 có chipset Apple A14 Bionic , RAM 4GB và bộ nhớ tuỳ chọn 64GB , 128GB và 256GB .
+
+Xiaomi Mi 11 sử dụng hệ điều hành Android 11 trong khi iPhone 12 sử dụng iOS 14.	Xiaomi Mi 11 sử dụng hệ điều hành Android 11 trong khi iPhone 12 sử dụng iOS 14 .
+
+Dung lượng pin của Xiaomi Mi 11 tốt hơn Apple iPhone 12	Dung lượng pin của Xiaomi Mi 11 tốt hơn Apple iPhone 12
+{"subject": ["5&&Xiaomi", "6&&Mi", "7&&11"], "object": ["11&&iPhone", "12&&12"], "aspect": ["1&&Dung", "2&&lượng", "3&&pin"], "predicate": ["8&&tốt", "9&&hơn"], "label": "COM+"}
+
+Xiaomi Mi 11 sở hữu pin lớn 4600 mAh có thể kéo dài thời lượng sử dụng hơn iPhone 12.	Xiaomi Mi 11 sở hữu pin lớn 4600 mAh có thể kéo dài thời lượng sử dụng hơn iPhone 12 .
+{"subject": ["1&&Xiaomi", "2&&Mi", "3&&11"], "object": ["19&&iPhone", "20&&12"], "aspect": ["14&&thời", "15&&lượng", "16&&sử", "17&&dụng"], "predicate": ["18&&hơn"], "label": "COM+"}
+
+Bên cạnh việc có dung lượng pin lớn hơn, Mi 11 còn có công nghệ sạc 50W nhanh hơn và hỗ trợ sạc không dây ngược, trong khi iPhone 12 thì không.	Bên cạnh việc có dung lượng pin lớn hơn , Mi 11 còn có công nghệ sạc 50W nhanh hơn và hỗ trợ sạc không dây ngược , trong khi iPhone 12 thì không .
+{"subject": ["11&&Mi", "12&&11"], "object": ["31&&iPhone", "32&&12"], "aspect": ["5&&dung", "6&&lượng", "7&&pin"], "predicate": ["8&&lớn", "9&&hơn"], "label": "COM+"}
+{"subject": ["11&&Mi", "12&&11"], "object": ["31&&iPhone", "32&&12"], "aspect": ["15&&công", "16&&nghệ", "17&&sạc"], "predicate": ["19&&nhanh", "20&&hơn"], "label": "COM+"}
+
+Về giá cả, Xiaomi Mi 11 có giá 611 USD ở thị trường Trung Quốc với dung lượng RAM 8GB và bộ nhớ trong 128GB, hiện tại vẫn chưa được tung ra trên thị trường toàn cầu.	Về giá cả , Xiaomi Mi 11 có giá 611 USD ở thị trường Trung Quốc với dung lượng RAM 8GB và bộ nhớ trong 128GB , hiện tại vẫn chưa được tung ra trên thị trường toàn cầu .
+
+iPhone 12 có giá niêm yết khởi điểm là 1.129 USD.	iPhone 12 có giá niêm yết khởi điểm là 1.129 USD .
+
+Trên đây là phần so sánh về hai dòng smartphone hot nhất hiện nay.	Trên đây là phần so sánh về hai dòng smartphone hot nhất hiện nay .
+
+Đừng quên để lại suy nghĩ của bạn bên dưới để xem có bao nhiêu người có cùng ý kiến nhé!	Đừng quên để lại suy nghĩ của bạn bên dưới để xem có bao nhiêu người có cùng ý kiến nhé !
+

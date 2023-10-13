@@ -1,0 +1,100 @@
+So sánh nhanh bộ đôi smartphone siêu khủng Galaxy S21 Ultra và iPhone 12 Pro Max	So sánh nhanh bộ đôi smartphone siêu khủng Galaxy S21 Ultra và iPhone 12 Pro Max
+
+"Samsung Galaxy S21 Ultra và iPhone 12 Pro Max hiện đang là hai sản phẩm đang hot nhất hiện nay nằm trong phân khúc smartphone cao cấp.	" Samsung Galaxy S21 Ultra và iPhone 12 Pro Max hiện đang là hai sản phẩm đang hot nhất hiện nay nằm trong phân khúc smartphone cao cấp .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&S21", "5&&Ultra"], "object": [], "aspect": [], "predicate": ["18&&hot", "19&&nhất"], "label": "SUP+"}
+{"subject": ["7&&iPhone", "8&&12", "9&&Pro", "10&&Max"], "object": [], "aspect": [], "predicate": ["18&&hot", "19&&nhất"], "label": "SUP+"}
+
+Phần so sánh nhanh dưới đây sẽ chỉ ra xem S21 Ultra có là đối thủ xứng tầm với iPhone 12 Pro Max ra mắt vào năm ngoái.	Phần so sánh nhanh dưới đây sẽ chỉ ra xem S21 Ultra có là đối thủ xứng tầm với iPhone 12 Pro Max ra mắt vào năm ngoái .
+
+Thiết kế	Thiết kế
+
+Samsung Galaxy S21 Ultra có tổng thể vuông vắn hơn với các cạnh hơi tròn, một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90%.	Samsung Galaxy S21 Ultra có tổng thể vuông vắn hơn với các cạnh hơi tròn , một lỗ đục nhỏ ở giữa chứa camera nên tỷ lệ màn hình trên thân máy lên đến gần 90% .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["6&&tổng", "7&&thể"], "predicate": ["8&&vuông", "9&&vắn", "10&&hơn"], "label": "COM"}
+
+Mặt khác, iPhone 12 Pro Max sử dụng notch khiến tỷ lệ màn hình chỉ hơn 87%.	Mặt khác , iPhone 12 Pro Max sử dụng notch khiến tỷ lệ màn hình chỉ hơn 87% .
+
+Mặc dù cả hai smartphone đều có trọng lượng khoảng 229g nhưng iPhone 12 Pro Max mỏng hơn đáng kể.	Mặc dù cả hai smartphone đều có trọng lượng khoảng 229g nhưng iPhone 12 Pro Max mỏng hơn đáng kể .
+{"subject": ["3&&cả", "4&&hai", "5&&smartphone"], "object": ["3&&cả", "4&&hai", "5&&smartphone"], "aspect": ["8&&trọng", "9&&lượng", "10&&khoảng", "11&&229g"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
+{"subject": ["13&&iPhone", "14&&12", "15&&Pro", "16&&Max"], "object": [], "aspect": [], "predicate": ["17&&mỏng", "18&&hơn", "19&&đáng", "20&&kể"], "label": "COM+"}
+
+Chúng mỏng hơn 1,5mm so với Samsung Galaxy S21 Ultra.	Chúng mỏng hơn 1,5mm so với Samsung Galaxy S21 Ultra .
+{"subject": ["1&&Chúng"], "object": ["7&&Samsung", "8&&Galaxy", "9&&S21", "10&&Ultra"], "aspect": [], "predicate": ["2&&mỏng", "3&&hơn"], "label": "COM+"}
+
+Cả hai dòng smartphone cao cấp đều sử dụng kính Gorilla ở cả hai mặt với khung nhôm (S21 Ultra) và thép không gỉ (12 Pro Max).	Cả hai dòng smartphone cao cấp đều sử dụng kính Gorilla ở cả hai mặt với khung nhôm ( S21 Ultra ) và thép không gỉ ( 12 Pro Max ) .
+{"subject": ["1&&Cả", "2&&hai", "3&&dòng", "4&&smartphone", "5&&cao", "6&&cấp"], "object": ["1&&Cả", "2&&hai", "3&&dòng", "4&&smartphone", "5&&cao", "6&&cấp"], "aspect": ["10&&kính", "11&&Gorilla", "12&&ở", "13&&cả", "14&&hai", "15&&mặt"], "predicate": ["7&&đều", "8&&sử", "9&&dụng"], "label": "EQL"}
+
+Thông số kỹ thuật	Thông số kỹ thuật
+
+Galaxy S21 Ultra sử dụng Snapdragon 888 / Exynos 2100 thì iPhone 12 Pro Max đi kèm với chipset Apple A14 Bionic đều được xây dựng trên quy trình sản xuất 5nm.	Galaxy S21 Ultra sử dụng Snapdragon 888 / Exynos 2100 thì iPhone 12 Pro Max đi kèm với chipset Apple A14 Bionic đều được xây dựng trên quy trình sản xuất 5nm .
+{"subject": ["6&&Snapdragon", "7&&888", "8&&/", "9&&Exynos", "10&&2100"], "object": ["19&&chipset", "20&&Apple", "21&&A14", "22&&Bionic"], "aspect": [], "predicate": ["23&&đều", "24&&được", "25&&xây", "26&&dựng", "27&&trên", "28&&quy", "29&&trình", "30&&sản", "31&&xuất", "32&&5nm"], "label": "EQL"}
+
+Trên AnTuTu V8, chip A14 Bionic đạt 638.584 điểm trong khi Snapdragon 888 SoC vượt qua số điểm này với hơn 700.000 điểm.	Trên AnTuTu V8 , chip A14 Bionic đạt 638.584 điểm trong khi Snapdragon 888 SoC vượt qua số điểm này với hơn 700.000 điểm .
+{"subject": ["13&&Snapdragon", "14&&888", "15&&SoC"], "object": ["6&&A14", "7&&Bionic"], "aspect": ["2&&AnTuTu", "3&&V8"], "predicate": ["16&&vượt", "17&&qua"], "label": "COM+"}
+
+Cả hai smartphone đều cung cấp cùng một bộ nhớ và không có tùy chọn mở rộng.	Cả hai smartphone đều cung cấp cùng một bộ nhớ và không có tùy chọn mở rộng .
+{"subject": ["1&&Cả", "2&&hai", "3&&smartphone"], "object": ["1&&Cả", "2&&hai", "3&&smartphone"], "aspect": ["9&&bộ", "10&&nhớ"], "predicate": ["4&&đều", "5&&cung", "6&&cấp", "7&&cùng"], "label": "EQL"}
+
+Tuy nhiên, Galaxy S21 Ultra cung cấp nhiều RAM hơn, chúng được trang bị RAM 12GB hoặc 16GB trong khi iPhone 12 Pro Max chỉ sử dụng RAM 6GB.	Tuy nhiên , Galaxy S21 Ultra cung cấp nhiều RAM hơn , chúng được trang bị RAM 12GB hoặc 16GB trong khi iPhone 12 Pro Max chỉ sử dụng RAM 6GB .
+{"subject": ["4&&Galaxy", "5&&S21", "6&&Ultra"], "object": [], "aspect": ["10&&RAM"], "predicate": ["9&&nhiều", "10&&RAM", "11&&hơn"], "label": "COM+"}
+
+alt: so-sanh-bo-doi-smartphone-galaxy-s21-ultra-va-iphone-12-pro-max-3	alt : so-sanh-bo-doi-smartphone-galaxy-s21 - ultra-va-iphone - 12 - pro-max - 3
+
+des:	des :
+
+Màn hình	Màn hình
+
+Samsung Galaxy S21 Ultra có độ phân giải, độ sáng, HDR, mật độ điểm ảnh và tỷ lệ màn hình cao hơn.	Samsung Galaxy S21 Ultra có độ phân giải , độ sáng , HDR , mật độ điểm ảnh và tỷ lệ màn hình cao hơn .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["6&&độ", "7&&phân", "8&&giải"], "predicate": ["24&&cao", "25&&hơn"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["10&&độ", "11&&sáng"], "predicate": ["24&&cao", "25&&hơn"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["13&&HDR"], "predicate": ["24&&cao", "25&&hơn"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["15&&mật", "16&&độ", "17&&điểm", "18&&ảnh"], "predicate": ["24&&cao", "25&&hơn"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S21", "4&&Ultra"], "object": [], "aspect": ["20&&tỷ", "21&&lệ", "22&&màn", "23&&hình"], "predicate": ["24&&cao", "25&&hơn"], "label": "COM+"}
+
+iPhone 12 Pro Max cũng có điểm mạnh với công nghệ hình ảnh Dolby Vision, gam màu rộng và tông màu chân thực, đây là những tối ưu hóa mà Galaxy S21 Ultra không có.	iPhone 12 Pro Max cũng có điểm mạnh với công nghệ hình ảnh Dolby Vision , gam màu rộng và tông màu chân thực , đây là những tối ưu hóa mà Galaxy S21 Ultra không có .
+{"subject": ["33&&Galaxy", "34&&S21", "35&&Ultra"], "object": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "aspect": ["28&&những", "29&&tối", "30&&ưu", "31&&hóa"], "predicate": ["36&&không", "37&&có"], "label": "DIF"}
+
+Pin	Pin
+
+Ở khía cạnh pin, Samsung Galaxy S21 Ultra giành phần thắng vì pin không chỉ lớn hơn mà còn hỗ trợ sạc nhanh hơn.	Ở khía cạnh pin , Samsung Galaxy S21 Ultra giành phần thắng vì pin không chỉ lớn hơn mà còn hỗ trợ sạc nhanh hơn .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&Ultra"], "object": [], "aspect": ["4&&pin"], "predicate": ["10&&giành", "11&&phần", "12&&thắng"], "label": "COM+"}
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&Ultra"], "object": [], "aspect": ["14&&pin"], "predicate": ["17&&lớn", "18&&hơn"], "label": "COM+"}
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S21", "9&&Ultra"], "object": [], "aspect": ["21&&hỗ", "22&&trợ", "23&&sạc"], "predicate": ["24&&nhanh", "25&&hơn"], "label": "COM+"}
+
+Galaxy S21 Ultra trang bị pin 5.000mAh và hỗ trợ sạc nhanh 25W.	Galaxy S21 Ultra trang bị pin 5.000mAh và hỗ trợ sạc nhanh 25W .
+
+Đối với iPhone 12 Pro Max, máy chỉ đi kèm với viên pin 3687mAh hỗ trợ sạc nhanh 20W.	Đối với iPhone 12 Pro Max , máy chỉ đi kèm với viên pin 3687mAh hỗ trợ sạc nhanh 20W .
+
+Tuy nhiên, với sạc không dây, iPhone 12 Pro Max có công suất 20W cao hơn trong khi Galaxy S21 Ultra chỉ hỗ trợ 10W.	Tuy nhiên , với sạc không dây , iPhone 12 Pro Max có công suất 20W cao hơn trong khi Galaxy S21 Ultra chỉ hỗ trợ 10W .
+{"subject": ["9&&iPhone", "10&&12", "11&&Pro", "12&&Max"], "object": ["21&&Galaxy", "22&&S21", "23&&Ultra"], "aspect": ["5&&sạc", "6&&không", "7&&dây"], "predicate": ["14&&công", "15&&suất", "16&&20W", "17&&cao", "18&&hơn"], "label": "COM+"}
+
+Nhưng Galaxy S21 Ultra lại hỗ trợ sạc không dây ngược mà iPhone 12 Pro Max không có.	Nhưng Galaxy S21 Ultra lại hỗ trợ sạc không dây ngược mà iPhone 12 Pro Max không có .
+{"subject": ["2&&Galaxy", "3&&S21", "4&&Ultra"], "object": ["13&&iPhone", "14&&12", "15&&Pro", "16&&Max"], "aspect": ["8&&sạc", "9&&không", "10&&dây", "11&&ngược"], "predicate": ["17&&không", "18&&có"], "label": "DIF"}
+
+Camera	Camera
+
+Về khả năng nhiếp ảnh, cả hai smartphone đều sử dụng cảm biến rộng và tele.	Về khả năng nhiếp ảnh , cả hai smartphone đều sử dụng cảm biến rộng và tele .
+{"subject": ["7&&cả", "8&&hai", "9&&smartphone"], "object": ["7&&cả", "8&&hai", "9&&smartphone"], "aspect": ["2&&khả", "3&&năng", "4&&nhiếp", "5&&ảnh"], "predicate": ["10&&đều", "11&&sử", "12&&dụng", "13&&cảm", "14&&biến", "15&&rộng", "16&&và", "17&&tele"], "label": "EQL"}
+
+Trong khi iPhone 12 Pro Max ghi điểm với TOF 3D LiDAR thì Galaxy S21 Ultra lại có ưu thế về ống kính tele mang lại khả năng zoom tốt hơn.	Trong khi iPhone 12 Pro Max ghi điểm với TOF 3D LiDAR thì Galaxy S21 Ultra lại có ưu thế về ống kính tele mang lại khả năng zoom tốt hơn .
+{"subject": ["14&&Galaxy", "15&&S21", "16&&Ultra"], "object": ["3&&iPhone", "4&&12", "5&&Pro", "6&&Max"], "aspect": ["27&&khả", "28&&năng", "29&&zoom"], "predicate": ["30&&tốt", "31&&hơn"], "label": "COM+"}
+
+Trong khi khả năng thu phóng tối đa của iPhone 12 Pro Max là 2,5 lần thì Galaxy S21 Ultra lên đến 10 lần.	Trong khi khả năng thu phóng tối đa của iPhone 12 Pro Max là 2,5 lần thì Galaxy S21 Ultra lên đến 10 lần .
+
+Cả hai đều hỗ trợ ổn định hình ảnh quang học (OIS).	Cả hai đều hỗ trợ ổn định hình ảnh quang học ( OIS ) .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&ổn", "7&&định", "8&&hình", "9&&ảnh", "10&&quang", "11&&học"], "predicate": ["3&&đều", "4&&hỗ", "5&&trợ"], "label": "EQL"}
+
+Tuy nhiên, camera selfie trước của Apple đi kèm với gyro-EIS mà Samsung không có.	Tuy nhiên , camera selfie trước của Apple đi kèm với gyro-EIS mà Samsung không có .
+{"subject": ["4&&camera", "5&&selfie", "6&&trước", "7&&của", "8&&Apple"], "object": ["14&&Samsung"], "aspect": ["12&&gyro-EIS"], "predicate": ["15&&không", "16&&có"], "label": "DIF"}
+
+alt: Galaxy-S21-Ultra-vs-iPhone-12-Pro-Max	alt : Galaxy-S21 - Ultra-vs-iPhone - 12 - Pro-Max
+
+des:	des :
+
+Tạm kết	Tạm kết
+
+Cả hai thiết bị đều có cùng mức giá smartphone cao cấp dù Galaxy S21 đắt hơn khoảng $100.	Cả hai thiết bị đều có cùng mức giá smartphone cao cấp dù Galaxy S21 đắt hơn khoảng $100 .
+{"subject": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "object": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "aspect": ["8&&mức", "9&&giá"], "predicate": ["5&&đều", "6&&có", "7&&cùng"], "label": "EQL"}
+{"subject": ["14&&Galaxy", "15&&S21"], "object": [], "aspect": ["8&&mức", "9&&giá"], "predicate": ["16&&đắt", "17&&hơn", "18&&khoảng", "19&&$100"], "label": "COM+"}
+
+Trong khi iPhone 12 Pro Max bắt đầu từ mức giá $1,099 thì Galaxy S21 bắt đầu với giá $1,199."	Trong khi iPhone 12 Pro Max bắt đầu từ mức giá $1,099 thì Galaxy S21 bắt đầu với giá $1,199 . "
+
