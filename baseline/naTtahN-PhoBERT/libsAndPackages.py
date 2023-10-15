@@ -38,3 +38,15 @@ id2label = {0: 'subject', 1: 'object', 2: 'aspect', 3: 'predicate', 4: '<noClass
 
 comparisonLabel2id = {'DIF': 0, 'EQL': 1, 'SUP': 2, 'SUP+': 3, 'SUP-': 4, 'COM': 5, 'COM+': 6, 'COM-': 7, '<noClass>': 8}
 id2comparisonLabel = {0: 'DIF', 1: 'EQL', 2: 'SUP', 3: 'SUP+', 4: 'SUP-', 5: 'COM', 6: 'COM+', 7: 'COM-', 8: '<noClass>'}
+
+num_isComparative_labels = 2
+num_NER_labels = len(label2id)
+num_comparisonType_labels = len(comparisonLabel2id)
+num_labels = num_isComparative_labels + num_NER_labels + num_comparisonType_labels
+
+num_tasks = 3
+# 0: isComparative, 1: NER, 2: comparisonType
+task_id_to_num_classes = {0: num_isComparative_labels,
+                          1: num_NER_labels - 1, # Exclude <noClass> label
+                          2: num_comparisonType_labels - 1} # Exclude <noClass> label
+
