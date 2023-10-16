@@ -30,43 +30,23 @@ import os
 
 # from libsAndPackages import *
 # from modelUtils import *
-from utils.dataUtils import *
+from utilsFunc.dataUtils import *
 
-dataCSV = txt2csv(path = "/datasets/modified/VLSP2023_ComOM_training_v2/VLSP2023_ComOM_training_v2",
-                  curDir = curDir, splitName = 'train', version = 'new')
-dataCSVIsComparative, dataCSVNotIsComparative = createDataNERCSV(dataCSV, mode = 'train')
-datasetNERTokenizedCSV = tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode = 'train')
+dataCSV = txt2csv(path = "/datasets/original/VLSP2023_ComOM_public_test_nolabel/VLSP2023_ComOM_public_test_nolabel",
+                  curDir = curDir, splitName = 'dev', version = 'new', idx = range(1, 25, 1))
+dataCSVIsComparative, dataCSVNotIsComparative, sentenceInd = createDataNERCSV(dataCSV, mode = 'inference')
+datasetNERTokenizedCSV, wordInd = tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode = 'inference')
 nerPhoBERTTorchDataset = DataNERPhoBERTTorch(datasetNERTokenizedCSV)
 
-
-num_epochs = 10
 batchSize = 64
-trainLoader, valLoader, testLoader = splitDataset(nerPhoBERTTorchDataset, 0.95, 0.05, 0.0, batchSize, True, 14)
+inferenceLoader, _, _ = splitDataset(nerPhoBERTTorchDataset, 1.0, 0.0, 0.0,
+                                                 batchSize, False, 14)
 
-optimizer = AdamW(phobertTokenClassification.parameters(), lr = 5e-5)
-
-num_training_steps = num_epochs * len(trainLoader)
-lr_scheduler = get_scheduler(
-    name = "linear", optimizer = optimizer, num_warmup_steps = 0, num_training_steps = num_training_steps
-)
-
+# Load model and perform inference.
+# (allPredIsComparative, allPredNER, allPredComparisonType) = inference(phobertTokenClassification, inferenceLoader,
+#                                                                       device)
 exit()
-trainLog = train(phobertTokenClassification, num_epochs, trainLoader, valLoader, optimizer, device, lr_scheduler = lr_scheduler)
-torch.save(phobertTokenClassification.state_dict(), "phobertFinetuned.pt")
-evalOnValSet(phobertTokenClassification, testLoader, lossCombine, device)
 
 
-# 0 - train, 1 - val 
-# 0 - loss, 1 - isComparative, 2 = NER, 3 = comparisonType
-plotData = []
-plotData1 = []
-plotInfo = 0
-for i in range(num_epochs):
-    plotData.append(trainLog[i][0][plotInfo])
-    plotData1.append(trainLog[i][1][plotInfo])
-plt.plot(plotData)
-plt.plot(plotData1)
-plt.show()
-plt.savefig("lossGraph.png")
 
 

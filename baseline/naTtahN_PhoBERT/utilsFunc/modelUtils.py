@@ -1,7 +1,7 @@
 import numpy as np
 import torch.nn
 
-from utils.libsAndPackages import *
+from utilsFunc.libsAndPackages import *
 
 num_isComparative_labels = 2
 num_NER_labels = len(label2id)
@@ -452,10 +452,12 @@ def train(model, num_epochs, trainLoader, valLoader, optimizer, device, **kwargs
     return lossAccLst
 
 
-def inference(model, dataLoader, device):
+def inference(model, dataLoader, device, maxSeqLen = maxSeqLen):
 
+    model.to(device)
     model.eval()
 
+    allPredConcat = []
 
     for i, batch in enumerate(dataLoader):
         with (torch.no_grad()):
@@ -463,5 +465,12 @@ def inference(model, dataLoader, device):
             (predIsComparative, predNER, predComparisonType) = computePredictions(
                 logitsIsComparative, logitsNER, logitsComparisonType
             )
+            predIsComparative = predIsComparative.reshape((-1, 1))
+            predNER = predNER.reshape((-1, maxSeqLen))
+            predComparisonType = predComparisonType.reshape((-1, 1))
 
+            predConcat = torch.concat([predIsComparative, predNER, predComparisonType], dim=1)
+            allPredConcat.append(predConcat)
 
+    allPredConcat = torch.concat(allPredConcat)
+    return (allPredConcat[:, 0].reshape((-1, 1)), allPredConcat[:, 1 : 193], allPredConcat[:, 193].reshape((-1, 1)))

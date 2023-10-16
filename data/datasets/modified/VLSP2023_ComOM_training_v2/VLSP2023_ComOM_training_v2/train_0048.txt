@@ -1,0 +1,213 @@
+Title: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	Title : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+Trong sự kiện Far Out ngày 7/9, Apple đã chính thức giới thiệu iPhone 14 series bao gồm: iPhone 14, iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max.	Trong sự kiện Far Out ngày 7 / 9 , Apple đã chính thức giới thiệu iPhone 14 series bao gồm : iPhone 14 , iPhone 14 Plus , iPhone 14 Pro và iPhone 14 Pro Max .
+
+Trong lần ra mắt này, Apple đã không công bố thêm chiếc iPhone mini nào, mà thay vào đó là sự có mặt của iPhone 14 Plus.	Trong lần ra mắt này , Apple đã không công bố thêm chiếc iPhone mini nào , mà thay vào đó là sự có mặt của iPhone 14 Plus .
+
+Như vậy, dòng tiêu chuẩn của iPhone 14 series sẽ bao gồm iPhone 14 và iPhone 14 Plus và bản cao cấp hơn là iPhone 14 Pro và iPhone 14 Pro Max.	Như vậy , dòng tiêu chuẩn của iPhone 14 series sẽ bao gồm iPhone 14 và iPhone 14 Plus và bản cao cấp hơn là iPhone 14 Pro và iPhone 14 Pro Max .
+
+Dưới đây là bài đánh giá nhanh iPhone 14 series, để bạn hiểu rõ hơn về những điểm đặc trưng và mới trên dòng điện thoại này.	Dưới đây là bài đánh giá nhanh iPhone 14 series , để bạn hiểu rõ hơn về những điểm đặc trưng và mới trên dòng điện thoại này .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Đánh giá iPhone 14 và iPhone 14 Plus	Đánh giá iPhone 14 và iPhone 14 Plus
+
+Thiết kế cũ, bổ sung màu mới	Thiết kế cũ , bổ sung màu mới
+
+iPhone 14 và iPhone 14 Plus là sự thừa hưởng thiết kế của iPhone 13 năm trước.	iPhone 14 và iPhone 14 Plus là sự thừa hưởng thiết kế của iPhone 13 năm trước .
+{"subject": ["1&&iPhone", "2&&14"], "object": ["14&&iPhone", "15&&13", "16&&năm", "17&&trước"], "aspect": ["11&&thiết", "12&&kế"], "predicate": ["9&&thừa", "10&&hưởng"], "label": "EQL"}
+{"subject": ["4&&iPhone", "5&&14", "6&&Plus"], "object": ["14&&iPhone", "15&&13", "16&&năm", "17&&trước"], "aspect": ["11&&thiết", "12&&kế"], "predicate": ["9&&thừa", "10&&hưởng"], "label": "EQL"}
+
+Điện thoại vẫn có notch “tai thỏ”, mặt lưng với cụm camera đặt chéo, khung nhôm và sử dụng lớp kính Ceramic Shield.	Điện thoại vẫn có notch “ tai thỏ ” , mặt lưng với cụm camera đặt chéo , khung nhôm và sử dụng lớp kính Ceramic Shield .
+
+Lớp kính này có khả năng bảo vệ tốt, chống trầy xước, va đập hiệu quả.	Lớp kính này có khả năng bảo vệ tốt , chống trầy xước , va đập hiệu quả .
+
+Đồng thời, iPhone 14 và 14 Plus còn cực kì an toàn để bạn sử dụng trong nhiều môi trường với chuẩn chống nước/bụi IP68 – một tính năng rất được yêu thích.	Đồng thời , iPhone 14 và 14 Plus còn cực kì an toàn để bạn sử dụng trong nhiều môi trường với chuẩn chống nước / bụi IP68 – một tính năng rất được yêu thích .
+
+Các màu mới trên iPhone 14 và 14 Plus là xanh dương nhạt và tím – hai màu trendy hiện tại.	Các màu mới trên iPhone 14 và 14 Plus là xanh dương nhạt và tím – hai màu trendy hiện tại .
+
+Đi kèm đó là các màu cơ bản trắng, đen, đỏ dễ dàng phù hợp cho từng đối tượng người dùng.	Đi kèm đó là các màu cơ bản trắng , đen , đỏ dễ dàng phù hợp cho từng đối tượng người dùng .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+iPhone 14 Plus màn hình lớn, thỏa thích trải nghiệm	iPhone 14 Plus màn hình lớn , thỏa thích trải nghiệm
+
+Ở lần ra mắt này, Apple đã giới thiệu phiên bản iPhone 14 Plus dành cho người dùng yêu thích màn hình lớn.	Ở lần ra mắt này , Apple đã giới thiệu phiên bản iPhone 14 Plus dành cho người dùng yêu thích màn hình lớn .
+
+Cụ thể iPhone 14 Plus sở hữu màn hình Super Retina XDR kích thước 6.7 inch, khác với iPhone 14 là 6.1 inch.	Cụ thể iPhone 14 Plus sở hữu màn hình Super Retina XDR kích thước 6.7 inch , khác với iPhone 14 là 6.1 inch .
+
+Với màn hình lớn, bạn sẽ thao tác thoải mái và chi tiết lớn nhìn rõ ràng hơn – một chọn lựa hoàn hảo trong thế hệ iPhone 2022 mới với mức giá phải chăng.	Với màn hình lớn , bạn sẽ thao tác thoải mái và chi tiết lớn nhìn rõ ràng hơn – một chọn lựa hoàn hảo trong thế hệ iPhone 2022 mới với mức giá phải chăng .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des: iPhone 14 bên trái, iPhone 14 Plus bên phải	des : iPhone 14 bên trái , iPhone 14 Plus bên phải
+
+Vẫn là chip A15 Bionic nhưng đồ họa mạnh hơn	Vẫn là chip A15 Bionic nhưng đồ họa mạnh hơn
+
+iPhone 14 và iPhone 14 Plus tích hợp A15 Bionic.	iPhone 14 và iPhone 14 Plus tích hợp A15 Bionic .
+
+Tuy nhiên A15 Bionic này sẽ được bổ sung thêm một lõi GPU, tổng GPU là 5 lõi, cho khả năng xử lý đồ họa tốt hơn.	Tuy nhiên A15 Bionic này sẽ được bổ sung thêm một lõi GPU , tổng GPU là 5 lõi , cho khả năng xử lý đồ họa tốt hơn .
+{"subject": ["3&&A15", "4&&Bionic"], "object": [], "aspect": ["22&&khả", "23&&năng", "24&&xử", "25&&lý", "26&&đồ", "27&&họa"], "predicate": ["28&&tốt", "29&&hơn"], "label": "COM+"}
+
+Còn xét về hiệu năng tổng thể, thì người dùng có thể hoàn toàn yên tâm với A15 Bionic, khi đây vẫn là con chip mạnh mẽ vượt trội hơn rất nhiều đại diện flagship khác, bảo đảm cho bạn sử dụng dài lâu.	Còn xét về hiệu năng tổng thể , thì người dùng có thể hoàn toàn yên tâm với A15 Bionic , khi đây vẫn là con chip mạnh mẽ vượt trội hơn rất nhiều đại diện flagship khác , bảo đảm cho bạn sử dụng dài lâu .
+{"subject": ["23&&đây"], "object": ["35&&đại", "36&&diện", "37&&flagship", "38&&khác"], "aspect": [], "predicate": ["28&&mạnh", "29&&mẽ", "30&&vượt", "31&&trội", "32&&hơn", "33&&rất", "34&&nhiều"], "label": "COM+"}
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+iPhone 14 Plus – chiếc iPhone pin tốt nhất	iPhone 14 Plus – chiếc iPhone pin tốt nhất
+
+Trong buổi ra mắt iPhone 14, Apple đã chia sẻ rằng bản iPhone 14 Plus là chiếc iPhone có pin tốt nhất từ trước đến nay.	Trong buổi ra mắt iPhone 14 , Apple đã chia sẻ rằng bản iPhone 14 Plus là chiếc iPhone có pin tốt nhất từ trước đến nay .
+{"subject": ["14&&iPhone", "15&&14", "16&&Plus"], "object": [], "aspect": ["21&&pin"], "predicate": ["22&&tốt", "23&&nhất", "24&&từ", "25&&trước", "26&&đến", "27&&nay"], "label": "SUP+"}
+
+Nhờ vậy, mẫu điện thoại hứa hẹn cho bạn sử dụng thoải mái, mang tới trải nghiệm liền mạch, cho cuộc sống năng động.	Nhờ vậy , mẫu điện thoại hứa hẹn cho bạn sử dụng thoải mái , mang tới trải nghiệm liền mạch , cho cuộc sống năng động .
+
+Đối với bản iPhone 14, điện thoại sẽ có thời lượng pin sử dụng vừa đủ trong khoảng một ngày.	Đối với bản iPhone 14 , điện thoại sẽ có thời lượng pin sử dụng vừa đủ trong khoảng một ngày .
+
+Dù thế nào, thì đây vẫn là sự cố gắng của Apple cho thế hệ iPhone mới và Apple cũng đã lắng nghe người dùng nhiều hơn.	Dù thế nào , thì đây vẫn là sự cố gắng của Apple cho thế hệ iPhone mới và Apple cũng đã lắng nghe người dùng nhiều hơn .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Camera cải tiến khả năng chụp thiếu sáng	Camera cải tiến khả năng chụp thiếu sáng
+
+Các mẫu iPhone của Apple luôn nổi tiếng về khả năng chụp ảnh sắc nét và rõ ràng.	Các mẫu iPhone của Apple luôn nổi tiếng về khả năng chụp ảnh sắc nét và rõ ràng .
+
+Trong bản cải tiến này, Apple cũng chú trọng về chụp đêm, chụp thiếu sáng.	Trong bản cải tiến này , Apple cũng chú trọng về chụp đêm , chụp thiếu sáng .
+
+Theo đó, camera chính 12MP có khẩu độ mới f/1.5 và kích thước điểm ảnh 1.9um, chống rung quang học OIS, giúp thu sáng hơn 49%.	Theo đó , camera chính 12MP có khẩu độ mới f / 1.5 và kích thước điểm ảnh 1.9um , chống rung quang học OIS , giúp thu sáng hơn 49% .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Điều này rất lý tưởng để bạn có tấm ảnh chất lượng trong buổi đêm.	Điều này rất lý tưởng để bạn có tấm ảnh chất lượng trong buổi đêm .
+
+Giờ đây, bạn không chỉ chụp đẹp ở điều kiện đủ sáng mà bất cứ điều kiện nào, bạn cũng có thể tự tin “thả” dáng đó nhé.	Giờ đây , bạn không chỉ chụp đẹp ở điều kiện đủ sáng mà bất cứ điều kiện nào , bạn cũng có thể tự tin “ thả ” dáng đó nhé .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Đối với camera selfie 12MP có cải tiến camera TrueDepth mới, có tính năng Autofocus (tự động lấy nét), khẩu độ lớn f/1.9 để thu sáng tốt hơn, giúp bạn “sống ảo” hoàn hảo dù bất kỳ đâu.	Đối với camera selfie 12MP có cải tiến camera TrueDepth mới , có tính năng Autofocus ( tự động lấy nét ) , khẩu độ lớn f / 1.9 để thu sáng tốt hơn , giúp bạn “ sống ảo ” hoàn hảo dù bất kỳ đâu .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Đánh giá iPhone 14 Pro và iPhone 14 Pro Max	Đánh giá iPhone 14 Pro và iPhone 14 Pro Max
+
+Màn hình Dynamic Island độc đáo	Màn hình Dynamic Island độc đáo
+
+Khác với iPhone 14 và iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max sở hữu màn hình thế hệ mới - Dynamic Island với khả năng tùy biến thú vị.	Khác với iPhone 14 và iPhone 14 Plus , iPhone 14 Pro và iPhone 14 Pro Max sở hữu màn hình thế hệ mới - Dynamic Island với khả năng tùy biến thú vị .
+{"subject": ["10&&iPhone", "11&&14", "12&&Pro", "13&&và", "14&&iPhone", "15&&14", "16&&Pro", "17&&Max"], "object": ["3&&iPhone", "4&&14", "5&&và", "6&&iPhone", "7&&14", "8&&Plus"], "aspect": ["20&&màn", "21&&hình"], "predicate": ["1&&Khác"], "label": "DIF"}
+
+Theo đó, Dynamic Island là phần notch có thiết kế hình “viên thuốc” cùng sự hỗ trợ của phần mềm, giúp chúng có thể thực hiện nhiều tác vụ tiện lợi.	Theo đó , Dynamic Island là phần notch có thiết kế hình “ viên thuốc ” cùng sự hỗ trợ của phần mềm , giúp chúng có thể thực hiện nhiều tác vụ tiện lợi .
+
+Các hiệu ứng để tùy biến với Dynamic Island đều thân thiện và đẹp mắt, cho bạn những trải nghiệm mới lạ mà chỉ có iPhone 14 Pro và iPhone 14 Pro Max mang đến.	Các hiệu ứng để tùy biến với Dynamic Island đều thân thiện và đẹp mắt , cho bạn những trải nghiệm mới lạ mà chỉ có iPhone 14 Pro và iPhone 14 Pro Max mang đến .
+
+Ngay tại đây, bạn có thể xem nhanh các thông tin, dùng để mở khóa Face ID, hẹn giờ, chỉnh nhạc, hiển thị cuộc gọi đến…	Ngay tại đây , bạn có thể xem nhanh các thông tin , dùng để mở khóa Face ID , hẹn giờ , chỉnh nhạc , hiển thị cuộc gọi đến …
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Thiết kế cao cấp và sắc màu sang trọng	Thiết kế cao cấp và sắc màu sang trọng
+
+iPhone 14 Pro và iPhone 14 Pro Max được hoàn thiện từ khung thép cao cấp, vuông vức, kính bảo vệ Ceramic Shield và khả năng chống bụi/nước IP68.	iPhone 14 Pro và iPhone 14 Pro Max được hoàn thiện từ khung thép cao cấp , vuông vức , kính bảo vệ Ceramic Shield và khả năng chống bụi / nước IP68 .
+
+Ngoài ra, các màu có trên iPhone 14 Pro và 14 Pro Max đều cực kì sang trọng, trong đó màu mới là màu tím, bên cạnh ba màu cũ là vàng, bạc và đen.	Ngoài ra , các màu có trên iPhone 14 Pro và 14 Pro Max đều cực kì sang trọng , trong đó màu mới là màu tím , bên cạnh ba màu cũ là vàng , bạc và đen .
+{"subject": ["8&&iPhone", "9&&14", "10&&Pro"], "object": ["12&&14", "13&&Pro", "14&&Max"], "aspect": ["5&&màu"], "predicate": ["15&&đều", "16&&cực", "17&&kì", "18&&sang", "19&&trọng"], "label": "EQL"}
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Đẳng cấp với màn hình hàng đầu	Đẳng cấp với màn hình hàng đầu
+
+iPhone 14 Pro (6.1 inch) và iPhone 14 Pro Max (6.7 inch) đẳng cấp với màn hình đứng đầu trên thị trường.	iPhone 14 Pro ( 6.1 inch ) và iPhone 14 Pro Max ( 6.7 inch ) đẳng cấp với màn hình đứng đầu trên thị trường .
+
+Màn hình sở hữu tấm nền OLED Super Retina XDR, độ sáng 2.000 nits, tần số quét 120Hz cho chi tiết sắc nét và sống động, giải trí, xem phim hay gaming đều hoàn hảo.	Màn hình sở hữu tấm nền OLED Super Retina XDR , độ sáng 2.000 nits , tần số quét 120Hz cho chi tiết sắc nét và sống động , giải trí , xem phim hay gaming đều hoàn hảo .
+
+Chưa dừng lại, iPhone 14 Pro và iPhone 14 Pro Max còn dùng công nghệ ProMotion, cho phép tần số quét thích ứng từ 1Hz đến 120Hz, cho tốc độ mượt phù hợp cho từng ứng dụng, đảm bảo trải nghiệm đẳng cấp lẫn tiết kiệm pin hiệu quả.	Chưa dừng lại , iPhone 14 Pro và iPhone 14 Pro Max còn dùng công nghệ ProMotion , cho phép tần số quét thích ứng từ 1Hz đến 120Hz , cho tốc độ mượt phù hợp cho từng ứng dụng , đảm bảo trải nghiệm đẳng cấp lẫn tiết kiệm pin hiệu quả .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Đồng thời, cả hai điện thoại còn nhận được tính năng Màn hình luôn bật được tối ưu thông minh hơn khi có thể giữ nguyên màu sắc màn hình khóa để bạn xem nội dung nhanh chóng, tiện lợi.	Đồng thời , cả hai điện thoại còn nhận được tính năng Màn hình luôn bật được tối ưu thông minh hơn khi có thể giữ nguyên màu sắc màn hình khóa để bạn xem nội dung nhanh chóng , tiện lợi .
+
+Khác với Android là màn hình đen đơn thuần.	Khác với Android là màn hình đen đơn thuần .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Camera 48MP là tâm điểm	Camera 48MP là tâm điểm
+
+Lần đầu tiên phiên bản iPhone mới nhận được cải tiến vượt trội khi camera chính có độ phân giải 48MP, cho hình ảnh sắc nét và nhiều chi tiết hơn 4 lần.	Lần đầu tiên phiên bản iPhone mới nhận được cải tiến vượt trội khi camera chính có độ phân giải 48MP , cho hình ảnh sắc nét và nhiều chi tiết hơn 4 lần .
+{"subject": ["4&&phiên", "5&&bản", "6&&iPhone", "7&&mới"], "object": [], "aspect": ["24&&hình", "25&&ảnh"], "predicate": ["9&&được", "10&&cải", "11&&tiến", "12&&vượt", "13&&trội"], "label": "COM+"}
+{"subject": ["4&&phiên", "5&&bản", "6&&iPhone", "7&&mới"], "object": [], "aspect": ["15&&camera", "16&&chính"], "predicate": ["26&&sắc", "27&&nét", "28&&và", "29&&nhiều", "30&&chi", "31&&tiết", "32&&hơn", "33&&4", "34&&lần"], "label": "COM+"}
+
+Đồng thời, Apple cũng nâng cấp kích thước cảm biến lên tới 65%, cải thiện chụp đêm một cách hiệu quả.	Đồng thời , Apple cũng nâng cấp kích thước cảm biến lên tới 65% , cải thiện chụp đêm một cách hiệu quả .
+
+Ngoài ra, camera tele cũng có chất lượng quang học gấp đôi bản tiền nhiệm, giúp bạn chụp zoom tốt hơn với khả năng zoom 2x và 3x.	Ngoài ra , camera tele cũng có chất lượng quang học gấp đôi bản tiền nhiệm , giúp bạn chụp zoom tốt hơn với khả năng zoom 2x và 3x .
+{"subject": ["4&&camera", "5&&tele"], "object": ["14&&bản", "15&&tiền", "16&&nhiệm"], "aspect": ["8&&chất", "9&&lượng", "10&&quang", "11&&học"], "predicate": ["12&&gấp", "13&&đôi"], "label": "COM+"}
+{"subject": ["4&&camera", "5&&tele"], "object": ["14&&bản", "15&&tiền", "16&&nhiệm"], "aspect": ["20&&chụp", "21&&zoom"], "predicate": ["22&&tốt", "23&&hơn"], "label": "COM+"}
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Camera trước của cả hai cũng có tính năng Tự động lấy nét, giúp lấy nét chuẩn xác và sắc nét hơn.	Camera trước của cả hai cũng có tính năng Tự động lấy nét , giúp lấy nét chuẩn xác và sắc nét hơn .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Chip A16 Bionic – sức mạnh vô đối trên smartphone	Chip A16 Bionic – sức mạnh vô đối trên smartphone
+
+Khác với bản tiêu chuẩn, bản Pro được tích hợp chip A16 Bionic cực mạnh, vượt mặt tất cả các đối thủ hiện nay trên thị trường.	Khác với bản tiêu chuẩn , bản Pro được tích hợp chip A16 Bionic cực mạnh , vượt mặt tất cả các đối thủ hiện nay trên thị trường .
+{"subject": ["7&&bản", "8&&Pro"], "object": ["3&&bản", "4&&tiêu", "5&&chuẩn"], "aspect": ["10&&tích", "11&&hợp", "12&&chip", "13&&A16", "14&&Bionic"], "predicate": ["1&&Khác"], "label": "DIF"}
+{"subject": ["7&&bản", "8&&Pro"], "object": ["20&&tất", "21&&cả", "22&&các", "23&&đối", "24&&thủ", "25&&hiện", "26&&nay", "27&&trên", "28&&thị", "29&&trường"], "aspect": [], "predicate": ["18&&vượt", "19&&mặt"], "label": "COM+"}
+
+Chip mới có gần 16 tỷ bóng bán dẫn, 6 lõi CPU, 5 lõi GPU, ISP nâng cao và tiết kiệm pin hiệu quả, giúp iPhone 14 Pro và 14 Pro Max xử lý siêu nhanh, phản hồi ngay lập tức mọi tác vụ.	Chip mới có gần 16 tỷ bóng bán dẫn , 6 lõi CPU , 5 lõi GPU , ISP nâng cao và tiết kiệm pin hiệu quả , giúp iPhone 14 Pro và 14 Pro Max xử lý siêu nhanh , phản hồi ngay lập tức mọi tác vụ .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Thời lượng pin đáng kinh ngạc	Thời lượng pin đáng kinh ngạc
+
+iPhone 14 Pro và 14 Pro Max mang lại thời gian sử dụng cả ngày dài.	iPhone 14 Pro và 14 Pro Max mang lại thời gian sử dụng cả ngày dài .
+
+Cụ thể trong một lần sạc bạn có thể xem video liên tục đến 29 giờ (iPhone 14 Pro Max) và 23 giờ (iPhone 14 Pro).	Cụ thể trong một lần sạc bạn có thể xem video liên tục đến 29 giờ ( iPhone 14 Pro Max ) và 23 giờ ( iPhone 14 Pro ) .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+
+Kết lại	Kết lại
+
+Dòng iPhone 14 series năm nay là một sự nâng cấp đẳng cấp và đầy sự sáng tạo, thú vị.	Dòng iPhone 14 series năm nay là một sự nâng cấp đẳng cấp và đầy sự sáng tạo , thú vị .
+
+Apple cũng lắng nghe người dùng khi mang đến tận 4 phiên bản cho từng đối tượng khách hàng.	Apple cũng lắng nghe người dùng khi mang đến tận 4 phiên bản cho từng đối tượng khách hàng .
+
+Nếu bạn thích chiếc iPhone mới tiêu chuẩn thì chọn iPhone 14 là hợp lý.	Nếu bạn thích chiếc iPhone mới tiêu chuẩn thì chọn iPhone 14 là hợp lý .
+
+Ở bản iPhone 14 Plus dành cho người dùng thích màn hình lớn với giá phải chăng.	Ở bản iPhone 14 Plus dành cho người dùng thích màn hình lớn với giá phải chăng .
+
+Hai bản Pro là sự hoàn hảo khi tập hợp những công nghệ hàng đầu với hai chọn lựa kích thước: 6.1 inch (iPhone 14 Pro) và 6.7 inch (iPhone 14 Pro Max).	Hai bản Pro là sự hoàn hảo khi tập hợp những công nghệ hàng đầu với hai chọn lựa kích thước : 6.1 inch ( iPhone 14 Pro ) và 6.7 inch ( iPhone 14 Pro Max ) .
+
+Hy vọng với nội dung đánh giá iPhone 14 series trên, bạn sẽ hiểu hơn các phiên bản trong dòng iPhone 14 có thể tìm được mẫu iPhone 14 ưng ý.	Hy vọng với nội dung đánh giá iPhone 14 series trên , bạn sẽ hiểu hơn các phiên bản trong dòng iPhone 14 có thể tìm được mẫu iPhone 14 ưng ý .
+
+alt: Đánh giá iPhone 14 series: Thiết kế, hiệu năng, camera và hơn thế nữa	alt : Đánh giá iPhone 14 series : Thiết kế , hiệu năng , camera và hơn thế nữa
+
+des:	des :
+

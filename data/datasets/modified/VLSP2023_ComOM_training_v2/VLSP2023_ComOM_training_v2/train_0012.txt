@@ -1,0 +1,110 @@
+Title: So sánh khả năng nhiếp ảnh giữa iPhone 12 Pro, Galaxy Note20 Ultra và Google Pixel 5, ai sẽ là quán quân?	Title : So sánh khả năng nhiếp ảnh giữa iPhone 12 Pro , Galaxy Note20 Ultra và Google Pixel 5 , ai sẽ là quán quân ?
+
+alt: iphone-12-va-galaxy-note20-1	alt : iphone - 12 - va-galaxy-note20 - 1
+
+des:	des :
+
+Trong bài viết ngày hôm nay, mình sẽ cùng với bạn đọc đi so sánh khả năng nhiếp ảnh giữa iPhone 12 Pro, Galaxy Note20 Ultra và Google Pixel 5, để xem giữa 3 mẫu điện thoại đầu bảng này, đây mới là sản phẩm chụp ảnh đẹp nhất nhé.	Trong bài viết ngày hôm nay , mình sẽ cùng với bạn đọc đi so sánh khả năng nhiếp ảnh giữa iPhone 12 Pro , Galaxy Note20 Ultra và Google Pixel 5 , để xem giữa 3 mẫu điện thoại đầu bảng này , đây mới là sản phẩm chụp ảnh đẹp nhất nhé .
+
+iPhone 12 Pro, Galaxy Note20 Ultra và Google Pixel 5 – Đâu là chiếc điện thoại chụp ảnh đẹp nhất hiện tại?	iPhone 12 Pro , Galaxy Note20 Ultra và Google Pixel 5 – Đâu là chiếc điện thoại chụp ảnh đẹp nhất hiện tại ?
+
+iPhone của Apple từ trước đến nay đều được nhiều người dùng ca ngợi là có camera chụp ảnh tốt và ổn định nhất nhì trong thế giới smartphone.	iPhone của Apple từ trước đến nay đều được nhiều người dùng ca ngợi là có camera chụp ảnh tốt và ổn định nhất nhì trong thế giới smartphone .
+{"subject": ["1&&iPhone", "2&&của", "3&&Apple"], "object": [], "aspect": ["17&&camera", "18&&chụp", "19&&ảnh"], "predicate": ["20&&tốt", "21&&và", "22&&ổn", "23&&định", "24&&nhất", "25&&nhì", "26&&trong", "27&&thế", "28&&giới", "29&&smartphone"], "label": "SUP+"}
+
+Mỗi thế hệ iPhone mới khi ra mắt thì đều có hệ thống camera được cải thiện rất nhiều so với thế hệ cũ và mẫu iPhone 12 Pro mới ra mắt gần đây cũng không phải là ngoại lệ.	Mỗi thế hệ iPhone mới khi ra mắt thì đều có hệ thống camera được cải thiện rất nhiều so với thế hệ cũ và mẫu iPhone 12 Pro mới ra mắt gần đây cũng không phải là ngoại lệ .
+{"subject": ["1&&Mỗi", "2&&thế", "3&&hệ", "4&&iPhone", "5&&mới"], "object": ["22&&thế", "23&&hệ", "24&&cũ"], "aspect": ["12&&hệ", "13&&thống", "14&&camera"], "predicate": ["16&&cải", "17&&thiện", "18&&rất", "19&&nhiều"], "label": "COM+"}
+
+iPhone 12 Pro được biết đến là thiết bị có khả năng chụp ảnh thiếu sáng khá tốt, cùng với sự hậu thuẫn của máy quét LiDAR và quay video Dolby Vision.	iPhone 12 Pro được biết đến là thiết bị có khả năng chụp ảnh thiếu sáng khá tốt , cùng với sự hậu thuẫn của máy quét LiDAR và quay video Dolby Vision .
+
+Nhưng liệu iPhone 12 Pro có phải là chiếc điện thoại chụp ảnh tốt nhất hiện tại?	Nhưng liệu iPhone 12 Pro có phải là chiếc điện thoại chụp ảnh tốt nhất hiện tại ?
+
+Để có lời giải đáp, chúng ta sẽ so sánh khả năng nhiếp ảnh của iPhone 12 Pro cùng với hai mẫu điện thoại đầu bảng khác là Samsung Galaxy Note20 Ultra và Google Pixel 5.	Để có lời giải đáp , chúng ta sẽ so sánh khả năng nhiếp ảnh của iPhone 12 Pro cùng với hai mẫu điện thoại đầu bảng khác là Samsung Galaxy Note20 Ultra và Google Pixel 5 .
+
+Đầu tiên, chúng ta hãy cùng nhắc qua một chút về thông số kĩ thuật camera của cả 3 nhé.	Đầu tiên , chúng ta hãy cùng nhắc qua một chút về thông số kĩ thuật camera của cả 3 nhé .
+
+iPhone 12 Pro	iPhone 12 Pro
+
+alt: iphone-12-va-galaxy-note20-2	alt : iphone - 12 - va-galaxy-note20 - 2
+
+des:	des :
+
+Camera chính 12 MP khẩu độ F/1.6, lấy nét pha kép Dual PDAF, ổn định hình ảnh OIS.	Camera chính 12 MP khẩu độ F / 1.6 , lấy nét pha kép Dual PDAF , ổn định hình ảnh OIS .
+
+Camera tele 12 MP khẩu độ F/2.0, zoom quang 2x, tiêu cự 52 mm, lấy nét theo pha PDAF, ổn định hình ảnh OIS.	Camera tele 12 MP khẩu độ F / 2.0 , zoom quang 2x , tiêu cự 52 mm , lấy nét theo pha PDAF , ổn định hình ảnh OIS .
+
+Camera góc siêu rộng 12 MP khẩu độ F/2.4 cho góc nhìn 120 độ, tiêu cự 13 mm.	Camera góc siêu rộng 12 MP khẩu độ F / 2.4 cho góc nhìn 120 độ , tiêu cự 13 mm .
+
+Máy quét 3D ToF LiDAR.	Máy quét 3D ToF LiDAR .
+
+Camera trước 12 MP khẩu độ F/2.2, tiêu cự 23 mm.	Camera trước 12 MP khẩu độ F / 2.2 , tiêu cự 23 mm .
+
+Galaxy Note20 Ultra	Galaxy Note20 Ultra
+
+alt: iphone-12-va-galaxy-note20-3	alt : iphone - 12 - va-galaxy-note20 - 3
+
+des:	des :
+
+Camera chính 108 MP khẩu độ F/1.8, lấy nét theo pha PDAF, lấy nét bằng Laser AF, ổn định hình ảnh OIS.	Camera chính 108 MP khẩu độ F / 1.8 , lấy nét theo pha PDAF , lấy nét bằng Laser AF , ổn định hình ảnh OIS .
+
+Camera tele 12 MP khẩu độ F/3.0, zoom quang 5x, tiêu cự 120 mm, lấy nét theo pha PDAF và ổn định hình ảnh OIS.	Camera tele 12 MP khẩu độ F / 3.0 , zoom quang 5x , tiêu cự 120 mm , lấy nét theo pha PDAF và ổn định hình ảnh OIS .
+
+Camera góc siêu rộng 12 MP khẩu độ F/2.2 cho góc nhìn 120 độ, tiêu cự 23 mm.	Camera góc siêu rộng 12 MP khẩu độ F / 2.2 cho góc nhìn 120 độ , tiêu cự 23 mm .
+
+Camera trước 12 MP khẩu độ F/2.2 , tiêu cự 23 mm.	Camera trước 12 MP khẩu độ F / 2.2 , tiêu cự 23 mm .
+
+Google Pixel 5	Google Pixel 5
+
+alt: iphone-12-va-galaxy-note20-4	alt : iphone - 12 - va-galaxy-note20 - 4
+
+des:	des :
+
+Camera chính 12.2 MP khẩu độ F/1.7, lấy nét pha kép Dual PDAF, ổn định khung hình OIS.	Camera chính 12.2 MP khẩu độ F / 1.7 , lấy nét pha kép Dual PDAF , ổn định khung hình OIS .
+
+Camera góc siêu rộng 16 MP khẩu độ F/2.2, góc nhìn 107 độ.	Camera góc siêu rộng 16 MP khẩu độ F / 2.2 , góc nhìn 107 độ .
+
+Camera trước 8 MP khẩu độ F/2.0, tiêu cự 24 mm.	Camera trước 8 MP khẩu độ F / 2.0 , tiêu cự 24 mm .
+
+Trong bức hình dưới đây, bạn đọc có thể thấy được hình ảnh được chụp từ iPhone 12 Pro có dải nhạy sáng khá tốt, khả năng tái tạo màu sắc chân thực cùng với hiệu ứng bokeh làm tốt nhiệm vụ của mình khi chụp ảnh chân dung nếu như so với hai mẫu điện thoại còn lại.	Trong bức hình dưới đây , bạn đọc có thể thấy được hình ảnh được chụp từ iPhone 12 Pro có dải nhạy sáng khá tốt , khả năng tái tạo màu sắc chân thực cùng với hiệu ứng bokeh làm tốt nhiệm vụ của mình khi chụp ảnh chân dung nếu như so với hai mẫu điện thoại còn lại .
+
+iPhone 12 Pro cũng cho khả năng chụp hình ổn hơn trong điều kiện thiếu sáng.	iPhone 12 Pro cũng cho khả năng chụp hình ổn hơn trong điều kiện thiếu sáng .
+{"subject": ["1&&iPhone", "2&&12", "3&&Pro"], "object": [], "aspect": ["6&&khả", "7&&năng", "8&&chụp", "9&&hình"], "predicate": ["10&&ổn", "11&&hơn", "12&&trong", "13&&điều", "14&&kiện", "15&&thiếu", "16&&sáng"], "label": "COM+"}
+
+Thế nhưng, nếu so về khả năng chụp ảnh zoom thì iPhone 12 Pro lại tỏ ra thua thiệt khá nhiều khi máy chỉ hỗ trợ zoom quang 2x, trong khi đó Galaxy Note20 Ultra và Google Pixel 5 đều hỗ trợ zoom quang lên tới 5x.	Thế nhưng , nếu so về khả năng chụp ảnh zoom thì iPhone 12 Pro lại tỏ ra thua thiệt khá nhiều khi máy chỉ hỗ trợ zoom quang 2x , trong khi đó Galaxy Note20 Ultra và Google Pixel 5 đều hỗ trợ zoom quang lên tới 5x .
+{"subject": ["13&&iPhone", "14&&12", "15&&Pro"], "object": ["35&&Galaxy", "36&&Note20", "37&&Ultra"], "aspect": ["7&&khả", "8&&năng", "9&&chụp", "10&&ảnh", "11&&zoom"], "predicate": ["19&&thua", "20&&thiệt", "21&&khá", "22&&nhiều"], "label": "COM-"}
+{"subject": ["13&&iPhone", "14&&12", "15&&Pro"], "object": ["39&&Google", "40&&Pixel", "41&&5"], "aspect": ["7&&khả", "8&&năng", "9&&chụp", "10&&ảnh", "11&&zoom"], "predicate": ["19&&thua", "20&&thiệt", "21&&khá", "22&&nhiều"], "label": "COM-"}
+{"subject": ["35&&Galaxy", "36&&Note20", "37&&Ultra"], "object": ["39&&Google", "40&&Pixel", "41&&5"], "aspect": ["45&&zoom", "46&&quang", "47&&lên", "48&&tới", "49&&5x"], "predicate": ["42&&đều", "43&&hỗ", "44&&trợ"], "label": "EQL"}
+
+Còn về phía Galaxy Note20 Ultra, thiết bị này không chỉ có camera tele tốt nhất, mà còn sở hữu một camera goc siêu rộng cũng gần như là “bá đạo” nhất trong cả ba.	Còn về phía Galaxy Note20 Ultra , thiết bị này không chỉ có camera tele tốt nhất , mà còn sở hữu một camera goc siêu rộng cũng gần như là “ bá đạo ” nhất trong cả ba .
+{"subject": ["4&&Galaxy", "5&&Note20", "6&&Ultra"], "object": [], "aspect": ["14&&camera", "15&&tele"], "predicate": ["16&&tốt", "17&&nhất"], "label": "SUP+"}
+{"subject": ["4&&Galaxy", "5&&Note20", "6&&Ultra"], "object": ["38&&cả", "39&&ba"], "aspect": ["24&&camera", "25&&goc", "26&&siêu", "27&&rộng"], "predicate": ["29&&gần", "30&&như", "31&&là", "32&&“", "33&&bá", "34&&đạo", "35&&”", "36&&nhất"], "label": "SUP+"}
+
+Chiếc điện thoại còn lại là Google Pixel 5 lại thể hiện khả năng chụp ảnh có phần yếu thế hơn Galaxy Note20 Ultra và iPhone 12 Pro kể cả trong điều kiện đủ sáng hoặc ánh sáng yếu.	Chiếc điện thoại còn lại là Google Pixel 5 lại thể hiện khả năng chụp ảnh có phần yếu thế hơn Galaxy Note20 Ultra và iPhone 12 Pro kể cả trong điều kiện đủ sáng hoặc ánh sáng yếu .
+{"subject": ["7&&Google", "8&&Pixel", "9&&5"], "object": ["22&&Galaxy", "23&&Note20", "24&&Ultra"], "aspect": ["13&&khả", "14&&năng", "15&&chụp", "16&&ảnh"], "predicate": ["17&&có", "18&&phần", "19&&yếu", "20&&thế", "21&&hơn"], "label": "COM-"}
+{"subject": ["7&&Google", "8&&Pixel", "9&&5"], "object": ["26&&iPhone", "27&&12", "28&&Pro"], "aspect": ["13&&khả", "14&&năng", "15&&chụp", "16&&ảnh"], "predicate": ["17&&có", "18&&phần", "19&&yếu", "20&&thế", "21&&hơn"], "label": "COM-"}
+
+alt: iphone-12-va-galaxy-note20-5(1)	alt : iphone - 12 - va-galaxy-note20 - 5 ( 1 )
+
+des: Ảnh được chụp từ Pixel 5, iPhone 12 Pro và Note20 Ultra	des : Ảnh được chụp từ Pixel 5 , iPhone 12 Pro và Note20 Ultra
+
+Về khả năng chụp hình selfie, Google Pixel 5 cho ra ảnh với chất lượng tổng thể tốt và ổn định nhất dù được chụp trong điều kiện ngược ánh sáng mặt trời, không bị cháy sáng quá nhiều.	Về khả năng chụp hình selfie , Google Pixel 5 cho ra ảnh với chất lượng tổng thể tốt và ổn định nhất dù được chụp trong điều kiện ngược ánh sáng mặt trời , không bị cháy sáng quá nhiều .
+{"subject": ["8&&Google", "9&&Pixel", "10&&5"], "object": [], "aspect": ["4&&chụp", "5&&hình", "6&&selfie"], "predicate": ["15&&chất", "16&&lượng", "17&&tổng", "18&&thể", "19&&tốt", "20&&và", "21&&ổn", "22&&định", "23&&nhất"], "label": "SUP+"}
+{"subject": ["13&&ảnh"], "object": [], "aspect": ["15&&chất", "16&&lượng", "17&&tổng", "18&&thể"], "predicate": ["19&&tốt", "20&&và", "21&&ổn", "22&&định", "23&&nhất"], "label": "SUP+"}
+
+Ổn hơn một chút là Galaxy Note20 Ultra và sau cùng là iPhone 12 Pro.	Ổn hơn một chút là Galaxy Note20 Ultra và sau cùng là iPhone 12 Pro .
+
+alt: iphone-12-va-galaxy-note20-6	alt : iphone - 12 - va-galaxy-note20 - 6
+
+des: Khả năng chụp selfie của cả ba	des : Khả năng chụp selfie của cả ba
+
+Như bạn có thể thấy trong bài so sánh, iPhone 12 Pro và Galaxy Note 20 Ultra đồng hạng nhất, trong khi Pixel 5 đứng vị trí cuối cùng về khoản chụp ảnh.	Như bạn có thể thấy trong bài so sánh , iPhone 12 Pro và Galaxy Note 20 Ultra đồng hạng nhất , trong khi Pixel 5 đứng vị trí cuối cùng về khoản chụp ảnh .
+{"subject": ["11&&iPhone", "12&&12", "13&&Pro"], "object": ["15&&Galaxy", "16&&Note", "17&&20", "18&&Ultra"], "aspect": ["7&&bài", "8&&so", "9&&sánh"], "predicate": ["19&&đồng", "20&&hạng", "21&&nhất"], "label": "EQL"}
+{"subject": ["25&&Pixel", "26&&5"], "object": [], "aspect": ["34&&chụp", "35&&ảnh"], "predicate": ["27&&đứng", "28&&vị", "29&&trí", "30&&cuối", "31&&cùng"], "label": "SUP-"}
+
+Kết	Kết
+
+Cuối cùng, dù iPhone 12 Pro không phải là mẫu điện thoại có camera xuất sắc nhất hiện tại, thế nhưng rõ ràng là về mặt hiệu suất và tính ổn định thì đây chắc chắn là một trong những sản phẩm tốt số 1 trong thế giới smartphone hiện nay.	Cuối cùng , dù iPhone 12 Pro không phải là mẫu điện thoại có camera xuất sắc nhất hiện tại , thế nhưng rõ ràng là về mặt hiệu suất và tính ổn định thì đây chắc chắn là một trong những sản phẩm tốt số 1 trong thế giới smartphone hiện nay .
+{"subject": ["36&&đây"], "object": [], "aspect": ["29&&hiệu", "30&&suất"], "predicate": ["45&&tốt", "46&&số", "47&&1", "48&&trong", "49&&thế", "50&&giới", "51&&smartphone", "52&&hiện", "53&&nay"], "label": "SUP+"}
+{"subject": ["36&&đây"], "object": [], "aspect": ["32&&tính", "33&&ổn", "34&&định"], "predicate": ["45&&tốt", "46&&số", "47&&1", "48&&trong", "49&&thế", "50&&giới", "51&&smartphone", "52&&hiện", "53&&nay"], "label": "SUP+"}
+
+Và sau cùng thì đây chỉ là một bài so sánh mang tính chất tham khảo là chính, cái chính là chúng ta vẫn phải cần tới một trải nghiệm trên tay thực tế thì mới có được đánh giá chính xác nhất về camera của từng thiết bị.	Và sau cùng thì đây chỉ là một bài so sánh mang tính chất tham khảo là chính , cái chính là chúng ta vẫn phải cần tới một trải nghiệm trên tay thực tế thì mới có được đánh giá chính xác nhất về camera của từng thiết bị .
+

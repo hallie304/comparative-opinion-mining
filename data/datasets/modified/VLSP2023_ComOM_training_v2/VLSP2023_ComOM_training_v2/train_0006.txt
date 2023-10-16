@@ -1,0 +1,82 @@
+title: Google Pixel 6 Pro vs iPhone 13 Pro: camera của smartphone nào đỉnh hơn ?	title : Google Pixel 6 Pro vs iPhone 13 Pro : camera của smartphone nào đỉnh hơn ?
+
+So sánh camera giữa iPhone 13 Pro và Google Pixel 6 Pro: Máy nào tốt hơn.	So sánh camera giữa iPhone 13 Pro và Google Pixel 6 Pro : Máy nào tốt hơn .
+
+iPhone 13 Pro và Google Pixel 6 Pro đều là những chiếc smartphone trang bị camera tốt nhất hiện nay.	iPhone 13 Pro và Google Pixel 6 Pro đều là những chiếc smartphone trang bị camera tốt nhất hiện nay .
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro"], "object": ["5&&Google", "6&&Pixel", "7&&6", "8&&Pro"], "aspect": ["16&&camera"], "predicate": ["9&&đều", "10&&là", "11&&những", "12&&chiếc", "13&&smartphone", "14&&trang", "15&&bị", "16&&camera", "17&&tốt", "18&&nhất", "19&&hiện", "20&&nay"], "label": "EQL"}
+
+Vì có thông số máy ảnh ngang bằng với 13 Pro Max nên màn so sánh camera giữa iPhone 13 Pro và Pixel 6 Pro có thể được xem như màn đọ sức giữ Pixel 6 Pro và phiên bản điện thoại cao cấp nhất của Apple.	Vì có thông số máy ảnh ngang bằng với 13 Pro Max nên màn so sánh camera giữa iPhone 13 Pro và Pixel 6 Pro có thể được xem như màn đọ sức giữ Pixel 6 Pro và phiên bản điện thoại cao cấp nhất của Apple .
+
+Vậy liệu khả năng chụp hình của Google Pixel 6 có thua kém camera của iPhone 13 hay không?	Vậy liệu khả năng chụp hình của Google Pixel 6 có thua kém camera của iPhone 13 hay không ?
+
+Cùng tìm hiểu thông qua bài test của The Verge nhé.	Cùng tìm hiểu thông qua bài test của The Verge nhé .
+
+Thông số camera	Thông số camera
+
+Google Pixel 6 Pro sở hữu 3 camera sau với ống kính chính 50 MP, khẩu độ f/1.9, ống kính tele 48MP khẩu độ f/3.5 và ống kính siêu rộng 12 MP khẩu độ f/2.2. Ngoài ra chiếc máy sở hữu camera selfie độ phân giải là 11.1 MP khẩu độ f/2.2.	Google Pixel 6 Pro sở hữu 3 camera sau với ống kính chính 50 MP , khẩu độ f / 1.9 , ống kính tele 48MP khẩu độ f / 3.5 và ống kính siêu rộng 12 MP khẩu độ f / 2.2 . Ngoài ra chiếc máy sở hữu camera selfie độ phân giải là 11.1 MP khẩu độ f / 2.2 .
+
+Như đã nói, iPhone 13 Pro được trang bị cụm camera ngang ngửa với phiên bản Pro Max gồm 3 ống kính chính, tele và siêu rộng đều có độ phân giải 12 Mp. Ngay cả camera trước cũng sẽ cùng thông số là 12 MP.	Như đã nói , iPhone 13 Pro được trang bị cụm camera ngang ngửa với phiên bản Pro Max gồm 3 ống kính chính , tele và siêu rộng đều có độ phân giải 12 Mp . Ngay cả camera trước cũng sẽ cùng thông số là 12 MP .
+{"subject": ["5&&iPhone", "6&&13", "7&&Pro"], "object": ["16&&phiên", "17&&bản", "18&&Pro", "19&&Max"], "aspect": ["11&&cụm", "12&&camera"], "predicate": ["13&&ngang", "14&&ngửa"], "label": "EQL"}
+
+Và để có thể so sánh một cách công bằng nhất, The Verge đã chụp hơn 1000 bức ảnh bằng cả hai mẫu điện thoại và cùng xem liệu có sự chênh lệch về khả năng hay không nhé.	Và để có thể so sánh một cách công bằng nhất , The Verge đã chụp hơn 1000 bức ảnh bằng cả hai mẫu điện thoại và cùng xem liệu có sự chênh lệch về khả năng hay không nhé .
+
+alt: Google Pixel 6 chụp ban ngày đẹp hơn iPhone 13 Pro	alt : Google Pixel 6 chụp ban ngày đẹp hơn iPhone 13 Pro
+
+des:	des :
+
+Trong điều kiện ánh sáng tốt, màu sắc được chụp lại tương đối tốt ở cả hai máy, tuy nhiên nếu nhìn kĩ hơn một chút thì Google Pixel 6 Pro giữ màu tốt ở những gam màu nóng trong khi iPhone 13 Pro lại giữ màu tốt hơn ở gam màu lạnh.	Trong điều kiện ánh sáng tốt , màu sắc được chụp lại tương đối tốt ở cả hai máy , tuy nhiên nếu nhìn kĩ hơn một chút thì Google Pixel 6 Pro giữ màu tốt ở những gam màu nóng trong khi iPhone 13 Pro lại giữ màu tốt hơn ở gam màu lạnh .
+{"subject": ["17&&cả", "18&&hai", "19&&máy"], "object": ["17&&cả", "18&&hai", "19&&máy"], "aspect": ["8&&màu", "9&&sắc", "10&&được", "11&&chụp", "12&&lại"], "predicate": ["13&&tương", "14&&đối", "15&&tốt", "16&&ở", "17&&cả", "18&&hai", "19&&máy"], "label": "EQL"}
+{"subject": ["44&&iPhone", "45&&13", "46&&Pro"], "object": ["30&&Google", "31&&Pixel", "32&&6", "33&&Pro"], "aspect": ["53&&gam", "54&&màu", "55&&lạnh"], "predicate": ["48&&giữ", "49&&màu", "50&&tốt", "51&&hơn"], "label": "COM+"}
+
+alt: Google Pixel 6 chụp ban ngày đẹp hơn iPhone 13 Pro về màu sắc	alt : Google Pixel 6 chụp ban ngày đẹp hơn iPhone 13 Pro về màu sắc
+
+des:	des :
+
+Điểm khác biệt về màu sắc thông qua hai bức hình vốn đã là điểm đặc trưng của hai dòng máy Android và iOS khi mà smartphone của Apple đề cao tính trung thực của màu sắc còn đối thủ thì lại ưu thích việc chỉnh màu để nịnh mắt người dùng	Điểm khác biệt về màu sắc thông qua hai bức hình vốn đã là điểm đặc trưng của hai dòng máy Android và iOS khi mà smartphone của Apple đề cao tính trung thực của màu sắc còn đối thủ thì lại ưu thích việc chỉnh màu để nịnh mắt người dùng
+
+alt: Google Pixel 6 chụp ngược sáng đẹp hơn iPhone 13 Pro	alt : Google Pixel 6 chụp ngược sáng đẹp hơn iPhone 13 Pro
+
+des:	des :
+
+alt: Google Pixel 6 chụp ngược sáng đẹp hơn iPhone 13 Pro	alt : Google Pixel 6 chụp ngược sáng đẹp hơn iPhone 13 Pro
+
+des:	des :
+
+Khi chụp ngược sáng hay trong môi trường phức tạp, iPhone 13 Pro có xu hướng giữ nguyên các mảng tối trong khung hình còn Google Pixel 6 Pro lại cố gắng làm sáng những khu vực này.	Khi chụp ngược sáng hay trong môi trường phức tạp , iPhone 13 Pro có xu hướng giữ nguyên các mảng tối trong khung hình còn Google Pixel 6 Pro lại cố gắng làm sáng những khu vực này .
+
+alt: Google Pixel 6 chụp chân dung tệ hơn iPhone 13 Pro	alt : Google Pixel 6 chụp chân dung tệ hơn iPhone 13 Pro
+
+des:	des :
+
+Về khả năng chụp chân dung, có lẽ mỗi chiếc điện thoại sẽ có một ưu điểm riêng biệt.	Về khả năng chụp chân dung , có lẽ mỗi chiếc điện thoại sẽ có một ưu điểm riêng biệt .
+
+Tuy nhiên mình sẽ đánh giá cao iPhone 13 hơn một chút vì nó có thể giữ được độ trung thực tốt hơn so với đối thủ	Tuy nhiên mình sẽ đánh giá cao iPhone 13 hơn một chút vì nó có thể giữ được độ trung thực tốt hơn so với đối thủ
+{"subject": ["8&&iPhone", "9&&13"], "object": ["26&&đối", "27&&thủ"], "aspect": [], "predicate": ["10&&hơn", "11&&một", "12&&chút"], "label": "COM+"}
+{"subject": ["14&&nó"], "object": ["26&&đối", "27&&thủ"], "aspect": ["19&&độ", "20&&trung", "21&&thực"], "predicate": ["22&&tốt", "23&&hơn"], "label": "COM+"}
+
+alt: Google Pixel 6 chụp đêm đẹp hơn iPhone 13 Pro	alt : Google Pixel 6 chụp đêm đẹp hơn iPhone 13 Pro
+
+des:	des :
+
+iPhone 13 Pro cũng cho thấy khả năng chụp đêm của mình là tốt hơn so với Google Pixel 6 Pro bởi những mảng tối được giữ nguyên, thể hiện cảnh vật trong bóng đêm tốt hơn	iPhone 13 Pro cũng cho thấy khả năng chụp đêm của mình là tốt hơn so với Google Pixel 6 Pro bởi những mảng tối được giữ nguyên , thể hiện cảnh vật trong bóng đêm tốt hơn
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro"], "object": ["18&&Google", "19&&Pixel", "20&&6", "21&&Pro"], "aspect": ["7&&khả", "8&&năng", "9&&chụp", "10&&đêm"], "predicate": ["14&&tốt", "15&&hơn"], "label": "COM+"}
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro"], "object": ["18&&Google", "19&&Pixel", "20&&6", "21&&Pro"], "aspect": ["30&&thể", "31&&hiện", "32&&cảnh", "33&&vật", "34&&trong", "35&&bóng", "36&&đêm"], "predicate": ["37&&tốt", "38&&hơn"], "label": "COM+"}
+
+alt: Google Pixel 6 quay phim kém hơn iPhone 13 Pro	alt : Google Pixel 6 quay phim kém hơn iPhone 13 Pro
+
+des:	des :
+
+Về khả năng quay phim thì hai chiếc máy đều sấp sỉ nhau.	Về khả năng quay phim thì hai chiếc máy đều sấp sỉ nhau .
+{"subject": ["7&&hai", "8&&chiếc", "9&&máy"], "object": ["7&&hai", "8&&chiếc", "9&&máy"], "aspect": ["2&&khả", "3&&năng", "4&&quay", "5&&phim"], "predicate": ["11&&sấp", "12&&sỉ", "13&&nhau"], "label": "EQL"}
+
+Tuy nhiên thời gian quay tối đa của iPhone 13 pro sẽ nhỉnh hơn một chút so với Pixel 6 Pro nhưng khoảng cách là không quá xa.	Tuy nhiên thời gian quay tối đa của iPhone 13 pro sẽ nhỉnh hơn một chút so với Pixel 6 Pro nhưng khoảng cách là không quá xa .
+{"subject": ["9&&iPhone", "10&&13", "11&&pro"], "object": ["19&&Pixel", "20&&6", "21&&Pro"], "aspect": ["3&&thời", "4&&gian", "5&&quay", "6&&tối", "7&&đa"], "predicate": ["13&&nhỉnh", "14&&hơn", "15&&một", "16&&chút"], "label": "COM+"}
+
+Với những bức ảnh trên của The Verge.	Với những bức ảnh trên của The Verge .
+
+Bạn thấy chiếc smartphone nào chụp ảnh tốt hơn?	Bạn thấy chiếc smartphone nào chụp ảnh tốt hơn ?
+
+Google Pixel 6 Pro hay iPhone 13 Pro?	Google Pixel 6 Pro hay iPhone 13 Pro ?
+
+Bình luận chia sẻ ở phần commnet các bạn nhé!	Bình luận chia sẻ ở phần commnet các bạn nhé !
+

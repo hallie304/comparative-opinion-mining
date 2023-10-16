@@ -1,0 +1,143 @@
+title: So sánh Samsung Galaxy A21s vs Galaxy A12: Đâu là lựa chọn hợp lý?	title : So sánh Samsung Galaxy A21s vs Galaxy A12 : Đâu là lựa chọn hợp lý ?
+
+Samsung Galaxy A21s và Samsung Galaxy A12 đều là những dòng sản phẩm  điện thoại  nhận được nhiều sự ưa chuộng.	Samsung Galaxy A21s và Samsung Galaxy A12 đều là những dòng sản phẩm điện thoại nhận được nhiều sự ưa chuộng .
+
+Vậy hai sản phẩm này sản phẩm nào được đánh giá tốt hơn?	Vậy hai sản phẩm này sản phẩm nào được đánh giá tốt hơn ?
+
+Dưới đây bài viết sẽ cùng bạn so sánh Samsung A12 và A21s để biết thêm chi tiết nhé!	Dưới đây bài viết sẽ cùng bạn so sánh Samsung A12 và A21s để biết thêm chi tiết nhé !
+
+1.	1 .
+
+Tổng quan về Samsung Galaxy A21s	Tổng quan về Samsung Galaxy A21s
+
+Khác biệt với nhiều dòng sản phẩm đi theo xu hướng thị trường hiện nay,  Samsung Galaxy A21s  với thiết kế màn hình nốt ruồi thời thượng nhưng cũng khá bắt mắt.	Khác biệt với nhiều dòng sản phẩm đi theo xu hướng thị trường hiện nay , Samsung Galaxy A21s với thiết kế màn hình nốt ruồi thời thượng nhưng cũng khá bắt mắt .
+
+Với viền màn hình tràn ra các cạnh và camera trước dạng nốt ruồi cho không gian hiển thị của bạn được mở rộng hơn rất nhiều.	Với viền màn hình tràn ra các cạnh và camera trước dạng nốt ruồi cho không gian hiển thị của bạn được mở rộng hơn rất nhiều .
+
+Samsung Galaxy A21s được xem là 1 chiếc điện thoại pin trâu, Samsung đã trang bị cho A21s một viên pin dung lượng lên đến 5000 mAh, cùng với  hỗ trợ sạc nhanh 15 W  giúp máy có thể sạc đầy từ 1 - 2 tiếng.	Samsung Galaxy A21s được xem là 1 chiếc điện thoại pin trâu , Samsung đã trang bị cho A21s một viên pin dung lượng lên đến 5000 mAh , cùng với hỗ trợ sạc nhanh 15 W giúp máy có thể sạc đầy từ 1 - 2 tiếng .
+
+alt: A21s với màn hình cực lớn	alt : A21s với màn hình cực lớn
+
+des: A21s với màn hình cực lớn	des : A21s với màn hình cực lớn
+
+2.	2 .
+
+Tổng quan Samsung Galaxy A12	Tổng quan Samsung Galaxy A12
+
+Với diện mạo thân thuộc,  Samsung Galaxy A12  xuất hiện với thiết kế nguyên khối, lớp vỏ máy được đúc bao quanh thân máy chắc chắn, camera trước hình giọt nước theo xu hướng hiện nay.	Với diện mạo thân thuộc , Samsung Galaxy A12 xuất hiện với thiết kế nguyên khối , lớp vỏ máy được đúc bao quanh thân máy chắc chắn , camera trước hình giọt nước theo xu hướng hiện nay .
+
+Cụm 4 camera sau ở góc bên trái, được thiết kế nằm gọn trong khung hình vuông, cảm biến vân tay được đặt với nút nguồn bên cạnh điện thoại giúp thao tác mở trở nên nhanh gọn hơn.	Cụm 4 camera sau ở góc bên trái , được thiết kế nằm gọn trong khung hình vuông , cảm biến vân tay được đặt với nút nguồn bên cạnh điện thoại giúp thao tác mở trở nên nhanh gọn hơn .
+{"subject": ["20&&cảm", "21&&biến", "22&&vân", "23&&tay"], "object": [], "aspect": ["34&&thao", "35&&tác", "36&&mở"], "predicate": ["39&&nhanh", "40&&gọn", "41&&hơn"], "label": "COM+"}
+
+alt: Thiết kế cảm biến vân tay được đặt cạnh nút nguồn	alt : Thiết kế cảm biến vân tay được đặt cạnh nút nguồn
+
+des: Thiết kế cảm biến vân tay được đặt cạnh nút nguồn	des : Thiết kế cảm biến vân tay được đặt cạnh nút nguồn
+
+3.	3 .
+
+So sánh Samsung Galaxy A21s vs Galaxy A12	So sánh Samsung Galaxy A21s vs Galaxy A12
+
+Thiết kế	Thiết kế
+
+Thiết kế là một trong những điểm khác biệt dễ thấy nhất giữa hai dòng sản phẩm này.	Thiết kế là một trong những điểm khác biệt dễ thấy nhất giữa hai dòng sản phẩm này .
+{"subject": ["14&&hai", "15&&dòng", "16&&sản", "17&&phẩm", "18&&này"], "object": ["14&&hai", "15&&dòng", "16&&sản", "17&&phẩm", "18&&này"], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["4&&một", "5&&trong", "6&&những", "7&&điểm", "8&&khác", "9&&biệt", "10&&dễ", "11&&thấy", "12&&nhất"], "label": "DIF"}
+
+A21s được thiết kế với cụm camera hình chữ nhật theo xu hướng hiện nay, cảm biến vân tay được đặt ngay phía sau lưng.	A21s được thiết kế với cụm camera hình chữ nhật theo xu hướng hiện nay , cảm biến vân tay được đặt ngay phía sau lưng .
+
+Ngược lại, A12 lại có thiết kế cụm camera được chia làm hai phần, phần trên chiếm diện tích lớn hơn với những vân chéo lạ mắt.	Ngược lại , A12 lại có thiết kế cụm camera được chia làm hai phần , phần trên chiếm diện tích lớn hơn với những vân chéo lạ mắt .
+{"subject": ["17&&phần", "18&&trên"], "object": [], "aspect": ["20&&diện", "21&&tích"], "predicate": ["22&&lớn", "23&&hơn"], "label": "COM+"}
+
+Ngoài ra thì cảm biến vân tay được tích hợp vào nút nguồn ở cạnh bên.	Ngoài ra thì cảm biến vân tay được tích hợp vào nút nguồn ở cạnh bên .
+
+alt: Cụm camera khác biệt của Galaxy A21s	alt : Cụm camera khác biệt của Galaxy A21s
+
+des: Cụm camera khác biệt của Galaxy A21s	des : Cụm camera khác biệt của Galaxy A21s
+
+Màn hình	Màn hình
+
+Về màn hình của bộ đôi này thì đều có cùng kích thước màn hình 6.5 inch, sử dụng tấm nền IPS và có cùng độ phân giải của màn hình là HD+.	Về màn hình của bộ đôi này thì đều có cùng kích thước màn hình 6.5 inch , sử dụng tấm nền IPS và có cùng độ phân giải của màn hình là HD + .
+
+Điểm khác biệt nằm ở thiết kế màn hình, nếu Galaxy A12 có màn hình "giọt nước" phổ biến hiện nay thì ở Galaxy A21s sẽ sở hữu màn hình đục lỗ ở góc trái điện thoại khá bắt mắt.	Điểm khác biệt nằm ở thiết kế màn hình , nếu Galaxy A12 có màn hình " giọt nước " phổ biến hiện nay thì ở Galaxy A21s sẽ sở hữu màn hình đục lỗ ở góc trái điện thoại khá bắt mắt .
+
+alt: Màn hình giọt nước phổ biến của Galaxy A12	alt : Màn hình giọt nước phổ biến của Galaxy A12
+
+des: Màn hình giọt nước phổ biến của Galaxy A12	des : Màn hình giọt nước phổ biến của Galaxy A12
+
+Camera	Camera
+
+Cả 2 dòng sản phẩm Galaxy A21s và A12 đều sở hữu cho mình camera chính với độ phân giải 48 MP.	Cả 2 dòng sản phẩm Galaxy A21s và A12 đều sở hữu cho mình camera chính với độ phân giải 48 MP .
+
+Tuy nhiên, Galaxy A12 còn trang bị thêm cho mình camera góc siêu rộng 5 MP, còn Galaxy A21s thì nổi bật với camera góc siêu rộng độ phân giải lên đến 8 MP.	Tuy nhiên , Galaxy A12 còn trang bị thêm cho mình camera góc siêu rộng 5 MP , còn Galaxy A21s thì nổi bật với camera góc siêu rộng độ phân giải lên đến 8 MP .
+
+Ngoài ra, camera selfie của cả 2 dòng này cũng có sự khác biệt đáng kể.	Ngoài ra , camera selfie của cả 2 dòng này cũng có sự khác biệt đáng kể .
+{"subject": ["7&&cả", "8&&2", "9&&dòng", "10&&này"], "object": ["7&&cả", "8&&2", "9&&dòng", "10&&này"], "aspect": ["4&&camera", "5&&selfie"], "predicate": ["13&&sự", "14&&khác", "15&&biệt", "16&&đáng", "17&&kể"], "label": "DIF"}
+
+Camera selfie của Galaxy A12 có độ phân giải 8MP trong khi Galaxy A21s có độ phân giải cao hơn lên đến 13MP.	Camera selfie của Galaxy A12 có độ phân giải 8MP trong khi Galaxy A21s có độ phân giải cao hơn lên đến 13MP .
+{"subject": ["4&&Galaxy", "5&&A12"], "object": ["13&&Galaxy", "14&&A21s"], "aspect": ["1&&Camera", "2&&selfie"], "predicate": ["16&&độ", "17&&phân", "18&&giải", "19&&cao", "20&&hơn"], "label": "COM+"}
+
+alt: Camera Selfie cực chất	alt : Camera Selfie cực chất
+
+des: Camera Selfie cực chất	des : Camera Selfie cực chất
+
+Cấu hình	Cấu hình
+
+Xét về bộ vi xử lý của điện thoại, A21s được trang bị chip do chính Samsung phát triển mang tên Exynos 850.	Xét về bộ vi xử lý của điện thoại , A21s được trang bị chip do chính Samsung phát triển mang tên Exynos 850 .
+
+Còn Galaxy A12 thì được trang bị con chip Helio G35 đến từ MediaTek.	Còn Galaxy A12 thì được trang bị con chip Helio G35 đến từ MediaTek .
+
+Tuy cả 2 chiếc smartphone cùng có 8 nhân nhưng chipset Exynos 850 của Galaxy A21s sử dụng sử dụng nhân Cortex-A55, còn chipset Helio G35 của Galaxy A12 chỉ là A53 mà thôi.	Tuy cả 2 chiếc smartphone cùng có 8 nhân nhưng chipset Exynos 850 của Galaxy A21s sử dụng sử dụng nhân Cortex-A55 , còn chipset Helio G35 của Galaxy A12 chỉ là A53 mà thôi .
+
+Cortex-A55 được sử dụng trên nhiều bộ xử lý cao cấp, đảm nhiệm nhân có khả năng tiết kiệm điện.	Cortex-A55 được sử dụng trên nhiều bộ xử lý cao cấp , đảm nhiệm nhân có khả năng tiết kiệm điện .
+
+alt: Galaxy A21s với hiệu năng mạnh mẽ và vượt trội hơn	alt : Galaxy A21s với hiệu năng mạnh mẽ và vượt trội hơn
+
+des: Galaxy A21s với hiệu năng mạnh mẽ và vượt trội hơn	des : Galaxy A21s với hiệu năng mạnh mẽ và vượt trội hơn
+{"subject": ["3&&Galaxy", "4&&A21s"], "object": [], "aspect": ["6&&hiệu", "7&&năng"], "predicate": ["8&&mạnh", "9&&mẽ", "10&&và", "11&&vượt", "12&&trội", "13&&hơn"], "label": "COM+"}
+
+Thời lượng pin và sạc	Thời lượng pin và sạc
+
+Về hiệu năng sử dụng pin của cả hai dòng sản phẩm A21s và A12 đều giống nhau khi bộ đôi này đều được trang bị viên pin có dung lượng lên đến 5000 mAh, tích hợp hỗ trợ sạc nhanh lên đến 15 W cho bạn thoải mái sử dụng.	Về hiệu năng sử dụng pin của cả hai dòng sản phẩm A21s và A12 đều giống nhau khi bộ đôi này đều được trang bị viên pin có dung lượng lên đến 5000 mAh , tích hợp hỗ trợ sạc nhanh lên đến 15 W cho bạn thoải mái sử dụng .
+{"subject": ["13&&A21s"], "object": ["15&&A12"], "aspect": ["2&&hiệu", "3&&năng", "4&&sử", "5&&dụng", "6&&pin"], "predicate": ["16&&đều", "17&&giống", "18&&nhau"], "label": "EQL"}
+
+alt: Tính năng sạc nhanh có thể giúp máy hoạt động ngày dài	alt : Tính năng sạc nhanh có thể giúp máy hoạt động ngày dài
+
+des: Tính năng sạc nhanh có thể giúp máy hoạt động ngày dài	des : Tính năng sạc nhanh có thể giúp máy hoạt động ngày dài
+
+4.	4 .
+
+Bảng so sánh	Bảng so sánh
+
+5.	5 .
+
+Nên mua Samsung Galaxy A21s hay Galaxy A12	Nên mua Samsung Galaxy A21s hay Galaxy A12
+
+Nhìn chung, hai chiếc Samsung Galaxy A21s và Galaxy A12 có nhiều điểm tương đồng.	Nhìn chung , hai chiếc Samsung Galaxy A21s và Galaxy A12 có nhiều điểm tương đồng .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A21s"], "object": ["10&&Galaxy", "11&&A12"], "aspect": [], "predicate": ["13&&nhiều", "14&&điểm", "15&&tương", "16&&đồng"], "label": "EQL"}
+
+Tùy vào yêu cầu của bạn về dung lượng bộ nhớ lớn, đa nhiệm tốt hay thích một sản phẩm có hiệu năng CPU cao hơn, chiến game tốt hơn để có thể lựa chọn 1 trong 2 smartphone Galaxy A21s hay Galaxy A12.	Tùy vào yêu cầu của bạn về dung lượng bộ nhớ lớn , đa nhiệm tốt hay thích một sản phẩm có hiệu năng CPU cao hơn , chiến game tốt hơn để có thể lựa chọn 1 trong 2 smartphone Galaxy A21s hay Galaxy A12 .
+
+alt: Nhìn chung hai dòng sản phẩm không có sự khác biệt quá lớn	alt : Nhìn chung hai dòng sản phẩm không có sự khác biệt quá lớn
+
+des: Nhìn chung hai dòng sản phẩm không có sự khác biệt quá lớn	des : Nhìn chung hai dòng sản phẩm không có sự khác biệt quá lớn
+{"subject": ["5&&hai", "6&&dòng", "7&&sản", "8&&phẩm"], "object": ["5&&hai", "6&&dòng", "7&&sản", "8&&phẩm"], "aspect": [], "predicate": ["9&&không", "10&&có", "11&&sự", "12&&khác", "13&&biệt", "14&&quá", "15&&lớn"], "label": "EQL"}
+
+6.	6 .
+
+Chính sách bảo hành điện thoại tại TGDĐ	Chính sách bảo hành điện thoại tại TGDĐ
+
+Khi mua điện thoại tại  Thế Giới Di Động , bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như:	Khi mua điện thoại tại Thế Giới Di Động , bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như :
+
+- Hư gì đổi nấy  12 tháng  tại 3045 siêu thị toàn quốc (miễn phí tháng đầu).	- Hư gì đổi nấy 12 tháng tại 3045 siêu thị toàn quốc ( miễn phí tháng đầu ) .
+
+- Bảo hành  chính hãng điện thoại 1 năm .	- Bảo hành chính hãng điện thoại 1 năm .
+
+alt: Chính sách bảo hành tại Thế Giới Di Động	alt : Chính sách bảo hành tại Thế Giới Di Động
+
+des: Chính sách bảo hành tại Thế Giới Di Động	des : Chính sách bảo hành tại Thế Giới Di Động
+
+Trên đây bài viết đã so sánh giữa Samsung Galaxy A21s với Galaxy A12.	Trên đây bài viết đã so sánh giữa Samsung Galaxy A21s với Galaxy A12 .
+
+Hy vọng bạn sẽ chọn được sản phẩm phù hợp!	Hy vọng bạn sẽ chọn được sản phẩm phù hợp !
+
+Hẹn gặp lại các bạn trong các bài viết tiếp theo nhé.	Hẹn gặp lại các bạn trong các bài viết tiếp theo nhé .
+

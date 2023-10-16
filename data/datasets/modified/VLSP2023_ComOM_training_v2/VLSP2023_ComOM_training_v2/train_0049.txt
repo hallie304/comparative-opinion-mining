@@ -1,0 +1,431 @@
+title: Đánh giá Samsung Galaxy A11: Giá rẻ, 3 camera sau cùng pin khỏe	title : Đánh giá Samsung Galaxy A11 : Giá rẻ , 3 camera sau cùng pin khỏe
+
+Phân khúc giá rẻ đang là nơi cạnh tranh cực nóng giữa các thương hiệu điện thoại Android.	Phân khúc giá rẻ đang là nơi cạnh tranh cực nóng giữa các thương hiệu điện thoại Android .
+
+Samsung cũng không nằm ngoài số đó với nhiều mẫu điện thoại giá rẻ của mình.	Samsung cũng không nằm ngoài số đó với nhiều mẫu điện thoại giá rẻ của mình .
+
+Một đại diện tốt nhất của Samsung ở tầm giá dưới 3 triệu phải nói tới chính là Samsung Galaxy A11.	Một đại diện tốt nhất của Samsung ở tầm giá dưới 3 triệu phải nói tới chính là Samsung Galaxy A11 .
+
+Màn hình đục lỗ, 3 camera sau, pin khỏe, sạc nhanh… liệu những điều này có đủ để giúp chiếc điện thoại này cạnh tranh trong phân khúc đang rất khốc liệt này không?	Màn hình đục lỗ , 3 camera sau , pin khỏe , sạc nhanh … liệu những điều này có đủ để giúp chiếc điện thoại này cạnh tranh trong phân khúc đang rất khốc liệt này không ?
+
+Bài viết này hãy cùng mình đánh giá chi tiết về chiếc  điện thoại Samsung mới nhất  này nhé!	Bài viết này hãy cùng mình đánh giá chi tiết về chiếc điện thoại Samsung mới nhất này nhé !
+
+Thông số kỹ thuật	Thông số kỹ thuật
+
+Đánh giá chi tiết điện thoại Samsung Galaxy A11	Đánh giá chi tiết điện thoại Samsung Galaxy A11
+
+Thiết kế	Thiết kế
+
+Nhìn chung phong cách thiết kế của chiếc Samsung Galaxy A11 không có gì khác biệt so với các mẫu điện thoại tầm trung giá rẻ khác của Samsung.	Nhìn chung phong cách thiết kế của chiếc Samsung Galaxy A11 không có gì khác biệt so với các mẫu điện thoại tầm trung giá rẻ khác của Samsung .
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&A11"], "object": ["19&&các", "20&&mẫu", "21&&điện", "22&&thoại", "23&&tầm", "24&&trung", "25&&giá", "26&&rẻ", "27&&khác", "28&&của", "29&&Samsung"], "aspect": ["3&&phong", "4&&cách", "5&&thiết", "6&&kế"], "predicate": ["12&&không", "13&&có", "14&&gì", "15&&khác", "16&&biệt"], "label": "EQL"}
+
+Nó vẫn vậy, màn hình phẳng, vỏ nhựa, khung nhựa bo tròn ở các góc.	Nó vẫn vậy , màn hình phẳng , vỏ nhựa , khung nhựa bo tròn ở các góc .
+
+Nhưng A11 vẫn có những đặc điểm riêng của nó.	Nhưng A11 vẫn có những đặc điểm riêng của nó .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Hoàn thiện bằng nhựa mặc dù mang cảm giác “rẻ tiền” nhưng nó cho cảm giác cầm nắm khá tốt.	Hoàn thiện bằng nhựa mặc dù mang cảm giác “ rẻ tiền ” nhưng nó cho cảm giác cầm nắm khá tốt .
+
+Hơn nữa nó cũng khiến điện thoại đủ nhẹ – 177g và đủ mỏng – 8mm.	Hơn nữa nó cũng khiến điện thoại đủ nhẹ – 177g và đủ mỏng – 8mm .
+
+Mặt trước	Mặt trước
+
+Mặt trước là một màn hình đục lỗ khá lớn 6.4 inch, tương đương với các đối thủ.	Mặt trước là một màn hình đục lỗ khá lớn 6.4 inch , tương đương với các đối thủ .
+
+Phần đục lỗ khá nhỏ ở góc trên bên trái chứa một camera selfie.	Phần đục lỗ khá nhỏ ở góc trên bên trái chứa một camera selfie .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Mặt trước Samsung Galaxy A11	Mặt trước Samsung Galaxy A11
+
+Các cạnh bên của màn hình cũng khá mỏng và cạnh trên cũng như vậy.	Các cạnh bên của màn hình cũng khá mỏng và cạnh trên cũng như vậy .
+
+Nhưng cạnh dưới của nó vẫn khá dày, tất nhiên không thể yêu cầu màn hình tràn viền ở một điện thoại giá rẻ như vậy được.	Nhưng cạnh dưới của nó vẫn khá dày , tất nhiên không thể yêu cầu màn hình tràn viền ở một điện thoại giá rẻ như vậy được .
+
+Dải loa thoại nằm giữa màn hình và khung máy ở phía trên, nó không thu hút nhưng vẫn ở đó và làm việc rất tốt.	Dải loa thoại nằm giữa màn hình và khung máy ở phía trên , nó không thu hút nhưng vẫn ở đó và làm việc rất tốt .
+
+Mặt sau	Mặt sau
+
+Mặt sau được hoàn thiện bằng nhựa bóng với nhiều màu sắc để lựa chọn, bao gồm: Black, White, Blue, Red.	Mặt sau được hoàn thiện bằng nhựa bóng với nhiều màu sắc để lựa chọn , bao gồm : Black , White , Blue , Red .
+
+Hoàn thiện bóng nâng cao sự sang trọng của điện thoại nhưng lại là nơi bám vân tay và bụi bẩn khá nhiều.	Hoàn thiện bóng nâng cao sự sang trọng của điện thoại nhưng lại là nơi bám vân tay và bụi bẩn khá nhiều .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Mặt sau Samsung Galaxy A11	Mặt sau Samsung Galaxy A11
+
+Nổi bật ở mặt sau vẫn là bộ 3 camera, chúng được xếp dọc ở góc trên bên trái như những mẫu của năm ngoái.	Nổi bật ở mặt sau vẫn là bộ 3 camera , chúng được xếp dọc ở góc trên bên trái như những mẫu của năm ngoái .
+{"subject": [], "object": ["22&&những", "23&&mẫu", "24&&của", "25&&năm", "26&&ngoái"], "aspect": ["8&&bộ", "9&&3", "10&&camera"], "predicate": ["21&&như"], "label": "EQL"}
+
+Nó không phải nằm trong một khối chữ nhật như, nhưng cũng chẳng ảnh hưởng gì tới tính năng camera cả.	Nó không phải nằm trong một khối chữ nhật như , nhưng cũng chẳng ảnh hưởng gì tới tính năng camera cả .
+
+Cảm biến vân tay không được tích hợp trong màn hình vì nó không phải tấm nền OLED.	Cảm biến vân tay không được tích hợp trong màn hình vì nó không phải tấm nền OLED .
+
+Nó cũng không gắn bên như những điện thoại tầm trung mà nó nằm ở phía sau.	Nó cũng không gắn bên như những điện thoại tầm trung mà nó nằm ở phía sau .
+
+Tất nhiên như vậy vẫn tốt và cảm biến vân tay vẫn làm tốt nhiệm vụ của mình.	Tất nhiên như vậy vẫn tốt và cảm biến vân tay vẫn làm tốt nhiệm vụ của mình .
+
+Mở khóa chính xác nhưng không nhanh như những điện thoại cao cấp hơn mà thôi.	Mở khóa chính xác nhưng không nhanh như những điện thoại cao cấp hơn mà thôi .
+{"subject": [], "object": ["9&&những", "10&&điện", "11&&thoại", "12&&cao", "13&&cấp", "14&&hơn"], "aspect": ["1&&Mở", "2&&khóa"], "predicate": ["6&&không", "7&&nhanh", "8&&như"], "label": "COM-"}
+
+Các cạnh còn lại	Các cạnh còn lại
+
+Khung máy vẫn là nhựa và nó hoàn thiện tương tự như mặt lưng của nó.	Khung máy vẫn là nhựa và nó hoàn thiện tương tự như mặt lưng của nó .
+
+Khung không phẳng mà nó hơi cong theo sự bo cong của mặt lưng.	Khung không phẳng mà nó hơi cong theo sự bo cong của mặt lưng .
+
+Điều này cho cảm giác cầm nắm liền mạch và dễ chịu.	Điều này cho cảm giác cầm nắm liền mạch và dễ chịu .
+
+Các cổng kết nối và nút điều khiển cũng nằm trên khung này.	Các cổng kết nối và nút điều khiển cũng nằm trên khung này .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Cạnh bên trái Samsung Galaxy A11	Cạnh bên trái Samsung Galaxy A11
+
+Cạnh bên trái là nơi của khay sim, ở đây chúng ta có 3 vị trí gắn thẻ.	Cạnh bên trái là nơi của khay sim , ở đây chúng ta có 3 vị trí gắn thẻ .
+
+2 chỗ cho 2 nano sim và một vị trí độc lập cho thẻ nhớ micro-SD.	2 chỗ cho 2 nano sim và một vị trí độc lập cho thẻ nhớ micro-SD .
+
+Như vậy bạn không cần suy nghĩ về lựa chọn dùng 2 sim hay mở rộng bộ nhớ rồi.	Như vậy bạn không cần suy nghĩ về lựa chọn dùng 2 sim hay mở rộng bộ nhớ rồi .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Cạnh phải Samsung Galaxy A11	Cạnh phải Samsung Galaxy A11
+
+Cạnh bên phải là nút nguồn cùng thanh tăng giảm âm lượng như thường lệ.	Cạnh bên phải là nút nguồn cùng thanh tăng giảm âm lượng như thường lệ .
+
+Các nút này đều được làm bằng nhựa nhưng có độ nẩy tốt và khá chắc chắn.	Các nút này đều được làm bằng nhựa nhưng có độ nẩy tốt và khá chắc chắn .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Cạnh trên Samsung Galaxy A11	Cạnh trên Samsung Galaxy A11
+
+Cạnh trên là nơi của micro phụ cùng với jack cắm tai nghe 3.5 mm.	Cạnh trên là nơi của micro phụ cùng với jack cắm tai nghe 3.5 mm .
+
+Như vậy tai nghe đã không ở cạnh dưới nữa mà được chuyển lên ở cạnh trên này.	Như vậy tai nghe đã không ở cạnh dưới nữa mà được chuyển lên ở cạnh trên này .
+
+Dù sao thì có jack tai nghe vẫn là một ưu điểm của chiếc điện thoại này.	Dù sao thì có jack tai nghe vẫn là một ưu điểm của chiếc điện thoại này .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Cạnh dưới Samsung Galaxy A11	Cạnh dưới Samsung Galaxy A11
+
+Galaxy A11 đã được trang bị cổng sạc USB type C, nó cho phép tốc độ sạc và truyền dữ liệu nhanh hơn nhiều so với micro-USB trước đây.	Galaxy A11 đã được trang bị cổng sạc USB type C , nó cho phép tốc độ sạc và truyền dữ liệu nhanh hơn nhiều so với micro-USB trước đây .
+{"subject": ["7&&cổng", "8&&sạc", "9&&USB", "10&&type", "11&&C"], "object": ["28&&micro-USB", "29&&trước", "30&&đây"], "aspect": ["16&&tốc", "17&&độ", "18&&sạc"], "predicate": ["23&&nhanh", "24&&hơn", "25&&nhiều"], "label": "COM+"}
+{"subject": [], "object": ["28&&micro-USB", "29&&trước", "30&&đây"], "aspect": ["20&&truyền", "21&&dữ", "22&&liệu"], "predicate": ["23&&nhanh", "24&&hơn", "25&&nhiều"], "label": "COM+"}
+
+Cạnh đó là micro chính và đối diện là loa ngoài khá lớn.	Cạnh đó là micro chính và đối diện là loa ngoài khá lớn .
+
+Màn hình	Màn hình
+
+Samsung Galaxy A11 là một sản phẩm hiếm hoi ở tầm giá 3 triệu có thiết kế màn hình đục lỗ.	Samsung Galaxy A11 là một sản phẩm hiếm hoi ở tầm giá 3 triệu có thiết kế màn hình đục lỗ .
+
+Điều đó cho phép không gian hiển thị lớn hơn và trải nghiệm màn hình được nâng cao.	Điều đó cho phép không gian hiển thị lớn hơn và trải nghiệm màn hình được nâng cao .
+{"subject": [], "object": [], "aspect": ["5&&không", "6&&gian", "7&&hiển", "8&&thị"], "predicate": ["9&&lớn", "10&&hơn"], "label": "COM+"}
+
+Đó là một tấm nền PLS TFT 6.4 inch nên góc nhìn nó không cao như IPS, tất nhiên không thể yêu cầu một tấm nền OLED ở đây.	Đó là một tấm nền PLS TFT 6.4 inch nên góc nhìn nó không cao như IPS , tất nhiên không thể yêu cầu một tấm nền OLED ở đây .
+{"subject": ["4&&tấm", "5&&nền", "6&&PLS"], "object": ["17&&IPS"], "aspect": ["11&&góc", "12&&nhìn"], "predicate": ["14&&không", "15&&cao", "16&&như"], "label": "COM-"}
+
+Độ phân giải màn hình chỉ dừng lại ở mức HD+ (720 x 1560 pixel) với mật độ điểm ảnh khá thấp – 268ppi.	Độ phân giải màn hình chỉ dừng lại ở mức HD + ( 720 x 1560 pixel ) với mật độ điểm ảnh khá thấp – 268ppi .
+
+Nói chung màn hình này chỉ dùng cho lướt web thì được nhưng xem phim chất lượng cao thì vẫn chưa đáp ứng được.	Nói chung màn hình này chỉ dùng cho lướt web thì được nhưng xem phim chất lượng cao thì vẫn chưa đáp ứng được .
+
+alt: Samsung Galaxy A11	alt : Samsung Galaxy A11
+
+des: Samsung Galaxy A11	des : Samsung Galaxy A11
+
+Màn hình Samsung Galaxy A11	Màn hình Samsung Galaxy A11
+
+Với công nghệ màn hình TFT, bạn vẫn có màn hình khá sáng, đủ để sử dụng ban ngày nhưng dưới ánh nắng trực tiếp thì không thể.	Với công nghệ màn hình TFT , bạn vẫn có màn hình khá sáng , đủ để sử dụng ban ngày nhưng dưới ánh nắng trực tiếp thì không thể .
+
+Thêm vào đó là màu sắc tái tạo không rực rỡ như những màn hình Samsung vốn có.	Thêm vào đó là màu sắc tái tạo không rực rỡ như những màn hình Samsung vốn có .
+
+Tất nhiệt nó “nhạt nhòa” hơn so với màn hình IPS và OLED khá nhiều.	Tất nhiệt nó “ nhạt nhòa ” hơn so với màn hình IPS và OLED khá nhiều .
+{"subject": ["3&&nó"], "object": ["11&&màn", "12&&hình", "13&&IPS"], "aspect": [], "predicate": ["4&&“", "5&&nhạt", "6&&nhòa", "7&&”", "8&&hơn"], "label": "COM-"}
+{"subject": ["3&&nó"], "object": ["15&&OLED"], "aspect": [], "predicate": ["4&&“", "5&&nhạt", "6&&nhòa", "7&&”", "8&&hơn"], "label": "COM-"}
+
+Phần mềm	Phần mềm
+
+Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1. Đây là hệ điều hành mới nhất của năm nay.	Galaxy A11 chạy hệ điều hành Android 10 với tùy chỉnh One UI 2.1 . Đây là hệ điều hành mới nhất của năm nay .
+{"subject": ["18&&hệ", "19&&điều", "20&&hành"], "object": [], "aspect": [], "predicate": ["21&&mới", "22&&nhất", "23&&của", "24&&năm", "25&&nay"], "label": "SUP+"}
+
+Có nghĩa là bạn sẽ trải nghiệm giao diện và phần mềm tương tự như những điện thoại hàng đầu của Samsung năm nay.	Có nghĩa là bạn sẽ trải nghiệm giao diện và phần mềm tương tự như những điện thoại hàng đầu của Samsung năm nay .
+{"subject": [], "object": ["16&&những", "17&&điện", "18&&thoại", "19&&hàng", "20&&đầu", "21&&của", "22&&Samsung", "23&&năm", "24&&nay"], "aspect": ["6&&trải", "7&&nghiệm", "8&&giao", "9&&diện"], "predicate": ["13&&tương", "14&&tự"], "label": "EQL"}
+{"subject": [], "object": ["16&&những", "17&&điện", "18&&thoại", "19&&hàng", "20&&đầu", "21&&của", "22&&Samsung", "23&&năm", "24&&nay"], "aspect": ["11&&phần", "12&&mềm"], "predicate": ["13&&tương", "14&&tự"], "label": "EQL"}
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Trừ các tính năng yêu cầu phần cứng cao cấp ở những sản phẩm đắt tiền hơn thì tất cả tính năng mới đều thể hiện ở A11.	Trừ các tính năng yêu cầu phần cứng cao cấp ở những sản phẩm đắt tiền hơn thì tất cả tính năng mới đều thể hiện ở A11 .
+
+Điều hướng toàn màn hình, thông báo được cải thiện, chủ đề tối trên toàn hệ thống, v.v.	Điều hướng toàn màn hình , thông báo được cải thiện , chủ đề tối trên toàn hệ thống , v.v .
+
+Samsung vẫn tạo ra nhiều bản sao ứng dụng của Google mà bạn không thể xóa đi hoặc không xóa được hoàn toàn.	Samsung vẫn tạo ra nhiều bản sao ứng dụng của Google mà bạn không thể xóa đi hoặc không xóa được hoàn toàn .
+
+Điều này có nghĩa là nó vẫn chiếm một phần bộ nhớ không hiệu quả.	Điều này có nghĩa là nó vẫn chiếm một phần bộ nhớ không hiệu quả .
+
+Bạn cũng không thể sử dụng trình khởi chạy của bên thứ 3 với điều hướng cử chỉ mới.	Bạn cũng không thể sử dụng trình khởi chạy của bên thứ 3 với điều hướng cử chỉ mới .
+
+Nhưng nhìn chung là One UI 2.1 hoạt động tốt và mình không có phàn nàn gì về nó cả.	Nhưng nhìn chung là One UI 2.1 hoạt động tốt và mình không có phàn nàn gì về nó cả .
+
+Hiệu năng	Hiệu năng
+
+Samsung Galaxy A11 chỉ được trang bị bộ xử lý Snapdragon 450 với GPU Adreno 506 mà thôi.	Samsung Galaxy A11 chỉ được trang bị bộ xử lý Snapdragon 450 với GPU Adreno 506 mà thôi .
+
+Tất nhiên không thể đòi hỏi chipset quá mạnh như ở điện thoại tầm trung hay cao cấp ở đây được.	Tất nhiên không thể đòi hỏi chipset quá mạnh như ở điện thoại tầm trung hay cao cấp ở đây được .
+
+Nhưng Snapdragon 450 vẫn hơi đuối ở tầm giá rẻ này khi các đối thủ có những con chip tầm Snapdragon 665.	Nhưng Snapdragon 450 vẫn hơi đuối ở tầm giá rẻ này khi các đối thủ có những con chip tầm Snapdragon 665 .
+{"subject": ["2&&Snapdragon", "3&&450"], "object": ["13&&các", "14&&đối", "15&&thủ", "16&&có", "17&&những", "18&&con", "19&&chip", "20&&tầm", "21&&Snapdragon", "22&&665"], "aspect": [], "predicate": ["5&&hơi", "6&&đuối", "7&&ở", "8&&tầm", "9&&giá", "10&&rẻ", "11&&này"], "label": "COM-"}
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Đánh giá đồ họa bằng 3Dmark	Đánh giá đồ họa bằng 3Dmark
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Đánh giá hiệu năng bằng PC Mark	Đánh giá hiệu năng bằng PC Mark
+
+Dựa vào những bài đánh giá trên chúng ta có thể thấy được các điểm số:	Dựa vào những bài đánh giá trên chúng ta có thể thấy được các điểm số :
+
+Chúng thực sự không quá cao nhưng đủ dùng cho một điện thoại ở tầm giá này.	Chúng thực sự không quá cao nhưng đủ dùng cho một điện thoại ở tầm giá này .
+
+Và để đánh giá chính xác hơn một chút thì hãy cùng mình thực nghiệm với các tựa game thông dụng hiện nay nhé.	Và để đánh giá chính xác hơn một chút thì hãy cùng mình thực nghiệm với các tựa game thông dụng hiện nay nhé .
+
+Khả năng chơi game	Khả năng chơi game
+
+Nói về khả năng chơi game thì chúng ta dựa hầu hết vào bộ xử lý của điện thoại.	Nói về khả năng chơi game thì chúng ta dựa hầu hết vào bộ xử lý của điện thoại .
+
+Và Snapdragon 450  không nhanh và mạnh như những điện thoại tầm trung hay cao cấp.	Và Snapdragon 450   không nhanh và mạnh như những điện thoại tầm trung hay cao cấp .
+{"subject": ["2&&Snapdragon", "3&&450"], "object": [], "aspect": [], "predicate": ["5&&không", "6&&nhanh", "7&&và", "8&&mạnh", "9&&như"], "label": "COM-"}
+
+Tuy nhiên nó cung cấp vừa đủ để chơi game giải trí ở tầm giá 3 triệu.	Tuy nhiên nó cung cấp vừa đủ để chơi game giải trí ở tầm giá 3 triệu .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Chơi PUBG mobile với Galaxy A11	Chơi PUBG mobile với Galaxy A11
+
+Đối với tựa game như PUBG mobile thì bạn vẫn có thể chơi được ở mức cấu hình như trong hình trên.	Đối với tựa game như PUBG mobile thì bạn vẫn có thể chơi được ở mức cấu hình như trong hình trên .
+
+Thực sự, bạn nên cho các lựa chọn xuống tới thấp nhất để nó mượt hơn.	Thực sự , bạn nên cho các lựa chọn xuống tới thấp nhất để nó mượt hơn .
+
+Lúc bung dù hay sấy liên thanh thì nó sẽ giật lag và bạn cũng chẳng biết đang bắn vào đâu.	Lúc bung dù hay sấy liên thanh thì nó sẽ giật lag và bạn cũng chẳng biết đang bắn vào đâu .
+
+Đây đơn giản chỉ là bộ xử lý giá rẻ nên mình không đánh giá cao khả năng chơi game của điện thoại.	Đây đơn giản chỉ là bộ xử lý giá rẻ nên mình không đánh giá cao khả năng chơi game của điện thoại .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Chơi Liên Quân Mobile với Galaxy A11	Chơi Liên Quân Mobile với Galaxy A11
+
+Chuyển sang tựa game Liên Quân thì bạn vẫn chỉ có thể trải nghiệm ở mức cài đặt thấp nhất mà thôi.	Chuyển sang tựa game Liên Quân thì bạn vẫn chỉ có thể trải nghiệm ở mức cài đặt thấp nhất mà thôi .
+
+Đặc biệt là combat sẽ bị giật lag nhiều hơn đấy, khi chơi những vị tướng cơ động sẽ mất đi tính cơ động vì sự giật lag như thế.	Đặc biệt là combat sẽ bị giật lag nhiều hơn đấy , khi chơi những vị tướng cơ động sẽ mất đi tính cơ động vì sự giật lag như thế .
+
+Tóm lại nếu bạn dùng điện thoại giá rẻ này để leo rank thì chắc chắn bạn sẽ phải thất vọng rồi.	Tóm lại nếu bạn dùng điện thoại giá rẻ này để leo rank thì chắc chắn bạn sẽ phải thất vọng rồi .
+
+Nếu muốn chơi game tốt thì có nhiều lựa chọn khác ở tầm trung và cao cấp phù hợp hơn.	Nếu muốn chơi game tốt thì có nhiều lựa chọn khác ở tầm trung và cao cấp phù hợp hơn .
+
+Chỉ cần chipset cỡ Snapdragon 720G trở lên là chiến game tốt rồi.	Chỉ cần chipset cỡ Snapdragon 720G trở lên là chiến game tốt rồi .
+
+Camera	Camera
+
+Samsung Galaxy A11 trang bị bộ 3 camera sau bao gồm:	Samsung Galaxy A11 trang bị bộ 3 camera sau bao gồm :
+
+Và 1 camera selfie 8 MP, f / 2.0	Và 1 camera selfie 8 MP , f / 2.0
+
+Chúng ta có thể thấy khá ít điện thoại giá rẻ lại trang bị 3 camera như Galaxy A11, nó tạo ra khả năng chụp ảnh đa dạng hơn cho thiết bị.	Chúng ta có thể thấy khá ít điện thoại giá rẻ lại trang bị 3 camera như Galaxy A11 , nó tạo ra khả năng chụp ảnh đa dạng hơn cho thiết bị .
+
+Đó cũng là một ưu điểm nổi bật của chiếc điện thoại Samsung này nhưng chất lượng hình ảnh thì như thế nào?	Đó cũng là một ưu điểm nổi bật của chiếc điện thoại Samsung này nhưng chất lượng hình ảnh thì như thế nào ?
+
+Chất lượng hình ảnh	Chất lượng hình ảnh
+
+Đi kèm với một điện thoại giá rẻ thì bạn cần chấp nhận với một camera giá rẻ.	Đi kèm với một điện thoại giá rẻ thì bạn cần chấp nhận với một camera giá rẻ .
+
+Chính vì thế bạn không thể đòi hỏi quá cao đối với camera của Galaxy A11 được.	Chính vì thế bạn không thể đòi hỏi quá cao đối với camera của Galaxy A11 được .
+
+Nhưng mình nhận thấy camera của A11 làm tốt công việc của nó ở mức giá 3 triệu.	Nhưng mình nhận thấy camera của A11 làm tốt công việc của nó ở mức giá 3 triệu .
+
+Mặc dù hình ảnh vẫn hơi mất nét ở các cạnh nhưng ảnh chụp đủ sáng của camera chính là hoàn toàn đủ tốt để sử dụng.	Mặc dù hình ảnh vẫn hơi mất nét ở các cạnh nhưng ảnh chụp đủ sáng của camera chính là hoàn toàn đủ tốt để sử dụng .
+
+Màu sắc tái tạo hơi mờ nhạt nhưng đó là điều bình thường và mình nghĩ bạn phải chấp nhận thôi!	Màu sắc tái tạo hơi mờ nhạt nhưng đó là điều bình thường và mình nghĩ bạn phải chấp nhận thôi !
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Ảnh chụp đủ sáng từ camera chính	Ảnh chụp đủ sáng từ camera chính
+
+Khi sử dụng camera góc siêu rộng bạn sẽ nhận được những khung hình rộng hơn.	Khi sử dụng camera góc siêu rộng bạn sẽ nhận được những khung hình rộng hơn .
+{"subject": ["4&&camera", "5&&góc", "6&&siêu", "7&&rộng"], "object": [], "aspect": ["13&&khung", "14&&hình"], "predicate": ["15&&rộng", "16&&hơn"], "label": "COM+"}
+
+Nhưng chất lượng không thể sánh bằng camera chính được.	Nhưng chất lượng không thể sánh bằng camera chính được .
+{"subject": [], "object": ["8&&camera", "9&&chính"], "aspect": ["2&&chất", "3&&lượng"], "predicate": ["4&&không", "5&&thể", "6&&sánh", "7&&bằng"], "label": "COM-"}
+
+Những hình ảnh bị mờ rất nhiều ở các cạnh và góc.	Những hình ảnh bị mờ rất nhiều ở các cạnh và góc .
+
+Thực sự thì Snapdragon 450 không thể đáp ứng chỉnh sửa hiệu quả tối đa cho camera góc siêu rộng được.	Thực sự thì Snapdragon 450 không thể đáp ứng chỉnh sửa hiệu quả tối đa cho camera góc siêu rộng được .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Ảnh chụp đủ sáng từ camera góc siêu rộng	Ảnh chụp đủ sáng từ camera góc siêu rộng
+
+Điều khá thú vị là bạn có thể chụp cận cảnh bằng camera chính hoặc ultrawide.	Điều khá thú vị là bạn có thể chụp cận cảnh bằng camera chính hoặc ultrawide .
+
+Nhưng các góc cạnh của hình ảnh vẫn mờ, tất nhiên chi tiết vẫn rất tốt ở khu vực giữa.	Nhưng các góc cạnh của hình ảnh vẫn mờ , tất nhiên chi tiết vẫn rất tốt ở khu vực giữa .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Ảnh chụp cận cảnh từ camera chính	Ảnh chụp cận cảnh từ camera chính
+
+Chụp chân dung từ camera chính và sự hỗ trợ bởi cảm biến chiều sâu cho kết quả khá tốt.	Chụp chân dung từ camera chính và sự hỗ trợ bởi cảm biến chiều sâu cho kết quả khá tốt .
+
+Phát hiện chủ thể hợp lý và xóa phông khá tự nhiên.	Phát hiện chủ thể hợp lý và xóa phông khá tự nhiên .
+
+Nhưng nó không thể làm tốt việc tách biệt chủ thể như những camera cao cấp được.	Nhưng nó không thể làm tốt việc tách biệt chủ thể như những camera cao cấp được .
+{"subject": ["2&&nó"], "object": ["13&&những", "14&&camera", "15&&cao", "16&&cấp"], "aspect": ["8&&tách", "9&&biệt", "10&&chủ", "11&&thể"], "predicate": ["3&&không", "4&&thể", "5&&làm", "6&&tốt", "7&&việc", "8&&tách", "9&&biệt", "10&&chủ", "11&&thể", "12&&như"], "label": "COM-"}
+
+Đôi khi background phức tạp có thể dẫn tới xóa lem, xóa nhầm và đó là điều dễ hiểu mà thôi.	Đôi khi background phức tạp có thể dẫn tới xóa lem , xóa nhầm và đó là điều dễ hiểu mà thôi .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Ảnh chụp chân dung	Ảnh chụp chân dung
+
+Mình không có đánh giá thêm về khả năng chụp ảnh ban đêm ở điện thoại Galaxy A11 này.	Mình không có đánh giá thêm về khả năng chụp ảnh ban đêm ở điện thoại Galaxy A11 này .
+
+Thực tế mình có chụp qua những bức ảnh ban đêm nhưng hầu như nó không sử dụng được.	Thực tế mình có chụp qua những bức ảnh ban đêm nhưng hầu như nó không sử dụng được .
+
+Hình mờ nhạt, độ nét thấp, tương phản thấp… Nói chung là không nên sử dụng camera này chụp ban đêm.	Hình mờ nhạt , độ nét thấp , tương phản thấp … Nói chung là không nên sử dụng camera này chụp ban đêm .
+
+Galaxy A11 làm việc khá tốt với camera selfie.	Galaxy A11 làm việc khá tốt với camera selfie .
+
+Đặc biệt là khả năng chụp chân dung.	Đặc biệt là khả năng chụp chân dung .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Ảnh chụp selfie thường và selfie chân dung	Ảnh chụp selfie thường và selfie chân dung
+
+Bạn có thể thấy những bức ảnh selfie rất tốt từ A11.	Bạn có thể thấy những bức ảnh selfie rất tốt từ A11 .
+
+Cuối cùng thì vẫn là một ưu điểm cho một chiếc điện thoại tầm giá 3 triệu phải không nào.	Cuối cùng thì vẫn là một ưu điểm cho một chiếc điện thoại tầm giá 3 triệu phải không nào .
+
+Khả năng tách chủ thể và background được làm mờ là đáng khen khi chụp chân dung ở đây.	Khả năng tách chủ thể và background được làm mờ là đáng khen khi chụp chân dung ở đây .
+
+Quay video	Quay video
+
+Nói chung chất lượng video cũng không cao lắm, nó không có chống rung nên việc vừa đi vừa quay đã là một cái gì đó quá khó khăn rồi.	Nói chung chất lượng video cũng không cao lắm , nó không có chống rung nên việc vừa đi vừa quay đã là một cái gì đó quá khó khăn rồi .
+
+Nhưng nếu để cố định máy ảnh và bắt đầu quay thì nó vẫn cho chất lượng khá ổn.	Nhưng nếu để cố định máy ảnh và bắt đầu quay thì nó vẫn cho chất lượng khá ổn .
+
+Mặc dù vậy màu sắc vẫn nhạt nhòa như những bức ảnh của nó thôi.	Mặc dù vậy màu sắc vẫn nhạt nhòa như những bức ảnh của nó thôi .
+
+Tuổi thọ pin	Tuổi thọ pin
+
+Galaxy A11 trang bị viên pin Li-Po 4.000 mAh. Nó không quá lớn để so sánh với 5.000 mAh của những đối thủ cùng tầm giá khác.	Galaxy A11 trang bị viên pin Li-Po 4.000 mAh . Nó không quá lớn để so sánh với 5.000 mAh của những đối thủ cùng tầm giá khác .
+{"subject": ["1&&Galaxy", "2&&A11"], "object": ["22&&những", "23&&đối", "24&&thủ", "25&&cùng", "26&&tầm", "27&&giá", "28&&khác"], "aspect": ["5&&viên", "6&&pin"], "predicate": ["12&&không", "13&&quá", "14&&lớn", "15&&để", "16&&so", "17&&sánh", "18&&với"], "label": "COM-"}
+
+Nhưng nó thừa khả năng cung cấp năng lượng cho bạn hoạt động hàng ngày.	Nhưng nó thừa khả năng cung cấp năng lượng cho bạn hoạt động hàng ngày .
+
+alt: Đánh giá Samsung Galaxy A11	alt : Đánh giá Samsung Galaxy A11
+
+des: Đánh giá Samsung Galaxy A11	des : Đánh giá Samsung Galaxy A11
+
+Và một thiết bị giá rẻ có cung cấp đầu sạc USB type C là một sự thay đổi đáng hoan nghênh từ Samsung.	Và một thiết bị giá rẻ có cung cấp đầu sạc USB type C là một sự thay đổi đáng hoan nghênh từ Samsung .
+
+Hơn nữa nó còn cung cấp sạc nhanh 15W, đó là điều hiếm thấy ở mức giá này.	Hơn nữa nó còn cung cấp sạc nhanh 15W , đó là điều hiếm thấy ở mức giá này .
+
+Sử dụng bộ sạc nhanh này bạn sẽ sạc đầy pin từ 0% chỉ với 1 giờ 45 phút mà thôi, trong 1 giờ đầu bạn đã có 70% pin rồi.	Sử dụng bộ sạc nhanh này bạn sẽ sạc đầy pin từ 0% chỉ với 1 giờ 45 phút mà thôi , trong 1 giờ đầu bạn đã có 70% pin rồi .
+
+So sánh với đối thủ	So sánh với đối thủ
+
+Xiaomi Redmi 9	Xiaomi Redmi 9
+
+Xiaomi Redmi 9 là một lựa chọn tốt hơn nhưng bạn sẽ cần chi thêm mấy trăm ngàn.	Xiaomi Redmi 9 là một lựa chọn tốt hơn nhưng bạn sẽ cần chi thêm mấy trăm ngàn .
+{"subject": ["1&&Xiaomi", "2&&Redmi", "3&&9"], "object": [], "aspect": [], "predicate": ["8&&tốt", "9&&hơn"], "label": "COM+"}
+
+Đầu tiên nó có một màn hình lớn hơn, góc nhìn tốt hơn với tấm nền IPS và độ phân giải 1080p đẹp hơn.	Đầu tiên nó có một màn hình lớn hơn , góc nhìn tốt hơn với tấm nền IPS và độ phân giải 1080p đẹp hơn .
+{"subject": ["3&&nó"], "object": [], "aspect": ["6&&màn", "7&&hình"], "predicate": ["8&&lớn", "9&&hơn"], "label": "COM+"}
+{"subject": ["3&&nó"], "object": [], "aspect": ["11&&góc", "12&&nhìn"], "predicate": ["13&&tốt", "14&&hơn"], "label": "COM+"}
+{"subject": ["3&&nó"], "object": [], "aspect": ["20&&độ", "21&&phân", "22&&giải"], "predicate": ["24&&đẹp", "25&&hơn"], "label": "COM+"}
+
+Bộ xử lý cũng tương đương nhau nhưng camera sau có thêm camera macro chuyên nghiệp hơn.	Bộ xử lý cũng tương đương nhau nhưng camera sau có thêm camera macro chuyên nghiệp hơn .
+{"subject": [], "object": [], "aspect": ["1&&Bộ", "2&&xử", "3&&lý"], "predicate": ["5&&tương", "6&&đương", "7&&nhau"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["9&&camera", "10&&sau"], "predicate": ["15&&chuyên", "16&&nghiệp", "17&&hơn"], "label": "COM+"}
+
+Đặc biệt nó có viên pin 5020 mAh và sạc nhanh 18W mạnh mẽ hơn.	Đặc biệt nó có viên pin 5020 mAh và sạc nhanh 18W mạnh mẽ hơn .
+{"subject": ["3&&nó"], "object": [], "aspect": ["10&&sạc", "11&&nhanh"], "predicate": ["13&&mạnh", "14&&mẽ", "15&&hơn"], "label": "COM+"}
+
+Oppo A12	Oppo A12
+
+Là một lựa chọn khác từ Oppo, nó có mức giá tương đương với Galaxy A11 nhưng có vẻ hơi đuối hơn một chút.	Là một lựa chọn khác từ Oppo , nó có mức giá tương đương với Galaxy A11 nhưng có vẻ hơi đuối hơn một chút .
+{"subject": ["9&&nó"], "object": ["16&&Galaxy", "17&&A11"], "aspect": ["11&&mức", "12&&giá"], "predicate": ["13&&tương", "14&&đương"], "label": "EQL"}
+{"subject": ["9&&nó"], "object": ["16&&Galaxy", "17&&A11"], "aspect": [], "predicate": ["21&&hơi", "22&&đuối", "23&&hơn", "24&&một", "25&&chút"], "label": "COM-"}
+
+Oppo A12 có một màn hình nhỏ hơn một chút, với cùng độ phân giải nhưng có góc nhìn tốt hơn với công nghệ IPS.	Oppo A12 có một màn hình nhỏ hơn một chút , với cùng độ phân giải nhưng có góc nhìn tốt hơn với công nghệ IPS .
+{"subject": ["1&&Oppo", "2&&A12"], "object": [], "aspect": ["5&&màn", "6&&hình"], "predicate": ["7&&nhỏ", "8&&hơn", "9&&một", "10&&chút"], "label": "COM-"}
+{"subject": ["1&&Oppo", "2&&A12"], "object": [], "aspect": ["14&&độ", "15&&phân", "16&&giải"], "predicate": ["13&&cùng"], "label": "EQL"}
+{"subject": ["1&&Oppo", "2&&A12"], "object": [], "aspect": ["19&&góc", "20&&nhìn"], "predicate": ["21&&tốt", "22&&hơn"], "label": "COM+"}
+
+Bộ xử lý Helio P35 mạnh hơn và tiết kiệm pin hơn một chút.	Bộ xử lý Helio P35 mạnh hơn và tiết kiệm pin hơn một chút .
+{"subject": [], "object": [], "aspect": ["1&&Bộ", "2&&xử", "3&&lý"], "predicate": ["6&&mạnh", "7&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["9&&tiết", "10&&kiệm", "11&&pin"], "predicate": ["12&&hơn", "13&&một", "14&&chút"], "label": "COM+"}
+
+Nhưng ngược lại nó chỉ trang bị camera kép phía sau mà thôi.	Nhưng ngược lại nó chỉ trang bị camera kép phía sau mà thôi .
+
+Pin 4230 mAh tương đương nhau nhưng lại không có sạc nhanh.	Pin 4230 mAh tương đương nhau nhưng lại không có sạc nhanh .
+{"subject": [], "object": [], "aspect": ["1&&Pin"], "predicate": ["4&&tương", "5&&đương"], "label": "EQL"}
+
+Realme C11	Realme C11
+
+C11 là một chiếc điện thoại rẻ hơn khá nhiều so với Galaxy A11 nhưng vẫn có điểm mạnh của nó.	C11 là một chiếc điện thoại rẻ hơn khá nhiều so với Galaxy A11 nhưng vẫn có điểm mạnh của nó .
+{"subject": ["1&&C11"], "object": ["13&&Galaxy", "14&&A11"], "aspect": [], "predicate": ["7&&rẻ", "8&&hơn", "9&&khá", "10&&nhiều"], "label": "COM+"}
+
+Một màn hình tương đương nhau nhưng có góc nhìn tốt hơn với IPS.	Một màn hình tương đương nhau nhưng có góc nhìn tốt hơn với IPS .
+{"subject": [], "object": [], "aspect": ["2&&màn", "3&&hình"], "predicate": ["4&&tương", "5&&đương"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["9&&góc", "10&&nhìn"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Bộ xử lý như nhau nhưng chỉ trang bị camera kép phía sau mà thôi.	Bộ xử lý như nhau nhưng chỉ trang bị camera kép phía sau mà thôi .
+{"subject": [], "object": [], "aspect": ["1&&Bộ", "2&&xử", "3&&lý"], "predicate": ["4&&như", "5&&nhau"], "label": "EQL"}
+
+Điểm mạnh nhất của C11 chính là viên pin 5000 mAh của nó, tuy nhiên chỉ có sạc tiêu chuẩn 10W mà thôi.	Điểm mạnh nhất của C11 chính là viên pin 5000 mAh của nó , tuy nhiên chỉ có sạc tiêu chuẩn 10W mà thôi .
+
+Giá và địa chỉ bán	Giá và địa chỉ bán
+
+Kết luận	Kết luận
+
+Khi mua một điện thoại giá rẻ thì chúng ta không nhắm đến hiệu năng của nó, nhưng cần có ngoại hình đẹp và màn hình lớn.	Khi mua một điện thoại giá rẻ thì chúng ta không nhắm đến hiệu năng của nó , nhưng cần có ngoại hình đẹp và màn hình lớn .
+
+Và chiếc Samsung Galaxy A11 này đáp ứng được những điều kiện này.	Và chiếc Samsung Galaxy A11 này đáp ứng được những điều kiện này .
+
+Bởi vậy nó trở thành những lựa chọn tuyệt vời cho mức giá tầm 3 triệu đồng.	Bởi vậy nó trở thành những lựa chọn tuyệt vời cho mức giá tầm 3 triệu đồng .
+

@@ -1,0 +1,173 @@
+title: So sánh Galaxy S22 Ultra 5G vs Z Fold 3: Nội đấu giữa hai sản phẩm đầu bảng của Samsung	title : So sánh Galaxy S22 Ultra 5G vs Z Fold 3 : Nội đấu giữa hai sản phẩm đầu bảng của Samsung
+
+Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3	Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&5G"], "object": [], "aspect": [], "predicate": ["11&&cao", "12&&cấp", "13&&nhất", "14&&của", "15&&Samsung"], "label": "SUP+"}
+
+Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau.	Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau .
+
+Bài so sánh Galaxy S22 Ultra 5G và mẫu điện thoại gập cao cấp Galaxy Fold 3 sẽ giúp bạn tìm được tình yêu thật sự của mình.	Bài so sánh Galaxy S22 Ultra 5G và mẫu điện thoại gập cao cấp Galaxy Fold 3 sẽ giúp bạn tìm được tình yêu thật sự của mình .
+
+Về cơ bản, Samsung Galaxy S22 Ultra 5G phù hợp với đại đa số thói quen sử dụng của người dùng hơn.	Về cơ bản , Samsung Galaxy S22 Ultra 5G phù hợp với đại đa số thói quen sử dụng của người dùng hơn .
+
+Thiết kế phẳng mới mẽ và kế thừa nhiều công nghệ mới của năm 2022.	Thiết kế phẳng mới mẽ và kế thừa nhiều công nghệ mới của năm 2022 .
+
+Còn Galaxy Fold lại sở hữu thiết kế độc lạ, màn hình lớn và mọi thông số đều rất ổn.	Còn Galaxy Fold lại sở hữu thiết kế độc lạ , màn hình lớn và mọi thông số đều rất ổn .
+
+Thiết kế đặc trưng cho từng dòng máy	Thiết kế đặc trưng cho từng dòng máy
+
+Khi đánh giá Samsung Galaxy S22 Ultra 5G và Galaxy Z Fold 3, đa số người dùng vẫn thích chiếc điện thoại dòng S. Nguyên nhân là kiểu máy truyền thông dễ sử dụng, quen thuộc, lần này Samsung khá chút ý đến các đường nét, rất sang trọng.	Khi đánh giá Samsung Galaxy S22 Ultra 5G và Galaxy Z Fold 3 , đa số người dùng vẫn thích chiếc điện thoại dòng S . Nguyên nhân là kiểu máy truyền thông dễ sử dụng , quen thuộc , lần này Samsung khá chút ý đến các đường nét , rất sang trọng .
+
+Ở một bên khác, Z Fold 3 thiết về sự mới lạ, có khả năng mở gập như một cuốn sách.	Ở một bên khác , Z Fold 3 thiết về sự mới lạ , có khả năng mở gập như một cuốn sách .
+{"subject": ["6&&Z", "7&&Fold", "8&&3"], "object": ["21&&một", "22&&cuốn", "23&&sách"], "aspect": ["16&&khả", "17&&năng", "18&&mở", "19&&gập"], "predicate": ["20&&như"], "label": "EQL"}
+
+Khi đưa vào sử dụng, chiếc điện thoại gập cung cấp nhiều chức năng thực dụng hơn.	Khi đưa vào sử dụng , chiếc điện thoại gập cung cấp nhiều chức năng thực dụng hơn .
+{"subject": ["7&&chiếc", "8&&điện", "9&&thoại", "10&&gập"], "object": [], "aspect": ["14&&chức", "15&&năng", "16&&thực", "17&&dụng"], "predicate": ["13&&nhiều", "14&&chức", "15&&năng", "16&&thực", "17&&dụng", "18&&hơn"], "label": "COM+"}
+
+alt: Thiết kế Galaxy S22 Ultra và Galaxy Z Fold 3 có nét đặc biệt riêng	alt : Thiết kế Galaxy S22 Ultra và Galaxy Z Fold 3 có nét đặc biệt riêng
+
+des:	des :
+
+Màn hình tương đương	Màn hình tương đương
+{"subject": [], "object": [], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["3&&tương", "4&&đương"], "label": "EQL"}
+
+Chắc rằng, S22 Ultra 5G là một trong những chiếc điện thoại có màn hình tốt nhất hiện nay.	Chắc rằng , S22 Ultra 5G là một trong những chiếc điện thoại có màn hình tốt nhất hiện nay .
+{"subject": ["4&&S22", "5&&Ultra", "6&&5G"], "object": [], "aspect": ["15&&màn", "16&&hình"], "predicate": ["17&&tốt", "18&&nhất", "19&&hiện", "20&&nay"], "label": "SUP+"}
+
+Tấm nền Dynamic AMOLED 2X 6.8 inch với độ phân giải QHD+.	Tấm nền Dynamic AMOLED 2X 6.8 inch với độ phân giải QHD + .
+
+Dĩ nhiên, nó sẽ kế thừa công nghệ tự động làm mới màn hình từ 10Hz-120Hz.	Dĩ nhiên , nó sẽ kế thừa công nghệ tự động làm mới màn hình từ 10Hz - 120Hz .
+
+Độ sáng tối đa của máy tốt hơn nhiều so với Galaxy Fold 3 với 1800 nits.	Độ sáng tối đa của máy tốt hơn nhiều so với Galaxy Fold 3 với 1800 nits .
+{"subject": ["6&&máy"], "object": ["12&&Galaxy", "13&&Fold", "14&&3"], "aspect": ["1&&Độ", "2&&sáng", "3&&tối", "4&&đa"], "predicate": ["7&&tốt", "8&&hơn", "9&&nhiều"], "label": "COM+"}
+
+Samsung Z Fold 3 có lợi thế về kích thước màn hình với kích thước 7.6inch + 6.2inch.	Samsung Z Fold 3 có lợi thế về kích thước màn hình với kích thước 7.6inch + 6.2inch .
+{"subject": ["1&&Samsung", "2&&Z", "3&&Fold", "4&&3"], "object": [], "aspect": ["9&&kích", "10&&thước", "11&&màn", "12&&hình"], "predicate": ["5&&có", "6&&lợi", "7&&thế"], "label": "COM+"}
+
+Nhưng tốc độ làm mới màn hình phải điều chỉnh thủ công.	Nhưng tốc độ làm mới màn hình phải điều chỉnh thủ công .
+
+Hiệu năng chênh lệch	Hiệu năng chênh lệch
+
+Được lợi thế của người đi sau, Galaxy S22 Ultra 5G được trang bị Snapdragon 8 Gen 1 hoặc Exynos 2200.	Được lợi thế của người đi sau , Galaxy S22 Ultra 5G được trang bị Snapdragon 8 Gen 1 hoặc Exynos 2200 .
+
+Cách biệt một thế hệ so với Snapdragon 888 hoặc Exynos 2100 trên Galaxy Fold 3.	Cách biệt một thế hệ so với Snapdragon 888 hoặc Exynos 2100 trên Galaxy Fold 3 .
+
+Rõ ràng, sẽ có một khoảng cách về tốc độ xử lý, khả năng đồ họa và khả năng tiết kiệm năng lượng giữa bộ đôi điện thoại.	Rõ ràng , sẽ có một khoảng cách về tốc độ xử lý , khả năng đồ họa và khả năng tiết kiệm năng lượng giữa bộ đôi điện thoại .
+{"subject": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "object": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "aspect": ["10&&tốc", "11&&độ", "12&&xử", "13&&lý"], "predicate": ["5&&có", "6&&một", "7&&khoảng", "8&&cách"], "label": "DIF"}
+{"subject": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "object": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "aspect": ["15&&khả", "16&&năng", "17&&đồ", "18&&họa"], "predicate": ["5&&có", "6&&một", "7&&khoảng", "8&&cách"], "label": "DIF"}
+{"subject": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "object": ["27&&bộ", "28&&đôi", "29&&điện", "30&&thoại"], "aspect": ["20&&khả", "21&&năng", "22&&tiết", "23&&kiệm", "24&&năng", "25&&lượng"], "predicate": ["5&&có", "6&&một", "7&&khoảng", "8&&cách"], "label": "DIF"}
+
+Cả hai đều có thể hoạt động trên giao diện One UI 4 và có lượng RAM 8GB.	Cả hai đều có thể hoạt động trên giao diện One UI 4 và có lượng RAM 8GB .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&hoạt", "7&&động", "8&&trên", "9&&giao", "10&&diện", "11&&One", "12&&UI", "13&&4"], "predicate": ["3&&đều", "4&&có", "5&&thể"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["17&&RAM", "18&&8GB"], "predicate": ["3&&đều", "4&&có"], "label": "EQL"}
+
+Tuy nhiên, thiết bị dòng S còn có phiên bản RAM đến 12GB.	Tuy nhiên , thiết bị dòng S còn có phiên bản RAM đến 12GB .
+
+alt: Hiệu năng Galaxy S22 Ultra tốt hơn so với Galaxy Z Fold 3	alt : Hiệu năng Galaxy S22 Ultra tốt hơn so với Galaxy Z Fold 3
+
+des:	des :
+
+Về thời lượng pin và thời gian sử dụng, điện thoại Galaxy S22 Ultra 5G có lợi thế hơn vì viên pin lơn, 500mAh.	Về thời lượng pin và thời gian sử dụng , điện thoại Galaxy S22 Ultra 5G có lợi thế hơn vì viên pin lơn , 500mAh .
+{"subject": ["13&&Galaxy", "14&&S22", "15&&Ultra", "16&&5G"], "object": [], "aspect": ["2&&thời", "3&&lượng", "4&&pin"], "predicate": ["18&&lợi", "19&&thế", "20&&hơn"], "label": "COM+"}
+{"subject": ["13&&Galaxy", "14&&S22", "15&&Ultra", "16&&5G"], "object": [], "aspect": ["6&&thời", "7&&gian", "8&&sử", "9&&dụng"], "predicate": ["18&&lợi", "19&&thế", "20&&hơn"], "label": "COM+"}
+
+Đi kèm là con chip tốt hơn và màn hình nhỏ hơn giúp cho chiếc điện thoại hoạt động lâu hơn Samsung Galaxy Z Fold 3.	Đi kèm là con chip tốt hơn và màn hình nhỏ hơn giúp cho chiếc điện thoại hoạt động lâu hơn Samsung Galaxy Z Fold 3 .
+{"subject": ["15&&chiếc", "16&&điện", "17&&thoại"], "object": ["22&&Samsung", "23&&Galaxy", "24&&Z", "25&&Fold", "26&&3"], "aspect": ["4&&con", "5&&chip"], "predicate": ["6&&tốt", "7&&hơn"], "label": "COM+"}
+{"subject": ["15&&chiếc", "16&&điện", "17&&thoại"], "object": ["22&&Samsung", "23&&Galaxy", "24&&Z", "25&&Fold", "26&&3"], "aspect": ["9&&màn", "10&&hình"], "predicate": ["11&&nhỏ", "12&&hơn"], "label": "COM+"}
+{"subject": ["15&&chiếc", "16&&điện", "17&&thoại"], "object": ["22&&Samsung", "23&&Galaxy", "24&&Z", "25&&Fold", "26&&3"], "aspect": ["18&&hoạt", "19&&động"], "predicate": ["20&&lâu", "21&&hơn"], "label": "COM+"}
+
+Samsung còn cung cấp cho thiết bị công nghệ sạc nhanh 45W, sạc không dây 15W và sạc người 4.5W.	Samsung còn cung cấp cho thiết bị công nghệ sạc nhanh 45W , sạc không dây 15W và sạc người 4.5W .
+
+Galaxy Z Fold 3 chỉ sử dụng viên pin 4400mAh và công nghệ sạc 25W nhưng vẫn đủ cho bạn sử dụng cả ngày.	Galaxy Z Fold 3 chỉ sử dụng viên pin 4400mAh và công nghệ sạc 25W nhưng vẫn đủ cho bạn sử dụng cả ngày .
+
+So sánh camera Galaxy S22 Ultra 5G và Galaxy Z Fold 3	So sánh camera Galaxy S22 Ultra 5G và Galaxy Z Fold 3
+
+Camera trước	Camera trước
+
+Galaxy S22 Ultra 5G với màn hình đục lỗ truyền thống sở hữu một camera selfie độ phân giải 40MP.	Galaxy S22 Ultra 5G với màn hình đục lỗ truyền thống sở hữu một camera selfie độ phân giải 40MP .
+
+Đây là loại ống kích góc rộng và được cung cấp đầy đủ các khả năng quay phim 4K, Auto-HDR và video call đôi.	Đây là loại ống kích góc rộng và được cung cấp đầy đủ các khả năng quay phim 4K , Auto-HDR và video call đôi .
+
+Một chiếc camera hiệu quả khi sử dụng trong thời buổi thường xuyên kết nối video giữa các người dùng.	Một chiếc camera hiệu quả khi sử dụng trong thời buổi thường xuyên kết nối video giữa các người dùng .
+
+Z Fold 3 có 1 camera ở màn hình trước với độ phân giải 10MP và một camera 4MP ẩn dưới màn hình.	Z Fold 3 có 1 camera ở màn hình trước với độ phân giải 10MP và một camera 4MP ẩn dưới màn hình .
+
+alt: Camera trước Galaxy Z Fold 3 khá đặc biệt	alt : Camera trước Galaxy Z Fold 3 khá đặc biệt
+
+des:	des :
+
+Như vậy, so về thông số và các chức năng, camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo.	Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .
+{"subject": ["13&&camera", "14&&selfie", "15&&Galaxy", "16&&S22", "17&&Ultra", "18&&5G"], "object": [], "aspect": ["6&&thông", "7&&số"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["9&&các", "10&&chức", "11&&năng"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
+
+Nhưng nhiều người lại thích công nghệ camera ẩn dưới màn hình của Galaxy Z Fold 3.	Nhưng nhiều người lại thích công nghệ camera ẩn dưới màn hình của Galaxy Z Fold 3 .
+
+Hơn nữa, thiết kế gập cho phép việc selfie trên Galaxy Z Fole 3 trở nên đa dụng và dễ sáng tạo.	Hơn nữa , thiết kế gập cho phép việc selfie trên Galaxy Z Fole 3 trở nên đa dụng và dễ sáng tạo .
+
+Camera sau	Camera sau
+
+Cụm camera sau của Samsung Galaxy S22 Ultra 5G gồm một ống kích chính (góc rộng) có độ phân giải 108MP, được hỗ trợ các công nghệ PDAF, lấy nét Laser AF và chống rung OIS.	Cụm camera sau của Samsung Galaxy S22 Ultra 5G gồm một ống kích chính ( góc rộng ) có độ phân giải 108MP , được hỗ trợ các công nghệ PDAF , lấy nét Laser AF và chống rung OIS .
+
+Bên cạnh đó là ống kính tiềm vọng 10MP có khả năng zoom quang 10x, lấy nét đôi dual pixel PDAF.	Bên cạnh đó là ống kính tiềm vọng 10MP có khả năng zoom quang 10x , lấy nét đôi dual pixel PDAF .
+
+Thêm nữa là ống kính góc siêu rộng 12MP với góc chụp 120˚.	Thêm nữa là ống kính góc siêu rộng 12MP với góc chụp 120 ˚ .
+
+Cuối cùng là ống kính tele với khả năng zoom quang 3x.	Cuối cùng là ống kính tele với khả năng zoom quang 3x .
+
+alt: Galaxy S22 Ultra sở hữu thông số camera cực tốt	alt : Galaxy S22 Ultra sở hữu thông số camera cực tốt
+
+des:	des :
+
+Cụm camera sau của Galaxy Z Fold 3 gồm một ống kích góc rộng 12MP đi kèm khẩu độ F/1.8.	Cụm camera sau của Galaxy Z Fold 3 gồm một ống kích góc rộng 12MP đi kèm khẩu độ F / 1.8 .
+
+Bên cạnh đó là ống kính góc siêu rộng 12MP và ống kính tele có khả năng zoom quang 2X.	Bên cạnh đó là ống kính góc siêu rộng 12MP và ống kính tele có khả năng zoom quang 2X .
+
+Cả hai đều là những chiếc điện thoại thông minh có khả năng chụp ảnh tốt nhất của Samsung.	Cả hai đều là những chiếc điện thoại thông minh có khả năng chụp ảnh tốt nhất của Samsung .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["12&&khả", "13&&năng", "14&&chụp", "15&&ảnh"], "predicate": ["16&&tốt", "17&&nhất"], "label": "SUP+"}
+
+Tuy nhiên, nếu so sánh Galaxy S22 Ultra và Galaxy Z Fold 3 một cách chi tiết thì điện thoại dòng S có rất nhiều tối ưu về thông số, công nghệ và tính năng.	Tuy nhiên , nếu so sánh Galaxy S22 Ultra và Galaxy Z Fold 3 một cách chi tiết thì điện thoại dòng S có rất nhiều tối ưu về thông số , công nghệ và tính năng .
+
+Trong đó, một trong những khả năng chụp ảnh tốt nhất của Galaxy S22 Ultra mà Samsung tự hào nhất là chế độ night mode.	Trong đó , một trong những khả năng chụp ảnh tốt nhất của Galaxy S22 Ultra mà Samsung tự hào nhất là chế độ night mode .
+{"subject": ["14&&Galaxy", "15&&S22", "16&&Ultra"], "object": [], "aspect": ["23&&chế", "24&&độ", "25&&night", "26&&mode"], "predicate": ["7&&khả", "8&&năng", "9&&chụp", "10&&ảnh", "11&&tốt", "12&&nhất"], "label": "SUP+"}
+
+Có vẻ hãng đã đầu tư rất nhiều cho việc phát triển tính năng này và nó đã trở thành tâm điểm quảng cáo sản phẩm trên toàn thế giới.	Có vẻ hãng đã đầu tư rất nhiều cho việc phát triển tính năng này và nó đã trở thành tâm điểm quảng cáo sản phẩm trên toàn thế giới .
+
+Dĩ nhiên, công nghệ này vượt trội hơn hẳn khả năng chụp đêm trên Galaxy Z Fold 3.	Dĩ nhiên , công nghệ này vượt trội hơn hẳn khả năng chụp đêm trên Galaxy Z Fold 3 .
+{"subject": ["4&&công", "5&&nghệ", "6&&này"], "object": ["11&&khả", "12&&năng", "13&&chụp", "14&&đêm", "15&&trên", "16&&Galaxy", "17&&Z", "18&&Fold", "19&&3"], "aspect": [], "predicate": ["7&&vượt", "8&&trội", "9&&hơn", "10&&hẳn"], "label": "COM+"}
+
+Sử dụng bút S Pen	Sử dụng bút S Pen
+
+Cả hai dòng flagship đều đi kèm với bút cảm ứng S Pen.	Cả hai dòng flagship đều đi kèm với bút cảm ứng S Pen .
+
+Có một điểm cần lưu ý là Samsung Galaxy S22 Ultra 5G có thể tương thích với mọi loại bút S Pen.	Có một điểm cần lưu ý là Samsung Galaxy S22 Ultra 5G có thể tương thích với mọi loại bút S Pen .
+
+Nhưng điều này không xảy ra với Galaxy Z Fold 3.	Nhưng điều này không xảy ra với Galaxy Z Fold 3 .
+
+Do thiết kế màn hình đặc biệt thuộc dạng dẻo nên điện thoại dòng Fold chỉ có thể sử dụng đi kèm S Pen Pro (có hỗ trợ Bluetooth) và S Pen Fold Edition.	Do thiết kế màn hình đặc biệt thuộc dạng dẻo nên điện thoại dòng Fold chỉ có thể sử dụng đi kèm S Pen Pro ( có hỗ trợ Bluetooth ) và S Pen Fold Edition .
+
+alt: Galaxy S22 Ultra tương thích với nhiều loại S Pen	alt : Galaxy S22 Ultra tương thích với nhiều loại S Pen
+
+des:	des :
+
+Thực tế sử dụng, S22 Ultra 5G có rất nhiều tính năng và khá thú vị khi thao tác thông qua S Pen.	Thực tế sử dụng , S22 Ultra 5G có rất nhiều tính năng và khá thú vị khi thao tác thông qua S Pen .
+
+Còn với Samsung Z Fold 3, nhờ màn hình lớn nên sử dụng S Pen rất đã, nhất là các thao tác liên quan đến đồ họa.	Còn với Samsung Z Fold 3 , nhờ màn hình lớn nên sử dụng S Pen rất đã , nhất là các thao tác liên quan đến đồ họa .
+
+Về tương lai, việc khả năng cao Samsung sẽ loại bỏ dòng Note thì có lẽ S Pen sẽ dần trở thành phụ kiện đăc lực cho dòng Galaxy S.	Về tương lai , việc khả năng cao Samsung sẽ loại bỏ dòng Note thì có lẽ S Pen sẽ dần trở thành phụ kiện đăc lực cho dòng Galaxy S .
+
+Nên mua Galaxy S20 Ultra 5G hay Z Fold 3?	Nên mua Galaxy S20 Ultra 5G hay Z Fold 3 ?
+
+Mua ở đâu chính hãng giá tốt?	Mua ở đâu chính hãng giá tốt ?
+
+Từ cái nhìn tổng quan, rõ ràng Galaxy S22 Ultra 5G vượt trội hơn Z Fold 3 về mọi mặt: Hiệu năng, camera, dung lượng pin, công nghệ.	Từ cái nhìn tổng quan , rõ ràng Galaxy S22 Ultra 5G vượt trội hơn Z Fold 3 về mọi mặt : Hiệu năng , camera , dung lượng pin , công nghệ .
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra", "12&&5G"], "object": ["16&&Z", "17&&Fold", "18&&3"], "aspect": ["23&&Hiệu", "24&&năng"], "predicate": ["13&&vượt", "14&&trội", "15&&hơn"], "label": "COM+"}
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra", "12&&5G"], "object": ["16&&Z", "17&&Fold", "18&&3"], "aspect": ["26&&camera"], "predicate": ["13&&vượt", "14&&trội", "15&&hơn"], "label": "COM+"}
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra", "12&&5G"], "object": ["16&&Z", "17&&Fold", "18&&3"], "aspect": ["28&&dung", "29&&lượng", "30&&pin"], "predicate": ["13&&vượt", "14&&trội", "15&&hơn"], "label": "COM+"}
+{"subject": ["9&&Galaxy", "10&&S22", "11&&Ultra", "12&&5G"], "object": ["16&&Z", "17&&Fold", "18&&3"], "aspect": ["32&&công", "33&&nghệ"], "predicate": ["13&&vượt", "14&&trội", "15&&hơn"], "label": "COM+"}
+
+Thậm chí mức giá thiết bị vẫn rẻ hơn dù là người đi sau.	Thậm chí mức giá thiết bị vẫn rẻ hơn dù là người đi sau .
+{"subject": ["5&&thiết", "6&&bị"], "object": [], "aspect": ["3&&mức", "4&&giá"], "predicate": ["8&&rẻ", "9&&hơn"], "label": "COM+"}
+
+Tuy nhiên, vẫn nhiều người dùng thích dòng điện thoại Fold vì nó mang đến sự mới mẽ và độc đáo.	Tuy nhiên , vẫn nhiều người dùng thích dòng điện thoại Fold vì nó mang đến sự mới mẽ và độc đáo .
+
+Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S.	Nếu thiết kế điện thoại không phải là điểm hấp dẫn đối với bạn thì đừng chần chờ mà chọn ngay điện thoại dòng S .
+

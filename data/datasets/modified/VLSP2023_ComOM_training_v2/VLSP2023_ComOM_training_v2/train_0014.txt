@@ -1,0 +1,113 @@
+title: Camera Xiaomi Mi 10 Pro và Galaxy S20 Ultra: Ngôi vương là ai?	title : Camera Xiaomi Mi 10 Pro và Galaxy S20 Ultra : Ngôi vương là ai ?
+
+Galaxy S20 Ultra ra mắt được không lâu thì lại phải đối mặt với đối thủ mới.	Galaxy S20 Ultra ra mắt được không lâu thì lại phải đối mặt với đối thủ mới .
+
+Lần này, đối thủ Xiaomi Mi 10 Pro cũng có khả năng camera tuyệt vời.	Lần này , đối thủ Xiaomi Mi 10 Pro cũng có khả năng camera tuyệt vời .
+
+Tuy nhiên, liệu Galaxy S20 Ultra có bị thất thế sớm thế?	Tuy nhiên , liệu Galaxy S20 Ultra có bị thất thế sớm thế ?
+
+Hãy cùng XTmobile đi tìm lời giải đáp.	Hãy cùng XTmobile đi tìm lời giải đáp .
+
+Xiaomi Mi 10 Pro vs Galaxy S20 Ultra: Camera	Xiaomi Mi 10 Pro vs Galaxy S20 Ultra : Camera
+
+Cả Xiaomi Mi 10 Pro và Galaxy S20 Ultra đều có thiết lập camera bốn phía sau.	Cả Xiaomi Mi 10 Pro và Galaxy S20 Ultra đều có thiết lập camera bốn phía sau .
+{"subject": ["2&&Xiaomi", "3&&Mi", "4&&10", "5&&Pro"], "object": ["7&&Galaxy", "8&&S20", "9&&Ultra"], "aspect": ["14&&camera", "15&&bốn", "16&&phía", "17&&sau"], "predicate": ["10&&đều", "11&&có", "12&&thiết", "13&&lập"], "label": "EQL"}
+
+Trong đó cảm biến camera chính kích thước 108MP với OIS.	Trong đó cảm biến camera chính kích thước 108MP với OIS .
+
+Các cảm biến camera còn lại trên Mi 10 bao gồm ống kính tele 12MP với zoom quang 2x để chụp ảnh chân dung.	Các cảm biến camera còn lại trên Mi 10 bao gồm ống kính tele 12MP với zoom quang 2x để chụp ảnh chân dung .
+
+Một ống kính tele 8MP khác với zoom quang 5x va cuối cùng là ống kính góc siêu nét 20MP.	Một ống kính tele 8MP khác với zoom quang 5x va cuối cùng là ống kính góc siêu nét 20MP .
+
+So với bản tiêu chuẩn Xiaomi Mi 10, chiếc điện thoại Mi 10 Pro có khả năng quay video 8K và zoom lên tới 50 lần.	So với bản tiêu chuẩn Xiaomi Mi 10 , chiếc điện thoại Mi 10 Pro có khả năng quay video 8K và zoom lên tới 50 lần .
+
+Trong khi đó các cảm biến camera còn lại trên Galaxy S20 Ultra bao gồm ống kính kiểu kính tiềm vọng 48MP với zoom lai 10x, ống kính góc siêu rộng 12MP và cảm biến độ sâu ToF 3D.	Trong khi đó các cảm biến camera còn lại trên Galaxy S20 Ultra bao gồm ống kính kiểu kính tiềm vọng 48MP với zoom lai 10x , ống kính góc siêu rộng 12MP và cảm biến độ sâu ToF 3D .
+
+Galaxy S20 Ultra hỗ trợ tính năng Zoom không gian mới của Samsung, cho phép thu phóng siêu phân giải lên tới 100 lần.	Galaxy S20 Ultra hỗ trợ tính năng Zoom không gian mới của Samsung , cho phép thu phóng siêu phân giải lên tới 100 lần .
+
+alt: Thiết lập camera cực khủng trên S20 Ultra	alt : Thiết lập camera cực khủng trên S20 Ultra
+
+des:	des :
+
+Thiết lập camera cực khủng trên S20 Ultra	Thiết lập camera cực khủng trên S20 Ultra
+
+Camera trước trên Mi 10 Pro là một game cảm biến 20MP được đặt trong một nốt ruồi bên trái màn hình.	Camera trước trên Mi 10 Pro là một game cảm biến 20MP được đặt trong một nốt ruồi bên trái màn hình .
+
+Galaxy S20 Ultra có cảm biến camera trước 40MP được đặt trong một camera chính giữa màn hình.	Galaxy S20 Ultra có cảm biến camera trước 40MP được đặt trong một camera chính giữa màn hình .
+
+Thiết lập camera mới này cũng có thể quay video ở mức 8K.	Thiết lập camera mới này cũng có thể quay video ở mức 8K .
+
+So sánh Mi 10 Pro vs Galaxy S20 Ultra: Ảnh chụp thực tế	So sánh Mi 10 Pro vs Galaxy S20 Ultra : Ảnh chụp thực tế
+
+So sánh Mi 10 Pro vs Galaxy S20 Ultra: Ảnh chụp thực tế	So sánh Mi 10 Pro vs Galaxy S20 Ultra : Ảnh chụp thực tế
+
+Thật khó để đánh giá camera của 2 smartphone này.	Thật khó để đánh giá camera của 2 smartphone này .
+
+Tuy nhiên, hãy chiêm ngưỡng các bức hình chụp sau đây và cho biết cảm nhận của bạn nhé!	Tuy nhiên , hãy chiêm ngưỡng các bức hình chụp sau đây và cho biết cảm nhận của bạn nhé !
+
+alt: Ảnh chụp bằng S20 Ultra và Mi 10 Pro trong điều kiện đủ sáng	alt : Ảnh chụp bằng S20 Ultra và Mi 10 Pro trong điều kiện đủ sáng
+
+des:	des :
+
+Ảnh chụp bằng S20 Ultra và Mi 10 Pro trong điều kiện đủ sáng	Ảnh chụp bằng S20 Ultra và Mi 10 Pro trong điều kiện đủ sáng
+
+alt: Màu sắc ảnh chụp S20 Ultra chân thực hơn	alt : Màu sắc ảnh chụp S20 Ultra chân thực hơn
+
+des:	des :
+
+Màu sắc ảnh chụp S20 Ultra chân thực hơn	Màu sắc ảnh chụp S20 Ultra chân thực hơn
+{"subject": ["5&&S20", "6&&Ultra"], "object": [], "aspect": ["1&&Màu", "2&&sắc", "3&&ảnh", "4&&chụp"], "predicate": ["7&&chân", "8&&thực", "9&&hơn"], "label": "COM+"}
+{"subject": ["3&&ảnh", "4&&chụp", "5&&S20", "6&&Ultra"], "object": [], "aspect": ["1&&Màu", "2&&sắc"], "predicate": ["7&&chân", "8&&thực", "9&&hơn"], "label": "COM+"}
+
+alt: Bức ảnh chụp với S20 Ultra với các chi tiết trong bóng dâm sắc nét hơn	alt : Bức ảnh chụp với S20 Ultra với các chi tiết trong bóng dâm sắc nét hơn
+
+des:	des :
+
+Bức ảnh chụp với S20 Ultra với các chi tiết trong bóng dâm sắc nét hơn	Bức ảnh chụp với S20 Ultra với các chi tiết trong bóng dâm sắc nét hơn
+{"subject": ["1&&Bức", "2&&ảnh", "3&&chụp", "4&&với", "5&&S20", "6&&Ultra"], "object": [], "aspect": ["8&&các", "9&&chi", "10&&tiết", "11&&trong", "12&&bóng", "13&&dâm"], "predicate": ["14&&sắc", "15&&nét", "16&&hơn"], "label": "COM+"}
+
+alt: Ngay khi thiếu sáng, S20 Ultra cũng tái tạo màu và cho nước ảnh sáng hơn	alt : Ngay khi thiếu sáng , S20 Ultra cũng tái tạo màu và cho nước ảnh sáng hơn
+
+des:	des :
+
+Ngay khi thiếu sáng, S20 Ultra cũng tái tạo màu và cho nước ảnh sáng hơn	Ngay khi thiếu sáng , S20 Ultra cũng tái tạo màu và cho nước ảnh sáng hơn
+{"subject": ["6&&S20", "7&&Ultra"], "object": [], "aspect": ["9&&tái", "10&&tạo", "11&&màu"], "predicate": ["16&&sáng", "17&&hơn"], "label": "COM+"}
+{"subject": ["6&&S20", "7&&Ultra"], "object": [], "aspect": ["13&&cho", "14&&nước", "15&&ảnh"], "predicate": ["16&&sáng", "17&&hơn"], "label": "COM+"}
+
+alt: Các bức ảnh chụp với S20 có độ tương phản cao hơn	alt : Các bức ảnh chụp với S20 có độ tương phản cao hơn
+{"subject": ["8&&S20"], "object": [], "aspect": ["3&&Các", "4&&bức", "5&&ảnh", "6&&chụp"], "predicate": ["10&&độ", "11&&tương", "12&&phản", "13&&cao", "14&&hơn"], "label": "COM+"}
+{"subject": ["3&&Các", "4&&bức", "5&&ảnh", "6&&chụp", "7&&với", "8&&S20"], "object": [], "aspect": ["10&&độ", "11&&tương", "12&&phản"], "predicate": ["13&&cao", "14&&hơn"], "label": "COM+"}
+
+des:	des :
+
+Các bức ảnh chụp với S20 có độ tương phản cao hơn	Các bức ảnh chụp với S20 có độ tương phản cao hơn
+{"subject": ["6&&S20"], "object": [], "aspect": ["1&&Các", "2&&bức", "3&&ảnh", "4&&chụp"], "predicate": ["8&&độ", "9&&tương", "10&&phản", "11&&cao", "12&&hơn"], "label": "COM+"}
+{"subject": ["1&&Các", "2&&bức", "3&&ảnh", "4&&chụp", "5&&với", "6&&S20"], "object": [], "aspect": ["8&&độ", "9&&tương", "10&&phản"], "predicate": ["11&&cao", "12&&hơn"], "label": "COM+"}
+
+alt: Điện thoại Samsung chụp được các chi tiết cây cối tốt hơn	alt : Điện thoại Samsung chụp được các chi tiết cây cối tốt hơn
+
+des:	des :
+
+Điện thoại Samsung chụp được các chi tiết cây cối tốt hơn	Điện thoại Samsung chụp được các chi tiết cây cối tốt hơn
+{"subject": ["1&&Điện", "2&&thoại", "3&&Samsung"], "object": [], "aspect": ["4&&chụp", "5&&được", "6&&các", "7&&chi", "8&&tiết", "9&&cây", "10&&cối"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+alt: Chất lượng ảnh chụp đêm của 2 smartphone ngang ngửa	alt : Chất lượng ảnh chụp đêm của 2 smartphone ngang ngửa
+
+des:	des :
+
+Chất lượng ảnh chụp đêm của 2 smartphone ngang ngửa	Chất lượng ảnh chụp đêm của 2 smartphone ngang ngửa
+{"subject": ["7&&2", "8&&smartphone"], "object": ["7&&2", "8&&smartphone"], "aspect": ["1&&Chất", "2&&lượng", "3&&ảnh", "4&&chụp", "5&&đêm"], "predicate": ["9&&ngang", "10&&ngửa"], "label": "EQL"}
+{"subject": ["3&&ảnh", "4&&chụp", "5&&đêm", "6&&của", "7&&2", "8&&smartphone"], "object": ["3&&ảnh", "4&&chụp", "5&&đêm", "6&&của", "7&&2", "8&&smartphone"], "aspect": ["1&&Chất", "2&&lượng"], "predicate": ["9&&ngang", "10&&ngửa"], "label": "EQL"}
+
+alt: Mi 10 Pro cho ra những bức hình khá nịnh mắt	alt : Mi 10 Pro cho ra những bức hình khá nịnh mắt
+
+des:	des :
+
+Mi 10 Pro cho ra những bức hình khá nịnh mắt	Mi 10 Pro cho ra những bức hình khá nịnh mắt
+
+Thông số camera của Mi 10 Pro và Samsung Galaxy S20 Ultra thực sự ấn tượng.	Thông số camera của Mi 10 Pro và Samsung Galaxy S20 Ultra thực sự ấn tượng .
+
+Đây chắc chắn là 2 smartphone camera tốt nhất trên thị trường hiện nay.	Đây chắc chắn là 2 smartphone camera tốt nhất trên thị trường hiện nay .
+
+Bạn yêu thích hình ảnh chụp bởi điện thoại nào hơn?	Bạn yêu thích hình ảnh chụp bởi điện thoại nào hơn ?
+

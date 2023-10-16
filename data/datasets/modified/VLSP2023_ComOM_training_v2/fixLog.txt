@@ -1,0 +1,52 @@
+line 57 - train 13: cả hai + đều có
+line 124 - train 51: chân dung
+line 25 - train 42: một chút
+line 67 - train 22: có số điểm
+line 50 - train 16: có mặt trước
+line 109 - train 10: % (label)
+line 181 - train 10: % (label)
+line 189 - train 7: % (label)
+line 162 - train 42: % (label)
+line 44 - train 47: % (label)
+line 64 - train 56: % (label)
+Line 68 - train 13: reindexing label (??mm - ?? mm)
+Line 144 - Train 54: reindexing label (5000mah - 5000 mah)
+
+Stupid: train 42: No ""
+
+Not yet: (label already account for, maybe not noise?) - Done by just doing nothing
+line 218 - train 49: 2 spaced snapdragon (\xa0)
+line 180 - train 10: \u200b\u200b ???????
+line 180 - train 10: 2x ZWSP token, reindexing label
+
+
+No label?
+Done: 7 iPhone 14 được nhà_sản_xuất sử_dụng chipset A15 Bionic được nhà Táo sản_xuất dựa trên tiến_trình 5nm , có 6 nhân , trong đó 4 nhân là 1.82 GHz_Blizzard_Avalanche và 2 nhân là 3.23 GHz .
+Done: 42 trắng , đen , cam và xanh dương .
+Done: 61 Ngay cả camera trước cũng sẽ cùng thông_số là 12 MP .
+Done: 186 Trên Vivo Y21 có camera kép bao_gồm camera chính 12MP và camera macro 2MP .
+Done: 192 Đây là con chip phổ_biến trong phân khúc , giúp xử_lý tác_vụ ổn_định , tiết_kiệm điện_năng hiệu_quả , để bạn có_thể “ chiến ” các tựa game phổ_biến như Liên_Quân hay PUBG .
+Done: 407 Giúp người dùng thoải mái lướt web , chơi game , xem phim ...
+Done: 563 So_sánh một_chút với chiếc Realme 6 hoặc Realme 7 có tốc_độ làm mới 90Hz .
+Done: 564 Hay một sản_phẩm của Xiaomi là POCO X2 có tốc_độ 120 Hz .
+Done: 746 Xiaomi_Mi 11 sở_hữu màn_hình nền AMOLED có_thể hiển_thị tới một tỷ màu_sắc , có tốc_độ hiển_thị 120 Hz .
+Done: 920 Galaxy A11 chạy hệ_điều_hành Android 10 với tuỳ chỉnh One_UI 2.1 .
+Done: 1082 Con chip này được kết_hợp với RAM lên đến 8GB và bộ_nhớ_trong tối_đa 256GB .
+Done: 1084 Con chip này được kết_hợp với RAM lên đến 8GB và bộ_nhớ_trong tối_đa 256GB .
+Done: 1093 Cả ba smartphone này đều sở_hữu_viên pin có dung_lượng khá tốt là 5,000 mAh .
+Done: 1095 Cả ba smartphone này đều sở_hữu_viên pin có dung_lượng khá tốt là 5,000 mAh .
+Done: 1097 Cả ba smartphone này đều sở_hữu_viên pin có dung_lượng khá tốt là 5,000 mAh .
+Done: Line 57 - train 11: 184 Samsung Galaxy A03s nổi_bật với hệ_thống 3 camera sau , bao_gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP .
+Done: Line 119 - train 23: 462 Đây là dung_lượng pin cao nhất được Samsung trang_bị cho những dòng máy giá rẻ đến tầm trung .
+Done: Line 56 - train 35: 687 Do sự khác_biệt nhỏ giữa các bộ_phận phần_cứng , nên hiệu_năng của hai smartphone này không chênh_lệch nhau nhiều và dư sức xử_lý các tác_vụ hàng ngày của người dùng .
+Done: Line 56 - train 35: 688 Mặt_khác , bạn có_thể nhận được dung_lượng lưu_trữ cao hơn với Redmi_Note 11 Pro + , lên đến 256GB bộ_nhớ_trong UFS 2.2 .
+Done: Line 84 - train 35: 695 Mặc khác , Redmi_Note 11 Pro + dù có pin 4,500 mAh nhỏ hơn nhưng điện_thoại này gây ấn_tượng với công_nghệ sạc nhanh 120W siêu_tốc , giúp sạc đầy pin chỉ trong 15 phút .
+Done: Line 84 - train 35: 697 Mặc khác , Redmi_Note 11 Pro + dù có pin 4,500 mAh nhỏ hơn nhưng điện_thoại này gây ấn_tượng với công_nghệ sạc nhanh 120W siêu_tốc , giúp sạc đầy pin chỉ trong 15 phút .
+Done: Line 84 - train 35: 698 Samsung Galaxy M52 5G thực_sự có thời_lượng pin lâu hơn đơn_giản vì nó có pin lớn hơn với dung_lượng 5,000 mAh .
+Done: Line 68 - train 13: 217 Khác_biệt lớn nhất về kích_thước là ở độ dày , Samsung A31 dày 8.6 mm còn Samsung A51 cao_cấp hơn dày chỉ 7.9 mm nhưng đồng_thời cũng đi kèm dung_lượng pin thấp hơn A 31 .
+Done: Line 157 - train 13: 243 Về màn_hình , cả hai cùng có tấm nền Super_AMOLED_Full_HD + với kích_thước chênh_lệch rất ít ( A 31 là 6.4 inch , A51 là 6.5 inch ) nên chất_lượng hiển_thị không khác nhau nhiều và đều rất tốt trong phân khúc .
+Done: Line 144 - Train 54: 1028 Mặc_dù cùng sở_hữu dung_lượng pin 5.000 mAh , tuy_nhiên Samsung tỏ ra yếu_thế hơn cả so với hai đối_thủ còn lại .
+
+*Note: Be aware of ZWSP and NBSP special token character
+
+*Note: Before fixing, all quintuple are consecutive in terms of location in sentence.

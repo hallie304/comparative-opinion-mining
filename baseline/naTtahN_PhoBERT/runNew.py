@@ -32,8 +32,8 @@ import os
 # from modelUtils import *
 from utils.dataUtils import *
 
-dataCSV = txt2csv(path = "/datasets/original/VLSP2023_ComOM_public_test_nolabel/VLSP2023_ComOM_public_test_nolabel",
-                  curDir = curDir, splitName = 'train', version = 'old')
+dataCSV = txt2csv(path = "/datasets/modified/VLSP2023_ComOM_training_v2/VLSP2023_ComOM_training_v2",
+                  curDir = curDir, splitName = 'train', version = 'new')
 dataCSVIsComparative, dataCSVNotIsComparative = createDataNERCSV(dataCSV, mode = 'train')
 datasetNERTokenizedCSV = tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode = 'train')
 nerPhoBERTTorchDataset = DataNERPhoBERTTorch(datasetNERTokenizedCSV)
@@ -53,7 +53,7 @@ lr_scheduler = get_scheduler(
 exit()
 trainLog = train(phobertTokenClassification, num_epochs, trainLoader, valLoader, optimizer, device, lr_scheduler = lr_scheduler)
 torch.save(phobertTokenClassification.state_dict(), "phobertFinetuned.pt")
-evalOnValSet(phobertTokenClassification, testLoader, lossCombine, device)
+evaluate(phobertTokenClassification, testLoader, lossCombine, device)
 
 
 # 0 - train, 1 - val 

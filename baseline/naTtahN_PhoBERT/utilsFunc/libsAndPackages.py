@@ -50,5 +50,5 @@ task_id_to_num_classes = {0: num_isComparative_labels,
                           1: num_NER_labels - 1, # Exclude <noClass> label
                           2: num_comparisonType_labels - 1} # Exclude <noClass> label
 
-maxSeqLen = 132
+maxSeqLen = 192
 

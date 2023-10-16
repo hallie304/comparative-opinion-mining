@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from utils.modelUtils import *
+from utilsFunc.modelUtils import *
 
 
 def getTextFileGeneralInfo(version, path, splitName, curDir = curDir, idx = range(1, 61, 1), ):
@@ -214,8 +214,10 @@ def createDataNERCSV(dataCSV, mode):
     labelIsComparative = np.zeros_like(labelNER)
     labelComparisonType = []
 
+    sentenceInd = []
     for i in range(len(sentenceSegmented)):
         for j in range(len(sentenceSegmented[i])):
+            sentenceInd.append(i)
             labelComparisonType.append(comparisonLabel2id['<noClass>'])
     labelComparisonType = np.array(labelComparisonType)
 
@@ -227,7 +229,7 @@ def createDataNERCSV(dataCSV, mode):
     if (mode == 'train'):
         return myData, myData1
     elif (mode == 'inference'):
-        return None, myData1
+        return None, myData1, sentenceInd
 
 
 def tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode):
@@ -251,9 +253,12 @@ def tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode):
     elif (mode == 'inference'):
         dataNER = dataCSVNotIsComparative
 
-    sentenceTokenized = tokenize_and_align_labels(dataNER)
+    sentenceTokenized, wordInd = tokenize_and_align_labels(dataNER)
 
-    return sentenceTokenized
+    if (mode == 'train'):
+        return sentenceTokenized
+    elif (mode == 'inference'):
+        return sentenceTokenized, wordInd
 
 
 def segmentWordInList(lst, segmenter = rdrSegmenter.word_segment):
@@ -302,11 +307,13 @@ def checkForSegmentedSentenceLabelAlign(sentenceSegmentedConcat, labelNER):
 
 def tokenize_and_align_labels(datasetCSV):
     tokenized_inputs = phobertTokenizer(list(datasetCSV["Input sentence segmented"]), truncation = True,
-                                        is_split_into_words = False, padding = True)
+                                        is_split_into_words = False, padding = "max_length", max_length = maxSeqLen)
     labels = []
+    wordInd = []
 
     for i, label in enumerate(datasetCSV["labelNER"]):
         word_ids = tokenized_inputs.word_ids(batch_index = i)  # Map tokens to their respective word.
+        wordInd.append(deepcopy(word_ids))
         previous_word_idx = None
         label_ids = []
         for word_idx in word_ids:  # Set the special tokens to -100.
@@ -327,7 +334,7 @@ def tokenize_and_align_labels(datasetCSV):
     dataNERTokenized = pd.DataFrame(sentenceTokenizedDict)
     # dataNERTokenized.to_csv(r"C:\Users\nguye\Downloads\VLSP23_dataNERPhoBERTTokenized.csv")
 
-    return dataNERTokenized
+    return dataNERTokenized, wordInd
 
 
 class DataNERPhoBERTTorch(torch.utils.data.Dataset):
@@ -398,8 +405,15 @@ def splitDataset(dataset, splitSize1, splitSize2, splitSize3, batchSize, shuffle
     set1Sampler, set2Sampler, set3Sampler = (torch.utils.data.SubsetRandomSampler(splitSet1Ind),
                                              torch.utils.data.SubsetRandomSampler(splitSet2Ind),
                                              torch.utils.data.SubsetRandomSampler(splitSet3Ind))
-    return (torch.utils.data.DataLoader(dataset, batch_size = batchSize, sampler = set1Sampler),
-            torch.utils.data.DataLoader(dataset, batch_size = batchSize, sampler = set2Sampler),
-            torch.utils.data.DataLoader(dataset, batch_size = batchSize, sampler = set3Sampler))
+
+    if (shuffleDataset):
+        return (torch.utils.data.DataLoader(dataset, batch_size=batchSize, sampler=set1Sampler),
+                torch.utils.data.DataLoader(dataset, batch_size=batchSize, sampler=set2Sampler),
+                torch.utils.data.DataLoader(dataset, batch_size=batchSize, sampler=set3Sampler))
+    else:
+        return (torch.utils.data.DataLoader(dataset, batch_size=batchSize, shuffle=shuffleDataset),
+                torch.utils.data.DataLoader(dataset, batch_size=batchSize, shuffle=shuffleDataset),
+                torch.utils.data.DataLoader(dataset, batch_size=batchSize, shuffle=shuffleDataset))
+
 
 

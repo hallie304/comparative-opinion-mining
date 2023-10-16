@@ -1,0 +1,114 @@
+title: So sánh Galaxy M31 Prime với Motorola One Fusion+ và Realme 6 Pro	title : So sánh Galaxy M31 Prime với Motorola One Fusion + và Realme 6 Pro
+
+Với mức giá phải chăng và các thông số kỹ thuật khá tốt, đây là một trong những lựa chọn hấp dẫn của của người dùng ở phân khúc smartphone tầm trung.	Với mức giá phải chăng và các thông số kỹ thuật khá tốt , đây là một trong những lựa chọn hấp dẫn của của người dùng ở phân khúc smartphone tầm trung .
+
+Vậy khi đặt lên bàn cân so sánh với 2 đối thủ khác là Motorola One Fusion+ và  Realme 6 Pro  thì liệu di động Samsung có đủ sức đánh bại?	Vậy khi đặt lên bàn cân so sánh với 2 đối thủ khác là Motorola One Fusion + và Realme 6 Pro thì liệu di động Samsung có đủ sức đánh bại ?
+
+Thiết kế	Thiết kế
+
+alt: Realme 6 Pro	alt : Realme 6 Pro
+
+des: Realme 6 Pro	des : Realme 6 Pro
+
+Trong ba smartphone ngày hôm nay, Motorola One Fusion+ có thiết kế thú vị nhất vì  điện thoại  này có màn hình không viền ấn tượng.	Trong ba smartphone ngày hôm nay , Motorola One Fusion + có thiết kế thú vị nhất vì điện thoại này có màn hình không viền ấn tượng .
+{"subject": ["8&&Motorola", "9&&One", "10&&Fusion", "11&&+"], "object": ["2&&ba", "3&&smartphone", "4&&ngày", "5&&hôm", "6&&nay"], "aspect": ["13&&thiết", "14&&kế"], "predicate": ["15&&thú", "16&&vị", "17&&nhất"], "label": "SUP+"}
+
+Nó không sử dụng thiết kế notch hình đục lỗ mà sử dụng giải pháp camera selfie pop-up.	Nó không sử dụng thiết kế notch hình đục lỗ mà sử dụng giải pháp camera selfie pop-up .
+
+Tuy nhiên, cá nhân mình thích Realme 6 Pro hơn vì hai lý do.	Tuy nhiên , cá nhân mình thích Realme 6 Pro hơn vì hai lý do .
+
+Thứ nhất, di động  Realme  có độ hoàn thiện tốt hơn với mặt lưng bằng kính và đi kèm các hiệu ứng chuyển màu gradient bắt mắt.	Thứ nhất , di động Realme có độ hoàn thiện tốt hơn với mặt lưng bằng kính và đi kèm các hiệu ứng chuyển màu gradient bắt mắt .
+{"subject": ["4&&di", "5&&động", "6&&Realme"], "object": [], "aspect": ["8&&độ", "9&&hoàn", "10&&thiện"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Chưa hết, máy quét vân tay của Realme 6 Pro được tích hợp vào nút nguồn ở cạnh bên, trong khi trên Motorola One Fusion+ và  Samsung Galaxy M31 Prime , bạn có một máy quét dấu vân tay nằm ở mặt lưng.	Chưa hết , máy quét vân tay của Realme 6 Pro được tích hợp vào nút nguồn ở cạnh bên , trong khi trên Motorola One Fusion + và Samsung Galaxy M31 Prime , bạn có một máy quét dấu vân tay nằm ở mặt lưng .
+
+Màn hình	Màn hình
+
+alt: Samsung Galaxy M31 Prime	alt : Samsung Galaxy M31 Prime
+
+des: Samsung Galaxy M31 Prime	des : Samsung Galaxy M31 Prime
+
+Mặc dù có giá bán khá phải chăng nhưng Galaxy M31 Prime vẫn được Samsung trang bị tấm nền AMOLED cao cấp.	Mặc dù có giá bán khá phải chăng nhưng Galaxy M31 Prime vẫn được Samsung trang bị tấm nền AMOLED cao cấp .
+
+Chính vì vậy mà di động Samsung chiến thắng trong màn so sánh màn hình với khả năng hiển thị màu sắc rực rỡ, màu đen sâu và có độ tương phản tốt.	Chính vì vậy mà di động Samsung chiến thắng trong màn so sánh màn hình với khả năng hiển thị màu sắc rực rỡ , màu đen sâu và có độ tương phản tốt .
+{"subject": ["5&&di", "6&&động", "7&&Samsung"], "object": [], "aspect": ["14&&màn", "15&&hình"], "predicate": ["8&&chiến", "9&&thắng"], "label": "COM+"}
+
+Realme 6 Pro có màn hình IPS, nhưng nó có tốc độ làm mới 90 Hz. Còn Motorola One Fusion+ chỉ có màn hình IPS và hỗ trợ tần số quét 60Hz tiêu chuẩn.	Realme 6 Pro có màn hình IPS , nhưng nó có tốc độ làm mới 90 Hz . Còn Motorola One Fusion + chỉ có màn hình IPS và hỗ trợ tần số quét 60Hz tiêu chuẩn .
+
+Thông số kỹ thuật và phần mềm	Thông số kỹ thuật và phần mềm
+
+alt: Motorola One Fusion+	alt : Motorola One Fusion +
+
+des: Motorola One Fusion+	des : Motorola One Fusion +
+
+Nếu bạn cần một chiếc smartphone có phần cứng tốt, bạn nên chọn Realme 6 Pro.	Nếu bạn cần một chiếc smartphone có phần cứng tốt , bạn nên chọn Realme 6 Pro .
+
+Điện thoại này được trang bị chipset Snapdragon 720G mạnh mẽ kết hợp với RAM lên đến 8GB và bộ nhớ trong lên đến 128GB.	Điện thoại này được trang bị chipset Snapdragon 720G mạnh mẽ kết hợp với RAM lên đến 8GB và bộ nhớ trong lên đến 128GB .
+
+Motorola One Fusion+ được cung cấp sức mạnh bởi SoC Snapdragon 730 hoặc 730G tùy thuộc vào phiên bản và có RAM tối đa là 6GB.	Motorola One Fusion + được cung cấp sức mạnh bởi SoC Snapdragon 730 hoặc 730G tùy thuộc vào phiên bản và có RAM tối đa là 6GB .
+
+SoC trên Samsung Galaxy M31 Prime kém hơn so với Snapdragon 720G và 730, vì vậy nó có hiệu năng kém hơn so với 2 đối thủ còn lại.	SoC trên Samsung Galaxy M31 Prime kém hơn so với Snapdragon 720G và 730 , vì vậy nó có hiệu năng kém hơn so với 2 đối thủ còn lại .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&M31", "6&&Prime"], "object": ["11&&Snapdragon", "12&&720G"], "aspect": ["1&&SoC"], "predicate": ["7&&kém", "8&&hơn"], "label": "COM-"}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&M31", "6&&Prime"], "object": ["14&&730"], "aspect": ["1&&SoC"], "predicate": ["7&&kém", "8&&hơn"], "label": "COM-"}
+{"subject": ["18&&nó"], "object": ["26&&2", "27&&đối", "28&&thủ", "29&&còn", "30&&lại"], "aspect": ["20&&hiệu", "21&&năng"], "predicate": ["22&&kém", "23&&hơn"], "label": "COM-"}
+
+Về phần mềm, cả ba điện thoại ngày hôm nay đều chạy hệ điều hành Android 10 với giao diện tùy chỉnh riêng của mỗi hãng.	Về phần mềm , cả ba điện thoại ngày hôm nay đều chạy hệ điều hành Android 10 với giao diện tùy chỉnh riêng của mỗi hãng .
+{"subject": ["5&&cả", "6&&ba", "7&&điện", "8&&thoại"], "object": ["5&&cả", "6&&ba", "7&&điện", "8&&thoại"], "aspect": ["2&&phần", "3&&mềm"], "predicate": ["12&&đều", "13&&chạy", "14&&hệ", "15&&điều", "16&&hành", "17&&Android", "18&&10"], "label": "EQL"}
+
+Máy ảnh	Máy ảnh
+
+alt: Realme 6 Pro (ảnh 1)	alt : Realme 6 Pro ( ảnh 1 )
+
+des: Realme 6 Pro (ảnh 1)	des : Realme 6 Pro ( ảnh 1 )
+
+Realme 6 Pro là điện thoại có phần cứng camera tốt nhất.	Realme 6 Pro là điện thoại có phần cứng camera tốt nhất .
+
+Mặc dù có cảm biến chính 64MP như hai đối thủ còn lại nhưng di động Realme có camera tele với zoom quang học 2x.	Mặc dù có cảm biến chính 64MP như hai đối thủ còn lại nhưng di động Realme có camera tele với zoom quang học 2x .
+{"subject": ["15&&di", "16&&động", "17&&Realme"], "object": ["9&&hai", "10&&đối", "11&&thủ", "12&&còn", "13&&lại"], "aspect": ["4&&cảm", "5&&biến", "6&&chính", "7&&64MP"], "predicate": ["8&&như"], "label": "EQL"}
+
+Camera trước của điện thoại này cũng có chất lượng ấn tượng với cảm biến chính 16MP + ống kính 8MP cho góc chụp siêu rộng.	Camera trước của điện thoại này cũng có chất lượng ấn tượng với cảm biến chính 16MP + ống kính 8MP cho góc chụp siêu rộng .
+
+Trong hai smartphone còn lại thì Galaxy M31 Prime cho chất lượng ảnh tốt hơn so với Motorola One Fusion+.	Trong hai smartphone còn lại thì Galaxy M31 Prime cho chất lượng ảnh tốt hơn so với Motorola One Fusion + .
+{"subject": ["7&&Galaxy", "8&&M31", "9&&Prime"], "object": ["18&&Motorola", "19&&One", "20&&Fusion", "21&&+"], "aspect": ["11&&chất", "12&&lượng", "13&&ảnh"], "predicate": ["14&&tốt", "15&&hơn"], "label": "COM+"}
+
+Pin	Pin
+
+alt: Motorola One Fusion+ (ảnh 1)	alt : Motorola One Fusion + ( ảnh 1 )
+
+des: Motorola One Fusion+ (ảnh 1)	des : Motorola One Fusion + ( ảnh 1 )
+
+Samsung Galaxy M31 Prime được trang bị pin 6,000 mAh lớn hơn và việc sử dụng màn hình AMOLED tiết kiệm năng lượng nên nó cho thời gian sử dụng tốt nhất trong bộ ba điện thoại ngày hôm nay.	Samsung Galaxy M31 Prime được trang bị pin 6,000 mAh lớn hơn và việc sử dụng màn hình AMOLED tiết kiệm năng lượng nên nó cho thời gian sử dụng tốt nhất trong bộ ba điện thoại ngày hôm nay .
+{"subject": ["25&&nó"], "object": ["34&&bộ", "35&&ba", "36&&điện", "37&&thoại", "38&&ngày", "39&&hôm", "40&&nay"], "aspect": ["27&&thời", "28&&gian", "29&&sử", "30&&dụng"], "predicate": ["31&&tốt", "32&&nhất", "33&&trong", "34&&bộ", "35&&ba", "36&&điện", "37&&thoại", "38&&ngày", "39&&hôm", "40&&nay"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&M31", "4&&Prime"], "object": [], "aspect": ["8&&pin"], "predicate": ["11&&lớn", "12&&hơn"], "label": "COM+"}
+
+Motorola One Fusion+ chiếm vị trí thứ hai với pin 5,000 mAh, trong khi Realme 6 Pro có pin nhỏ nhất và thời lượng pin ngắn nhất.	Motorola One Fusion + chiếm vị trí thứ hai với pin 5,000 mAh , trong khi Realme 6 Pro có pin nhỏ nhất và thời lượng pin ngắn nhất .
+{"subject": ["17&&Realme", "18&&6", "19&&Pro"], "object": [], "aspect": ["21&&pin"], "predicate": ["22&&nhỏ", "23&&nhất"], "label": "SUP-"}
+{"subject": ["17&&Realme", "18&&6", "19&&Pro"], "object": [], "aspect": ["25&&thời", "26&&lượng", "27&&pin"], "predicate": ["28&&ngắn", "29&&nhất"], "label": "SUP-"}
+
+Tuy nhiên, di động Realme có công nghệ sạc nhanh hơn với công suất 30W.	Tuy nhiên , di động Realme có công nghệ sạc nhanh hơn với công suất 30W .
+{"subject": ["6&&Realme"], "object": [], "aspect": ["8&&công", "9&&nghệ", "10&&sạc"], "predicate": ["11&&nhanh", "12&&hơn"], "label": "COM+"}
+
+Giá bán	Giá bán
+
+alt: Samsung Galaxy M31 Prime (ảnh 1)	alt : Samsung Galaxy M31 Prime ( ảnh 1 )
+
+des: Samsung Galaxy M31 Prime (ảnh 1)	des : Samsung Galaxy M31 Prime ( ảnh 1 )
+
+Samsung Galaxy M31 Prime có giá 223 USD ở Ấn Độ, Realme 6 Pro có giá 270 USD và Motorola One Fusion+ có giá khoảng ​​237 USD.	Samsung Galaxy M31 Prime có giá 223 USD ở Ấn Độ , Realme 6 Pro có giá 270 USD và Motorola One Fusion + có giá khoảng ​​ 237 USD .
+
+Nếu không màn hình quá chất lượng thì bạn nên chọn Realme 6 Pro.	Nếu không màn hình quá chất lượng thì bạn nên chọn Realme 6 Pro .
+
+Điện thoại này không chỉ có hệ thống camera sau tuyệt vời, sạc nhanh 30W mà còn sở hữu hiệu năng khá tốt.	Điện thoại này không chỉ có hệ thống camera sau tuyệt vời , sạc nhanh 30W mà còn sở hữu hiệu năng khá tốt .
+
+Nhưng Samsung Galaxy M31 Prime có màn hình hiển thị tốt hơn và pin lớn hơn, vì vậy nó cũng thú vị như tùy chọn Realme.	Nhưng Samsung Galaxy M31 Prime có màn hình hiển thị tốt hơn và pin lớn hơn , vì vậy nó cũng thú vị như tùy chọn Realme .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&M31", "5&&Prime"], "object": [], "aspect": ["7&&màn", "8&&hình", "9&&hiển", "10&&thị"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&M31", "5&&Prime"], "object": [], "aspect": ["14&&pin"], "predicate": ["15&&lớn", "16&&hơn"], "label": "COM+"}
+{"subject": ["20&&nó"], "object": ["27&&Realme"], "aspect": [], "predicate": ["21&&cũng", "22&&thú", "23&&vị", "24&&như"], "label": "EQL"}
+
+Motorola One Fusion+ nằm ở giữa với pin lớn hơn Realme 6 Pro, nhưng màn hình IPS 60 Hz và camera kém hơn.	Motorola One Fusion + nằm ở giữa với pin lớn hơn Realme 6 Pro , nhưng màn hình IPS 60 Hz và camera kém hơn .
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": ["12&&Realme", "13&&6", "14&&Pro"], "aspect": ["9&&pin"], "predicate": ["10&&lớn", "11&&hơn"], "label": "COM+"}
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["17&&màn", "18&&hình"], "predicate": ["24&&kém", "25&&hơn"], "label": "COM-"}
+{"subject": ["1&&Motorola", "2&&One", "3&&Fusion", "4&&+"], "object": [], "aspect": ["23&&camera"], "predicate": ["24&&kém", "25&&hơn"], "label": "COM-"}
+
+Bạn sẽ chọn smartphone nào?	Bạn sẽ chọn smartphone nào ?
+

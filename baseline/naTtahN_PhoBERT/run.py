@@ -33,15 +33,15 @@ os.chdir('/home/group2/naTtahN_T1/VLSP23_Task1')
 from dataUtils import *
 
 dataCSV = txt2csv(path = "//datasets//modified//VLSP2023_ComOM_training//VLSP2023_ComOM_training",
-        curDir = curDir)
-dataCSVIsComparative, dataCSVNotIsComparative = createDataNERCSV(dataCSV)
-datasetNERTokenizedCSV = tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative)
+        curDir = curDir, splitName = 'train', version = 'new', mode = 'train')
+dataCSVIsComparative, dataCSVNotIsComparative = createDataNERCSV(dataCSV, mode = 'train')
+datasetNERTokenizedCSV = tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode = 'train')
 nerPhoBERTTorchDataset = DataNERPhoBERTTorch(datasetNERTokenizedCSV)
 
 
 num_epochs = 10
 batchSize = 64
-trainLoader, valLoader, testLoader = splitDataset(nerPhoBERTTorchDataset, 0.90, 0.05, 0.05, batchSize, True, 14)
+trainLoader, valLoader, testLoader = splitDataset(nerPhoBERTTorchDataset, 0.95, 0.05, 0.0, batchSize, True, 14)
 
 optimizer = AdamW(phobertTokenClassification.parameters(), lr = 5e-5)
 
@@ -53,7 +53,7 @@ lr_scheduler = get_scheduler(
 
 trainLog = train(phobertTokenClassification, num_epochs, trainLoader, valLoader, optimizer, device, lr_scheduler = lr_scheduler)
 torch.save(phobertTokenClassification.state_dict(), "phobertFinetuned.pt")
-evalOnValSet(phobertTokenClassification, testLoader, lossCombine, device)
+evaluate(phobertTokenClassification, testLoader, lossCombine, device)
 
 
 # 0 - train, 1 - val 
