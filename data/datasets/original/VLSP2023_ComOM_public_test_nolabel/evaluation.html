@@ -1,0 +1,46 @@
+<h2><strong>Evaluation Methodology</strong></h2>
+<p>To assess Comparative Element Extraction (CEE), we employ various evaluation metrics, including Precision, Recall, and F1 score for each element (subject, object, aspect, predicate, and comparison type label). Additionally, we calculate Micro- and Macro-averages of these scores.</p>
+<p>In the Tuple Evaluation (TE), the entire quintuple is considered, and we measure Precision, Recall, and F1 score for the entire quintuple.</p>
+<h2><strong>Metrics Naming Convention</strong></h2>
+<p>Each metric follows a format of four elements:</p>
+<pre>{Matching Strategy}-{Level of Evaluation}-{Indication}-{Metric}</pre>
+<h4><strong>1. Matching Strategy</strong></h4>
+<p>There are three matching strategies (E, P, B)</p>
+<ul>
+<li><strong>E - Exact Match</strong>: The entire extracted quintuple component must precisely match the ground truth.</li>
+<li><strong>P - Proportional Match</strong>: The proportion of matched words in the extracted component with respect to the ground truth is considered.</li>
+<li><strong>B - Binary Match</strong>: At least one word in the extracted component must overlap with the ground truth.</li>
+</ul>
+<p>All of these strategies will be utilized for the evaluation of Comparative Element Extraction (CEE), while only Exact Match and Binary Match will be applied to Tuple Evaluation (TE).</p>
+<h4><strong>2. Level of Evaluation<br /></strong></h4>
+<p>There are three levels of evaluation (CEE, T4, T5)</p>
+<ul>
+<li><strong>CEE - Comparative Element Extraction</strong>: Involves extracting individual elements such as subject, object, aspect, and predicate.</li>
+<li><strong>T4 - Tuple of four</strong>: Requires a match for all four elements.</li>
+<li><strong>T5 - Tuple of five</strong>: Requires a match for all four elements and the comparative label.</li>
+</ul>
+<h4><strong>3. Indication</strong></h4>
+<p>Indicates which element or comparison type is being evaluated.</p>
+<p>For CEE, there are six types of indications (S, O, A, P, Micro, Macro):</p>
+<ul>
+<li><strong>S, O, A, P</strong>: Indicating subject, object, aspect, and predicate, respectively.</li>
+<li><strong>Micro and Macro</strong>: Averaged score over these four types of elements.</li>
+</ul>
+<p>For T4, no indication is used; there is only one type of T4.</p>
+<p>For T5, there are eight types of comparison (EQL, DIF, COM, COM+, COM-, SUP, SUP+, SUP-) and two types of averages (Micro, Macro):</p>
+<ul>
+<li><strong>DIF</strong>: Different comparison</li>
+<li><strong>EQL</strong>: Equal comparison (no significant difference)</li>
+<li><strong>SUP+</strong>: Positive superlatives</li>
+<li><strong>SUP-</strong>: Negative superlatives</li>
+<li><strong>SUP</strong>: Superlatives that do not specify positivity or negativity</li>
+<li><strong>COM+</strong>: Positive comparison</li>
+<li><strong>COM-</strong>: Negative comparison</li>
+<li><strong>COM</strong>: Comparison that does not specify positivity or negativity</li>
+<li>Micro and Macro: Averaged score over these eight types of comparisons.</li>
+</ul>
+<h4><strong>4. Metric<br /></strong></h4>
+<p>Three metrics are used: Precision, Recall, and F1 score (<strong>P, R, F1</strong>).</p>
+<h2><strong>Scoring System</strong></h2>
+<p>In total, 120 metrics are evaluated, with only 15 selected to appear in the leaderboard. For a comprehensive view of all metrics, please download the scoring details from your submission <em><strong>"Download output from scoring step".</strong></em></p>
+<p>The final ranking score is determined by the metric <strong>E-T5-MACRO-F1</strong>, representing Exact Match for Tuple of Five, Macro-averaged F1 score.</p>
