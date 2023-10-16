@@ -1,9 +1,10 @@
 import numpy as np
 import pandas as pd
 
-from modelUtils import *
+from utils.modelUtils import *
 
-def getTextFileGeneralInfo(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
+
+def getTextFileGeneralInfo(version, path, splitName, curDir = curDir, idx = range(1, 61, 1), ):
     trainWithLabel = []
     sentenceList = []
     # prevAltDes = False
@@ -27,7 +28,10 @@ def getTextFileGeneralInfo(path, splitName, curDir = curDir, idx = range(1, 61, 
                     except:
                         # prevAltDes = False
                         # if isinstance(line[:-1], str):
-                        sentenceList.append(line[:-1])
+                        if (version == 'old'):
+                            sentenceList.append(line[:-1])
+                        elif (version == 'new'):
+                            sentenceList.append(line[:-1].split('\t')[0])
 
                         # if (line[:-1][:4] == "alt:"):
                         # if ((line[:-1][:4] == "alt:") | (line[:-1][:4] == "des:")):
@@ -55,7 +59,7 @@ def getTextFileGeneralInfo(path, splitName, curDir = curDir, idx = range(1, 61, 
     print("Label count: %s" % (countDict.__str__()))
 
 
-def txt2csv(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
+def txt2csv(version, path, splitName, curDir = curDir, idx = range(1, 61, 1)):
     trainWithLabel = []
     sentenceList = []
     isComparative = []
@@ -88,7 +92,11 @@ def txt2csv(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
                                 {'subject': [], 'object': [], 'aspect': [], 'predicate': [], 'label': []})
                             isComparative.append(0)
 
-                        sentenceList.append(line[:-1])
+                        if (version == 'old'):
+                            sentenceList.append(line[:-1])
+                        elif (version == 'new'):
+                            sentenceList.append(line[:-1].split('\t')[0])
+
                         prevSentence = True
 
                         # if (line[:-1][:4] == "alt:"):
@@ -118,122 +126,7 @@ def txt2csv(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
     return myData
 
 
-def getTextFileGeneralInfoNew(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
-    trainWithLabel = []
-    sentenceList = []
-    # prevAltDes = False
-
-    for i in idx:
-        fileName = "/" + splitName + "_%04d.txt" % (i)
-        fileName = path + curDir + fileName
-        lineNo = 0
-
-        with open(fileName, 'r', encoding='utf8') as txtFile:
-            for line in txtFile:
-                lineNo += 1
-                if (line[:-1] != ''):
-                    try:
-                        data = ast.literal_eval(line)
-                        if isinstance(data, dict):
-                            trainWithLabel.append(data)
-
-                            # if (prevAltDes):
-                            #     print("%d %d" % (i, lineNo))
-                    except:
-                        # prevAltDes = False
-                        # if isinstance(line[:-1], str):
-                        sentenceList.append(line[:-1].split('\t')[0])
-
-                        # if (line[:-1][:4] == "alt:"):
-                        # if ((line[:-1][:4] == "alt:") | (line[:-1][:4] == "des:")):
-                        # prevAltDes = True
-
-    temp = trainWithLabel[0].keys()
-
-    print("trainWithLabel size: %d" % (len(trainWithLabel)))
-    print("Total number of sentences: %d" % (len(sentenceList)))
-    print("Dictionary keys: %s" % (str(list(temp))))
-
-    for i in range(len(trainWithLabel)):
-        if (len(set(trainWithLabel[i].keys()).intersection(temp)) != 5):
-            print("NOT QUINTUPLE!!")
-
-    for i in range(len(trainWithLabel)):
-        if (len(trainWithLabel[i]['predicate']) == 0):
-            print("PREDICATE EMPTY!")
-        if (len(trainWithLabel[i]['label']) == 0):
-            print("LABEL EMPTY!")
-
-    countDict = {'DIF': 0, 'EQL': 0, 'SUP': 0, 'SUP+': 0, 'SUP-': 0, 'COM': 0, 'COM+': 0, 'COM-': 0}
-    for i in range(len(trainWithLabel)):
-        countDict[trainWithLabel[i]['label']] += 1
-    print("Label count: %s" % (countDict.__str__()))
-
-
-def txt2csvNew(path, splitName, curDir = curDir, idx = range(1, 61, 1)):
-    trainWithLabel = []
-    sentenceList = []
-    isComparative = []
-    prevSentence = False
-    # prevAltDes = False
-
-    for i in idx:
-        fileName = "/" + splitName + "_%04d.txt" % (i)
-        fileName = curDir + path + fileName
-        lineNo = 0
-
-        with open(fileName, 'r', encoding='utf8') as txtFile:
-            for line in txtFile:
-                lineNo += 1
-                if (line[:-1] != ''):
-                    try:
-                        data = ast.literal_eval(line)
-                        if isinstance(data, dict):
-                            trainWithLabel.append(data)
-                            isComparative.append(1)
-                            if (prevSentence):
-                                prevSentence = False
-                            else:
-                                sentenceList.append(sentenceList[-1])
-
-                    except:
-                        # prevAltDes = False
-                        if (prevSentence):
-                            trainWithLabel.append(
-                                {'subject': [], 'object': [], 'aspect': [], 'predicate': [], 'label': []})
-                            isComparative.append(0)
-
-                        sentenceList.append(line[:-1].split('\t')[0])
-                        prevSentence = True
-
-                        # if (line[:-1][:4] == "alt:"):
-                        # if ((line[:-1][:4] == "alt:") | (line[:-1][:4] == "des:")):
-                        # prevAltDes = True
-
-    trainWithLabel.append({'subject': [], 'object': [], 'aspect': [], 'predicate': [], 'label': []})
-    isComparative.append(0)
-
-    # Creating csv
-    subj = []
-    obj = []
-    asp = []
-    predicate = []
-    label = []
-
-    for i in range(len(trainWithLabel)):
-        subj.append(trainWithLabel[i]['subject'])
-        obj.append(trainWithLabel[i]['object'])
-        asp.append(trainWithLabel[i]['aspect'])
-        predicate.append(trainWithLabel[i]['predicate'])
-        label.append(trainWithLabel[i]['label'])
-
-    myData = pd.DataFrame(list(zip(sentenceList, isComparative, subj, obj, asp, predicate, label)),
-                          columns = ['Input sentence', 'isComparative', 'subject',
-                                     'object', 'aspect', 'predicate', 'label'])
-    return myData
-
-
-def createDataNERCSV(dataCSV, mode = 'training'):
+def createDataNERCSV(dataCSV, mode):
     # data = pd.read_csv(curDir + "//datasets//modified//preprocessed//VLSP23.csv", index_col="Unnamed: 0")
     data = dataCSV
 
@@ -255,7 +148,7 @@ def createDataNERCSV(dataCSV, mode = 'training'):
             data.at[i, 'aspect'] = segmentWordInList(ast.literal_eval(data.at[i, 'aspect']))
             data.at[i, 'predicate'] = segmentWordInList(ast.literal_eval(data.at[i, 'predicate']))
 
-    if (mode == 'training'):
+    if (mode == 'train'):
         # Select with label isComparative = True
         dataSelected = data[data['isComparative'] == 1]
 
@@ -331,15 +224,15 @@ def createDataNERCSV(dataCSV, mode = 'training'):
     myData1 = pd.DataFrame(list(zip(sentenceSegmentedConcat, labelIsComparative, labelNER, labelComparisonType)),
                           columns = ['Input sentence segmented', 'labelIsComparative', 'labelNER', 'labelComparisonType'])
 
-    if (mode == 'training'):
+    if (mode == 'train'):
         return myData, myData1
     elif (mode == 'inference'):
         return None, myData1
 
 
-def tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode = 'inference'):
+def tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode):
 
-    if (mode == 'training'):
+    if (mode == 'train'):
         # dataNER = pd.read_csv(curDir + "//datasets//modified//preprocessed//VLSP23_NER.csv", index_col="Unnamed: 0")
         dataNER = dataCSVIsComparative
 

@@ -1,7 +1,7 @@
 import numpy as np
 import torch.nn
 
-from libsAndPackages import *
+from utils.libsAndPackages import *
 
 num_isComparative_labels = 2
 num_NER_labels = len(label2id)
@@ -455,6 +455,8 @@ def train(model, num_epochs, trainLoader, valLoader, optimizer, device, **kwargs
 def inference(model, dataLoader, device):
 
     model.eval()
+
+
     for i, batch in enumerate(dataLoader):
         with (torch.no_grad()):
             (logitsIsComparative, logitsNER, logitsComparisonType) = forward(batch, model, device, mode = 'inference')
