@@ -10,7 +10,7 @@ num_labels = num_isComparative_labels + num_NER_labels + num_comparisonType_labe
 
 rdrSegmenter = py_vncorenlp.VnCoreNLP(annotators = ["wseg"], save_dir = curDir + "/vncorenlp")
 
-phobertFeatureExtractor = AutoModel.from_pretrained("vinai/phobert-base")
+# phobertFeatureExtractor = AutoModel.from_pretrained("vinai/phobert-base")
 phobertTokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", model_max_length = maxSeqLen)
 phobertTokenClassification = AutoModelForTokenClassification.from_pretrained(
     pretrained_model_name_or_path = "vinai/phobert-base",
@@ -414,18 +414,18 @@ def train(model, num_epochs, trainLoader, valLoader, optimizer, device, **kwargs
                     maskIsComparativeForNER, maskIsComparativeForComparisonType, maskNER
                 ))
 
-                (valLoss, valAccuracyIsComparative, valAccuracyNER, valAccuracyComparisonType,
-                 valPRF1_all, valMicroAvgF1_all) = evaluate(model, valLoader, lossCombine, device)
+                # (valLoss, valAccuracyIsComparative, valAccuracyNER, valAccuracyComparisonType,
+                #  valPRF1_all, valMicroAvgF1_all) = evaluate(model, valLoader, lossCombine, device)
 
                 tqdmTrainLoader.set_postfix(
                     training_loss = loss.item(),
                     training_accuracy_isComparative = accuracyIsComparative,
                     training_accuracy_NER = accuracyNER,
                     training_accuracy_comparisonType = accuracyComparisonType,
-                    validation_loss = valLoss.item(),
-                    validation_accuracy_isComparative = valAccuracyIsComparative,
-                    validation_accuracy_NER = valAccuracyNER,
-                    validation_accuracy_comparisonType = valAccuracyComparisonType,
+                    # validation_loss = valLoss.item(),
+                    # validation_accuracy_isComparative = valAccuracyIsComparative,
+                    # validation_accuracy_NER = valAccuracyNER,
+                    # validation_accuracy_comparisonType = valAccuracyComparisonType,
                 )
 
                 totalAccuracyIsComparative += accuracyIsComparative
@@ -445,14 +445,17 @@ def train(model, num_epochs, trainLoader, valLoader, optimizer, device, **kwargs
             % (totalAccuracyIsComparative / noBatch, totalAccuracyNER / noBatch, totalAccuracyComparisonType / noBatch,
                totalLoss / noBatch)
         )
-        lossAccLst.append(((totalLoss / noBatch,
-                         totalAccuracyIsComparative / noBatch, totalAccuracyNER / noBatch, totalAccuracyComparisonType / noBatch),
-                        (valLoss.item(),
-                         valAccuracyIsComparative, valAccuracyNER, valAccuracyComparisonType)))
+
+        lossAccLst.append((
+            (totalLoss / noBatch,
+             totalAccuracyIsComparative / noBatch, totalAccuracyNER / noBatch, totalAccuracyComparisonType / noBatch),
+            # (valLoss.item(),
+            #  valAccuracyIsComparative, valAccuracyNER, valAccuracyComparisonType)
+        ))
     return lossAccLst
 
 
-def inference(model, dataLoader, device, maxSeqLen = maxSeqLen):
+def getInferencePredictions(model, dataLoader, device, maxSeqLen = maxSeqLen):
 
     model.to(device)
     model.eval()
@@ -474,3 +477,174 @@ def inference(model, dataLoader, device, maxSeqLen = maxSeqLen):
 
     allPredConcat = torch.concat(allPredConcat)
     return (allPredConcat[:, 0].reshape((-1, 1)), allPredConcat[:, 1 : 193], allPredConcat[:, 193].reshape((-1, 1)))
+
+
+def loadModel(model, path):
+    model.load_state_dict(torch.load(path))
+    model.eval()
+
+
+def filterPredictions(nerPhoBERTTorchDataset, allPredIsComparative, allPredNER, allPredComparisonType):
+
+    allAttentionMask = nerPhoBERTTorchDataset.__getitem__(range(allPredIsComparative.shape[0]))['attention_mask']
+
+    # allInputIDs = nerPhoBERTTorchDataset.__getitem__(range(allPredIsComparative.shape[0]))['input_ids']
+    # allInputIDs = allInputIDs * allAttentionMask
+
+    allAttentionMask = allAttentionMask.cuda()
+    # allInputIDs = allInputIDs.cuda()
+
+    allPredNER = torch.where(allPredIsComparative.expand(allPredNER.shape) == 1, allPredNER, 4)
+    allPredNER = torch.where(allAttentionMask == 1, allPredNER, 4)
+    allPredNER = torch.where(allPredComparisonType.expand(allPredNER.shape) != 8, allPredNER, 4)
+
+    allPredComparisonType = torch.where(allPredIsComparative == 1, allPredComparisonType, 8)
+
+    return (allPredIsComparative, allPredNER, allPredComparisonType)
+
+
+def postProcessNERPredictions(allPredNER, allPredIsComparative, wordIndTAP, maxSeqLen = maxSeqLen):
+    postProcessNER = []
+    # postProcessWordIndTAP = []
+    for sentenceInd in range(allPredIsComparative.shape[0]):
+        prevWordInd = -1
+        tempPostNER = []
+        tempPostWordIndTAP = []
+        for tokInd in range(maxSeqLen):
+            if (wordIndTAP[sentenceInd][tokInd] is None):
+                pass
+            elif (isinstance(wordIndTAP[sentenceInd][tokInd], int)):
+                tempPostWordIndTAP.append(wordIndTAP[sentenceInd][tokInd])
+                if (prevWordInd == wordIndTAP[sentenceInd][tokInd]):
+                    pass
+                else:
+                    tempPostNER.append(allPredNER[sentenceInd, tokInd].item())
+                    prevWordInd = wordIndTAP[sentenceInd][tokInd]
+            else:
+                print("WARNING: WORD IDS NOT WORKING PROPERLY")
+        postProcessNER.append(deepcopy(tempPostNER))
+        # postProcessWordIndTAP.append(deepcopy(tempPostWordIndTAP))
+
+    return postProcessNER
+
+
+def getOutputNER(postProcessNER, segmentedOriginalSentence):
+    outputNER = []
+    for sentenceInd in range(len(segmentedOriginalSentence)):
+        tempOutputNER = []
+        segmentedWordList = segmentedOriginalSentence.loc[sentenceInd].split(" ")
+        countSpecial = 0
+
+        for segmentedWordInd in range(len(segmentedWordList)):
+            segmentedSubWordList = segmentedWordList[segmentedWordInd].split("_")
+
+            for count in range(len(segmentedSubWordList)):
+                if (segmentedSubWordList[count] == '\xa0'):
+                    tempOutputNER.append(4)
+                    countSpecial += 1
+                else:
+                    tempOutputNER.append(postProcessNER[sentenceInd][segmentedWordInd - countSpecial])
+
+        outputNER.append(tempOutputNER)
+
+    return outputNER
+
+
+def getSentenceListForPostProcess(segmentedOriginalSentence):
+    sentenceListForPostProcess = []
+    for sentenceInd in range(len(segmentedOriginalSentence)):
+        sentenceListForPostProcess.append(segmentedOriginalSentence[sentenceInd].replace('_', ' ').split(' '))
+
+    return sentenceListForPostProcess
+
+
+def getOutputForTxt(outputNER, allPredComparisonType, sentenceListForPostProcess):
+    outputForTxt = []
+
+    # outputNER, allPredComparisonType, sentenceListForPostProcess,
+    for sentenceInd in range(len(sentenceListForPostProcess)):
+        outpTxtTemp = {0: [], 1: [], 2: [], 3: [], 100: None}
+        sentence = sentenceListForPostProcess[sentenceInd]
+        outputNERForSentence = outputNER[sentenceInd]
+
+        if (len(outputNERForSentence) != len(sentence)):
+            print("WARNING: POST PROCESS DOES NOT MATCH")
+
+        outpTxtTemp[100] = allPredComparisonType[sentenceInd].item()
+        if (outpTxtTemp[100] != 8):
+            for wordInd in range(len(sentence)):
+                if (outputNERForSentence[wordInd] != 4):
+                    outpTxtTemp[outputNERForSentence[wordInd]].append((wordInd + 1, sentence[wordInd]))
+        outputForTxt.append(outpTxtTemp)
+
+    return outputForTxt
+
+
+def getsentenceIndCDNCCount(sentenceIndCDNC):
+    sentenceIndCDNCCount = []
+    i = 0
+    while (sentenceIndCDNC.count(i) != 0):
+        sentenceIndCDNCCount.append(sentenceIndCDNC.count(i))
+        i += 1
+    return sentenceIndCDNCCount
+
+
+def writeOutputTxt(outputForTxt, sentenceIndCDNCCount, pathOriginal, splitName, pathOut="/outputTxt", curDir=curDir,
+                   idx=range(1, 25, 1)):
+    os.system("rm -r .%s/*" % (pathOut))
+    countLine = 0
+    countAll = 0
+
+    for fileInd in idx:
+        fileName = "/" + splitName + "_%04d.txt" % (fileInd)
+        fileNameOriginal = curDir + pathOriginal + fileName
+        fileNameOut = curDir + pathOut + fileName
+
+        with open(fileNameOut, 'x', encoding='utf8') as outpTxtFile, \
+                open(fileNameOriginal, 'r', encoding='utf8') as originalTxtFile:
+
+            linesInOriginal = originalTxtFile.readlines()
+
+            for lineOriginal in linesInOriginal:
+                lineOriginalStripped = lineOriginal.strip("\n")
+
+                if (lineOriginalStripped == ''):
+                    pass
+                else:
+                    outpTxtFile.write("%s\n" % (lineOriginalStripped))
+
+                    # print(repr(lineOriginal))
+                    for sentenceIndCount in range(sentenceIndCDNCCount[countLine]):
+                        outpDict = outputForTxt[countAll]
+
+                        if ((((len(outpDict[0]) == 0) &
+                              (len(outpDict[1]) == 0) &
+                              (len(outpDict[2]) == 0) &
+                              (len(outpDict[3]) == 0))) | (outpDict[100] == 8)):
+                            pass
+
+                        else:
+                            tempDict = dict()
+                            for nerLab in range(4):
+
+                                tempDictVal = []
+                                for elem in outpDict[nerLab]:
+                                    outpStr = str(elem[0]) + "&&" + elem[1]
+                                    tempDictVal.append(outpStr)
+
+                                tempDict[id2label[nerLab]] = deepcopy(tempDictVal)
+                            tempDict["label"] = id2comparisonLabel[outpDict[100]]
+
+                            outpTxtFile.write("%s\n" % (json.dumps(tempDict, ensure_ascii=False)))
+
+                        countAll += 1
+                    outpTxtFile.write("\n")
+
+                    countLine += 1
+
+    print('Write output finished!')
+    pass
+
+
+
+

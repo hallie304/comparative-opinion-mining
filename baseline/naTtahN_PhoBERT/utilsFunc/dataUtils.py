@@ -4,14 +4,14 @@ import pandas as pd
 from utilsFunc.modelUtils import *
 
 
-def getTextFileGeneralInfo(version, path, splitName, curDir = curDir, idx = range(1, 61, 1), ):
+def getTextFileGeneralInfo(version, path, splitName, curDir = curDir, idx = range(1, 61, 1)):
     trainWithLabel = []
     sentenceList = []
     # prevAltDes = False
 
     for i in idx:
         fileName = "/" + splitName + "_%04d.txt" % (i)
-        fileName = path + curDir + fileName
+        fileName = curDir + path + fileName
         lineNo = 0
 
         with open(fileName, 'r', encoding='utf8') as txtFile:
@@ -95,7 +95,10 @@ def txt2csv(version, path, splitName, curDir = curDir, idx = range(1, 61, 1)):
                         if (version == 'old'):
                             sentenceList.append(line[:-1])
                         elif (version == 'new'):
-                            sentenceList.append(line[:-1].split('\t')[0])
+                            if (len(line[:-1].split('\t')[0]) == 0):
+                                sentenceList.append(line[:-1].split('\t')[1])
+                            else:
+                                sentenceList.append(line[:-1].split('\t')[0])
 
                         prevSentence = True
 
@@ -205,6 +208,9 @@ def createDataNERCSV(dataCSV, mode):
     dataSelected = data[data['isComparative'] == 0]
 
     sentenceSegmented = list(map(rdrSegmenter.word_segment, dataSelected['Input sentence']))
+    # for i in range(len(sentenceSegmented)):
+    #     if len(sentenceSegmented[i]) == 0:
+    #         sentenceSegmented[i].append('\xa0')
     sentenceSegmentedConcat = np.concatenate(sentenceSegmented)
 
     labelNER = []
@@ -214,10 +220,12 @@ def createDataNERCSV(dataCSV, mode):
     labelIsComparative = np.zeros_like(labelNER)
     labelComparisonType = []
 
-    sentenceInd = []
+    sentenceIndCDNC = []
     for i in range(len(sentenceSegmented)):
+        if (len(sentenceSegmented[i]) == 0):
+            sentenceIndCDNC.append(i)
         for j in range(len(sentenceSegmented[i])):
-            sentenceInd.append(i)
+            sentenceIndCDNC.append(i)
             labelComparisonType.append(comparisonLabel2id['<noClass>'])
     labelComparisonType = np.array(labelComparisonType)
 
@@ -229,7 +237,7 @@ def createDataNERCSV(dataCSV, mode):
     if (mode == 'train'):
         return myData, myData1
     elif (mode == 'inference'):
-        return None, myData1, sentenceInd
+        return None, myData1, sentenceIndCDNC
 
 
 def tokenizeAndProcess(dataCSVIsComparative, dataCSVNotIsComparative, mode):
