@@ -50,23 +50,22 @@ lr_scheduler = get_scheduler(
     name = "linear", optimizer = optimizer, num_warmup_steps = 0, num_training_steps = num_training_steps
 )
 
-
 trainLog = train(phobertTokenClassification, num_epochs, trainLoader, valLoader, optimizer, device, lr_scheduler = lr_scheduler)
 torch.save(phobertTokenClassification.state_dict(), "phobertFinetuned.pt")
 evaluate(phobertTokenClassification, testLoader, lossCombine, device)
 
 
-# 0 - train, 1 - val 
-# 0 - loss, 1 - isComparative, 2 = NER, 3 = comparisonType
-plotData = []
-plotData1 = []
-plotInfo = 0
-for i in range(num_epochs):
-    plotData.append(trainLog[i][0][plotInfo])
-    plotData1.append(trainLog[i][1][plotInfo])
-plt.plot(plotData)
-plt.plot(plotData1)
-plt.show()
-plt.savefig("lossGraph.png")
+# # 0 - train, 1 - val
+# # 0 - loss, 1 - isComparative, 2 = NER, 3 = comparisonType
+# plotData = []
+# plotData1 = []
+# plotInfo = 0
+# for i in range(num_epochs):
+#     plotData.append(trainLog[i][0][plotInfo])
+#     plotData1.append(trainLog[i][1][plotInfo])
+# plt.plot(plotData)
+# plt.plot(plotData1)
+# plt.show()
+# plt.savefig("lossGraph.png")
 
 
