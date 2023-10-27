@@ -17,7 +17,7 @@ Finetune multiple pre-trained Transformer-based models to solve the challenge of
                 - [Bert based multilingual cased](https://huggingface.co/bert-base-multilingual-cased)
                 - [NlpHUST/ner vietnamese electra base](https://huggingface.co/NlpHUST/ner-vietnamese-electra-base)
         - Post process:
-            - Relatively solve the multi labels sentence (multi quintuples for a sentence) by (1) split them to a quintuple consisting 4 list that contains all the subjects, objects, aspects, and predicates (see [function split_quintuple()]([baseline(0.1304)/postProcess/ensembling.ipynb](https://github.com/hallie304/VLSP23-Comparative-Opinion-Mining/blob/main/baseline(0.1304)/postProcess/ensembling.ipynb))) and (2) generate the combination of them, which then inherit the same preference label.
+            - Relatively solve the multi labels sentence (multi quintuples for a sentence) by (1) split them to a quintuple consisting 4 list that contains all the subjects, objects, aspects, and predicates (see [function split_quintuple()](postProcess/ensembling.ipynb) and (2) generate the combination of them, which then inherit the same preference label.
             - Solve the situation when the subject and object are the same (which contains "cả hai" or "cả 2")
         - Current restriction (to be updated):
             - The final preference label are the same for all quintuple of a sentence. This make the multi label sentence output rarely correct.
@@ -26,4 +26,4 @@ Finetune multiple pre-trained Transformer-based models to solve the challenge of
             - Enrich the data.
             - Review dictionaries for predicates.
             - Build a multihead model.
-        - Results: E-T5-MACRO-F1: 0.130400 (see [details]([baseline(0.1304)/Output/scores.txt](https://github.com/hallie304/VLSP23-Comparative-Opinion-Mining/blob/main/baseline(0.1304)/Output/scores.txt)https://github.com/hallie304/VLSP23-Comparative-Opinion-Mining/blob/main/baseline(0.1304)/Output/scores.txt))
+        - Results: E-T5-MACRO-F1: 0.130400 (see [details](Output/scores.txt))
