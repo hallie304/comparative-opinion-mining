@@ -1,0 +1,147 @@
+title : So sánh Oppo và Samsung cái nào tốt hơn xài bền pin trâu selfie đẹp
+
+Ở phân khúc điện thoại tầm trung , có thể nói Samsung và Oppo là hai đối thủ sừng sỏ , đáng gờm của nhau .
+{"subject": ["12&&Samsung"], "object": [], "aspect": [], "predicate": ["17&&đối", "18&&thủ", "19&&sừng", "20&&sỏ", "21&&,", "22&&đáng", "23&&gờm", "24&&của", "25&&nhau"], "label": "SUP+"}
+{"subject": ["14&&Oppo"], "object": [], "aspect": [], "predicate": ["17&&đối", "18&&thủ", "19&&sừng", "20&&sỏ", "21&&,", "22&&đáng", "23&&gờm", "24&&của", "25&&nhau"], "label": "SUP+"}
+
+Vậy dựa vào tiêu chí gì để nhận định Oppo và Samsung cái nào tốt hơn ?
+
+1 .
+
+So sánh điện thoại Oppo và Samsung cái nào tốt hơn
+
+1.1 .
+
+So sánh về thiết kế kiểu dáng
+
+Tất cả dòng smartphone model đời mới xuất hiện trên thị trường không ngừng biến chuyển , đổi mới về thiết kế , tính năng .
+
+Cả hai sản phẩm Oppo F9 và Samsung Galaxy J8 không nằm ngoài xu thế đó , đều có vỏ ngoài được làm bằng nhựa nguyên khối với trọng lượng khá nhẹ .
+{"subject": ["5&&Oppo", "6&&F9"], "object": ["8&&Samsung", "9&&Galaxy", "10&&J8"], "aspect": ["20&&vỏ", "21&&ngoài"], "predicate": ["11&&không", "12&&nằm", "13&&ngoài", "14&&xu", "15&&thế"], "label": "EQL"}
+{"subject": ["5&&Oppo", "6&&F9"], "object": ["8&&Samsung", "9&&Galaxy", "10&&J8"], "aspect": ["24&&bằng", "25&&nhựa", "26&&nguyên", "27&&khối"], "predicate": ["18&&đều", "19&&có"], "label": "EQL"}
+
+Nút nguồn được đặt ở bên phải , các tăng giảm âm lượng được đặt ở bên trái thuận tiện cho việc cầm nắm và sử dụng của người dùng .
+
+Điểm khác nhau giữa Oppo và Samsung có thể nhận thấy từ phía sau khi camera kép của Oppo F9 được đặt theo chiều ngang , còn camera kép của Samsung J8 thì đặt theo chiều dọc .
+{"subject": ["5&&Oppo"], "object": ["7&&Samsung"], "aspect": [], "predicate": ["1&&Điểm", "2&&khác", "3&&nhau"], "label": "DIF"}
+{"subject": ["5&&Oppo"], "object": ["19&&Oppo", "20&&F9"], "aspect": [], "predicate": ["1&&Điểm", "2&&khác", "3&&nhau"], "label": "DIF"}
+{"subject": ["5&&Oppo"], "object": ["31&&Samsung", "32&&J8"], "aspect": [], "predicate": ["1&&Điểm", "2&&khác", "3&&nhau"], "label": "DIF"}
+
+Ngoài ra , điện thoại Oppo F9 nhẹ hơn so với Samsung Galaxy J8 ( Oppo F9 nặng 158g còn Samsung Galaxy J8 nặng 191g ) .
+{"subject": ["4&&điện", "5&&thoại", "6&&Oppo", "7&&F9"], "object": ["12&&Samsung", "13&&Galaxy", "14&&J8"], "aspect": [], "predicate": ["8&&nhẹ", "9&&hơn"], "label": "COM+"}
+{"subject": ["4&&điện", "5&&thoại", "6&&Oppo", "7&&F9"], "object": ["21&&Samsung", "22&&Galaxy", "23&&J8"], "aspect": [], "predicate": ["8&&nhẹ", "9&&hơn"], "label": "COM+"}
+
+Cầm trên tay chiếc smartphone chuyên selfie Oppo F9 có kích thước dài 156 mm – ngang 75.3 mm – dày 7.8 mm , còn Samsung J8 có kích thước dài 159.2 mm – ngang 75.7 mm – dày 8.2 mm .
+
+Dễ nhận thấy , Samsung J8 dài và dày hơn so với Oppo F9 đôi chút .
+{"subject": ["5&&Samsung", "6&&J8"], "object": ["13&&Oppo", "14&&F9"], "aspect": [], "predicate": ["7&&dài", "8&&và", "9&&dày", "10&&hơn"], "label": "COM+"}
+
+alt : so sánh điện thoại oppo và samsung
+
+des :
+
+1.2 .
+
+So sánh về màn hình
+
+Những đánh giá khách quan về điện thoại Samsung Galaxy J8 cho thấy sản phẩm có kích thước màn hình là 6 inch , độ phân giải HD + ( 720 × 1480 Pixels ) , công nghệ màn hình Super AMOLED .
+
+Trong khi đó , điện thoại Oppo F9 có kích thước màn hình là 6.3 inch , độ phân giải Full HD + ( 1080 x 2340 Pixels ) và công nghệ màn hình LTPS LCD .
+
+Như vậy có thể thấy , Oppo F9 có kích thước màn hình lớn hơn và độ phân giải cao hơn Samsung Galaxy J8 .
+{"subject": ["7&&Oppo", "8&&F9"], "object": ["22&&Samsung", "23&&Galaxy", "24&&J8"], "aspect": ["10&&kích", "11&&thước", "12&&màn", "13&&hình"], "predicate": ["14&&lớn", "15&&hơn"], "label": "COM+"}
+{"subject": ["7&&Oppo", "8&&F9"], "object": ["22&&Samsung", "23&&Galaxy", "24&&J8"], "aspect": ["17&&độ", "18&&phân", "19&&giải"], "predicate": ["20&&cao", "21&&hơn"], "label": "COM+"}
+
+alt : ưu điểm của điện thoại oppo
+
+des :
+
+1.3 .
+
+So sánh về thông số kỹ thuật
+
+Để biết Oppo và Samsung cái nào tốt hơn bạn có thể dựa vào các thông số kỹ thuật của hai chiếc điện thoại này .
+
+Điện thoại Oppo F9 được trang bị chip MediaTek Helio P60 với tốc độ xử lý 2.0 GHz .
+
+Máy chạy trên hệ điều hành Android 8.1 hiện đại .
+
+Trong khi đó , điện thoại Samsung Galaxy J8 được trang bị chip Qualcomm Snapdragon 450 tám nhân với tốc độ xử lý 1.8 GHz .
+
+Máy chạy trên hệ điều hành Android 8.0 .
+
+Như vậy có thể thấy , cấu hình của Oppo F9 có “ nhỉnh ” hơn đôi chút so với Samsung J8 bởi tốc độ xử lý của CPU nhanh hơn , hệ điều hành của Oppo F9 là Android 8.1 cao hơn Android 8.0 của Samsung Galaxy J8 .
+{"subject": ["10&&Oppo", "11&&F9"], "object": ["21&&Samsung", "22&&J8"], "aspect": ["7&&cấu", "8&&hình"], "predicate": ["13&&“", "14&&nhỉnh", "15&&”", "16&&hơn", "17&&đôi", "18&&chút"], "label": "COM+"}
+{"subject": ["33&&hệ", "34&&điều", "35&&hành", "36&&của", "37&&Oppo", "38&&F9"], "object": ["47&&Samsung", "48&&Galaxy", "49&&J8"], "aspect": ["24&&tốc", "25&&độ", "26&&xử", "27&&lý"], "predicate": ["30&&nhanh", "31&&hơn"], "label": "COM+"}
+{"subject": ["10&&Oppo", "11&&F9", "33&&hệ", "34&&điều", "35&&hành", "36&&của", "37&&Oppo", "38&&F9"], "object": ["21&&Samsung", "22&&J8", "47&&Samsung", "48&&Galaxy", "49&&J8"], "aspect": ["29&&CPU"], "predicate": ["42&&cao", "43&&hơn"], "label": "COM+"}
+
+1.4 .
+
+So sánh Oppo và Samsung qua RAM và ROM
+
+Điện thoại Oppo F9 được trang bị RAM 4GB , bộ nhớ trong 64GB và thẻ nhớ MicroSD , hỗ trợ tối đa tới 256 GB .
+
+Trong khi đó , Samsung J8 được trang bị RAM 3GB , bộ nhớ trong 32GB và thẻ nhớ MicroSD , hỗ trợ tối đa tới 256 GB .
+
+Như vậy , dung lượng thẻ nhớ của hai chiếc điện thoại này là như nhau .
+{"subject": [], "object": ["9&&hai", "10&&chiếc", "11&&điện", "12&&thoại", "13&&này"], "aspect": ["4&&dung", "5&&lượng", "6&&thẻ", "7&&nhớ"], "predicate": ["14&&là", "15&&như", "16&&nhau"], "label": "EQL"}
+
+Nhưng RAM và ROM của Oppo F9 gần như gấp đôi dung lượng so với Samsung J8 .
+{"subject": ["6&&Oppo", "7&&F9"], "object": ["16&&Samsung", "17&&J8"], "aspect": ["2&&RAM"], "predicate": ["8&&gần", "9&&như", "10&&gấp", "11&&đôi"], "label": "COM+"}
+{"subject": ["6&&Oppo", "7&&F9"], "object": ["16&&Samsung", "17&&J8"], "aspect": ["4&&ROM"], "predicate": ["8&&gần", "9&&như", "10&&gấp", "11&&đôi"], "label": "COM+"}
+{"subject": ["6&&Oppo", "7&&F9"], "object": ["16&&Samsung", "17&&J8"], "aspect": ["12&&dung", "13&&lượng"], "predicate": ["8&&gần", "9&&như", "10&&gấp", "11&&đôi"], "label": "COM+"}
+
+Đây cũng là một trong những lý do bạn nên cân nhắc và chọn mua smartphone Oppo F9 .
+
+1.5 .
+
+So sánh về dung lượng pin
+
+Cả Oppo F9 và Samsung Galaxy J8 đều được trang bị pin Li-on hiện đại với dung lượng 3500mAh , giúp sạc pin nhanh , hiệu quả sử dụng cao và không có tính năng nhớ số lần sạc nên thường không bị chai pin .
+{"subject": ["2&&Oppo", "3&&F9"], "object": ["5&&Samsung", "6&&Galaxy", "7&&J8"], "aspect": ["12&&pin", "13&&Li-on", "14&&hiện", "15&&đại"], "predicate": ["8&&đều", "9&&được", "10&&trang", "11&&bị"], "label": "EQL"}
+
+Tuy nhiên , Oppo F9 được thiết kế thêm tính năng sạc pin nhanh , còn Samsung Galaxy J8 thì không có tính năng này .
+{"subject": [], "object": ["4&&Oppo", "5&&F9"], "aspect": [], "predicate": ["21&&không", "22&&có"], "label": "DIF"}
+{"subject": [], "object": ["17&&Samsung", "18&&Galaxy", "19&&J8"], "aspect": [], "predicate": ["21&&không", "22&&có"], "label": "DIF"}
+
+1.6 .
+
+So sánh điện thoại Oppo và samsung về Camera
+
+Oppo F9 và Samsung J8 đều được thiết kế camera kép ở phía sau với thông số gần bằng nhau .
+{"subject": ["1&&Oppo", "2&&F9"], "object": ["4&&Samsung", "5&&J8"], "aspect": ["10&&camera", "11&&kép", "12&&ở", "13&&phía", "14&&sau"], "predicate": ["6&&đều", "7&&được", "8&&thiết", "9&&kế"], "label": "EQL"}
+{"subject": ["1&&Oppo", "2&&F9"], "object": ["4&&Samsung", "5&&J8"], "aspect": ["16&&thông", "17&&số"], "predicate": ["18&&gần", "19&&bằng", "20&&nhau"], "label": "EQL"}
+
+Camera sau của Oppo F9 là 16MP và 2MP còn của Samsung Galaxy J8 là 16 MP và 5 MP .
+
+Tuy nhiên , camera trước của Oppo lên tới 20MP còn của Samsung Galaxy J8 chỉ dừng lại ở con số 16MP .
+
+Như vậy , nếu các tín đồ sống ảo được lựa chọn thì có lẽ Oppo F9 sẽ dễ vào “ tầm ngắm ” hơn .
+
+1.7 .
+
+So sánh qua giá bán
+
+Người dùng có thể sở hữu điện thoại Samsung Galaxy J8 với mức giá khoảng 6.290.000 VNĐ .
+
+Trong khi đó , điện thoại Oppo F9 có giá nhỉnh hơn đôi chút , khoảng 7.690.000 VNĐ .
+{"subject": ["5&&điện", "6&&thoại", "7&&Oppo", "8&&F9"], "object": [], "aspect": ["10&&giá"], "predicate": ["11&&nhỉnh", "12&&hơn", "13&&đôi", "14&&chút"], "label": "COM+"}
+
+alt : điện thoại samsung có chất lượng tốt
+
+des :
+
+2 .
+
+Nên mua điện thoại Oppo hay Samsung ?
+
+Dựa vào những tiêu chí so sánh trên chắc hẳn bạn đã biết được Oppo và Samsung cái nào tốt hơn rồi đúng không ?
+
+Việc lựa chọn sản phẩm nào sẽ tùy thuộc vào nhu cầu và sở thích của người dùng .
+
+Nếu tài chính của bạn ở tầm trung , bạn không cần sử dụng camera trước để “ sống ảo ” , không cần đến cấu hình điện thoại quá cao mà chỉ cần đáp ứng đủ việc đọc báo , lướt web , đăng nhập mạng xã hội , xem video … thì có thể lựa chọn điện thoại Samsung Galaxy J8 .
+
+Còn nếu tài chính của bạn tốt hơn , muốn máy điện thoại có cấu hình cao hơn , camera trước tốt hơn để có những bức ảnh selfie tuyệt đẹp thì đừng quên các các sản phẩm công nghệ hãng Oppo luôn là sự lựa chọn tiên quyết nhé .
+
+Hi vọng với những thông tin đã chia sẻ ở trên bạn đã biết được Oppo và Samsung cái nào tốt hơn và có sự lựa chọn phù hợp với mình .
+
