@@ -1,7 +1,8 @@
 # VLSP 2023: Comparative Opinion Mining from Vietnamese Product Reviews
-Finetune pre-trained Transformer-based models for a VLSP2023 shared task - Comparative Opinion Mining from Vietnamese Product Reviews.
+Finetune multiple pre-trained Transformer-based models to solve the challenge of Comparative Opinion Mining from Vietnamese Product Reviews in the VLSP2023 shared task.
 
 - Current baseline:
+    - [ ] Huggingface Transformers: 3 separated backbones for 3 tasks
         - Pre-tokenization: [RDRsegmenter](https://github.com/datquocnguyen/RDRsegmenter): currently using [py-vncorenlp](https://github.com/vncorenlp/VnCoreNLP) implementation.
         - Tokenization: 3 main tokenizers 
             - [PhoBERT tokenizer](https://huggingface.co/docs/transformers/model_doc/phobert)
@@ -26,4 +27,3 @@ Finetune pre-trained Transformer-based models for a VLSP2023 shared task - Compa
             - Review dictionaries for predicates.
             - Build a multihead models.
         - Results: E-T5-MACRO-F1: 0.130400 (see [details](baseline(0.1304)/Output/scores.txt))
-            
