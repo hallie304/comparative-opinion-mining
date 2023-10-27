@@ -2,7 +2,6 @@
 Finetune pre-trained Transformer-based models for a VLSP2023 shared task - Comparative Opinion Mining from Vietnamese Product Reviews.
 
 - Current baseline:
-    - [ ] PhoBERT: Huggingface Transformers:
         - Pre-tokenization: [RDRsegmenter](https://github.com/datquocnguyen/RDRsegmenter): currently using [py-vncorenlp](https://github.com/vncorenlp/VnCoreNLP) implementation.
         - Tokenization: 3 main tokenizers 
             - [PhoBERT tokenizer](https://huggingface.co/docs/transformers/model_doc/phobert)
