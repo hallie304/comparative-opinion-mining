@@ -3,7 +3,7 @@ Finetune multiple pre-trained Transformer-based models to solve the challenge of
 
 - Current baseline:
     - [ ] Huggingface Transformers: 3 separated backbones for 3 tasks
-        - Pre-tokenization: [RDRsegmenter](https://github.com/datquocnguyen/RDRsegmenter): currently using [py-vncorenlp](https://github.com/vncorenlp/VnCoreNLP) implementation.
+        - Pre-tokenization: [RDRsegmenter](https://github.com/datquocnguyen/RDRsegmenter): currently using [py-vncorenlp](https://github.com/vncorenlp/VnCoreNLP) implementation. (using only for PhoBERT)
         - Tokenization: 3 main tokenizers 
             - [PhoBERT tokenizer](https://huggingface.co/docs/transformers/model_doc/phobert)
             - [Bert based multilingual cased](https://huggingface.co/bert-base-multilingual-cased)
@@ -21,9 +21,9 @@ Finetune multiple pre-trained Transformer-based models to solve the challenge of
             - Solve the situation when the subject and object are the same (which contains "cả hai" or "cả 2")
         - Current restriction (to be updated):
             - The final preference label are the same for all quintuple of a sentence. This make the multi label sentence output rarely correct.
-            - Ensembling for task 1 and 3. 
+            - Ensemble for task 1 and 3. 
             - Have normalized tensor when ensembling but not yet implemented. 
             - Enrich the data.
             - Review dictionaries for predicates.
-            - Build a multihead models.
+            - Build a multihead model.
         - Results: E-T5-MACRO-F1: 0.130400 (see [details](baseline(0.1304)/Output/scores.txt))
