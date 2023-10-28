@@ -1,0 +1,110 @@
+title: Lý do Galaxy S10 Plus vẫn là một chiếc flagship đáng mua: Vô địch tầm giá dưới 12 triệu về thiết kế và camera	title : Lý do Galaxy S10 Plus vẫn là một chiếc flagship đáng mua : Vô địch tầm giá dưới 12 triệu về thiết kế và camera
+
+Với mức giá đã “mềm” hơn, cùng những thông số phần cứng của một chiếc flagship, rất nhiều người đang phân vân có nên mua Galaxy S10 Plus và đây là câu trả lời.	Với mức giá đã “ mềm ” hơn , cùng những thông số phần cứng của một chiếc flagship , rất nhiều người đang phân vân có nên mua Galaxy S10 Plus và đây là câu trả lời .
+
+Là một flagship với tuổi đời 1 năm rưỡi, tới giờ Samsung Galaxy S10 Plus vẫn khẳng định mình là chiếc smartphone vô cùng đáng mua và có mức giá cũng rất hấp dẫn.	Là một flagship với tuổi đời 1 năm rưỡi , tới giờ Samsung Galaxy S10 Plus vẫn khẳng định mình là chiếc smartphone vô cùng đáng mua và có mức giá cũng rất hấp dẫn .
+
+Thậm chí trong tầm giá dưới 12 triệu, đây chắc chắn sẽ là nhà vô địch về nhiều mặt như hiển thị, thiết kế và camera.	Thậm chí trong tầm giá dưới 12 triệu , đây chắc chắn sẽ là nhà vô địch về nhiều mặt như hiển thị , thiết kế và camera .
+{"subject": ["10&&đây"], "object": [], "aspect": ["22&&hiển", "23&&thị"], "predicate": ["14&&là", "15&&nhà", "16&&vô", "17&&địch"], "label": "SUP+"}
+{"subject": ["10&&đây"], "object": [], "aspect": ["25&&thiết", "26&&kế"], "predicate": ["14&&là", "15&&nhà", "16&&vô", "17&&địch"], "label": "SUP+"}
+{"subject": ["10&&đây"], "object": [], "aspect": ["28&&camera"], "predicate": ["14&&là", "15&&nhà", "16&&vô", "17&&địch"], "label": "SUP+"}
+
+Nếu bạn đang tìm một chiếc điện thoại dung hoà đủ 3 yếu tố thiết kế đẹp – cấu hình khoẻ – camera tốt trong tầm giá dưới 12 triệu đồng, có lẽ Galaxy S10 Plus là cái tên đầu tiên bạn nên nghĩ tới.	Nếu bạn đang tìm một chiếc điện thoại dung hoà đủ 3 yếu tố thiết kế đẹp – cấu hình khoẻ – camera tốt trong tầm giá dưới 12 triệu đồng , có lẽ Galaxy S10 Plus là cái tên đầu tiên bạn nên nghĩ tới .
+
+Vô địch tầm giá về thiết kế	Vô địch tầm giá về thiết kế
+
+So với những sản phẩm cùng phân khúc giá, khó có chiếc điện thoại nào có thể đọ được với Galaxy S10 Plus về mặt thẩm mỹ và mức độ hoàn thiện.	So với những sản phẩm cùng phân khúc giá , khó có chiếc điện thoại nào có thể đọ được với Galaxy S10 Plus về mặt thẩm mỹ và mức độ hoàn thiện .
+{"subject": ["3&&những", "4&&sản", "5&&phẩm", "6&&cùng", "7&&phân", "8&&khúc", "9&&giá"], "object": ["22&&Galaxy", "23&&S10", "24&&Plus"], "aspect": ["27&&thẩm", "28&&mỹ"], "predicate": ["11&&khó", "12&&có", "13&&chiếc", "14&&điện", "15&&thoại", "16&&nào", "17&&có", "18&&thể", "19&&đọ", "20&&được"], "label": "COM-"}
+{"subject": ["3&&những", "4&&sản", "5&&phẩm", "6&&cùng", "7&&phân", "8&&khúc", "9&&giá"], "object": ["22&&Galaxy", "23&&S10", "24&&Plus"], "aspect": ["30&&mức", "31&&độ", "32&&hoàn", "33&&thiện"], "predicate": ["11&&khó", "12&&có", "13&&chiếc", "14&&điện", "15&&thoại", "16&&nào", "17&&có", "18&&thể", "19&&đọ", "20&&được"], "label": "COM-"}
+
+alt: Samsung-Galaxy-S10-Plus-red-reflection-at-angle	alt : Samsung-Galaxy-S10 - Plus-red-reflection-at-angle
+
+des:	des :
+
+Tổng thể thiết kế Galaxy S10 Plus sử dụng hai mặt kính cường lực Gorilla Glass cực bền, ép vào khung viền kim loại được hoàn thiện sáng bóng.	Tổng thể thiết kế Galaxy S10 Plus sử dụng hai mặt kính cường lực Gorilla Glass cực bền , ép vào khung viền kim loại được hoàn thiện sáng bóng .
+
+Kiểu thiết kế này của Samsung sẵn sàng làm bất cứ ai nhìn vào cũng phải “xiêu lòng”, tạo ra vẻ ngoài vô cùng sang trọng.	Kiểu thiết kế này của Samsung sẵn sàng làm bất cứ ai nhìn vào cũng phải “ xiêu lòng ” , tạo ra vẻ ngoài vô cùng sang trọng .
+
+Chiếc smartphone này cũng xuất hiện trong hàng loạt “bộ cánh” đủ sắc màu khác nhau bao gồm xanh ngọc lục bảo, trắng pha lê và đen ngân hà.	Chiếc smartphone này cũng xuất hiện trong hàng loạt “ bộ cánh ” đủ sắc màu khác nhau bao gồm xanh ngọc lục bảo , trắng pha lê và đen ngân hà .
+
+Hiếm có chiếc smartphone nào đạt được tiêu chuẩn “tràn viền” như Galaxy S10 Plus.	Hiếm có chiếc smartphone nào đạt được tiêu chuẩn “ tràn viền ” như Galaxy S10 Plus .
+{"subject": ["4&&smartphone"], "object": ["15&&Galaxy", "16&&S10", "17&&Plus"], "aspect": ["8&&tiêu", "9&&chuẩn", "10&&“", "11&&tràn", "12&&viền", "13&&”"], "predicate": ["1&&Hiếm", "2&&có", "3&&chiếc", "4&&smartphone", "5&&nào", "6&&đạt", "7&&được", "8&&tiêu", "9&&chuẩn", "10&&“", "11&&tràn", "12&&viền", "13&&”"], "label": "COM-"}
+
+Sở hữu màn hình Dynamic AMOLED được uốn cong về hai cạnh, với phần viền được làm siêu mỏng và không hề có một chiếc tai thỏ nào như cách nhiều hãng smartphone theo đuổi, Galaxy S10 Plus sở hữu một mặt trước gần như chỉ có màn hình, với độ bao phủ lên tới 88.9%.	Sở hữu màn hình Dynamic AMOLED được uốn cong về hai cạnh , với phần viền được làm siêu mỏng và không hề có một chiếc tai thỏ nào như cách nhiều hãng smartphone theo đuổi , Galaxy S10 Plus sở hữu một mặt trước gần như chỉ có màn hình , với độ bao phủ lên tới 88.9% .
+{"subject": ["38&&Galaxy", "39&&S10", "40&&Plus"], "object": ["32&&nhiều", "33&&hãng", "34&&smartphone"], "aspect": ["25&&một", "26&&chiếc", "27&&tai", "28&&thỏ"], "predicate": ["22&&không", "23&&hề", "24&&có", "25&&một", "26&&chiếc", "27&&tai", "28&&thỏ", "29&&nào"], "label": "DIF"}
+
+Thứ duy nhất chiếm đi một chút không gian mặt trước là cụm camera trước được đặt thông minh ở một góc màn hình, giúp cản trở tối thiểu trải nghiệm hình ảnh của người dùng.	Thứ duy nhất chiếm đi một chút không gian mặt trước là cụm camera trước được đặt thông minh ở một góc màn hình , giúp cản trở tối thiểu trải nghiệm hình ảnh của người dùng .
+
+alt:	alt :
+
+des:	des :
+
+Ơn trời, cổng tai nghe 3.5mm đang dần trở nên hiếm thấy trong nhiều năm nay vẫn được Samsung giữ lại trên chiếc flagship của mình.	Ơn trời , cổng tai nghe 3.5mm đang dần trở nên hiếm thấy trong nhiều năm nay vẫn được Samsung giữ lại trên chiếc flagship của mình .
+
+Hơn thế nữa, nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng khá nước và bụi bẩn trong tầm tiền này, Galaxy S10 Plus chắc chắc sẽ không làm bạn thất vọng với tiêu chuẩn IP68.	Hơn thế nữa , nếu bạn đang tìm kiếm một chiếc điện thoại có khả năng khá nước và bụi bẩn trong tầm tiền này , Galaxy S10 Plus chắc chắc sẽ không làm bạn thất vọng với tiêu chuẩn IP68 .
+
+Vẫn khẳng định top đầu về chất lượng màn hình	Vẫn khẳng định top đầu về chất lượng màn hình
+{"subject": [], "object": [], "aspect": ["7&&chất", "8&&lượng", "9&&màn", "10&&hình"], "predicate": ["4&&top", "5&&đầu"], "label": "SUP+"}
+
+Màn hình của S10 Plus là một trong số những chiếc điện thoại được đánh giá cao nhất về chất lượng.	Màn hình của S10 Plus là một trong số những chiếc điện thoại được đánh giá cao nhất về chất lượng .
+{"subject": ["4&&S10", "5&&Plus"], "object": [], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["14&&được", "15&&đánh", "16&&giá", "17&&cao", "18&&nhất", "19&&về", "20&&chất", "21&&lượng"], "label": "SUP+"}
+{"subject": ["1&&Màn", "2&&hình", "3&&của", "4&&S10", "5&&Plus"], "object": [], "aspect": ["20&&chất", "21&&lượng"], "predicate": ["14&&được", "15&&đánh", "16&&giá", "17&&cao", "18&&nhất"], "label": "SUP+"}
+
+Độ phân giải QuadHD+ trên một không gian rộng 6,4 inch cho mật độ điểm ảnh cao lên tới 522ppi cho hình ảnh siêu sắc nét.	Độ phân giải QuadHD + trên một không gian rộng 6,4 inch cho mật độ điểm ảnh cao lên tới 522ppi cho hình ảnh siêu sắc nét .
+
+Công nghệ Dynamic AMOLED cũng giúp Galaxy S10 Plus hiển thị hình ảnh rực rỡ, độ tương phản vô cực và một màu đen cực sâu.	Công nghệ Dynamic AMOLED cũng giúp Galaxy S10 Plus hiển thị hình ảnh rực rỡ , độ tương phản vô cực và một màu đen cực sâu .
+
+Màn hình này hỗ trợ công nghệ HDR10, giúp nâng cao trải nghiệm nội dung HDR của người dùng vô cùng sống động.	Màn hình này hỗ trợ công nghệ HDR10 , giúp nâng cao trải nghiệm nội dung HDR của người dùng vô cùng sống động .
+
+alt:	alt :
+
+des:	des :
+
+Samsung Galaxy S10 Plus được trang bị cảm biến vân tay siêu âm dưới màn hình.	Samsung Galaxy S10 Plus được trang bị cảm biến vân tay siêu âm dưới màn hình .
+
+Đây vẫn là một phương thức bảo mật vô cùng đáng tin cậy, hơn hẳn việc mở khoá bằng khuôn mặt vốn dễ bị đánh lừa bởi một bức ảnh của chủ nhân.	Đây vẫn là một phương thức bảo mật vô cùng đáng tin cậy , hơn hẳn việc mở khoá bằng khuôn mặt vốn dễ bị đánh lừa bởi một bức ảnh của chủ nhân .
+
+Cảm biến vân tay này vẫn đem lại một tốc độ đủ nhanh và không phát ra nhiều ánh sáng, giảm đi tình trạng burn-in và gây hại cho mắt trong bóng tối.	Cảm biến vân tay này vẫn đem lại một tốc độ đủ nhanh và không phát ra nhiều ánh sáng , giảm đi tình trạng burn-in và gây hại cho mắt trong bóng tối .
+
+Camera vẫn rất tốt với nhiều tính năng đỉnh cao	Camera vẫn rất tốt với nhiều tính năng đỉnh cao
+
+Mặc dù đã ra mắt từ 1 năm trước, Galaxy S10 Plus vẫn sở hữu đầy đủ những phần cứng camera đỉnh cao.	Mặc dù đã ra mắt từ 1 năm trước , Galaxy S10 Plus vẫn sở hữu đầy đủ những phần cứng camera đỉnh cao .
+
+Cụm camera của máy bao gồm một cảm biến chính 12MP, một camera góc siêu rộng 16MP và camera tele 12MP.	Cụm camera của máy bao gồm một cảm biến chính 12MP , một camera góc siêu rộng 16MP và camera tele 12MP .
+
+Samsung cũng trang bị cho camera của máy hàng loạt công nghệ tân tiến như khả năng mở khẩu độ tới f/1.5, lấy nét Dual Pixel, chống rung quang học OIS.	Samsung cũng trang bị cho camera của máy hàng loạt công nghệ tân tiến như khả năng mở khẩu độ tới f / 1.5 , lấy nét Dual Pixel , chống rung quang học OIS .
+
+Kết quả là những bức ảnh sắc nét ngay cả trong điều kiện ánh sáng phức tạp như ban đêm hay trong nhà.	Kết quả là những bức ảnh sắc nét ngay cả trong điều kiện ánh sáng phức tạp như ban đêm hay trong nhà .
+
+Camera trước có góc rộng và độ phân giải 10MP, được trang bị những tính năng làm đẹp tự động để “tút” lại chân dung.	Camera trước có góc rộng và độ phân giải 10MP , được trang bị những tính năng làm đẹp tự động để “ tút ” lại chân dung .
+
+alt:	alt :
+
+des:	des :
+
+Galaxy S10 Plus cũng có thể quay phim ở độ phân giải tối đa 4K tại 60 khung hình/giây vô cùng sắc nét và mượt mà.	Galaxy S10 Plus cũng có thể quay phim ở độ phân giải tối đa 4K tại 60 khung hình / giây vô cùng sắc nét và mượt mà .
+
+Về măt phần mềm, Samsung đã trang bị trang bị nhiều tính năng vô cùng hữu ích cho camera của máy bao gồm Live Focus, tự động nhận diện 30 cảnh khác nhau bằng AI.	Về măt phần mềm , Samsung đã trang bị trang bị nhiều tính năng vô cùng hữu ích cho camera của máy bao gồm Live Focus , tự động nhận diện 30 cảnh khác nhau bằng AI .
+
+Khi cập nhật lên Android 10, Galaxy S10 Plus cũng sở hữu tính năng chụp ảnh Single Take thời thượng tương tự như S20 Series.	Khi cập nhật lên Android 10 , Galaxy S10 Plus cũng sở hữu tính năng chụp ảnh Single Take thời thượng tương tự như S20 Series .
+{"subject": ["8&&Galaxy", "9&&S10", "10&&Plus"], "object": ["25&&S20", "26&&Series"], "aspect": ["14&&tính", "15&&năng", "16&&chụp", "17&&ảnh", "18&&Single", "19&&Take"], "predicate": ["11&&cũng", "12&&sở", "13&&hữu"], "label": "EQL"}
+
+Hiệu năng rất ổn và thời lượng pin tốt	Hiệu năng rất ổn và thời lượng pin tốt
+
+Galaxy S10 Plus sử dụng SoC “cây nhà lá vườn” Exynos 9820 8 nhân, với RAM 8GB và bộ nhớ 128GB.	Galaxy S10 Plus sử dụng SoC “ cây nhà lá vườn ” Exynos 9820 8 nhân , với RAM 8GB và bộ nhớ 128GB .
+
+Đây không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa, tuy nhiên vẫn vô cùng khoẻ để thực hiện tất cả các tác vụ mượt mà.	Đây không còn là cấu hình mạnh mẽ nhất trong thế giới smartphone nữa , tuy nhiên vẫn vô cùng khoẻ để thực hiện tất cả các tác vụ mượt mà .
+{"subject": ["1&&Đây"], "object": [], "aspect": ["5&&cấu", "6&&hình"], "predicate": ["2&&không", "3&&còn", "4&&là", "5&&cấu", "6&&hình", "7&&mạnh", "8&&mẽ", "9&&nhất", "10&&trong", "11&&thế", "12&&giới", "13&&smartphone", "14&&nữa"], "label": "SUP"}
+
+Chiếc smartphone này cũng không ngại bất kỳ tựa game hot nào trên kho ứng dụng.	Chiếc smartphone này cũng không ngại bất kỳ tựa game hot nào trên kho ứng dụng .
+
+Viên pin 4100mAh cũng là một con số rất lớn với một chiếc smartphone.	Viên pin 4100mAh cũng là một con số rất lớn với một chiếc smartphone .
+
+Nhờ viên pin này mà máy hoàn toàn có thể sử dụng các tác vụ nặng trong một ngày, hoặc thậm chí sống sót tới ngày hôm sau nếu bạn ít dùng tối đa đồ hoạ.	Nhờ viên pin này mà máy hoàn toàn có thể sử dụng các tác vụ nặng trong một ngày , hoặc thậm chí sống sót tới ngày hôm sau nếu bạn ít dùng tối đa đồ hoạ .
+
+Máy cũng được tích hợp sạc nhanh, sạc không dây và cả sạc ngược không dây cho các thiết bị khác (như tai nghe Galaxy Buds/Buds+).	Máy cũng được tích hợp sạc nhanh , sạc không dây và cả sạc ngược không dây cho các thiết bị khác ( như tai nghe Galaxy Buds / Buds + ) .
+
+Tổng kết lại, Galaxy S10 Plus là một chiếc flagship rất đáng mua và có thể đáp ứng được tất cả những người dùng đa dạng của người dùng.	Tổng kết lại , Galaxy S10 Plus là một chiếc flagship rất đáng mua và có thể đáp ứng được tất cả những người dùng đa dạng của người dùng .
+
+Đây thực sự là chiếc máy dành cho những người đề cao tính thẩm mỹ và tiện dụng của điện thoại di động.	Đây thực sự là chiếc máy dành cho những người đề cao tính thẩm mỹ và tiện dụng của điện thoại di động .
+

@@ -1,0 +1,176 @@
+Title: Review iPhone 14: Thiết kế, hiệu năng, camera và pin	Title : Review iPhone 14 : Thiết kế , hiệu năng , camera và pin
+
+iPhone 14 được ra mắt vào 09/2022, được đánh giá là chỉ nâng cấp nhẹ về phần cứng cũng như phần mềm so với thế hệ trước.	iPhone 14 được ra mắt vào 09 / 2022 , được đánh giá là chỉ nâng cấp nhẹ về phần cứng cũng như phần mềm so với thế hệ trước .
+{"subject": ["1&&iPhone", "2&&14"], "object": ["28&&thế", "29&&hệ", "30&&trước"], "aspect": ["20&&phần", "21&&cứng"], "predicate": ["16&&nâng", "17&&cấp", "18&&nhẹ"], "label": "COM+"}
+{"subject": ["1&&iPhone", "2&&14"], "object": ["28&&thế", "29&&hệ", "30&&trước"], "aspect": ["24&&phần", "25&&mềm"], "predicate": ["16&&nâng", "17&&cấp", "18&&nhẹ"], "label": "COM+"}
+
+Về ngoại hình thì cũng có rất ít sự khác biệt so với thế hệ tiền nhiệm.	Về ngoại hình thì cũng có rất ít sự khác biệt so với thế hệ tiền nhiệm .
+{"subject": [], "object": ["14&&thế", "15&&hệ", "16&&tiền", "17&&nhiệm"], "aspect": ["2&&ngoại", "3&&hình"], "predicate": ["7&&rất", "8&&ít", "9&&sự", "10&&khác", "11&&biệt"], "label": "EQL"}
+
+Có một vài ý kiến trái chiều cho rằng, phiên bản iPhone 14 này không có điểm gì nổi bật, thậm chí còn cho rằng không nên bỏ tiền ra nâng cấp hoặc mua.	Có một vài ý kiến trái chiều cho rằng , phiên bản iPhone 14 này không có điểm gì nổi bật , thậm chí còn cho rằng không nên bỏ tiền ra nâng cấp hoặc mua .
+
+Thực tế khi mua hoặc nâng cấp một thiết bị di động bạn thường quan tâm đến những yếu tố nào?	Thực tế khi mua hoặc nâng cấp một thiết bị di động bạn thường quan tâm đến những yếu tố nào ?
+
+Thiết kế, hiệu năng, camera và pin hay đơn giản hơn chỉ là thương hiệu?	Thiết kế , hiệu năng , camera và pin hay đơn giản hơn chỉ là thương hiệu ?
+
+Mặc dù đây không được đánh giá là chiếc iPhone tốt nhất trong tầm giá nhưng lại là chiếc Smartphone cân bằng giữa nhiều yếu tố.	Mặc dù đây không được đánh giá là chiếc iPhone tốt nhất trong tầm giá nhưng lại là chiếc Smartphone cân bằng giữa nhiều yếu tố .
+
+Hãy cùng Mobileworld review iPhone 14, qua bài viết bên dưới nhé!	Hãy cùng Mobileworld review iPhone 14 , qua bài viết bên dưới nhé !
+
+alt:	alt :
+
+des:	des :
+
+1.	1 .
+
+Thiết kế đẹp mắt nhưng không có sự khác biệt	Thiết kế đẹp mắt nhưng không có sự khác biệt
+
+Nhìn chung, về thiết kế của iPhone 14 thì không có sự khác biệt gì quá nhiều so với phiên bản tiền nhiệm là iPhone 13.	Nhìn chung , về thiết kế của iPhone 14 thì không có sự khác biệt gì quá nhiều so với phiên bản tiền nhiệm là iPhone 13 .
+{"subject": ["8&&iPhone", "9&&14"], "object": ["26&&iPhone", "27&&13"], "aspect": ["5&&thiết", "6&&kế"], "predicate": ["11&&không", "12&&có", "13&&sự", "14&&khác", "15&&biệt", "16&&gì", "17&&quá", "18&&nhiều"], "label": "EQL"}
+
+Mặt lưng máy được vát phẳng, phần khung viền thì được thiết kế vuông vức và bo cong nhẹ nhàng giúp tăng tính mềm mại nhưng vẫn giữ được sự sang trọng, cao cấp vốn có.	Mặt lưng máy được vát phẳng , phần khung viền thì được thiết kế vuông vức và bo cong nhẹ nhàng giúp tăng tính mềm mại nhưng vẫn giữ được sự sang trọng , cao cấp vốn có .
+
+Thực tế khi trải nghiệm iPhone 14 thì cho người dùng cảm giác cầm nắm khá chắc chắn, đầm tay và rất thoải mái.	Thực tế khi trải nghiệm iPhone 14 thì cho người dùng cảm giác cầm nắm khá chắc chắn , đầm tay và rất thoải mái .
+
+Nhìn tổng thể, thì với kích thước như vậy là khá tối ưu, không quá nhỏ cũng không quá to, dù tay bạn lớn hay nhỏ thì cũng có thể cầm nắm được dễ dàng.	Nhìn tổng thể , thì với kích thước như vậy là khá tối ưu , không quá nhỏ cũng không quá to , dù tay bạn lớn hay nhỏ thì cũng có thể cầm nắm được dễ dàng .
+
+Tương tự, thì hệ thống camera vẫn giữ nguyên thiết kế với 2 camera được đặt chéo nhau và được làm nhô lên so với mặt lưng của máy.	Tương tự , thì hệ thống camera vẫn giữ nguyên thiết kế với 2 camera được đặt chéo nhau và được làm nhô lên so với mặt lưng của máy .
+{"subject": ["5&&hệ", "6&&thống", "7&&camera"], "object": [], "aspect": ["11&&thiết", "12&&kế"], "predicate": ["9&&giữ", "10&&nguyên"], "label": "EQL"}
+
+Phần mô-đun chứa cụm camera được làm trong suốt nhằm tăng sự đồng bộ nhưng vẫn nổi bật.	Phần mô-đun chứa cụm camera được làm trong suốt nhằm tăng sự đồng bộ nhưng vẫn nổi bật .
+
+Chính giữa mặt sau là nơi đặt logo quả táo quen thuộc thường thấy.	Chính giữa mặt sau là nơi đặt logo quả táo quen thuộc thường thấy .
+
+So với iPhone 13, thì rất khó để nhận ra sự khác biệt giữa 2 thế hệ này qua vẻ bề ngoài, thậm chí ngay cả những phần mềm bên trong cũng không có quá nhiều sự khác biệt.	So với iPhone 13 , thì rất khó để nhận ra sự khác biệt giữa 2 thế hệ này qua vẻ bề ngoài , thậm chí ngay cả những phần mềm bên trong cũng không có quá nhiều sự khác biệt .
+{"subject": ["16&&2", "17&&thế", "18&&hệ", "19&&này"], "object": ["16&&2", "17&&thế", "18&&hệ", "19&&này"], "aspect": ["21&&vẻ", "22&&bề", "23&&ngoài"], "predicate": ["8&&khó", "9&&để", "10&&nhận", "11&&ra", "12&&sự", "13&&khác", "14&&biệt"], "label": "EQL"}
+{"subject": ["16&&2", "17&&thế", "18&&hệ", "19&&này"], "object": ["16&&2", "17&&thế", "18&&hệ", "19&&này"], "aspect": ["29&&những", "30&&phần", "31&&mềm", "32&&bên", "33&&trong"], "predicate": ["35&&không", "36&&có", "37&&quá", "38&&nhiều", "39&&sự", "40&&khác", "41&&biệt"], "label": "EQL"}
+
+Trừ khi bạn mua 2 màu khác nhau còn nếu không thì sẽ rất khó để nhận ra.	Trừ khi bạn mua 2 màu khác nhau còn nếu không thì sẽ rất khó để nhận ra .
+
+Ngoài ra, chiếc máy còn được trang bị khả năng chống nước IP68, có nghĩa là thiết bị có khả năng kháng nước ở độ sâu khoảng 1.5m trong vòng 30 phút.	Ngoài ra , chiếc máy còn được trang bị khả năng chống nước IP68 , có nghĩa là thiết bị có khả năng kháng nước ở độ sâu khoảng 1.5m trong vòng 30 phút .
+
+Bạn có thể selfie và sử dụng ở bể bơi mà không hề sợ bị hỏng máy.	Bạn có thể selfie và sử dụng ở bể bơi mà không hề sợ bị hỏng máy .
+
+Mặc dù, đây cũng được xem là 1 điểm khá ấn tượng trên iPhone 13, nhưng mình khuyên bạn không nên thử điều này với chiếc máy.	Mặc dù , đây cũng được xem là 1 điểm khá ấn tượng trên iPhone 13 , nhưng mình khuyên bạn không nên thử điều này với chiếc máy .
+
+2.	2 .
+
+Hiệu năng ấn tượng trên iPhone 14	Hiệu năng ấn tượng trên iPhone 14
+
+iPhone 14 được nhà sản xuất sử dụng chipset A15 Bionic được nhà Táo sản xuất dựa trên tiến trình 5nm, có 6 nhân, trong đó 4 nhân là 1.82 GHz Blizzard Avalanche và 2 nhân là 3.23 GHz. Bên cạnh đó, chiếc máy còn được trang bị Apple GPU (5-core graphics) giúp xử lý hình ảnh và video được tốt hơn.	iPhone 14 được nhà sản xuất sử dụng chipset A15 Bionic được nhà Táo sản xuất dựa trên tiến trình 5nm , có 6 nhân , trong đó 4 nhân là 1.82 GHz Blizzard Avalanche và 2 nhân là 3.23 GHz . Bên cạnh đó , chiếc máy còn được trang bị Apple GPU ( 5 - core graphics ) giúp xử lý hình ảnh và video được tốt hơn .
+{"subject": ["47&&chiếc", "48&&máy"], "object": [], "aspect": ["62&&xử", "63&&lý", "64&&hình", "65&&ảnh", "66&&và", "67&&video"], "predicate": ["69&&tốt", "70&&hơn"], "label": "COM+"}
+
+Mặc dù, không được Apple trang bị chipset mới nhất nhưng A15 Bionic cũng là một bộ vi xử lý mạnh mẽ bật nhất hiện nay.	Mặc dù , không được Apple trang bị chipset mới nhất nhưng A15 Bionic cũng là một bộ vi xử lý mạnh mẽ bật nhất hiện nay .
+{"subject": ["13&&A15", "14&&Bionic"], "object": [], "aspect": [], "predicate": ["22&&mạnh", "23&&mẽ", "24&&bật", "25&&nhất", "26&&hiện", "27&&nay"], "label": "SUP+"}
+
+Bên cạnh đó, iPhone 14 được nâng cấp bộ nhớ lên đến 6GB RAM cao hơn iPhone 13 đến 2GB RAM, cho khả năng đa nhiệm tốt hơn.	Bên cạnh đó , iPhone 14 được nâng cấp bộ nhớ lên đến 6GB RAM cao hơn iPhone 13 đến 2GB RAM , cho khả năng đa nhiệm tốt hơn .
+{"subject": ["5&&iPhone", "6&&14"], "object": ["18&&iPhone", "19&&13"], "aspect": ["10&&bộ", "11&&nhớ"], "predicate": ["16&&cao", "17&&hơn"], "label": "COM+"}
+{"subject": ["5&&iPhone", "6&&14"], "object": ["18&&iPhone", "19&&13"], "aspect": ["25&&khả", "26&&năng", "27&&đa", "28&&nhiệm"], "predicate": ["29&&tốt", "30&&hơn"], "label": "COM+"}
+
+Thực sự thì đa nhiệm trên dòng iPhone được rất nhiều người đánh giá là tốt hơn so với dòng Smartphone khác trên thị trường.	Thực sự thì đa nhiệm trên dòng iPhone được rất nhiều người đánh giá là tốt hơn so với dòng Smartphone khác trên thị trường .
+{"subject": ["8&&iPhone"], "object": ["20&&dòng", "21&&Smartphone", "22&&khác", "23&&trên", "24&&thị", "25&&trường"], "aspect": ["4&&đa", "5&&nhiệm"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Bạn có thể mở nhiều tác vụ cùng lúc và chuyển qua lại giữa chúng mà không cần phải tải lại.	Bạn có thể mở nhiều tác vụ cùng lúc và chuyển qua lại giữa chúng mà không cần phải tải lại .
+
+Khi nhìn vào thông số thì bạn sẽ khó nhận biết được sức mạnh của chiếc máy.	Khi nhìn vào thông số thì bạn sẽ khó nhận biết được sức mạnh của chiếc máy .
+
+Chính vì vậy, nếu bạn muốn dễ dàng nhận biết về hiệu năng của iPhone 14 thì hãy kiểm tra qua phần mềm benchmark quen thuộc.	Chính vì vậy , nếu bạn muốn dễ dàng nhận biết về hiệu năng của iPhone 14 thì hãy kiểm tra qua phần mềm benchmark quen thuộc .
+
+alt:	alt :
+
+des:	des :
+
+2.1. Kiểm tra hiệu năng iPhone 14 thông qua phần mềm benchmark	2.1 . Kiểm tra hiệu năng iPhone 14 thông qua phần mềm benchmark
+
+Như thường lệ thì phần kiểm tra đầu tiên là phần Antutu benchmark.	Như thường lệ thì phần kiểm tra đầu tiên là phần Antutu benchmark .
+
+Với phần mềm này, thì iPhone 14 đạt điểm cũng khá cao lên đến 830.779 điểm.	Với phần mềm này , thì iPhone 14 đạt điểm cũng khá cao lên đến 830.779 điểm .
+
+Trong đó, thì điểm CPU đạt 212.289 điểm, MEM đạt 134.956 điểm, GPU đạt 355.190 điểm và đạt 128.344 điểm UX.	Trong đó , thì điểm CPU đạt 212.289 điểm , MEM đạt 134.956 điểm , GPU đạt 355.190 điểm và đạt 128.344 điểm UX .
+
+Nếu so sánh với một số chipset khác như Dimensity 9000 hay Snapdragon 8 Gen 1 thì có hơi thấp một chút.	Nếu so sánh với một số chipset khác như Dimensity 9000 hay Snapdragon 8 Gen 1 thì có hơi thấp một chút .
+{"subject": [], "object": ["10&&Dimensity", "11&&9000"], "aspect": [], "predicate": ["19&&hơi", "20&&thấp", "21&&một", "22&&chút"], "label": "COM-"}
+{"subject": [], "object": ["13&&Snapdragon", "14&&8", "15&&Gen", "16&&1"], "aspect": [], "predicate": ["19&&hơi", "20&&thấp", "21&&một", "22&&chút"], "label": "COM-"}
+
+Tuy nhiên, đó chỉ là điểm số còn thực tế thì bạn hãy tự mình trải nghiệm và đánh giá iPhone 14 rõ hơn.	Tuy nhiên , đó chỉ là điểm số còn thực tế thì bạn hãy tự mình trải nghiệm và đánh giá iPhone 14 rõ hơn .
+
+Tiếp theo chính là phần mềm Geekbench 5, đây là phần mềm thường dùng để đo hiệu suất hoạt động đa nhân và đơn nhân của CPU.	Tiếp theo chính là phần mềm Geekbench 5 , đây là phần mềm thường dùng để đo hiệu suất hoạt động đa nhân và đơn nhân của CPU .
+
+Với bài kiểm tra này thì iPhone 14 đạt được 4.668 điểm đa nhân và 1.685 điểm đơn nhân.	Với bài kiểm tra này thì iPhone 14 đạt được 4.668 điểm đa nhân và 1.685 điểm đơn nhân .
+
+Số điểm này cao hơn rất nhiều so với Snapdragon 8 Gen 1 (3.578 điểm đa nhân và 1.238 điểm đơn nhân) và Dimensity 9000 (4.207 điểm đa nhân và 1.264 điểm đơn nhân).	Số điểm này cao hơn rất nhiều so với Snapdragon 8 Gen 1 ( 3.578 điểm đa nhân và 1.238 điểm đơn nhân ) và Dimensity 9000 ( 4.207 điểm đa nhân và 1.264 điểm đơn nhân ) .
+{"subject": [], "object": ["10&&Snapdragon", "11&&8", "12&&Gen", "13&&1"], "aspect": ["1&&Số", "2&&điểm"], "predicate": ["4&&cao", "5&&hơn", "6&&rất", "7&&nhiều"], "label": "COM+"}
+{"subject": [], "object": ["26&&Dimensity", "27&&9000"], "aspect": ["1&&Số", "2&&điểm"], "predicate": ["4&&cao", "5&&hơn", "6&&rất", "7&&nhiều"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+2.2. Hiệu năng qua nhiều tựa game thực tế	2.2 . Hiệu năng qua nhiều tựa game thực tế
+
+Đầu tiên, với tựa game đình đám hiện nay là Liên Quân Mobile, với đồ họa đẹp mắt, lối chơi đa dạng và đặc biệt là không cần hiệu năng phải quá mạnh, nên đây là tựa game có số lượng người chơi đông đảo nhất hiện nay.	Đầu tiên , với tựa game đình đám hiện nay là Liên Quân Mobile , với đồ họa đẹp mắt , lối chơi đa dạng và đặc biệt là không cần hiệu năng phải quá mạnh , nên đây là tựa game có số lượng người chơi đông đảo nhất hiện nay .
+
+Đối với tựa game này thì không cần kiểm tra mình cũng biết iPhone 14 có thể dễ dàng cân được với mức đồ họa cao.	Đối với tựa game này thì không cần kiểm tra mình cũng biết iPhone 14 có thể dễ dàng cân được với mức đồ họa cao .
+
+Thực tế trải nghiệm cho thấy rằng, chiếc máy đáp ứng được một cách dễ dàng với đồ họa siêu đẹp, màu sắc sống động, chi tiết tốt và tốc độ khung hình được duy trì ở mức 60FPS – 61FPS, không có hiện tượng giật lag.	Thực tế trải nghiệm cho thấy rằng , chiếc máy đáp ứng được một cách dễ dàng với đồ họa siêu đẹp , màu sắc sống động , chi tiết tốt và tốc độ khung hình được duy trì ở mức 60FPS – 61FPS , không có hiện tượng giật lag .
+
+Tựa game trải nghiệm tiếp theo chính là PUGB, đây là một tựa game bắn súng sinh tồn được rất nhiều người yêu thích.	Tựa game trải nghiệm tiếp theo chính là PUGB , đây là một tựa game bắn súng sinh tồn được rất nhiều người yêu thích .
+
+Với tựa game này thì iPhone 14 có thể cân được ở mức thiết lập “tốc độ khung hình - cực độ” và “đồ họa - HDR”, thực tế thì bạn có thể chơi ở mức “đồ họa – ultra HD”.	Với tựa game này thì iPhone 14 có thể cân được ở mức thiết lập “ tốc độ khung hình - cực độ ” và “ đồ họa - HDR ” , thực tế thì bạn có thể chơi ở mức “ đồ họa – ultra HD ” .
+
+alt:	alt :
+
+des:	des :
+
+3.	3 .
+
+Camera ấn tượng trên iPhone 14	Camera ấn tượng trên iPhone 14
+
+alt:	alt :
+
+des:	des :
+
+Khi chụp ảnh trong điều kiện đủ ánh sáng thì iPhone 14 cho hình ảnh chân thực, màu sắc sống động, chi tiết, độ tương phản cao và độ nhiễu hạt cực kỳ thấp.	Khi chụp ảnh trong điều kiện đủ ánh sáng thì iPhone 14 cho hình ảnh chân thực , màu sắc sống động , chi tiết , độ tương phản cao và độ nhiễu hạt cực kỳ thấp .
+
+Tuy nhiên, vì màu sắc quá chân thực nên nhìn không được nịnh mắt cho lắm, nhưng bù lại thì độ chi tiết cao, chỉ cần qua một ít chỉnh sửa là bạn đã có ngay một bức ảnh đẹp.	Tuy nhiên , vì màu sắc quá chân thực nên nhìn không được nịnh mắt cho lắm , nhưng bù lại thì độ chi tiết cao , chỉ cần qua một ít chỉnh sửa là bạn đã có ngay một bức ảnh đẹp .
+
+Tương tự, thì ống kính góc rộng không có quá nhiều sự khác biệt so với ống kính chính.	Tương tự , thì ống kính góc rộng không có quá nhiều sự khác biệt so với ống kính chính .
+{"subject": ["5&&ống", "6&&kính", "7&&góc", "8&&rộng"], "object": ["18&&ống", "19&&kính", "20&&chính"], "aspect": [], "predicate": ["9&&không", "10&&có", "11&&quá", "12&&nhiều", "13&&sự", "14&&khác", "15&&biệt"], "label": "EQL"}
+
+Ảnh vẫn cho độ chi tiết cao, khả năng xử lý HDR tốt và màu sắc chân thực, sống động.	Ảnh vẫn cho độ chi tiết cao , khả năng xử lý HDR tốt và màu sắc chân thực , sống động .
+
+Trong điều kiện thiếu sáng thì iPhone 14 vẫn cho màu sắc khá tốt, độ chi tiết cao và khả năng cân bằng ánh sáng tốt.	Trong điều kiện thiếu sáng thì iPhone 14 vẫn cho màu sắc khá tốt , độ chi tiết cao và khả năng cân bằng ánh sáng tốt .
+
+Nhìn chung, thì camera của iPhone đã được chứng minh và luôn có chỗ đứng vững chắc trong lòng khách hàng, chỉ có hơn chứ không kém.	Nhìn chung , thì camera của iPhone đã được chứng minh và luôn có chỗ đứng vững chắc trong lòng khách hàng , chỉ có hơn chứ không kém .
+
+alt:	alt :
+
+des:	des :
+
+4.	4 .
+
+Pin khủng dùng cả ngày	Pin khủng dùng cả ngày
+
+iPhone 14 được nhà sản xuất trang bị viên pin Li-Ion 3279 mAh, nếu so với đối thủ thì đây chỉ được xem là dung lượng khá khiêm tốn.	iPhone 14 được nhà sản xuất trang bị viên pin Li-Ion 3279 mAh , nếu so với đối thủ thì đây chỉ được xem là dung lượng khá khiêm tốn .
+{"subject": ["1&&iPhone", "2&&14"], "object": ["18&&đối", "19&&thủ"], "aspect": ["9&&viên", "10&&pin"], "predicate": ["26&&dung", "27&&lượng", "28&&khá", "29&&khiêm", "30&&tốn"], "label": "COM-"}
+
+Tuy nhiên, đừng vội vàng đánh giá, mặc dù chỉ có 3279 mAh nhưng iPhone 14 vẫn có thể đáp ứng cả một ngày dài làm việc mà không sợ hết dung lượng.	Tuy nhiên , đừng vội vàng đánh giá , mặc dù chỉ có 3279 mAh nhưng iPhone 14 vẫn có thể đáp ứng cả một ngày dài làm việc mà không sợ hết dung lượng .
+
+Mình đã có một bài test với nhiều tác vụ trong vòng 60 phút để xem thử iPhone 14 mất bao nhiêu phần trăm pin.	Mình đã có một bài test với nhiều tác vụ trong vòng 60 phút để xem thử iPhone 14 mất bao nhiêu phần trăm pin .
+
+Điều kiện test là âm lượng, độ sáng ở mức 50% và chỉ sử dụng Wifi, không bật định vị hay Bluetooth.	Điều kiện test là âm lượng , độ sáng ở mức 50% và chỉ sử dụng Wifi , không bật định vị hay Bluetooth .
+
+Cuối cùng, thì thu được như sau: Liên Quân Mobile tốn 13%, Facebook 6%, Youtube 8% và Tiktok 8%.	Cuối cùng , thì thu được như sau : Liên Quân Mobile tốn 13% , Facebook 6% , Youtube 8% và Tiktok 8% .
+
+Nhìn chung, thì các tác vụ nhẹ nhàng không tốn quá nhiều dung lượng pin như lướt web, check mail, nghe gọi… Thì iPhone 14 dư sức đáp ứng nhu cầu làm việc suốt ngày dài.	Nhìn chung , thì các tác vụ nhẹ nhàng không tốn quá nhiều dung lượng pin như lướt web , check mail , nghe gọi … Thì iPhone 14 dư sức đáp ứng nhu cầu làm việc suốt ngày dài .
+
+Còn nếu bạn liên tục “try-hard” với các tựa game nặng thì iPhone 14 sẽ không đáp ứng nổi.	Còn nếu bạn liên tục “ try-hard ” với các tựa game nặng thì iPhone 14 sẽ không đáp ứng nổi .
+
+alt:	alt :
+
+des:	des :
+
+Tóm lại, thì iPhone 14 sở hữu những tính năng cao cấp mà người dùng mong muốn nhất như: Hiệu năng mạnh mẽ, thiết kế đẹp, camera chất lượng và pin khủng.	Tóm lại , thì iPhone 14 sở hữu những tính năng cao cấp mà người dùng mong muốn nhất như : Hiệu năng mạnh mẽ , thiết kế đẹp , camera chất lượng và pin khủng .
+
+Nếu bạn muốn sở hữu chiếc Smartphone siêu khủng này thì hãy liên hệ cửa hàng Mobileworld, sẽ có rất nhiều ưu đãi và quà tặng hấp dẫn dành cho bạn đấy!	Nếu bạn muốn sở hữu chiếc Smartphone siêu khủng này thì hãy liên hệ cửa hàng Mobileworld , sẽ có rất nhiều ưu đãi và quà tặng hấp dẫn dành cho bạn đấy !
+
