@@ -77,21 +77,21 @@ Cả hai điện thoại đều được trang bị độ sáng tối đa 
 
 So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra	So sánh hiệu năng Galaxy S23 Plus và Galaxy S23 Ultra
 
-Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường.	Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường .    [original]
+Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường.	Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường .	[original]
 {"subject": ["1&&Tất", "2&&cả", "3&&các", "4&&biến", "5&&thể", "6&&Galaxy", "7&&S23"], "object": [], "aspect": ["12&&chip", "13&&xử", "14&&lý", "15&&Snapdragon"], "predicate": ["8&&đều", "9&&được", "10&&tran", "11&&bị"], "label": "EQL"}
 
-Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường.	Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường .    [spellquintuple]
-{"subject": ["1&&Tất", "2&&cả", "3&&các", "4&&biến", "5&&thể", "6&&Galaxy", "7&&S23"], "object": [], "aspect": ["12&&chip", "13&&xử", "14&&lý", "15&&Snapdragon"], "predicate": ["8&&đều", "9&&được", "10&&tran", "11&&bị"], "label": "EQL"}
+Tất cả các biến thể Galaxy S23 đều được trang bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường.	Tất cả các biến thể Galaxy S23 đều được tran bị chip xử lý Snapdragon thay vì Exynos tại một số thị trường .	[spellquintuple]
+{"subject": ["1&&Tất", "2&&cả", "3&&các", "4&&biến", "5&&thể", "6&&Galaxy", "7&&S23"], "object": [], "aspect": ["12&&chip", "13&&xử", "14&&lý", "15&&Snapdragon"], "predicate": ["8&&đều", "9&&được", "10&&trang", "11&&bị"], "label": "EQL"}
 
 Việc không chọn sử dụng chip Exynos cho thấy, Samsung đã lắng nghe khách hàng của mình.	Việc không chọn sử dụng chip Exynos cho thấy , Samsung đã lắng nghe khách hàng của mình .
 
 Tuy nhiên, một lưu ý rằng công ty vẫn chưa giải quyết chính xác cho giải pháp có sẵn.	Tuy nhiên , một lưu ý rằng công ty vẫn chưa giải quyết chính xác cho giải pháp có sẵn .
 
-Cấu hình Samsung S23+ và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung.	Cấu hình Samsung S23 + và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung .    [original]
+Cấu hình Samsung S23+ và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung.	Cấu hình Samsung S23 + và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung .	[original]
 {"subject": ["3&&Samsung", "4&&S23", "5&&+"], "object": ["7&&S23", "8&&Ultra"], "aspect": ["1&&Cấu", "2&&hình"], "predicate": ["9&&đều", "10&&được", "11&&sử", "12&&dụng", "13&&chip", "14&&Snapdragon", "15&&8", "16&&Gen", "17&&2", "18&&mới", "19&&nhất", "20&&của", "21&&Qualcomm", "22&&với", "23&&các", "24&&lõi", "25&&được", "26&&ép", "27&&xung"], "label": "EQL"}
 
-Cấu hình Samsung S23+ và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung.	Cấu hình Samsung S23 + và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung .    [quintuple]
-{"subject": ["3&&Samsung", "4&&S23", "5&&+"], "object": ["7&&S23", "8&&Ultra"], "aspect": ["1&&Cấu", "2&&hình"], "predicate": ["9&&đều", "10&&được", "11&&sử", "12&&dụng", "13&&chip", "14&&Snapdragon"], "label": "EQL"}
+Cấu hình Samsung S23+ và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung.	Cấu hình Samsung S23 + và S23 Ultra đều được sử dụng chip Snapdragon 8 Gen 2 mới nhất của Qualcomm với các lõi được ép xung .	[quintuple]
+{"subject": ["3&&Samsung", "4&&S23", "5&&+"], "object": ["7&&S23", "8&&Ultra"], "aspect": ["1&&Cấu", "2&&hình"], "predicate": ["9&&đều", "10&&được", "11&&sử", "12&&dụng", "13&&chip", "14&&Snapdragon", "16&&Gen", "17&&2"], "label": "EQL"}
 
 Chipset này không giống như các phiên bản thông thường có tốc độ 3,2 GHZ do TSMC sản xuất.	Chipset này không giống như các phiên bản thông thường có tốc độ 3,2 GHZ do TSMC sản xuất .
 {"subject": ["1&&Chipset", "2&&này"], "object": ["6&&các", "7&&phiên", "8&&bản", "9&&thông", "10&&thường", "11&&có", "12&&tốc", "13&&độ", "14&&3,2", "15&&GHZ"], "aspect": [], "predicate": ["3&&không", "4&&giống", "5&&như"], "label": "DIF"}
@@ -111,10 +111,10 @@ Tuy nhiên, Galaxy S23 Plus có xu hướng đánh bại Galaxy S23 Ultra mô
 
 Do đó, hệ thống đồ họa phải đẩy ít pixel hơn trong các bài kiểm tra tiêu chuẩn.	Do đó , hệ thống đồ họa phải đẩy ít pixel hơn trong các bài kiểm tra tiêu chuẩn .
 
-So với chip A16 Bionic của Apple, Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp.	So với chip A16 Bionic của Apple , Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp .    [original]
+So với chip A16 Bionic của Apple, Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp.	So với chip A16 Bionic của Apple , Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp .	[original]
 {"subject": ["9&&Snapdragon", "10&&8", "11&&Gen", "12&&2"], "object": ["3&&chip", "4&&A16", "5&&Bionic"], "aspect": ["14&&hoạt", "15&&động"], "predicate": ["16&&chậm", "17&&hơn", "18&&10", "19&&-", "20&&20%"], "label": "COM-"}
 
-So với chip A16 Bionic của Apple, Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp.	So với chip A16 Bionic của Apple , Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp .    [quintuple]
+So với chip A16 Bionic của Apple, Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp.	So với chip A16 Bionic của Apple , Snapdragon 8 Gen 2 chỉ hoạt động chậm hơn 10 - 20% trong các điểm chuẩn tổng hợp .	[quintuple]
 {"subject": ["9&&Snapdragon", "10&&8", "11&&Gen", "12&&2"], "object": ["3&&chip", "4&&A16", "5&&Bionic"], "aspect": ["14&&hoạt", "15&&động"], "predicate": ["16&&chậm", "17&&hơn"], "label": "COM-"}
 
 Điều này là do A16 tham giá với toàn bộ tốc độ 3,46 GHz của lõi chính của nó.	Điều này là do A16 tham giá với toàn bộ tốc độ 3,46 GHz của lõi chính của nó .
@@ -167,11 +167,11 @@ So với Galaxy S22+, điện thoại Galaxy S23 Plus được nâng cấp d
 
 Trong khi, Samsung S23 Ultra được trang bị viên pin 5.000mAh.	Trong khi , Samsung S23 Ultra được trang bị viên pin 5.000mAh .
 
-Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W.	Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W .    [original]
+Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W.	Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W .	[original]
 {"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&sạc", "10&&nhanh", "11&&có", "12&&dây", "13&&45W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
 {"subject": [], "object": [], "aspect": ["15&&sạc", "16&&không", "17&&dây", "18&&15W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
 
-Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W.	Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W .    [quintuple]
+Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W.	Cả hai điện thoại đều được hỗ trợ sạc nhanh có dây 45W và sạc không dây 15W .	[quintuple]
 {"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&sạc", "10&&nhanh", "11&&có", "12&&dây", "13&&45W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
 {"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["15&&sạc", "16&&không", "17&&dây", "18&&15W"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "EQL"}
 
@@ -190,10 +190,10 @@ Ngoài ra, Galaxy S23 Ultra thực sự có thời lượng pin tốt hơn so v�
 {"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["17&&S23", "18&&+"], "aspect": ["20&&công", "21&&nghệ", "22&&màn", "23&&hình", "24&&LTPO"], "predicate": ["25&&tiết", "26&&kiệm", "27&&hơn"], "label": "COM+"}
 {"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["17&&S23", "18&&+"], "aspect": ["29&&dải", "30&&tốc", "31&&độ", "32&&làm", "33&&mới", "34&&động"], "predicate": ["35&&rộng", "36&&hơn"], "label": "COM+"}
 
-Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​so với thế hệ tiền nhiệm.	Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​ so với thế hệ tiền nhiệm .  [original]
+Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​so với thế hệ tiền nhiệm.	Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​ so với thế hệ tiền nhiệm .	[original]
 {"subject": ["12&&S23", "13&&Ultra"], "object": ["21&&hệ", "22&&tiền", "23&&nhiệm"], "aspect": ["8&&thời", "9&&lượng", "10&&pin"], "predicate": ["15&&tăng", "16&&20%"], "label": "COM+"}
 
-Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​so với thế hệ tiền nhiệm.	Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​ so với thế hệ tiền nhiệm .  [quintuple]
+Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​so với thế hệ tiền nhiệm.	Theo như công bố của Samsung thì thời lượng pin của S23 Ultra đã tăng 20% ​​ so với thế hệ tiền nhiệm .	[quintuple]
 {"subject": ["12&&S23", "13&&Ultra"], "object": ["20&&thế","21&&hệ", "22&&tiền", "23&&nhiệm"], "aspect": ["8&&thời", "9&&lượng", "10&&pin"], "predicate": ["15&&tăng"], "label": "COM+"}
 
 Tạm kết	Tạm kết
@@ -205,11 +205,11 @@ Bởi nó đã tăng gấp đôi dung lượng lưu trữ cơ bản của S23+.
 Tuy nhiên, Galaxy S23 Ultra mang lại nhiều lợi ích hơn.	Tuy nhiên , Galaxy S23 Ultra mang lại nhiều lợi ích hơn .
 {"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": ["10&&lợi", "11&&ích"], "predicate": ["9&&nhiều", "10&&lợi", "11&&ích", "12&&hơn"], "label": "COM+"}
 
-Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất.	Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất .   [original]
+Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất.	Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất .	[original]
 {"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["7&&khả", "8&&năng", "9&&thu", "10&&phóng"], "predicate": ["11&&mạnh", "12&&mẽ", "13&&nhất", "14&&trên", "15&&điện", "16&&thoại", "17&&hiện", "18&&đại"], "label": "SUP+"}
 {"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["22&&cảm", "23&&biến", "24&&200MP"], "predicate": ["25&&tiên", "26&&tiến", "27&&nhất"], "label": "SUP+"}
 
-Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất.	Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất .   [quintuple]
+Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất.	Thiết bị không chỉ cung cấp khả năng thu phóng mạnh mẽ nhất trên điện thoại hiện đại mà còn có cảm biến 200MP tiên tiến nhất .	[quintuple]
 {"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["7&&khả", "8&&năng", "9&&thu", "10&&phóng"], "predicate": ["11&&mạnh", "12&&mẽ", "13&&nhất"], "label": "SUP+"}
 {"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["22&&cảm", "23&&biến", "24&&200MP"], "predicate": ["25&&tiên", "26&&tiến", "27&&nhất"], "label": "SUP+"}
 

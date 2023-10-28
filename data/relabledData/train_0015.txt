@@ -110,10 +110,10 @@ Cấu hình Galaxy S23 Ultra và Xiaomi 13 Pro đều được cung cấp 
 Mặc dù phiên bản chip trên Galaxy S23 Ultra là đặc biệt được ép xung cao hơn 3.36GHZ.	Mặc dù phiên bản chip trên Galaxy S23 Ultra là đặc biệt được ép xung cao hơn 3.36GHZ .
 {"subject": ["3&&phiên", "4&&bản", "5&&chip", "6&&trên", "7&&Galaxy", "8&&S23", "9&&Ultra"], "object": [], "aspect": ["15&&xung"], "predicate": ["16&&cao", "17&&hơn"], "label": "COM+"}
 
-Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .  [original]
+Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .	[original]
 {"subject": [], "object": [], "aspect": ["6&&hiệu", "7&&suất", "8&&thực", "9&&tế"], "predicate": ["2&&sự", "3&&khác", "4&&biệt", "5&&về", "6&&hiệu", "7&&suất", "8&&thực", "9&&tế", "10&&là", "11&&không", "12&&đáng", "13&&kể"], "label": "EQL"}
 
-Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .  [quintuple]
+Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .	[quintuple]
 {"subject": ["2&&sự", "3&&khác", "4&&biệt"], "object": [], "aspect": ["6&&hiệu", "7&&suất", "8&&thực", "9&&tế"], "predicate": ["11&&không", "12&&đáng", "13&&kể"], "label": "EQL"}
 
 Tuy nhiên, ít nhiều chúng sẽ mang đến một số lợi thế trong các trường hợp khác.	Tuy nhiên , ít nhiều chúng sẽ mang đến một số lợi thế trong các trường hợp khác .

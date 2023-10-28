@@ -182,16 +182,16 @@ des: Sinh trắc học Face ID tiện lợi	des : Sinh trắc học Face ID ti�
 
 Bộ xử lý	Bộ xử lý
 
-Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic.	Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic .    [original]
+Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic.	Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic .	[original]
 {"subject": ["15&&cả", "16&&3", "17&&điện", "18&&thoại", "19&&của", "20&&dòng", "21&&iPhone", "22&&11"], "object": ["15&&cả", "16&&3", "17&&điện", "18&&thoại", "19&&của", "20&&dòng", "21&&iPhone", "22&&11"], "aspect": [], "predicate": ["23&&đều", "24&&được", "25&&nâng", "26&&cấp", "27&&với", "28&&chip", "29&&xử", "30&&lý", "31&&A13", "32&&Bionic"], "label": "EQL"}
 
-Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic.	Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic .    [quintuple]
+Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic.	Nếu như dòng iPhone X được trang bị bộ xử lý A12 Bionic thì cả 3 điện thoại của dòng iPhone 11 đều được nâng cấp với chip xử lý A13 Bionic .	[quintuple]
 {"subject": ["15&&cả", "16&&3", "17&&điện", "18&&thoại", "19&&của", "20&&dòng", "21&&iPhone", "22&&11"], "object": ["15&&cả", "16&&3", "17&&điện", "18&&thoại", "19&&của", "20&&dòng", "21&&iPhone", "22&&11"], "aspect": [ "27&&với", "28&&chip", "29&&xử", "30&&lý", "31&&A13", "32&&Bionic"], "predicate": ["23&&đều", "24&&được", "25&&nâng", "26&&cấp"], "label": "EQL"}
 
-Điển hình như cấu hình giữa iPhone XS Max và 11 Pro, trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic.	Điển hình như cấu hình giữa iPhone XS Max và 11 Pro , trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic .   [original]
+Điển hình như cấu hình giữa iPhone XS Max và 11 Pro, trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic.	Điển hình như cấu hình giữa iPhone XS Max và 11 Pro , trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic .	[original]
 {"subject": ["21&&chip", "22&&A13", "23&&Bionic"], "object": ["36&&chip", "37&&A12", "38&&Bionic"], "aspect": ["25&&GPU"], "predicate": ["26&&nhanh", "27&&hơn", "28&&30%"], "label": "COM+"}
 
-Điển hình như cấu hình giữa iPhone XS Max và 11 Pro, trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic.	Điển hình như cấu hình giữa iPhone XS Max và 11 Pro , trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic .   [quintuple]
+Điển hình như cấu hình giữa iPhone XS Max và 11 Pro, trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic.	Điển hình như cấu hình giữa iPhone XS Max và 11 Pro , trong khi iPhone 11 Pro sở hữu chip A13 Bionic có GPU nhanh hơn 30% so với iPhone XS Max trang bị chip A12 Bionic .	[quintuple]
 {"subject": ["21&&chip", "22&&A13", "23&&Bionic"], "object": ["36&&chip", "37&&A12", "38&&Bionic"], "aspect": ["25&&GPU"], "predicate": ["26&&nhanh", "27&&hơn"], "label": "COM+"}
 
 alt: ip-moi-nhat-hien-nay(1)	alt : ip-moi-nhat-hien-nay ( 1 )
@@ -236,10 +236,10 @@ des: Kho lưu trữ được nâng cấp	des : Kho lưu trữ được nâng c�
 
 Pin	Pin
 
-So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X.	So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X .   [original]
+So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X.	So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X .	[original]
 {"subject": ["14&&iPhone", "15&&11"], "object": ["27&&dòng", "28&&iPhone", "29&&X"], "aspect": ["21&&chất", "22&&lượng", "23&&pin"], "predicate": ["19&&nâng", "20&&cấp", "21&&chất", "22&&lượng", "23&&pin", "24&&hơn"], "label": "COM+"}
 
-So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X.	So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X .   [quintuple]
+So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X.	So sánh về pin 2 dòng iPhone 11 và iPhone X thì dòng iPhone 11 đều đã được nâng cấp chất lượng pin hơn so với dòng iPhone X .	[quintuple]
 {"subject": ["13&&dòng","14&&iPhone", "15&&11"], "object": ["27&&dòng", "28&&iPhone", "29&&X"], "aspect": ["21&&chất", "22&&lượng", "23&&pin"], "predicate": ["19&&nâng", "20&&cấp"], "label": "COM+"}
 
 alt: iphone-doi-moi-nhat(1)	alt : iphone-doi-moi-nhat ( 1 )

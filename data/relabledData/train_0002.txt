@@ -10,11 +10,11 @@ alt:	alt :
 
 des:	des :
 
-Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng, chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm.	Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng , chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm .    [origin]
+Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng, chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm.	Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng , chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm .	[original]
 {"subject": [], "object": [], "aspect": ["3&&camera", "4&&siêu", "5&&rộng"], "predicate": ["9&&hầu", "10&&như", "11&&không", "12&&nhận", "13&&được", "14&&nâng", "15&&cấp", "16&&nào", "17&&về", "18&&phần", "19&&cứng"], "label": "EQL"}
 {"subject": [], "object": [], "aspect": ["7&&camera", "8&&tele"], "predicate": ["9&&hầu", "10&&như", "11&&không", "12&&nhận", "13&&được", "14&&nâng", "15&&cấp", "16&&nào", "17&&về", "18&&phần", "19&&cứng"], "label": "EQL"}
 
-Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng, chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm.	Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng , chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm .    [quintuple-so]
+Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng, chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm.	Tuy nhiên camera siêu rộng và camera tele hầu như không nhận được nâng cấp nào về phần cứng , chính vì vậy trong điều kiện thiếu sáng bộ đôi camera này lộ rõ nhiều nhược điểm .	[quintuple]
 {"subject": ["3&&camera", "4&&siêu", "5&&rộng"], "object": [], "aspect": ["17&&về", "18&&phần", "19&&cứng"], "predicate": ["9&&hầu", "10&&như", "11&&không", "12&&nhận", "13&&được", "14&&nâng", "15&&cấp", "16&&nào"], "label": "EQL"}
 {"subject": ["7&&camera", "8&&tele"], "object": [], "aspect": ["17&&về", "18&&phần", "19&&cứng"], "predicate": ["9&&hầu", "10&&như", "11&&không", "12&&nhận", "13&&được", "14&&nâng", "15&&cấp", "16&&nào"], "label": "EQL"}
 

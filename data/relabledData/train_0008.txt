@@ -1,10 +1,7 @@
 title: So sánh Galaxy S22 Ultra 5G vs Z Fold 3: Nội đấu giữa hai sản phẩm đầu bảng của Samsung	title : So sánh Galaxy S22 Ultra 5G vs Z Fold 3 : Nội đấu giữa hai sản phẩm đầu bảng của Samsung
 
-Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3	Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3    [original]
+Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3	Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3
 {"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&5G"], "object": [], "aspect": [], "predicate": ["11&&cao", "12&&cấp", "13&&nhất", "14&&của", "15&&Samsung"], "label": "SUP+"}
-
-Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3	Galaxy S22 Ultra 5G là chiếc điện thoại dòng S cao cấp nhất của Samsung sẽ như thế nào khi so sánh với Galaxy Fold 3    [quintuple]
-{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&5G"], "object": [], "aspect": ["14&&của", "15&&Samsung"], "predicate": ["11&&cao", "12&&cấp", "13&&nhất"], "label": "SUP+"}
 
 Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau.	Cùng là smartphone cao cấp của Samsung nhưng mỗi mẫu điện thoại lại được xây dựng theo 2 hướng khác nhau .
 
@@ -98,11 +95,11 @@ alt: Camera trước Galaxy Z Fold 3 khá đặc biệt	alt : Camera trước Ga
 
 des:	des :
 
-Như vậy, so về thông số và các chức năng, camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo.	Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .  [original]
+Như vậy, so về thông số và các chức năng, camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo.	Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .	[original]
 {"subject": ["13&&camera", "14&&selfie", "15&&Galaxy", "16&&S22", "17&&Ultra", "18&&5G"], "object": [], "aspect": ["6&&thông", "7&&số"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
 {"subject": [], "object": [], "aspect": ["9&&các", "10&&chức", "11&&năng"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
 
-Như vậy, so về thông số và các chức năng, camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo.	Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .  [quintuple]
+Như vậy, so về thông số và các chức năng, camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo.	Như vậy , so về thông số và các chức năng , camera selfie Galaxy S22 Ultra 5G có thể nói là trên kèo .	[quintuple]
 {"subject": ["13&&camera", "14&&selfie", "15&&Galaxy", "16&&S22", "17&&Ultra", "18&&5G"], "object": [], "aspect": ["6&&thông", "7&&số"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
 {"subject": ["13&&camera", "14&&selfie", "15&&Galaxy", "16&&S22", "17&&Ultra", "18&&5G"], "object": [], "aspect": ["9&&các", "10&&chức", "11&&năng"], "predicate": ["23&&trên", "24&&kèo"], "label": "COM+"}
 

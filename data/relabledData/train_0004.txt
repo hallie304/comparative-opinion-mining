@@ -8,12 +8,9 @@ Cùng  Thế Giới Di Động  so sánh  Samsung Galaxy A53  với  Samsung Gal
 
 Tổng quan điện thoại Samsung Galaxy A53	Tổng quan điện thoại Samsung Galaxy A53
 
-Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp.	Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp .  [original]
+Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp.	Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp .
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A53"], "object": ["33&&Galaxy", "34&&A52"], "aspect": ["28&&tính", "29&&năng"], "predicate": ["27&&nhiều", "28&&tính", "29&&năng", "30&&vượt", "31&&trội", "32&&hơn"], "label": "COM+"}
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A53"], "object": ["44&&Galaxy", "45&&A73", "46&&5G"], "aspect": ["36&&giá"], "predicate": ["38&&rẻ", "39&&hơn"], "label": "COM+"}
-
-Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp.	Samsung Galaxy A53 ra mắt vào năm 2022 là một chiếc điện thoại tầm trung được giới công nghệ không tiếc lời khen bởi sở hữu nhiều tính năng vượt trội hơn Galaxy A52 nhưng giá lại rẻ hơn so với phiên bản Galaxy A73 5G cao cấp .  [quintuple]
-{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A53"], "object": ["33&&Galaxy", "34&&A52"], "aspect": ["28&&tính", "29&&năng"], "predicate": [30&&vượt", "31&&trội", "32&&hơn"], "label": "COM+"}
 
 Chiếc Galaxy A3 được xem là át chủ bài khi được trang bị nhiều công nghệ ấn tượng như camera sắc nét giúp bắt trọn khoảnh khắc, hiệu năng Exynox 1280 tha hồ chiến game, hay thời gian sạc pin nhanh hơn đem lại trải nghiệm tuyệt vời cho người dùng.	Chiếc Galaxy A3 được xem là át chủ bài khi được trang bị nhiều công nghệ ấn tượng như camera sắc nét giúp bắt trọn khoảnh khắc , hiệu năng Exynox 1280 tha hồ chiến game , hay thời gian sạc pin nhanh hơn đem lại trải nghiệm tuyệt vời cho người dùng .
 
@@ -27,11 +24,8 @@ Samsung Galaxy A53 là một chiếc điện thoại tầm trung được giới
 
 Tổng quan về điện thoại Samsung Galaxy A73	Tổng quan về điện thoại Samsung Galaxy A73
 
-Samsung Galaxy A73 được ra mắt vào  năm 2022  và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua.	Samsung Galaxy A73 được ra mắt vào năm 2022 và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua . [original]
+Samsung Galaxy A73 được ra mắt vào  năm 2022  và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua.	Samsung Galaxy A73 được ra mắt vào năm 2022 và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua .
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": [], "aspect": [], "predicate": ["14&&nổi", "15&&bật", "16&&nhất", "17&&trong", "18&&dòng", "19&&Galaxy", "20&&A"], "label": "SUP+"}
-
-Samsung Galaxy A73 được ra mắt vào  năm 2022  và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua.	Samsung Galaxy A73 được ra mắt vào năm 2022 và là sản phẩm nổi bật nhất trong dòng Galaxy A và là sản phẩm tầm trung đáng mua . [quintuple]
-{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": [], "aspect": ["17&&trong", "18&&dòng", "19&&Galaxy", "20&&A"], "predicate": ["14&&nổi", "15&&bật", "16&&nhất"], "label": "SUP+"}
 
 Chiếc điện thoại này được trang bị nhiều thông số kỹ thuật ấn tượng đem đến trải nghiệm thú vị.	Chiếc điện thoại này được trang bị nhiều thông số kỹ thuật ấn tượng đem đến trải nghiệm thú vị .
 
@@ -51,7 +45,7 @@ So sánh điện thoại Samsung Galaxy A53 với Samsung Galaxy A73	So sánh đ
 
 Thiết kế và màu sắc	Thiết kế và màu sắc
 
-Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc.	Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc . [original]
+Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc.	Nhìn chung cả 2 chiếc điện thoại này không có sự khác biệt lớn về thiết kế và màu sắc .
 {"subject": ["3&&cả", "4&&2", "5&&chiếc", "6&&điện", "7&&thoại", "8&&này"], "object": ["3&&cả", "4&&2", "5&&chiếc", "6&&điện", "7&&thoại", "8&&này"], "aspect": ["16&&thiết", "17&&kế"], "predicate": ["9&&không", "10&&có", "11&&sự", "12&&khác", "13&&biệt", "14&&lớn"], "label": "EQL"}
 {"subject": ["3&&cả", "4&&2", "5&&chiếc", "6&&điện", "7&&thoại", "8&&này"], "object": ["3&&cả", "4&&2", "5&&chiếc", "6&&điện", "7&&thoại", "8&&này"], "aspect": ["19&&màu", "20&&sắc"], "predicate": ["9&&không", "10&&có", "11&&sự", "12&&khác", "13&&biệt", "14&&lớn"], "label": "EQL"}
 

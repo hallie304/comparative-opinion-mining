@@ -8,10 +8,10 @@ Hộp của máy có thiết kế đơn giản, sang trọng với tông màu đ
 
 Nổi bật trên nắp hộp là dòng chữ S20 Ultra màu trắng và logo S20 màu xám ngay chính giữa.	Nổi bật trên nắp hộp là dòng chữ S20 Ultra màu trắng và logo S20 màu xám ngay chính giữa .
 
-Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt.	Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .  [original]
+Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt.	Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	[original]
 {"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": [], "aspect": ["8&&kích", "9&&thước"], "predicate": ["10&&lớn", "11&&nhất", "12&&trong", "13&&Galaxy", "14&&S20", "15&&Series", "16&&vừa", "17&&ra", "18&&mắt"], "label": "SUP"}
 
-Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt.	Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .  [quintuple-so]
+Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt.	Hộp đựng Galaxy S20 Ultra cũng có kích thước lớn nhất trong Galaxy S20 Series vừa ra mắt .	[quintuple]
 {"subject": ["1&&Hộp", "2&&đựng", "3&&Galaxy", "4&&S20", "5&&Ultra"], "object": ["13&&Galaxy", "14&&S20", "15&&Series", "16&&vừa", "17&&ra", "18&&mắt"], "aspect": ["8&&kích", "9&&thước"], "predicate": ["10&&lớn", "11&&nhất"], "label": "SUP"}
 
 alt: anh 1	alt : anh 1
@@ -95,10 +95,10 @@ alt: anh 8	alt : anh 8
 
 des:	des :
 
-Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung, Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB.	Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .  [original]
+Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung, Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB.	Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .	[original]
 {"subject": ["7&&S20", "8&&Ultra"], "object": [], "aspect": ["10&&con", "11&&chip", "12&&Exynos", "13&&990"], "predicate": ["14&&mạnh", "15&&mẽ", "16&&nhất", "17&&của", "18&&Samsung"], "label": "SUP+"}
 
-Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung, Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB.	Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .  [quintuple]
+Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung, Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB.	Cấu hình được trang bị trên S20 Ultra là con chip Exynos 990 mạnh mẽ nhất của Samsung , Ram 12GB thoải mái cho việc đa nhiệm cùng bộ nhớ trong 128GB .	[quintuple]
 {"subject": ["7&&S20", "8&&Ultra"], "object": [], "aspect": ["10&&con", "11&&chip", "12&&Exynos", "13&&990"], "predicate": ["14&&mạnh", "15&&mẽ", "16&&nhất"], "label": "SUP+"}
 
 Nếu dung lượng này chưa đủ, bạn có thể mở rộng thông qua thẻ nhớ (tối đa 1TB).	Nếu dung lượng này chưa đủ , bạn có thể mở rộng thông qua thẻ nhớ ( tối đa 1TB ) .

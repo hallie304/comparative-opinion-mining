@@ -8,10 +8,10 @@ des:	des :
 Mới đây, chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có màn hình đẹp nhất hiện nay không ai khác chính là iPhone 12 Pro Max.	Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có màn hình đẹp nhất hiện nay không ai khác chính là iPhone 12 Pro Max .
 {"subject": ["34&&iPhone", "35&&12", "36&&Pro", "37&&Max"], "object": [], "aspect": ["23&&màn", "24&&hình"], "predicate": ["25&&đẹp", "26&&nhất", "27&&hiện", "28&&nay"], "label": "SUP+"}
 
-iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại   [original]
+iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	[original]
 {"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&đẹp", "14&&nhất", "15&&thời", "16&&điểm", "17&&hiện", "18&&tại"], "label": "SUP+"}
 
-iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại   [quintuple]
+iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại	[quintuple]
 {"subject": ["1&&iPhone", "2&&12", "3&&Pro", "4&&Max"], "object": [], "aspect": ["11&&màn", "12&&hình"], "predicate": ["13&&đẹp", "14&&nhất"], "label": "SUP+"}
 
 iPhone12 Pro Max là chiếc iPhone có màn hình lớn nhất từ trước đến nay, và đây cũng là chiếc smartphone có chất lượng hiển thị đẹp nhất hiện tại, theo trang chuyên đánh giá màn hình DisplayMate.	iPhone12 Pro Max là chiếc iPhone có màn hình lớn nhất từ trước đến nay , và đây cũng là chiếc smartphone có chất lượng hiển thị đẹp nhất hiện tại , theo trang chuyên đánh giá màn hình DisplayMate .

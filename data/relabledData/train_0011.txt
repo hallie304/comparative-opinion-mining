@@ -57,11 +57,11 @@ des:	des :
 
 So sánh camera: Cả hai có những thế mạnh nhất định	So sánh camera : Cả hai có những thế mạnh nhất định
 
-Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau, bao gồm camera chính 12MP, camera macro 2MP và camera đo độ sâu 2MP. Với 3 camera này bạn sẽ có những hình ảnh sắc nét, chụp được ảnh siêu cận và ảnh xóa phông tốt hơn.	Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau , bao gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP . Với 3 camera này bạn sẽ có những hình ảnh sắc nét , chụp được ảnh siêu cận và ảnh xóa phông tốt hơn .    [original]
+Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau, bao gồm camera chính 12MP, camera macro 2MP và camera đo độ sâu 2MP. Với 3 camera này bạn sẽ có những hình ảnh sắc nét, chụp được ảnh siêu cận và ảnh xóa phông tốt hơn.	Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau , bao gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP . Với 3 camera này bạn sẽ có những hình ảnh sắc nét , chụp được ảnh siêu cận và ảnh xóa phông tốt hơn .	[original]
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["44&&ảnh", "45&&siêu", "46&&cận"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
 {"subject": [], "object": [], "aspect": ["48&&ảnh", "49&&xóa", "50&&phông"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
 
-Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau, bao gồm camera chính 12MP, camera macro 2MP và camera đo độ sâu 2MP. Với 3 camera này bạn sẽ có những hình ảnh sắc nét, chụp được ảnh siêu cận và ảnh xóa phông tốt hơn.	Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau , bao gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP . Với 3 camera này bạn sẽ có những hình ảnh sắc nét , chụp được ảnh siêu cận và ảnh xóa phông tốt hơn .    [quintuple]
+Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau, bao gồm camera chính 12MP, camera macro 2MP và camera đo độ sâu 2MP. Với 3 camera này bạn sẽ có những hình ảnh sắc nét, chụp được ảnh siêu cận và ảnh xóa phông tốt hơn.	Samsung Galaxy A03s nổi bật với hệ thống 3 camera sau , bao gồm camera chính 12MP , camera macro 2MP và camera đo độ sâu 2MP . Với 3 camera này bạn sẽ có những hình ảnh sắc nét , chụp được ảnh siêu cận và ảnh xóa phông tốt hơn .	[quintuple]
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["44&&ảnh", "45&&siêu", "46&&cận"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["48&&ảnh", "49&&xóa", "50&&phông"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
 
@@ -106,9 +106,6 @@ Vậy chọn Galaxy A03s hay Vivo Y21?	Vậy chọn Galaxy A03s hay Vivo Y21 ?
 Nhìn chung, cả hai hãng đã mang tới chọn lựa tốt trong phân khúc giá rẻ cho người dùng như hiệu năng ổn định, pin trâu, màn hình lớn.	Nhìn chung , cả hai hãng đã mang tới chọn lựa tốt trong phân khúc giá rẻ cho người dùng như hiệu năng ổn định , pin trâu , màn hình lớn .
 
 Sự chênh lệch về các thông số khác như camera cũng không đáng kể.	Sự chênh lệch về các thông số khác như camera cũng không đáng kể .
-{"subject": [], "object": [], "aspect": ["5&&các", "6&&thông", "7&&số", "8&&khác", "9&&như", "10&&camera"], "predicate": ["1&&Sự", "2&&chênh", "3&&lệch", "4&&về", "5&&các", "6&&thông", "7&&số", "8&&khác", "9&&như", "10&&camera", "11&&cũng", "12&&không", "13&&đáng", "14&&kể"], "label": "EQL"}
-
-Sự chênh lệch về các thông số khác như camera cũng không đáng kể.	Sự chênh lệch về các thông số khác như camera cũng không đáng kể .  [original]
 {"subject": [], "object": [], "aspect": ["1&&Sự", "2&&chênh", "3&&về", "4&&các", "5&&các", "6&&thông", "7&&số", "8&&khác", "9&&như", "10&&camera"], "predicate": ["12&&không", "13&&đáng", "14&&kể"], "label": "EQL"}
 
 Vậy chọn điện thoại nào sẽ phụ thuộc vào bạn thích thiết kế nào hơn.	Vậy chọn điện thoại nào sẽ phụ thuộc vào bạn thích thiết kế nào hơn .

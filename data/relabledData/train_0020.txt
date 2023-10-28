@@ -198,11 +198,11 @@ S20 Ultra cũng dễ cầm hơn trong tay và trong khi nó có mức 220g, nó 
 Galaxy S20 Ultra có giá cao rất nhiều so với ROG Phone 2.	Galaxy S20 Ultra có giá cao rất nhiều so với ROG Phone 2 .
 {"subject": ["1&&Galaxy", "2&&S20", "3&&Ultra"], "object": ["11&&ROG", "12&&Phone", "13&&2"], "aspect": ["5&&giá"], "predicate": ["6&&cao", "7&&rất", "8&&nhiều"], "label": "COM-"}
 
-Với mức giá đó, bạn sẽ có màn hình QHD + độ phân giải cao hơn, chipset mới hơn, kết nối 5G, RAM LPDDR5, camera mới tuyệt vời với zoom lai 100x, sạc không dây, và khả năng chống nước IP68.	Với mức giá đó , bạn sẽ có màn hình QHD + độ phân giải cao hơn , chipset mới hơn , kết nối 5G , RAM LPDDR5 , camera mới tuyệt vời với zoom lai 100x , sạc không dây , và khả năng chống nước IP68 . [original]
+Với mức giá đó, bạn sẽ có màn hình QHD + độ phân giải cao hơn, chipset mới hơn, kết nối 5G, RAM LPDDR5, camera mới tuyệt vời với zoom lai 100x, sạc không dây, và khả năng chống nước IP68.	Với mức giá đó , bạn sẽ có màn hình QHD + độ phân giải cao hơn , chipset mới hơn , kết nối 5G , RAM LPDDR5 , camera mới tuyệt vời với zoom lai 100x , sạc không dây , và khả năng chống nước IP68 .	[original]
 {"subject": [], "object": [], "aspect": ["9&&màn", "10&&hình"], "predicate": ["13&&độ", "14&&phân", "15&&giải", "16&&cao", "17&&hơn"], "label": "COM+"}
 {"subject": [], "object": [], "aspect": ["19&&chipset"], "predicate": ["20&&mới", "21&&hơn"], "label": "COM+"}
 
-Với mức giá đó, bạn sẽ có màn hình QHD + độ phân giải cao hơn, chipset mới hơn, kết nối 5G, RAM LPDDR5, camera mới tuyệt vời với zoom lai 100x, sạc không dây, và khả năng chống nước IP68.	Với mức giá đó , bạn sẽ có màn hình QHD + độ phân giải cao hơn , chipset mới hơn , kết nối 5G , RAM LPDDR5 , camera mới tuyệt vời với zoom lai 100x , sạc không dây , và khả năng chống nước IP68 . [quintuple]
+Với mức giá đó, bạn sẽ có màn hình QHD + độ phân giải cao hơn, chipset mới hơn, kết nối 5G, RAM LPDDR5, camera mới tuyệt vời với zoom lai 100x, sạc không dây, và khả năng chống nước IP68.	Với mức giá đó , bạn sẽ có màn hình QHD + độ phân giải cao hơn , chipset mới hơn , kết nối 5G , RAM LPDDR5 , camera mới tuyệt vời với zoom lai 100x , sạc không dây , và khả năng chống nước IP68 .	[quintuple]
 {"subject": [], "object": [], "aspect": ["9&&màn", "10&&hình", "11&&QHD", "12&&+", "13&&độ", "14&&phân", "15&&giải"], "predicate": ["16&&cao", "17&&hơn"], "label": "COM+"}
 {"subject": [], "object": [], "aspect": ["19&&chipset"], "predicate": ["20&&mới", "21&&hơn"], "label": "COM+"}
 

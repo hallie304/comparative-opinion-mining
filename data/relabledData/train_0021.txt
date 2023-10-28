@@ -172,11 +172,11 @@ Tốc độ xung nhịp cao hơn phiên bản 3.2 GHZ được Qualcomm công
 
 Chưa kể đến khả năng của hệ thống con đồ họa vượt trội.	Chưa kể đến khả năng của hệ thống con đồ họa vượt trội .
 
-Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ, ổn định nhất của Qualcomm ở thời điểm hiện tại.	Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ , ổn định nhất của Qualcomm ở thời điểm hiện tại .    [original]
+Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ, ổn định nhất của Qualcomm ở thời điểm hiện tại.	Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ , ổn định nhất của Qualcomm ở thời điểm hiện tại .	[original]
 {"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": [], "predicate": ["12&&mạnh", "13&&mẽ", "14&&,", "15&&ổn", "16&&định", "17&&nhất", "18&&của", "19&&Qualcomm", "20&&ở", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "SUP+"}
 
-Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ, ổn định nhất của Qualcomm ở thời điểm hiện tại.	Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ , ổn định nhất của Qualcomm ở thời điểm hiện tại .    [quintuple]
-{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": ["20&&ở", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "predicate": ["12&&mạnh", "13&&mẽ", "14&&,", "15&&ổn", "16&&định", "17&&nhất", "18&&của", "19&&Qualcomm"], "label": "SUP+"}
+Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ, ổn định nhất của Qualcomm ở thời điểm hiện tại.	Snapdragon 8 Gen 2 được đánh giá là chipset hàng đầu mạnh mẽ , ổn định nhất của Qualcomm ở thời điểm hiện tại .	[quintuple]
+{"subject": ["1&&Snapdragon", "2&&8", "3&&Gen", "4&&2"], "object": [], "aspect": [], "predicate": ["12&&mạnh", "13&&mẽ", "14&&,", "15&&ổn", "16&&định", "17&&nhất", "18&&của", "19&&Qualcomm"], "label": "SUP+"}
 
 SoC còn hỗ trợ các xu hướng kết xuất đồ họa 3D mới nhất.	SoC còn hỗ trợ các xu hướng kết xuất đồ họa 3D mới nhất .
 

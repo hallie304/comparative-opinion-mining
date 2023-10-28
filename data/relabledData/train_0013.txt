@@ -29,10 +29,10 @@ Màn hình được tích hợp tính năng bảo mật vân tay ẩn dưới m�
 
 Tổng quan điện thoại Samsung A51	Tổng quan điện thoại Samsung A51
 
-Samsung Galaxy A51  là Smartphone Android bán chạy nhất thế giới quý 1/2020.	Samsung Galaxy A51 là Smartphone Android bán chạy nhất thế giới quý 1 / 2020 .  [original]
+Samsung Galaxy A51  là Smartphone Android bán chạy nhất thế giới quý 1/2020.	Samsung Galaxy A51 là Smartphone Android bán chạy nhất thế giới quý 1 / 2020 .	[original]
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A51"], "object": [], "aspect": [], "predicate": ["7&&bán", "8&&chạy", "9&&nhất", "10&&thế", "11&&giới", "12&&quý", "13&&1", "14&&/", "15&&2020"], "label": "SUP+"}
 
-Samsung Galaxy A51  là Smartphone Android bán chạy nhất thế giới quý 1/2020.	Samsung Galaxy A51 là Smartphone Android bán chạy nhất thế giới quý 1 / 2020 .  [quintuple]
+Samsung Galaxy A51  là Smartphone Android bán chạy nhất thế giới quý 1/2020.	Samsung Galaxy A51 là Smartphone Android bán chạy nhất thế giới quý 1 / 2020 .	[quintuple]
 {"subject": ["1&&Samsung", "2&&Galaxy", "3&&A51"], "object": [], "aspect": [], "predicate": ["7&&bán", "8&&chạy", "9&&nhất", "10&&thế", "11&&giới"], "label": "SUP+"}
 
 Máy được trang bị hệ thống 4 cụm camera siêu đỉnh, gồm camera chụp cận cảnh đột phá, cho phép bạn thỏa sức tự do sáng tạo, ghi lại những khoảnh khắc đẹp đến từng chi tiết nhỏ và đậm chất nghệ thuật từ vạn vật xung quanh.	Máy được trang bị hệ thống 4 cụm camera siêu đỉnh , gồm camera chụp cận cảnh đột phá , cho phép bạn thỏa sức tự do sáng tạo , ghi lại những khoảnh khắc đẹp đến từng chi tiết nhỏ và đậm chất nghệ thuật từ vạn vật xung quanh .

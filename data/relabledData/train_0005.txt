@@ -3,11 +3,8 @@ Title: iPhone SE (2016) chính là món “hàng hiếm” đáng sở hữu nh�
 Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì iPhone SE 2016 chính là mẫu máy đáng sở hữu nhất, bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý.	Nếu như bạn đang muốn tìm kiểm một mẫu iPhone cũ để dùng làm máy phụ thì iPhone SE 2016 chính là mẫu máy đáng sở hữu nhất , bởi nó hội tụ đầy đủ các yếu tố trong một mức giá ở thời điểm hiện tại có lẽ là cực kì hợp lý .
 {"subject": ["18&&iPhone", "19&&SE", "20&&2016"], "object": [], "aspect": [], "predicate": ["25&&đáng", "26&&sở", "27&&hữu", "28&&nhất"], "label": "SUP+"}
 
-iPhone SE 2016 chính là món “hàng hiếm” đáng sở hữu nhất trong năm 2020	iPhone SE 2016 chính là món “ hàng hiếm ” đáng sở hữu nhất trong năm 2020   [original]
+iPhone SE 2016 chính là món “hàng hiếm” đáng sở hữu nhất trong năm 2020	iPhone SE 2016 chính là món “ hàng hiếm ” đáng sở hữu nhất trong năm 2020
 {"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": [], "predicate": ["11&&đáng", "12&&sở", "13&&hữu", "14&&nhất", "15&&trong", "16&&năm", "17&&2020"], "label": "SUP+"}
-
-iPhone SE 2016 chính là món “hàng hiếm” đáng sở hữu nhất trong năm 2020	iPhone SE 2016 chính là món “ hàng hiếm ” đáng sở hữu nhất trong năm 2020   [quintuple]
-{"subject": ["1&&iPhone", "2&&SE", "3&&2016"], "object": [], "aspect": ["15&&trong", "16&&năm", "17&&2020"], "predicate": ["11&&đáng", "12&&sở", "13&&hữu", "14&&nhất"], "label": "SUP+"}
 
 Có nhiều câu hỏi được đặt ra đó là: Có nên mua iPhone SE vào năm 2020?	Có nhiều câu hỏi được đặt ra đó là : Có nên mua iPhone SE vào năm 2020 ?
 
