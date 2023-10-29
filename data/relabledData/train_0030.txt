@@ -114,8 +114,8 @@ Cạnh bên phải chứa nút nguồn cùng với phím tăng giảm âm lượ
 {"subject": [], "object": ["25&&các", "26&&mẫu", "27&&điện", "28&&thoại", "29&&khác"], "aspect": ["9&&phím", "10&&tăng", "11&&giảm", "12&&âm", "13&&lượng"], "predicate": ["16&&hơi", "17&&dịch", "18&&lên", "19&&phía", "20&&trên", "21&&một", "22&&chút"], "label": "DIF"}
 
 Cạnh bên phải chứa nút nguồn cùng với phím tăng giảm âm lượng, chúng hơi dịch lên phía trên một chút so với các mẫu điện thoại khác.	Cạnh bên phải chứa nút nguồn cùng với phím tăng giảm âm lượng , chúng hơi dịch lên phía trên một chút so với các mẫu điện thoại khác .	[quintuple]
-{"subject": [15&&chúng], "object": ["25&&các", "26&&mẫu", "27&&điện", "28&&thoại", "29&&khác"], "aspect": ["5&&nút", "6&&nguồn"], "predicate": ["16&&hơi", "17&&dịch", "18&&lên", "19&&phía", "20&&trên", "21&&một", "22&&chút"], "label": "DIF"}
-{"subject": [15&&chúng], "object": ["25&&các", "26&&mẫu", "27&&điện", "28&&thoại", "29&&khác"], "aspect": ["9&&phím", "10&&tăng", "11&&giảm", "12&&âm", "13&&lượng"], "predicate": ["16&&hơi", "17&&dịch", "18&&lên", "19&&phía", "20&&trên", "21&&một", "22&&chút"], "label": "DIF"}
+{"subject": ["15&&chúng"], "object": ["25&&các", "26&&mẫu", "27&&điện", "28&&thoại", "29&&khác"], "aspect": ["5&&nút", "6&&nguồn"], "predicate": ["16&&hơi", "17&&dịch", "18&&lên", "19&&phía", "20&&trên", "21&&một", "22&&chút"], "label": "DIF"}
+{"subject": ["15&&chúng"], "object": ["25&&các", "26&&mẫu", "27&&điện", "28&&thoại", "29&&khác"], "aspect": ["9&&phím", "10&&tăng", "11&&giảm", "12&&âm", "13&&lượng"], "predicate": ["16&&hơi", "17&&dịch", "18&&lên", "19&&phía", "20&&trên", "21&&một", "22&&chút"], "label": "DIF"}
 
 Hơn nữa cảm biến vân tay được tích hợp trong phím nguồn vì thế phím nguồn được vát bằng và hơi lõm so với khung máy.	Hơn nữa cảm biến vân tay được tích hợp trong phím nguồn vì thế phím nguồn được vát bằng và hơi lõm so với khung máy .
 
