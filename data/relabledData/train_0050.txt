@@ -79,8 +79,6 @@ Samsung Z Flip 4 nhỏ hơn một chút với màn hình 6.7 inches, sử dụng
 
 Tần số quét 120Hz nhưng độ phân giải lên tới 1080x 2640 pixels.	Tần số quét 120Hz nhưng độ phân giải lên tới 1080x 2640 pixels .
 
-{"subject": ["4&&màn", "5&&hình", "6&&phụ", "7&&của", "8&&Z", "9&&Flip", "10&&4"], "object": ["23&&màn", "24&&hình", "25&&phụ", "26&&của", "27&&Find", "28&&N2"], "aspect": ["12&&độ", "13&&phân", "14&&giải"], "predicate": ["19&&nhỏ", "20&&hơn"], "label": "COM-"}
-
 alt: Find N2 Flip có kích thước nhỉnh hơn	alt : Find N2 Flip có kích thước nhỉnh hơn
 
 des: Find N2 Flip có kích thước nhỉnh hơn	des : Find N2 Flip có kích thước nhỉnh hơn
