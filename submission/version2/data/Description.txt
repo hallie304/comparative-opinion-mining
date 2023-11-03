@@ -1,0 +1,13 @@
+x2 các class và đẩy minority lên khoảng 300
+
+Non-comparative: 6240
+DIF: 410
+EQL: 1788
+SUP+: 334
+SUP-: 288
+SUP: 308
+COM+: 2980
+COM-: 854
+COM: 346
+
+Cho all_task file

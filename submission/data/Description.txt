@@ -1,0 +1,14 @@
+Class lớn cộng thêm 0.25
+Class nhỏ cộng thêm 0.75
+
+Non-comparative: 6240
+DIF: 144
+EQL: 671
+SUP+: 223
+SUP-: 15
+SUP: 29
+COM+: 760
+COM-: 237
+COM: 100
+
+Cho all_task file
