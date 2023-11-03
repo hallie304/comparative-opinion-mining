@@ -1,0 +1,302 @@
+title : Cùng mức giá gần 25 triệu : Nên chọn iPhone 14 Plus 256GB hay Samsung Galaxy S22 Ultra 256GB ?
+
+So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB
+
+Điện thoại iPhone 14 Plus 256GB và Galaxy S22 Ultra 5G 256GB nổi lên là hai trong số nhiều sự lựa chọn đáng giá nhất phân khúc 24 - 25 triệu thời điểm cuối năm .
+{"subject": ["8&&Galaxy", "9&&S22", "10&&Ultra", "11&&5G", "12&&256GB"], "object": [], "aspect": [], "predicate": ["23&&đáng", "24&&giá", "25&&nhất", "26&&phân", "27&&khúc"], "label": "SUP+"}
+
+Nếu dựa vào đánh giá chủ quan , nhiều người chắc chắn sẽ cho rằng sản phẩm nhà Samsung vượt trội hơn hẳn đối thủ đến từ Apple .
+{"subject": ["16&&sản", "17&&phẩm", "18&&nhà", "19&&Samsung"], "object": ["24&&đối", "25&&thủ", "26&&đến", "27&&từ", "28&&Apple"], "aspect": [], "predicate": ["20&&vượt", "21&&trội", "22&&hơn", "23&&hẳn"], "label": "COM+"}
+
+Cùng XTmobile tìm kiếm câu trả lời nhé !
+
+alt : Cùng mức giá , liệu iPhone 14 Plus 256GB có ngang bằng với Galaxy S22 Ultra 256GB
+
+des :
+
+Cùng mức giá , liệu iPhone 14 Plus 256GB có ngang bằng với Galaxy S22 Ultra 256GB
+
+Mức giá không quá chênh lệch
+
+Galaxy S22 Ultra 5G 256GB hiện đang có mức giá dao động trong khoảng 24.5 – 25 triệu đồng ( cập nhật thị trường ngày 16.12.2022 ) .
+
+Trong khi đó , iPhone 14 Plus 256GB lại có khoảng giá lớn hơn một chút với từ 24.8 - 25.6 triệu đồng .
+{"subject": ["5&&iPhone", "6&&14", "7&&Plus", "8&&256GB"], "object": [], "aspect": ["11&&khoảng", "12&&giá"], "predicate": ["13&&lớn", "14&&hơn", "15&&một", "16&&chút"], "label": "COM+"}
+
+Nhìn chung , sự chênh lệch về mức giá của hai chiếc điện thoại này là không quá lớn .
+{"subject": ["11&&hai", "12&&chiếc", "13&&điện", "14&&thoại", "15&&này"], "object": ["11&&hai", "12&&chiếc", "13&&điện", "14&&thoại", "15&&này"], "aspect": ["4&&sự", "5&&chênh", "6&&lệch", "7&&về", "8&&mức", "9&&giá"], "predicate": ["17&&không", "18&&quá", "19&&lớn"], "label": "EQL"}
+
+alt : Galaxy S22 Ultra 256GB có mức giá không quá chênh lệch so với iPhone 14 Plus 256GB
+
+des :
+
+Galaxy S22 Ultra 5G 256GB có mức giá không quá chênh lệch so với iPhone 14 Plus 256GB
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&5G", "5&&256GB"], "object": ["15&&iPhone", "16&&14", "17&&Plus", "18&&256GB"], "aspect": ["7&&mức", "8&&giá"], "predicate": ["9&&không", "10&&quá", "11&&chênh", "12&&lệch"], "label": "EQL"}
+
+Tuy nhiên , điều đó sẽ bị thay đổi trong tương lai .
+
+Nguyên nhân là bởi các mẫu điện thoại Android thường không có khả năng giữ giá tốt bằng iPhone .
+{"subject": ["5&&các", "6&&mẫu", "7&&điện", "8&&thoại", "9&&Android"], "object": ["19&&iPhone"], "aspect": [], "predicate": ["11&&không", "12&&có", "13&&khả", "14&&năng", "15&&giữ", "16&&giá", "17&&tốt", "18&&bằng"], "label": "COM-"}
+
+Thế nên nếu bạn mua với một tâm lý có thể bán lại hoặc lên đời thì iPhone 14 Plus rõ ràng là một sự lựa chọn đáng cân nhắc hơn .
+{"subject": ["18&&iPhone", "19&&14", "20&&Plus"], "object": [], "aspect": [], "predicate": ["28&&đáng", "29&&cân", "30&&nhắc", "31&&hơn"], "label": "COM+"}
+
+Mỗi smartphone có một lợi thế về thiết kế
+
+Về điểm này , không khó để bạn đoán ra người chiến thắng sẽ là mẫu flagship đến từ Hàn Quốc .
+
+Năm nay , Samsung đã gây một bất ngờ lớn khi mang các đường nét thiết kế đặc trưng của Galaxy Note lên trên phiên bản cao cấp nhất dòng Galaxy S 2022 .
+{"subject": ["21&&Galaxy", "22&&Note"], "object": ["33&&2022"], "aspect": ["13&&các", "14&&đường", "15&&nét", "16&&thiết", "17&&kế", "18&&đặc", "19&&trưng"], "predicate": ["27&&cao", "28&&cấp", "29&&nhất"], "label": "SUP+"}
+{"subject": ["31&&Galaxy", "32&&S"], "object": ["33&&2022"], "aspect": ["13&&các", "14&&đường", "15&&nét", "16&&thiết", "17&&kế", "18&&đặc", "19&&trưng"], "predicate": ["27&&cao", "28&&cấp", "29&&nhất"], "label": "SUP+"}
+
+Khác với mọi năm , Galaxy S22 Ultra mang kiểu dáng vuông vức , mạnh mẽ và có một chút nam tính .
+{"subject": ["6&&Galaxy", "7&&S22", "8&&Ultra"], "object": ["3&&mọi", "4&&năm"], "aspect": ["10&&kiểu", "11&&dáng"], "predicate": ["1&&Khác"], "label": "DIF"}
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB
+
+des :
+
+Galaxy S22 Ultra sở hữu một ngoại hình vô cùng ấn tượng
+
+Tuy hình dáng có phần góc cạnh , song trên thực tế , Samsung vẫn thiết kế những đường cong nhất định , đặc biệt là phần tiếp nối giữa màn hình và khung .
+
+Điều này giúp cho chiếc điện thoại không hề có cảm giác cấn tay .
+
+Thậm chí còn có phần thoải mái khi cầm nắm .
+
+Một điều thú vị nữa ở mẫu máy này đó là nó có khối lượng nhẹ hơn rất nhiều so với hình dáng bên ngoài .
+{"subject": ["7&&mẫu", "8&&máy", "9&&này"], "object": [], "aspect": ["14&&khối", "15&&lượng"], "predicate": ["16&&nhẹ", "17&&hơn", "18&&rất", "19&&nhiều"], "label": "COM+"}
+{"subject": ["7&&mẫu", "8&&máy", "9&&này"], "object": [], "aspect": ["22&&hình", "23&&dáng", "24&&bên", "25&&ngoài"], "predicate": ["16&&nhẹ", "17&&hơn", "18&&rất", "19&&nhiều"], "label": "COM+"}
+{"subject": ["12&&nó"], "object": [], "aspect": ["14&&khối", "15&&lượng"], "predicate": ["16&&nhẹ", "17&&hơn", "18&&rất", "19&&nhiều"], "label": "COM+"}
+{"subject": ["12&&nó"], "object": [], "aspect": ["22&&hình", "23&&dáng", "24&&bên", "25&&ngoài"], "predicate": ["16&&nhẹ", "17&&hơn", "18&&rất", "19&&nhiều"], "label": "COM+"}
+
+Bạn thậm chí sẽ thấy bất ngờ khi được cầm tận tay sản phẩm và sử dụng .
+
+Sau cùng , việc loại bỏ module , đặt trực tiếp camera lên mặt lưng kính mờ là một thiết kế vô cùng xuất sắc của Samsung .
+
+Thậm chí hãng còn quyết định sử dụng nó cho các mẫu điện thoại khác của mình vào năm sau .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Thiết kế
+
+des :
+
+iPhone 14 Plus 256GB có thiết kế đơn giản nhưng tinh tế
+
+Trái ngược với sự thay đổi lớn của Galaxy S22 Ultra , iPhone 14 Plus lại chỉ đơn giản là một phiên bản iPhone tiêu chuẩn phóng lớn .
+
+Tuy nhiên , không vì thế mà chiếc điện thoại này trở nên kém sang trọng hay thô kệch trong mắt người dùng .
+
+Dù có kích thước khá lớn , song việc sở hữu một bảng màu nhẹ nhàng và bắt mắt giúp iPhone 14 Plus trở thành một sự lựa chọn lý tưởng đối với người dùng trẻ .
+
+Việc sử dụng khung viền nhôm thay vì thép giúp sản phẩm nhẹ hơn so với phiên bản iPhone 14 Pro Max , dù chỉ là một chút nhưng bạn vẫn sẽ dễ dàng nhận ra sự khác biệt .
+{"subject": ["11&&sản", "12&&phẩm"], "object": ["17&&phiên", "18&&bản", "19&&iPhone", "20&&14", "21&&Pro", "22&&Max"], "aspect": [], "predicate": ["13&&nhẹ", "14&&hơn"], "label": "COM+"}
+
+Bộ nhớ 256GB có sự chênh lệch nhỏ
+{"subject": [], "object": [], "aspect": ["1&&Bộ", "2&&nhớ"], "predicate": ["4&&có", "5&&sự", "6&&chênh", "7&&lệch", "8&&nhỏ"], "label": "DIF"}
+
+Cả hai mẫu máy đều có bộ nhớ lên tới 256GB .
+{"subject": ["1&&Cả", "2&&hai", "3&&mẫu", "4&&máy"], "object": ["1&&Cả", "2&&hai", "3&&mẫu", "4&&máy"], "aspect": ["7&&bộ", "8&&nhớ", "9&&lên", "10&&tới", "11&&256GB"], "predicate": ["5&&đều", "6&&có"], "label": "EQL"}
+
+Mức cấu hình này được đánh giá là thoải mái với nhu cầu sử dụng phổ biến hiện nay .
+
+Với bộ nhớ lớn , người dùng có thể tự tin tải các phần mềm hay ứng dụng nặng , đặc biệt là game .
+
+Một vài ví dụ đơn giản hiện nay chúng ta có Tower of Fantasy ( 15GB ) , Call of Duty Mobile ( 19GB ) hay Genshin Impact ( 21GB ) .
+
+Ngoài ra , với những người yêu thích việc quay chụp , bộ nhớ lớn sẽ là vô cùng cần thiết .
+
+Bởi khác với cách đây 5 năm , những bức ảnh hay video giờ đây đều được đi kèm với rất nhiều công nghệ hỗ trợ .
+
+Chính vì thế mà chúng thường có dung lượng lớn hơn đáng kể .
+{"subject": ["5&&chúng"], "object": [], "aspect": ["8&&dung", "9&&lượng"], "predicate": ["10&&lớn", "11&&hơn", "12&&đáng", "13&&kể"], "label": "COM+"}
+
+Đó là chưa kể đến chuẩn quay video 4K và 8K vốn cũng rất tốn bộ nhớ của máy .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Bộ nhớ
+
+des :
+
+Chuẩn quay 8K của Galaxy S22 Ultra tốn nhiều dung lượng lưu trữ
+
+Chắc hẳn bạn đã biết , chúng ta sẽ luôn tốn một lượng bộ nhớ nhất định dành cho các hệ thống bắt buộc của máy .
+
+Về khoản này , iPhone 14 Plus 256GB có ưu thế hơn Galaxy S22 Ultra do ít tốn dung lượng hơn .
+{"subject": ["5&&iPhone", "6&&14", "7&&Plus", "8&&256GB"], "object": ["13&&Galaxy", "14&&S22", "15&&Ultra"], "aspect": ["19&&dung", "20&&lượng"], "predicate": ["17&&ít", "18&&tốn"], "label": "COM+"}
+{"subject": ["5&&iPhone", "6&&14", "7&&Plus", "8&&256GB"], "object": ["13&&Galaxy", "14&&S22", "15&&Ultra"], "aspect": ["19&&dung", "20&&lượng"], "predicate": ["21&&hơn"], "label": "COM+"}
+
+Tất nhiên điều này không phải là một vấn đề quá to tát , song nó cũng là một lợi thế không nên bỏ qua của iPhone 14 Plus .
+
+Cấu hình sẽ là điểm mạnh của iPhone 14 Plus 256GB
+
+Như bạn đã biết , iPhone 14 Plus 256GB tuy chỉ sử dụng con chip A15 từ mẫu điện thoại tiền nhiệm nhưng đó lại là một phiên bản nâng cấp .
+
+Cụ thể , bộ vi xử lý này được cung cấp thêm một lõi GPU , giúp tăng cường đáng kể khả năng xử lý hình ảnh của máy .
+
+Theo so sánh của chính Apple , phiên bản chip A15 trên iPhone 14 Plus có hiệu suất đồ họa nhanh hơn tới 25% so với chip trên iPhone 13 .
+{"subject": ["8&&phiên", "9&&bản", "10&&chip", "11&&A15", "12&&trên", "13&&iPhone", "14&&14", "15&&Plus"], "object": ["28&&trên", "29&&iPhone", "30&&13"], "aspect": ["17&&hiệu", "18&&suất", "19&&đồ", "20&&họa"], "predicate": ["21&&nhanh", "22&&hơn", "23&&tới", "24&&25%"], "label": "COM+"}
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Cấu hình
+
+des :
+
+Chip A15 mới có hiệu suất xử lý hình ảnh cao hơn 25% so với phiên bản cũ
+{"subject": ["1&&Chip", "2&&A15", "3&&mới"], "object": ["16&&phiên", "17&&bản", "18&&cũ"], "aspect": ["5&&hiệu", "6&&suất", "7&&xử", "8&&lý", "9&&hình", "10&&ảnh"], "predicate": ["11&&cao", "12&&hơn"], "label": "COM+"}
+
+Về phía Galaxy S22 Ultra , do được ra mắt khá sớm , thế nên máy chỉ được trang bị con chip Snapdragon 8 Gen 1 .
+
+Một điểm đáng buồn là con chip này tuy rất mạnh mẽ song lại bị Samsung hạn chế hiệu năng .
+
+Nguyên nhân là bởi mẫu vi xử lý này phát sinh quá nhiều nhiệt , thế nên hãng buộc phải giảm công suất để duy trì sự an toàn cho máy .
+
+Một điểm cần lưu ý , ngay cả khi không bị bóp hiệu năng , Snapdragon 8 Gen 1 vẫn không thể đọ lại con chip Apple A15 .
+{"subject": ["16&&Snapdragon", "17&&8", "18&&Gen", "19&&1"], "object": ["25&&con", "26&&chip", "27&&Apple", "28&&A15"], "aspect": ["14&&năng"], "predicate": ["21&&không", "22&&thể", "23&&đọ", "24&&lại"], "label": "COM-"}
+
+Trong các bài test khả năng xử lý tác vụ , mẫu vi xử lý Qualcomm luôn tỏ ra hụt hơi trước sản phẩm đến từ Apple .
+{"subject": ["12&&mẫu", "13&&vi", "14&&xử", "15&&lý", "16&&Qualcomm"], "object": ["23&&sản", "24&&phẩm", "25&&đến", "26&&từ", "27&&Apple"], "aspect": ["5&&khả", "6&&năng", "7&&xử", "8&&lý", "9&&tác", "10&&vụ"], "predicate": ["20&&hụt", "21&&hơi"], "label": "COM-"}
+
+Có khá nhiều lý do để giải thích cho điều này : Một phần là vì con chip Android gặp điểm yếu về kiểm soát nhiệt , dẫn đến hiện tượng mất ổn định khi gặp tác vụ quá nặng .
+
+Phần còn lại là vì con chip A15 được hưởng lợi từ việc tối ưu phần mềm của Apple .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Pin
+
+des :
+
+Chip A15 Bionic giúp iPhone 14 Plus 256GB có hiệu năng mạnh mẽ
+
+Tuy thua về phần hiệu năng , nhưng Galaxy S22 Ultra lại có lợi thế về năng lượng .
+
+Máy có viên pin 5000mAh , cho phép sản phẩm có thể để ở chế độ chờ lên đến 108 tiếng .
+
+Con số này cao hơn 6 tiếng so với viên pin 4323mAh của iPhone 14 Plus .
+{"subject": [], "object": ["14&&iPhone", "15&&14", "16&&Plus"], "aspect": [], "predicate": ["4&&cao", "5&&hơn"], "label": "COM+"}
+
+Đó là chưa kể đến việc sản phẩm nhà Samsung hỗ trợ sạc nhanh lên đến 45W , gấp 2.25 lần đối thủ .
+{"subject": ["7&&sản", "8&&phẩm", "9&&nhà", "10&&Samsung"], "object": ["22&&đối", "23&&thủ"], "aspect": ["13&&sạc", "14&&nhanh"], "predicate": ["19&&gấp", "20&&2.25", "21&&lần"], "label": "COM+"}
+
+Thông số kỹ thuật của Galaxy S22 Ultra 5G 256GB và iPhone 14 Plus 256GB
+
+Thông số kỹ thuật của Galaxy S22 Ultra 5G 256GB và iPhone 14 Plus 256GB
+
+6.8inch
+
+6.7inch
+
+Bảng so sánh chi tiết cấu hình Galaxy S22 Ultra 5G 256GB vs iPhone 14 Plus 256GB
+
+Màn hình là lợi thế của Galaxy S22 Ultra
+{"subject": ["7&&Galaxy", "8&&S22", "9&&Ultra"], "object": [], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["4&&lợi", "5&&thế"], "label": "COM+"}
+
+Trái ngược với hiệu năng , màn hình luôn là ưu điểm lớn nhất đối với các flagship Samsung .
+{"subject": ["17&&các", "18&&flagship", "19&&Samsung"], "object": [], "aspect": ["7&&màn", "8&&hình"], "predicate": ["11&&ưu", "12&&điểm", "13&&lớn", "14&&nhất"], "label": "COM+"}
+
+Galaxy S22 Ultra sở hữu màn hình nốt ruồi kích thước 6.8 inch , độ phân giải 2K + , hỗ trợ tần số quét 120Hz và có độ sáng màn hình lên tới 1750 nit .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Màn hình
+
+des :
+
+Màn hình của Galaxy S22 Ultra hỗ trợ độ phân giải 2K +
+
+Về phía iPhone 14 Plus , chiếc điện thoại này thua thiệt khá nhiều so với đối thủ .
+{"subject": ["3&&iPhone", "4&&14", "5&&Plus"], "object": ["17&&đối", "18&&thủ"], "aspect": [], "predicate": ["11&&thua", "12&&thiệt", "13&&khá", "14&&nhiều"], "label": "COM-"}
+{"subject": ["7&&chiếc", "8&&điện", "9&&thoại", "10&&này"], "object": ["17&&đối", "18&&thủ"], "aspect": [], "predicate": ["11&&thua", "12&&thiệt", "13&&khá", "14&&nhiều"], "label": "COM-"}
+
+Máy chỉ được trang bị màn hình tai thỏ kích thước 6.7 inch , độ phân giải Full HD + , tần số quét 60Hz và độ sáng màn hình dừng ở con số 1200 nit .
+
+alt : Màn hình iPhone 14 Plus 256GB có chất lượng ngang bằng với iPhone 14 Pro Max
+
+des :
+
+Màn hình iPhone 14 Plus 256GB có chất lượng ngang bằng với iPhone 14 Pro Max
+{"subject": ["3&&iPhone", "4&&14", "5&&Plus", "6&&256GB"], "object": ["13&&iPhone", "14&&14", "15&&Pro", "16&&Max"], "aspect": ["1&&Màn", "2&&hình"], "predicate": ["10&&ngang", "11&&bằng"], "label": "EQL"}
+{"subject": ["3&&iPhone", "4&&14", "5&&Plus", "6&&256GB"], "object": ["13&&iPhone", "14&&14", "15&&Pro", "16&&Max"], "aspect": ["8&&chất", "9&&lượng"], "predicate": ["10&&ngang", "11&&bằng"], "label": "EQL"}
+
+Rõ ràng khoảng cách về chất lượng màn hình giữa hai chiếc smartphone là khá lớn .
+{"subject": ["11&&hai", "12&&chiếc", "13&&smartphone"], "object": ["11&&hai", "12&&chiếc", "13&&smartphone"], "aspect": ["6&&chất", "7&&lượng", "8&&màn", "9&&hình"], "predicate": ["3&&khoảng", "4&&cách"], "label": "DIF"}
+{"subject": ["11&&hai", "12&&chiếc", "13&&smartphone"], "object": ["11&&hai", "12&&chiếc", "13&&smartphone"], "aspect": ["6&&chất", "7&&lượng", "8&&màn", "9&&hình"], "predicate": ["15&&khá", "16&&lớn"], "label": "DIF"}
+
+Song trên thực tế , iPhone 14 Plus vẫn đáp ứng tốt nhu cầu trải nghiệm hình ảnh của người dùng .
+
+Tuy không sở hữu tần số quét cao , nhưng độ mượt mà trong hiển thị hình ảnh của mẫu điện thoại này vẫn là vô cùng ổn .
+
+Nếu chỉ xét về độ sắc nét , iPhone 14 Plus hoàn toàn ngang bằng với iPhone 14 Pro Max .
+{"subject": ["9&&iPhone", "10&&14", "11&&Plus"], "object": ["17&&iPhone", "18&&14", "19&&Pro", "20&&Max"], "aspect": ["5&&độ", "6&&sắc", "7&&nét"], "predicate": ["12&&hoàn", "13&&toàn", "14&&ngang", "15&&bằng"], "label": "EQL"}
+
+Camera ấn tượng với cả hai mẫu điện thoại
+
+Ở khía cạnh này , cả hai mẫu điện thoại đều sẽ có cho mình những lợi thế riêng biệt .
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["2&&khía", "3&&cạnh", "4&&này"], "predicate": ["11&&đều", "12&&sẽ", "13&&có"], "label": "EQL"}
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["2&&khía", "3&&cạnh", "4&&này"], "predicate": ["16&&những"], "label": "EQL"}
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["2&&khía", "3&&cạnh", "4&&này"], "predicate": ["20&&biệt"], "label": "DIF"}
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["17&&lợi", "18&&thế"], "predicate": ["11&&đều", "12&&sẽ", "13&&có"], "label": "EQL"}
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["17&&lợi", "18&&thế"], "predicate": ["16&&những"], "label": "EQL"}
+{"subject": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "object": ["6&&cả", "7&&hai", "8&&mẫu", "9&&điện", "10&&thoại"], "aspect": ["17&&lợi", "18&&thế"], "predicate": ["20&&biệt"], "label": "EQL"}
+
+Xét về thông số phần cứng và khả năng zoom ảnh , Galaxy S22 Ultra chắc chắn là cái tên nổi bật hơn .
+{"subject": ["13&&Galaxy", "14&&S22", "15&&Ultra"], "object": [], "aspect": ["8&&khả", "9&&năng", "10&&zoom", "11&&ảnh"], "predicate": ["21&&nổi", "22&&bật", "23&&hơn"], "label": "COM+"}
+
+Nguyên nhân là bởi Samsung tích hợp nhiều công nghệ hiện đại vào sản phẩm như zoom 100X , camera độ phân giải 108MP hay khả năng quay video ở chất lượng 8K .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Ống kính
+
+des :
+
+Galaxy S22Ultra sở hữu ống kính chính 108MP
+
+Trong khi đó , iPhone 14 Plus năm nay tuy vẫn phải sử dụng cụm 3 ống kính sau 12MP .
+{"subject": ["5&&iPhone", "6&&14", "7&&Plus"], "object": [], "aspect": ["15&&cụm", "16&&3", "17&&ống", "18&&kính", "19&&sau", "20&&12MP"], "predicate": ["11&&vẫn", "12&&phải", "13&&sử", "14&&dụng"], "label": "EQL"}
+
+Thế nhưng chiếc điện thoại này lại được bổ sung thêm nhiều tính năng quay chụp thú vị .
+
+Tiêu biểu trong số đó có thể kể đến như quay Cinematic Mode 4K , Action Mode hay Photonic Engine .
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Camera
+
+des :
+
+Camera của iPhone 14 Plus 256GB không có nâng cấp về độ phân giải
+{"subject": ["1&&Camera", "2&&của", "3&&iPhone", "4&&14", "5&&Plus", "6&&256GB"], "object": [], "aspect": ["12&&độ", "13&&phân", "14&&giải"], "predicate": ["7&&không", "8&&có", "9&&nâng", "10&&cấp"], "label": "DIF"}
+
+Theo thang điểm đánh giá camera của DxOMark , camera của iPhone 14 Plus đạt 133 điểm , thấp hơn chỉ 2 điểm so với con số mà Galaxy S22 Ultra đạt được .
+{"subject": ["10&&camera"], "object": ["29&&Galaxy", "30&&S22", "31&&Ultra"], "aspect": ["2&&thang", "3&&điểm", "4&&đánh", "5&&giá", "6&&camera", "7&&của", "8&&DxOMark"], "predicate": ["19&&thấp", "20&&hơn"], "label": "COM-"}
+{"subject": ["12&&iPhone", "13&&14", "14&&Plus"], "object": ["29&&Galaxy", "30&&S22", "31&&Ultra"], "aspect": ["2&&thang", "3&&điểm", "4&&đánh", "5&&giá", "6&&camera", "7&&của", "8&&DxOMark"], "predicate": ["19&&thấp", "20&&hơn"], "label": "COM-"}
+
+Như vậy có thể thấy khoảng cách về chất lượng camera giữa hai mẫu smartphone là không quá đáng kể .
+{"subject": ["13&&hai", "14&&mẫu", "15&&smartphone"], "object": [], "aspect": ["6&&khoảng", "7&&cách"], "predicate": ["17&&không", "18&&quá", "19&&đáng", "20&&kể"], "label": "EQL"}
+{"subject": ["13&&hai", "14&&mẫu", "15&&smartphone"], "object": [], "aspect": ["9&&chất", "10&&lượng", "11&&camera"], "predicate": ["17&&không", "18&&quá", "19&&đáng", "20&&kể"], "label": "EQL"}
+
+Tiện ích khác
+
+Về các chức năng phụ khác , sẽ hơi tiếc khi iPhone 14 Plus năm nay được hỗ trợ cảnh báo va chạm và cuộc gọi khẩn cấp bằng vệ tinh .
+
+Thế nhưng cả hai tính năng hiện đều không thể sử dụng tại thị trường Việt Nam .
+{"subject": ["3&&cả", "4&&hai", "5&&tính", "6&&năng"], "object": ["3&&cả", "4&&hai", "5&&tính", "6&&năng"], "aspect": [], "predicate": ["8&&đều", "9&&không", "10&&thể", "11&&sử", "12&&dụng", "13&&tại", "14&&thị", "15&&trường"], "label": "EQL"}
+{"subject": ["3&&cả", "4&&hai", "5&&tính", "6&&năng"], "object": ["3&&cả", "4&&hai", "5&&tính", "6&&năng"], "aspect": [], "predicate": ["17&&Nam"], "label": "EQL"}
+
+Ngược lại , những tính năng phụ của Galaxy S22 Ultra lại được kích hoạt đầy đủ tại nước ta .
+
+Chỉ tính riêng những việc mà người dùng có thể làm với bút S Pen như công tắc camera , điều khiển không chạm hay thực hiện ghi chú , … Cũng đã cho thấy mẫu điện thoại nhà Samsung vượt trội hơn về tiện ích so với đối thủ .
+{"subject": ["36&&mẫu", "37&&điện", "38&&thoại", "39&&nhà", "40&&Samsung"], "object": ["49&&đối", "50&&thủ"], "aspect": ["45&&tiện", "46&&ích"], "predicate": ["41&&vượt", "42&&trội", "43&&hơn"], "label": "COM+"}
+
+alt : So sánh chi tiết iPhone 14 Plus 256GB và Samsung Galaxy S22 Ultra 5G 256GB : Tính năng phụ
+
+des :
+
+Galaxy S22 Ultra 256GB có đa dạng tính năng phụ nhờ bút S-Pen
+{"subject": ["1&&Galaxy", "2&&S22", "3&&Ultra", "4&&256GB"], "object": [], "aspect": ["6&&đa", "7&&dạng", "8&&tính", "9&&năng", "10&&phụ"], "predicate": [], "label": "EQL"}
+
+Tổng kết
+
+Như vậy , trên thực tế , iPhone 14 Plus có vẻ thua kém ở một vài khía cạnh so với đối thủ .
+{"subject": ["8&&iPhone", "9&&14", "10&&Plus"], "object": ["22&&đối", "23&&thủ"], "aspect": ["18&&khía", "19&&cạnh"], "predicate": ["13&&thua", "14&&kém"], "label": "COM-"}
+
+Song đây sẽ là sự lựa chọn hợp ý dành cho người muốn sở hữu một flagship hiệu năng mạnh mẽ , đáp ứng vừa đủ các nhu cầu sử dụng và có khả năng giữ giá tốt .
+
+Ngược lại , Galaxy S22 Ultra sẽ là sản phẩm dành cho những ai yêu thích việc trải nghiệm các công nghệ hiện đại nhất trên thị trường smartphone hiện tại .
+{"subject": ["4&&Galaxy", "5&&S22", "6&&Ultra"], "object": [], "aspect": ["20&&các", "21&&công", "22&&nghệ", "23&&hiện", "24&&đại"], "predicate": ["25&&nhất", "26&&trên", "27&&thị", "28&&trường", "29&&smartphone", "30&&hiện", "31&&tại"], "label": "SUP+"}
+
+Bạn nghĩ sao về nhận định của XTmobile ?
+
+Chia sẻ cho mình biết ở phần comment nhé !
+

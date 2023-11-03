@@ -1,0 +1,120 @@
+title : Samsung Galaxy A51 hay Vivo V19 mới là sự lựa chọn tốt hơn ?
+
+Thiết kế
+
+Cả hai đều sở hữu thiết kế đẹp mắt với vẻ ngoài bóng bẩy , mặt lưng có hiệu ứng đổi màu khi thay đổi góc nhìn .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["16&&mặt", "17&&lưng"], "predicate": ["3&&đều", "4&&sở", "5&&hữu"], "label": "EQL"}
+
+Chất liệu và khả năng hoàn thiện của cả hai đều tốt mang đến vẻ cứng cáp và chắc chắn .
+{"subject": ["9&&cả", "10&&hai"], "object": ["9&&cả", "10&&hai"], "aspect": ["4&&khả", "5&&năng", "6&&hoàn", "7&&thiện"], "predicate": ["11&&đều", "12&&tốt"], "label": "EQL"}
+
+Cảm giác cầm nắm trên Samsung Galaxy A51   mang lại tốt hơn khi được bo cong vừa giúp dễ cầm hơn , không bị quá cấn tay .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A51"], "object": [], "aspect": ["1&&Cảm", "2&&giác", "3&&cầm", "4&&nắm"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Tuy nhiên , Vivo V19 lại có mặt lưng sang trọng hơn với chất liệu kính bóng bẩy và đẹp mắt .
+{"subject": ["4&&Vivo", "5&&V19"], "object": [], "aspect": ["8&&mặt", "9&&lưng"], "predicate": ["10&&sang", "11&&trọng", "12&&hơn"], "label": "COM+"}
+
+Samsung Galaxy A51 còn ghi điểm với việc sở hữu tới 5 màu sắc khác nhau để người dùng có thể dễ dàng lựa chọn hơn .
+
+alt : Samsung Galaxy A51
+
+des : Samsung Galaxy A51
+
+Samsung Galaxy A51
+
+alt : Vivo V19
+
+des : Vivo V19
+
+Vivo V19
+
+Về phần mặt trước , Samsung Galaxy A51 có kích thước màn hình lớn hơn một chút với kích thước 6.5 inch trong khi Vivo V19 là 6.44 inch .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A51"], "object": ["25&&Vivo", "26&&V19"], "aspect": ["3&&mặt", "4&&trước"], "predicate": ["14&&lớn", "15&&hơn", "16&&một", "17&&chút"], "label": "COM+"}
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A51"], "object": ["25&&Vivo", "26&&V19"], "aspect": ["11&&thước", "12&&màn", "13&&hình"], "predicate": ["14&&lớn", "15&&hơn", "16&&một", "17&&chút"], "label": "COM+"}
+
+Cả hai đều được trang bị công nghệ màn hình với cụm camera đục lỗ bên trong và tấm nền AMOLED mang đến màu sắc bắt mắt , rực rỡ .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["7&&công", "8&&nghệ", "9&&màn", "10&&hình"], "predicate": ["3&&đều", "4&&được", "5&&trang", "6&&bị"], "label": "EQL"}
+
+Vivo V19 còn có màn hình tích hợp công nghệ HDR10 giúp tăng thêm độ tương phản và màu sắc hiển thị .
+
+Tuy nhiên , nhìn tổng thể thì màn hình của Samsung Galaxy A51 mang lại vẻ cân đối hơn khi camera selfie đặt ở chính giữa còn Vivo V17 được đặt lệch sang phía bên trái và có đến 2 camera nên chiếm khá nhiều diện tích .
+{"subject": ["11&&Samsung", "12&&Galaxy", "13&&A51"], "object": ["28&&Vivo", "29&&V17"], "aspect": ["8&&màn", "9&&hình"], "predicate": ["17&&cân", "18&&đối", "19&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+Samsung Galaxy A51
+
+alt :
+
+des :
+
+Vivo V19
+
+Hiệu năng
+
+Vivo V19 nhỉnh hơn về mặt hiệu năng với vi xử lý Qualcomm Snapdragon 712 , 8GB RAM và 128GB bộ nhớ lưu trữ trong khi đó Galaxy A51 sử dụng con chip do chính Samsung sản xuất là Exynos 9611 cùng với bộ nhớ RAM 6GB , 128GB ROM .
+
+Hiệu năng của cả hai máy đều ở mức trung bình khá , có thể đáp ứng tốt các nhu cầu sử dụng của người dùng từ cơ bản đến chơi game .
+{"subject": ["4&&cả", "5&&hai", "6&&máy"], "object": ["4&&cả", "5&&hai", "6&&máy"], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": ["7&&đều", "8&&ở", "9&&mức", "10&&trung", "11&&bình", "12&&khá"], "label": "EQL"}
+
+Tuy vậy , nếu như bạn muốn một chiếc máy cấu hình mạnh mẽ hơn thì Vivo V19 sẽ đáp ứng tốt cho bạn .
+{"subject": ["17&&Vivo", "18&&V19"], "object": [], "aspect": ["11&&cấu", "12&&hình"], "predicate": ["13&&mạnh", "14&&mẽ", "15&&hơn"], "label": "COM+"}
+
+alt : Samsung A51 vs Vivo V19
+
+des : Samsung A51 vs Vivo V19
+
+Camera
+
+Khả năng nhiếp ảnh của cả hai máy này được đánh giá là ngang sức nhau khi cả hai đều thể hiện rất tốt và ấn tượng .
+{"subject": ["6&&cả", "7&&hai", "8&&máy", "9&&này"], "object": ["6&&cả", "7&&hai", "8&&máy", "9&&này"], "aspect": ["1&&Khả", "2&&năng", "3&&nhiếp", "4&&ảnh"], "predicate": ["14&&ngang", "15&&sức", "16&&nhau"], "label": "EQL"}
+
+Hệ thống camera của Samsung Galaxy A51 và Vivo V19 đều vô cùng chất lượng và có nhiều thông số khủng .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A51"], "object": ["9&&Vivo", "10&&V19"], "aspect": ["1&&Hệ", "2&&thống", "3&&camera"], "predicate": ["11&&đều", "12&&vô", "13&&cùng", "14&&chất", "15&&lượng"], "label": "EQL"}
+
+Samsung A51 có 4 camera phía sau có độ phân giải 48MP , 12MP , 5MP , 5MP và camera selfie 32MP trong khi đó Vivo V19 cũng không kém cạnh với camera chính 48MP , 8MP , 2MP , 2MP và camera selfie kép 32MP , 8MP .
+{"subject": ["26&&Vivo", "27&&V19"], "object": ["1&&Samsung", "2&&A51"], "aspect": [], "predicate": ["29&&không", "30&&kém", "31&&cạnh"], "label": "EQL"}
+
+alt : Samsung A51 vs Vivo V19
+
+des : Samsung A51 vs Vivo V19
+
+Chất ảnh của cả hai máy trong điều kiện đầy đủ sáng đều mang lại màu sắc đẹp mắt , rực rỡ .
+{"subject": ["4&&cả", "5&&hai", "6&&máy"], "object": ["4&&cả", "5&&hai", "6&&máy"], "aspect": ["1&&Chất", "2&&ảnh"], "predicate": ["13&&đều", "14&&mang", "15&&lại", "16&&màu", "17&&sắc", "18&&đẹp", "19&&mắt", "20&&,", "21&&rực", "22&&rỡ"], "label": "EQL"}
+{"subject": ["4&&cả", "5&&hai", "6&&máy"], "object": ["4&&cả", "5&&hai", "6&&máy"], "aspect": ["8&&điều", "9&&kiện", "10&&đầy", "11&&đủ", "12&&sáng"], "predicate": ["13&&đều", "14&&mang", "15&&lại", "16&&màu", "17&&sắc", "18&&đẹp", "19&&mắt", "20&&,", "21&&rực", "22&&rỡ"], "label": "EQL"}
+
+Samsung thể hiện tốt hơn ở khả năng cân bằng ánh sáng trong khi đó Vivo V19 lại nhỉnh hơn ở việc mang lại những bức ảnh có độ sáng cao .
+
+alt : Samsung A51 vs Vivo V19
+
+des : Samsung A51 vs Vivo V19
+
+Thời lượng pin
+
+Dung lượng pin của hai chiếc máy này cũng khá lớn với dung lượng 4,000 mAh của Samsung A51 và 4,500 mAh của Vivo V19 .
+{"subject": ["5&&hai", "6&&chiếc", "7&&máy", "8&&này"], "object": ["24&&Vivo", "25&&V19"], "aspect": ["1&&Dung", "2&&lượng", "3&&pin"], "predicate": ["10&&khá", "11&&lớn"], "label": "EQL"}
+
+Nhìn thông số thôi chúng ta đã biết được chiếc máy nào có thời lượng pin lâu dài hơn .
+
+Dù chênh lệch không nhiều nhưng 500 mAh cũng mang lại thời lượng sử dụng khá tốt , giúp Vivo V19 có thể hoạt động được lâu hơn .
+{"subject": ["20&&Vivo", "21&&V19"], "object": [], "aspect": ["24&&hoạt", "25&&động"], "predicate": ["3&&lệch"], "label": "EQL"}
+{"subject": ["20&&Vivo", "21&&V19"], "object": [], "aspect": ["24&&hoạt", "25&&động"], "predicate": ["28&&hơn"], "label": "COM+"}
+
+Cả hai đều được trang bị sạc nhanh tuy nhiên Samsung chỉ là 15W trong khi đó Vivo V19 lại có công suất lên đến 33W .
+{"subject": ["11&&Samsung"], "object": ["18&&Vivo", "19&&V19"], "aspect": ["7&&sạc"], "predicate": ["3&&đều", "4&&được", "5&&trang", "6&&bị"], "label": "EQL"}
+{"subject": ["11&&Samsung"], "object": ["18&&Vivo", "19&&V19"], "aspect": ["22&&công", "23&&suất"], "predicate": ["3&&đều", "4&&được", "5&&trang", "6&&bị"], "label": "EQL"}
+
+alt : Samsung A51 vs Vivo V19
+
+des : Samsung A51 vs Vivo V19
+
+Tổng kết
+
+Nhìn chung , Samsung Galaxy A51 là một chiếc máy hướng đến người dùng yêu thích vẻ ngoài đẹp mắt , nổi bật , đa dạng sự lựa chọn màu sắc , hiệu năng vừa phải , camera tốt trong khi đó Vivo V19 lại có phần nhỉnh hơn về hiệu năng cũng như thời lượng pin giúp người dùng có những trải nghiệm tốt và lâu hơn .
+{"subject": ["4&&Samsung", "5&&Galaxy", "6&&A51"], "object": [], "aspect": ["28&&lựa", "29&&chọn", "30&&màu", "31&&sắc"], "predicate": ["49&&hơn"], "label": "COM+"}
+{"subject": ["43&&Vivo", "44&&V19"], "object": [], "aspect": ["28&&lựa", "29&&chọn", "30&&màu", "31&&sắc"], "predicate": ["49&&hơn"], "label": "COM+"}
+
+ 
+

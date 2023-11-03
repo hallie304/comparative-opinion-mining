@@ -1,0 +1,175 @@
+title : Đọ camera iPhone 14 Pro vs máy ảnh Canon EOS R5 : Thiết bị nào chụp đẹp hơn ?
+
+So sánh camera iPhone 14 Pro và Canon EOS R5 : Camera iPhone liệu có đánh bại được máy ảnh chuyên nghiệp ?
+{"subject": ["12&&Camera", "13&&iPhone"], "object": ["8&&Canon", "9&&EOS", "10&&R5"], "aspect": [], "predicate": ["16&&đánh", "17&&bại", "18&&được"], "label": "COM-"}
+{"subject": ["12&&Camera", "13&&iPhone"], "object": ["19&&máy", "20&&ảnh", "21&&chuyên", "22&&nghiệp"], "aspect": [], "predicate": ["16&&đánh", "17&&bại", "18&&được"], "label": "COM-"}
+
+iPhone 14 Pro là một trong những mẫu điện thoại cao cấp nhất của Apple năm 2023 .
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro"], "object": [], "aspect": [], "predicate": ["11&&cao", "12&&cấp", "13&&nhất", "14&&của", "15&&Apple", "16&&năm", "17&&2023"], "label": "SUP+"}
+
+Thiết bị sở hữu hệ thống camera ấn tượng và được đánh giá là chiếc smartphone chụp ảnh tốt nhất hiện tại .
+{"subject": ["1&&Thiết", "2&&bị"], "object": [], "aspect": ["17&&chụp", "18&&ảnh"], "predicate": ["19&&tốt", "20&&nhất", "21&&hiện", "22&&tại"], "label": "SUP+"}
+
+Thậm chí , nhiều người còn cho rằng camera mẫu flagship này chụp ảnh đẹp không thua kém gì máy ảnh chuyên nghiệp .
+{"subject": ["9&&camera", "10&&mẫu", "11&&flagship", "12&&này"], "object": ["20&&máy", "21&&ảnh", "22&&chuyên", "23&&nghiệp"], "aspect": ["13&&chụp", "14&&ảnh"], "predicate": ["15&&đẹp", "16&&không", "17&&thua", "18&&kém", "19&&gì"], "label": "EQL"}
+
+Vậy liệu khả năng chụp ảnh của iPhone 14 Pro có tốt hơn máy ảnh không ?
+{"subject": ["8&&iPhone", "9&&14", "10&&Pro"], "object": ["14&&máy", "15&&ảnh"], "aspect": ["3&&khả", "4&&năng", "5&&chụp", "6&&ảnh"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
+
+Sẽ như thế nào nếu camera iPhone 14 Pro đọ sức với máy ảnh Canon EOS R5 ?
+
+Hãy cùng theo dõi bài viết so sánh dưới đây để biết kết quả nhé .
+
+So sánh thông số kỹ thuật của iPhone 14 Pro và máy ảnh Canon EOS R5
+
+Apple đã trang bị cho mẫu điện thoại iPhone 14 Pro ống kính chính với độ phân giải 48MP .
+
+Ngoài ra , thiết bị còn được tích hợp thêm một vài tính năng hỗ trợ chụp ảnh chuyên nghiệp .
+
+Giúp mang đến cho người dùng những hình ảnh có màu sắc tươi tắn hơn .
+{"subject": [], "object": [], "aspect": ["8&&hình", "9&&ảnh"], "predicate": ["13&&tươi", "14&&tắn", "15&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["11&&màu", "12&&sắc"], "predicate": ["13&&tươi", "14&&tắn", "15&&hơn"], "label": "COM+"}
+
+Ưu điểm lớn nhất của chiếc điện thoại này đó chính là thiết kế nhỏ gọn .
+
+Giúp người dùng thuận tiện mang đi mọi nơi mà không quá cồng kềnh như máy ảnh Canon EOS R5 .
+{"subject": [], "object": ["16&&máy", "17&&ảnh", "18&&Canon", "19&&EOS", "20&&R5"], "aspect": [], "predicate": ["11&&không", "12&&quá", "13&&cồng", "14&&kềnh", "15&&như"], "label": "COM+"}
+
+alt : So sánh thông số kỹ thuật của iPhone 14 Pro vs máy ảnh Canon
+
+des :
+
+Bảng so sánh này cho thấy rằng mặc dù máy ảnh Canon EOS R5 có kích thước cảm biến gấp đôi iPhone 14 Pro .
+{"subject": ["10&&máy", "11&&ảnh", "12&&Canon", "13&&EOS", "14&&R5"], "object": ["22&&iPhone", "23&&14", "24&&Pro"], "aspect": ["16&&kích", "17&&thước", "18&&cảm", "19&&biến"], "predicate": ["20&&gấp", "21&&đôi"], "label": "COM+"}
+
+Nhưng nó không mang lại kích thước hình ảnh lớn hơn .
+{"subject": ["2&&nó"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&hình", "9&&ảnh"], "predicate": ["3&&không", "4&&mang"], "label": "EQL"}
+{"subject": ["2&&nó"], "object": [], "aspect": ["6&&kích", "7&&thước", "8&&hình", "9&&ảnh"], "predicate": ["10&&lớn", "11&&hơn"], "label": "COM+"}
+
+Các pixel lớn của máy ảnh Canon nhạy cảm hơn với ánh sáng và dường như hiển thị ít nhiễu hơn iPhone 14 Pro .
+{"subject": ["5&&máy", "6&&ảnh", "7&&Canon"], "object": ["22&&iPhone", "23&&14", "24&&Pro"], "aspect": ["1&&Các", "2&&pixel", "3&&lớn"], "predicate": ["8&&nhạy", "9&&cảm", "10&&hơn"], "label": "COM+"}
+{"subject": ["5&&máy", "6&&ảnh", "7&&Canon"], "object": ["22&&iPhone", "23&&14", "24&&Pro"], "aspect": ["1&&Các", "2&&pixel", "3&&lớn"], "predicate": ["12&&ánh"], "label": "COM+"}
+
+Khi các điểm ảnh được kết hợp với nhau , số lượng điểm ảnh hoạt động trên cảm biến sẽ bị giảm đi .
+
+Tuy nhiên , iPhone 14 Pro lại có dải tương phản động cao hơn rất nhiều .
+{"subject": ["4&&iPhone", "5&&14", "6&&Pro"], "object": [], "aspect": ["9&&dải", "10&&tương", "11&&phản", "12&&động"], "predicate": ["13&&cao", "14&&hơn", "15&&rất", "16&&nhiều"], "label": "COM+"}
+
+Nhờ vậy , những bức ảnh chụp bằng thiết bị sẽ có màu sắc sống động hơn máy ảnh Canon EOS R5 .
+{"subject": ["7&&chụp", "8&&bằng", "9&&thiết", "10&&bị"], "object": ["18&&máy", "19&&ảnh", "20&&Canon", "21&&EOS", "22&&R5"], "aspect": ["4&&những", "5&&bức", "6&&ảnh"], "predicate": ["13&&màu"], "label": "COM+"}
+{"subject": ["7&&chụp", "8&&bằng", "9&&thiết", "10&&bị"], "object": ["18&&máy", "19&&ảnh", "20&&Canon", "21&&EOS", "22&&R5"], "aspect": ["4&&những", "5&&bức", "6&&ảnh"], "predicate": ["15&&sống", "16&&động", "17&&hơn"], "label": "COM+"}
+{"subject": ["7&&chụp", "8&&bằng", "9&&thiết", "10&&bị"], "object": ["18&&máy", "19&&ảnh", "20&&Canon", "21&&EOS", "22&&R5"], "aspect": ["14&&sắc"], "predicate": ["13&&màu"], "label": "COM+"}
+{"subject": ["7&&chụp", "8&&bằng", "9&&thiết", "10&&bị"], "object": ["18&&máy", "19&&ảnh", "20&&Canon", "21&&EOS", "22&&R5"], "aspect": ["14&&sắc"], "predicate": ["15&&sống", "16&&động", "17&&hơn"], "label": "COM+"}
+
+So sánh ảnh chụp của iPhone 14 Pro và Canon EOS R5
+
+Ảnh chụp cảnh bình minh mặt trời mọc
+
+Không thua kém gì những chiếc máy ảnh cơ , iPhone 14 Pro có thể thu được toàn bộ dải ánh sáng khi chụp mặt trời mọc .
+{"subject": ["11&&iPhone", "12&&14", "13&&Pro"], "object": ["5&&những", "6&&chiếc", "7&&máy", "8&&ảnh", "9&&cơ"], "aspect": ["20&&dải", "21&&ánh", "22&&sáng"], "predicate": ["1&&Không", "2&&thua", "3&&kém", "4&&gì"], "label": "EQL"}
+{"subject": ["11&&iPhone", "12&&14", "13&&Pro"], "object": ["5&&những", "6&&chiếc", "7&&máy", "8&&ảnh", "9&&cơ"], "aspect": ["25&&mặt"], "predicate": ["1&&Không", "2&&thua", "3&&kém", "4&&gì"], "label": "EQL"}
+{"subject": ["11&&iPhone", "12&&14", "13&&Pro"], "object": ["5&&những", "6&&chiếc", "7&&máy", "8&&ảnh", "9&&cơ"], "aspect": ["27&&mọc"], "predicate": ["1&&Không", "2&&thua", "3&&kém", "4&&gì"], "label": "EQL"}
+
+Cả hai thiết bị đều có thể ghi lại lượng dải động này mà không gặp bất kỳ khó khăn nào .
+{"subject": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "object": ["1&&Cả", "2&&hai", "3&&thiết", "4&&bị"], "aspect": ["8&&ghi", "9&&lại", "10&&lượng", "11&&dải", "12&&động", "13&&này"], "predicate": ["5&&đều", "6&&có"], "label": "EQL"}
+
+Mặc dù , cảnh này có dải tương phản động lớn .
+
+Có thể nói đây là một cải tiến lớn đáng chú ý giúp camera iPhone 14 Pro đủ sức đánh bại những chiếc smartphone cao cấp khác .
+
+Đặc biệt , khi phóng to bức ảnh chụp cảnh mặt trời mọc này lên .
+
+Bạn sẽ cảm thấy bức ảnh chụp từ iPhone 14 Pro sẽ được thể hiện sống động hơn với các màu sắc tinh tế được pha trộn .
+{"subject": ["5&&bức", "6&&ảnh", "7&&chụp", "8&&từ", "9&&iPhone", "10&&14", "11&&Pro"], "object": [], "aspect": [], "predicate": ["16&&sống", "17&&động", "18&&hơn"], "label": "COM+"}
+
+Bên cạnh đó , dải tương phản động cao một lần nữa giúp ảnh chụp từ chiếc flagship này nổi bật hơn máy ảnh Canon R5 .
+{"subject": ["14&&ảnh", "15&&chụp"], "object": ["23&&máy", "24&&ảnh", "25&&Canon", "26&&R5"], "aspect": [], "predicate": ["20&&nổi", "21&&bật", "22&&hơn"], "label": "COM+"}
+{"subject": ["17&&chiếc", "18&&flagship", "19&&này"], "object": ["23&&máy", "24&&ảnh", "25&&Canon", "26&&R5"], "aspect": [], "predicate": ["20&&nổi", "21&&bật", "22&&hơn"], "label": "COM+"}
+
+Một khuyết điểm duy nhất của mẫu model này đó chính là các điểm sáng trên ảnh bị nhòe đi khi phóng ảnh .
+
+Trong khi đó , bức ảnh được chụp từ máy ảnh canon chuyên nghiệp vẫn sẽ cực kỳ sắc nét .
+
+alt : Ảnh chụp cảnh bình minh mặt trời mọc từ camera iPhone 14 Pro
+
+des :
+
+Ảnh chụp cảnh bình minh mặt trời mọc từ camera iPhone 14 Pro
+
+alt : Ảnh chụp cảnh bình minh mặt trời mọc từ máy ảnh Canon EOS R5
+
+des :
+
+Ảnh chụp cảnh bình minh mặt trời mọc từ máy ảnh Canon EOS R5
+
+Ảnh chụp cảnh hoàng hôn mặt trời lặn
+
+Ánh sáng tối khi hoàng hôn buông xuống là một trong những khó khăn lớn nhất đối với cảm biến chiếc điện thoại iPhone 14 Pro .
+
+Tuy nhiên , iPhone 14 Pro lại cho ra một kết quả đáng kinh ngạc .
+
+Bạn sẽ nhận thấy sự khác biệt nhỏ về chất lượng giữa cả hai máy ảnh khi phóng to 100% .
+{"subject": ["13&&cả", "14&&hai", "15&&máy", "16&&ảnh"], "object": ["13&&cả", "14&&hai", "15&&máy", "16&&ảnh"], "aspect": ["10&&chất", "11&&lượng"], "predicate": ["5&&sự", "6&&khác", "7&&biệt", "8&&nhỏ"], "label": "DIF"}
+
+So với mẫu điện thoại nhà Apple , những bức ảnh được chụp bởi máy ảnh Canon EOS R5 lại có các điểm nổi bật , chi tiết và màu sắc đẹp hơn .
+{"subject": ["15&&máy", "16&&ảnh", "17&&Canon", "18&&EOS", "19&&R5"], "object": ["3&&mẫu", "4&&điện", "5&&thoại", "6&&nhà", "7&&Apple"], "aspect": ["11&&ảnh"], "predicate": ["32&&đẹp", "33&&hơn"], "label": "COM+"}
+{"subject": ["15&&máy", "16&&ảnh", "17&&Canon", "18&&EOS", "19&&R5"], "object": ["3&&mẫu", "4&&điện", "5&&thoại", "6&&nhà", "7&&Apple"], "aspect": ["30&&màu", "31&&sắc"], "predicate": ["32&&đẹp", "33&&hơn"], "label": "COM+"}
+
+Mặc dù , khả năng phục hồi bóng trong điều kiện thiếu sáng của iPhone 14 Pro có chất lượng bị giảm sút .
+{"subject": ["15&&iPhone", "16&&14", "17&&Pro"], "object": [], "aspect": ["4&&khả", "5&&năng", "6&&phục", "7&&hồi", "8&&bóng", "9&&trong", "10&&điều", "11&&kiện", "12&&thiếu", "13&&sáng"], "predicate": ["21&&bị", "22&&giảm", "23&&sút"], "label": "COM-"}
+
+Nhưng thiết bị vẫn mang lại hình ảnh cuối cùng rất ấn tượng .
+
+alt : Ảnh chụp cảnh hoàng hôn mặt trời lặn từ camera iPhone 14 Pro
+
+des :
+
+Ảnh chụp cảnh hoàng hôn mặt trời lặn từ camera iPhone 14 Pro
+
+alt : Ảnh chụp cảnh hoàng hôn mặt trời lặn từ máy ảnh Canon EOS R5
+
+des :
+
+Ảnh chụp cảnh hoàng hôn mặt trời lặn từ máy ảnh Canon EOS R5
+
+Ảnh chụp chi tiết cận cảnh
+
+Cả hai bức ảnh này được chụp vài giờ trước khi mặt trời lặn .
+
+Có thể thấy hình ảnh có độ tương phản cao và hơn hết mức độ chi tiết mà iPhone 14 Pro thu được cực kỳ ấn tượng .
+
+Sẽ rất khó nhận ra sự khác biệt giữa hai bức ảnh này mà không cần cắt xén .
+
+Bạn sẽ thật sự bất ngờ khi phóng to hai bức ảnh 100% .
+
+Hình ảnh không chỉ có đầy đủ chi tiết , mà khả năng duy trì vùng sáng và vùng tối rất tốt .
+
+Đây không phải là thứ mà bất kỳ thiết bị điện thoại thông minh cao cấp nào cũng có thể làm được .
+
+Tuy nhiên , chiếc flagship cao cấp iPhone 14 Pro lại thể hiện rất tốt điểm này .
+
+alt : Ảnh chụp chi tiết cận cảnh từ iPhone 14 Pro
+
+des :
+
+Ảnh chụp chi tiết cận cảnh từ camera iPhone 14 Pro
+
+Ảnh chụp chi tiết cận cảnh từ máy ảnh Canon EOS R5
+
+iPhone 14 Pro liệu có thể thay thế hoàn toàn máy ảnh Canon EOS R5 ?
+{"subject": ["1&&iPhone", "2&&14", "3&&Pro"], "object": ["13&&Canon", "14&&EOS", "15&&R5"], "aspect": ["11&&máy", "12&&ảnh"], "predicate": ["7&&thay", "8&&thế", "9&&hoàn", "10&&toàn"], "label": "EQL"}
+
+Việc thay thế hay không sẽ tùy thuộc vào nhu cầu của mỗi người .
+
+Nếu bạn thường xuyên sử dụng máy ảnh của mình ở chế độ tự động và không biết cách điều khiển thủ công .
+
+Thì câu trả lời chắc chắn là bạn nên từ bỏ máy ảnh và chuyển sang iPhone 14 Pro .
+
+Thiết bị sở hữu hình ảnh với màu sắc tươi tắn , nịnh mắt hơn máy ảnh chuyên nghiệp .
+{"subject": ["1&&Thiết", "2&&bị"], "object": ["16&&máy", "17&&ảnh", "18&&chuyên", "19&&nghiệp"], "aspect": ["5&&hình", "6&&ảnh"], "predicate": ["10&&tươi", "11&&tắn", "12&&,", "13&&nịnh", "14&&mắt", "15&&hơn"], "label": "COM+"}
+{"subject": ["1&&Thiết", "2&&bị"], "object": ["16&&máy", "17&&ảnh", "18&&chuyên", "19&&nghiệp"], "aspect": ["9&&sắc"], "predicate": ["10&&tươi", "11&&tắn", "12&&,", "13&&nịnh", "14&&mắt", "15&&hơn"], "label": "COM+"}
+
+Chiếc flagship này sẽ là một sự lựa chọn tối ưu dành cho những bạn yêu thích sự tiện dụng , dễ di chuyển .
+
+Liên hệ ngay với XTmobile để tìm hiểu cũng như sở hữu mẫu điện thoại iPhone 14 Pro xịn sò này nhé .
+

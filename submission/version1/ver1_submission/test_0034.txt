@@ -1,0 +1,306 @@
+Title : So kèo camera Xiaomi 13 Pro , 14 Pro Max và S23 Ultra : Xiaomi lật kèo iPhone , Samsung không có " chỗ đứng "
+
+Xiaomi 13 Pro , iPhone 14 Pro Max và Galaxy S23 Ultra là ba chiếc máy sở hữu cấu hình , hiệu năng , thiết kế cao cấp nhất hiện nay .
+{"subject": ["10&&Galaxy", "11&&S23", "12&&Ultra"], "object": [], "aspect": ["25&&thiết", "26&&kế"], "predicate": ["27&&cao", "28&&cấp", "29&&nhất", "30&&hiện", "31&&nay"], "label": "SUP+"}
+
+Tuy nhiên đó chưa phải là tất cả , một trong những yếu tố mà người dùng quan tâm khi mua điện thoại chính là camera .
+
+Vậy giữa ba chiếc máy đầu bảng này đâu mới là ông vua camera tại thời điểm hiện tại ?
+
+Xiaomi 13 Pro vừa được ra mắt cách đây không lâu , so với thế hệ tiền nhiệm thì chiếc điện thoại này sở hữu nhiều nâng cấp hơn cả về thiết kế , hiệu năng lẫn camera .
+{"subject": ["1&&Xiaomi", "2&&13", "3&&Pro"], "object": ["15&&thế", "16&&hệ", "17&&tiền", "18&&nhiệm"], "aspect": ["38&&camera"], "predicate": ["26&&nhiều", "27&&nâng", "28&&cấp", "29&&hơn"], "label": "COM+"}
+
+Nhắc đến Xiaomi người dùng biết ngay hãng smartphone giá rẻ với hiệu năng mạnh mẽ , còn khi nhắc đến camera thì chẳng mấy ai mặn mà với camera nhà Xiaomi .
+
+alt : Xiaomi 13 Pro được nâng cấp nhiều so với thế hệ tiền nhiệm
+
+des :
+
+Tuy nhiên trong những năm trở lại đây Xiaomi ngày càng khẳng định vị thế của mình trên thị trường camera phone .
+
+Với sự hợp tác cùng Leica và những nâng cấp đáng giá trên cảm biến , liệu chất ảnh từ Xiaomi 13 Pro có đánh bại hai đối thủ sừng sỏ là iPhone 14 Pro Max và Galaxy S23 Ultra hay không ?
+
+Mời các bạn cùng mình đánh giá nhé !
+
+Thông số số kỹ thuật
+
+Trước khi đi vào so sánh thì hãy cùng mình điểm qua một chút về thông số kỹ thuật camera của ba chiếc máy trên nhé !
+
+Nhìn vào thông số kỹ thuật của Xiaomi 13 Pro , Galaxy S23 Ultra và iPhone 14 Pro Max có thể thấy cả ba đều sở hữu những thứ tốt nhất có thể tại thời điểm hiện tại .
+{"subject": ["23&&cả", "24&&ba"], "object": ["16&&iPhone"], "aspect": ["28&&những", "29&&thứ"], "predicate": ["30&&tốt", "31&&nhất", "32&&có", "33&&thể", "34&&tại", "35&&thời", "36&&điểm", "37&&hiện", "38&&tại"], "label": "SUP+"}
+{"subject": ["23&&cả", "24&&ba"], "object": ["18&&Pro"], "aspect": ["28&&những", "29&&thứ"], "predicate": ["30&&tốt", "31&&nhất", "32&&có", "33&&thể", "34&&tại", "35&&thời", "36&&điểm", "37&&hiện", "38&&tại"], "label": "SUP+"}
+
+Cả ba đều xứng đáng đạt danh hiệu camera phone tốt nhất .
+{"subject": ["1&&Cả", "2&&ba"], "object": ["1&&Cả", "2&&ba"], "aspect": ["9&&camera", "10&&phone"], "predicate": ["11&&tốt", "12&&nhất"], "label": "SUP+"}
+
+Tuy nhiên về mặt tiếng tăm Xiaomi 13 Pro nổi bật hơn các đối thủ một chút nhờ thương hiệu Leica hợp tác cùng .
+{"subject": ["7&&Xiaomi", "8&&13", "9&&Pro"], "object": ["13&&các", "14&&đối", "15&&thủ"], "aspect": ["5&&tiếng", "6&&tăm"], "predicate": ["10&&nổi", "11&&bật", "12&&hơn"], "label": "COM+"}
+{"subject": ["7&&Xiaomi", "8&&13", "9&&Pro"], "object": ["13&&các", "14&&đối", "15&&thủ"], "aspect": ["5&&tiếng", "6&&tăm"], "predicate": ["16&&một", "17&&chút"], "label": "COM+"}
+
+Trong bài so sánh hôm nay mình sẽ sử dụng chế độ Leica Vibrant , ở chế độ này Xiaomi 13 Pro sẽ tạo nên những bức ảnh sống động nhưng vẫn tự nhiên bằng cách điều chỉnh độ sáng và độ bão hòa màu vừa phải .
+
+alt : Xiaomi 13 Pro , Galaxy S23 Ultra và iPhone 14 Pro Max có thể thấy cả ba đều sở hữu những thứ tốt nhất có thể tại thời điểm hiện tại
+
+des :
+
+Để thêm phần thú vị mình sẽ cho điểm sau mỗi lần so sánh , chiếc máy nào có điểm số cao nhất xứng đáng là top 1 .
+
+Tất nhiên những đánh giá này theo quan điểm cá nhân của mình và bạn cũng có thể đánh giá theo một cách khác .
+
+Không dài dòng nữa cùng đi tìm chiếc camera phone xứng đáng dành vị trí Top 1 nhé !
+
+Tam " camera phone " diễn nghĩa
+
+So kèo trong điều kiện đủ sáng
+
+Đối với môi trường đủ sáng hoặc khi bạn chụp ban ngày thì ngay cả những chiếc điện thoại tầm trung hay cận cao cấp đều có thể cho ra một bức ảnh hoàn hảo về độ chi tiết , tương phản hay cả màu sắc .
+
+Lúc này các bạn chỉ việc lựa chọn chiếc máy có tông màu mà mình yêu thích là được .
+
+Xiaomi 13 Pro , Galaxy S23 Ultra và iPhone 14 Pro Max là 3 chiếc smartphone cao cấp nhất hiện tại vì vậy không có lý do gì để 3 chiếc máy này cho ra chất ảnh xấu được .
+{"subject": ["9&&iPhone", "10&&14", "11&&Pro", "12&&Max"], "object": [], "aspect": [], "predicate": ["17&&cao", "18&&cấp", "19&&nhất", "20&&hiện", "21&&tại"], "label": "SUP+"}
+
+alt : Môi trường đủ sáng không thể làm khó Xiaomi 13 Pro , Galaxy S23 Ultra và iPhone 14 Pro Max
+
+des :
+
+Về độ chi tiết , cả ba chiếc máy đều cho độ chi tiết gần như tương đồng với nhau vì cùng được chụp ở chế độ 12MP .
+{"subject": ["6&&cả", "7&&ba", "8&&chiếc", "9&&máy"], "object": ["6&&cả", "7&&ba", "8&&chiếc", "9&&máy"], "aspect": ["2&&độ", "3&&chi", "4&&tiết"], "predicate": ["15&&gần", "16&&như", "17&&tương", "18&&đồng"], "label": "EQL"}
+
+Tuy nhiên về màu sắc có đôi chút khác biệt cụ thể ảnh chụp từ ảnh chụp từ Xiaomi 13 Pro có màu sắc tối hơn tuy nhiên độ chi tiết vẫn cao nên nếu bạn biết hậu kỳ thì vẫn sẽ có một bức ảnh đẹp .
+{"subject": ["13&&ảnh"], "object": [], "aspect": ["4&&màu", "5&&sắc"], "predicate": ["6&&có", "7&&đôi", "8&&chút", "9&&khác", "10&&biệt"], "label": "DIF"}
+{"subject": ["17&&chụp"], "object": [], "aspect": ["4&&màu", "5&&sắc"], "predicate": ["6&&có", "7&&đôi", "8&&chút", "9&&khác", "10&&biệt"], "label": "DIF"}
+{"subject": ["19&&Xiaomi", "20&&13", "21&&Pro"], "object": [], "aspect": ["4&&màu", "5&&sắc"], "predicate": ["6&&có", "7&&đôi", "8&&chút", "9&&khác", "10&&biệt"], "label": "DIF"}
+
+Ảnh từ Galaxy S23 Ultra cho chất lượng rất tốt từ chi tiết cho tới màu sắc nhưng như đã nói độ sáng vẫn còn kém iPhone 14 Pro Max một chút .
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "aspect": ["1&&Ảnh"], "predicate": ["7&&chất", "8&&lượng", "9&&rất", "10&&tốt"], "label": "EQL"}
+{"subject": ["3&&Galaxy", "4&&S23", "5&&Ultra"], "object": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "aspect": ["1&&Ảnh"], "predicate": ["26&&kém"], "label": "COM-"}
+
+Đại diện từ Apple có màu sắc tươi sáng hơn , khả năng xử lý HDR có phần tốt hơn hai đối thủ còn lại .
+{"subject": [], "object": ["21&&hai", "22&&đối", "23&&thủ", "24&&còn", "25&&lại"], "aspect": ["12&&khả", "13&&năng", "14&&xử", "15&&lý", "16&&HDR"], "predicate": ["17&&có", "18&&phần", "19&&tốt", "20&&hơn"], "label": "COM+"}
+
+alt : iPhone 14 Pro Max 3 điểm | Galaxy S23 Ultra 2 điểm | Xiaomi 13 Pro 1 điếm
+
+des : iPhone 14 Pro Max 3 điểm > Galaxy S23 Ultra 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Thử ở một góc độ khác lần này ảnh từ Galaxy S23 Ultra và iPhone 14 Pro Max chất lượng gần như tương đồng với nhau cả về độ sáng , chi tiết tuy nhiên ảnh chụp từ iPhone có màu tươi sáng hơn , đồng thời thể hiện được màu sắc của bầu trời lúc mình chụp một cách rõ ràng .
+{"subject": ["11&&Galaxy", "12&&S23", "13&&Ultra"], "object": ["15&&iPhone", "16&&14", "17&&Pro", "18&&Max"], "aspect": ["9&&ảnh"], "predicate": ["19&&chất", "20&&lượng", "21&&gần", "22&&như", "23&&tương", "24&&đồng", "25&&với", "26&&nhau"], "label": "EQL"}
+{"subject": ["11&&Galaxy", "12&&S23", "13&&Ultra"], "object": ["15&&iPhone", "16&&14", "17&&Pro", "18&&Max"], "aspect": ["32&&chi", "33&&tiết"], "predicate": ["19&&chất", "20&&lượng", "21&&gần", "22&&như", "23&&tương", "24&&đồng", "25&&với", "26&&nhau"], "label": "EQL"}
+
+Tương tự lần này Xiaomi 13 Pro vẫn cho ra chất ảnh tối hơn so với hai đối thủ trên tuy nhiên đây cũng là màu sắc thực khi mình chụp vì lúc này cũng đã hơn 6 giờ tối rồi ! Vì gần đến tháng 5 nên ngày dài đêm ngắn vì vậy lúc này trời cũng chưa tối hẳn .
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["17&&hai", "18&&đối", "19&&thủ", "20&&trên"], "aspect": ["11&&chất", "12&&ảnh"], "predicate": ["13&&tối", "14&&hơn"], "label": "COM-"}
+
+alt : Ảnh chụp từ Xiaomi 13 Pro mang phong cách tối đặc trưng của Leica
+
+des : iPhone 14 Pro Max 3 điểm > Galaxy S23 Ultra 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Ở chế độ chụp 3x đại diện từ Xiaomi cho ra chất ảnh tối với độ tương phản cao hơn hai đối thủ , ảnh từ đại diện Samsung có màu sắc tươi sáng và bắt mắt hơn .
+{"subject": ["29&&Samsung"], "object": ["21&&hai", "22&&đối", "23&&thủ"], "aspect": ["12&&chất", "13&&ảnh"], "predicate": ["33&&tươi", "34&&sáng", "35&&và", "36&&bắt", "37&&mắt", "38&&hơn"], "label": "COM+"}
+{"subject": ["29&&Samsung"], "object": ["21&&hai", "22&&đối", "23&&thủ"], "aspect": ["31&&màu", "32&&sắc"], "predicate": ["33&&tươi", "34&&sáng", "35&&và", "36&&bắt", "37&&mắt", "38&&hơn"], "label": "COM+"}
+
+Tuy nhiên xét về độ chân thực thì ảnh từ đại diện Apple giống thực tế nhất .
+{"subject": ["9&&ảnh", "10&&từ", "11&&đại", "12&&diện", "13&&Apple"], "object": [], "aspect": ["5&&độ", "6&&chân", "7&&thực"], "predicate": ["14&&giống", "15&&thực", "16&&tế", "17&&nhất"], "label": "SUP+"}
+
+alt : Zoom 3x là điểm mạnh của Samsung nhưng Xiaomi 13 Pro cũng không kém cạnh
+
+des : Galaxy S23 Ultra 3 điểm > iPhone 14 Pro Max 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Có thể thấy camera 3x cho chất lượng chi tiết rất tốt bạn có thể thấy ảnh sau đây mặc dù chỉ crop từ ảnh trên nhưng chi tiết vẫn rất ấn tượng .
+
+Anh em iFan lưu ý chớ vội mừng với lần so sánh này chắc chắn iPhone sẽ không có chỗ đứng .
+
+Bởi lẽ với phần kiểm tra zoom 10x này Xiaomi 13 Pro cho chất lượng khá ấn tượng với độ chi tiết cao , màu sắc thực tế .
+
+S23 Ultra có màu sáng hơn và chi tiết cũng nhỉnh hơn một chút so với Xiaomi 13 Pro .
+{"subject": ["1&&S23", "2&&Ultra"], "object": ["17&&Xiaomi", "18&&13", "19&&Pro"], "aspect": ["8&&chi", "9&&tiết"], "predicate": ["11&&nhỉnh", "12&&hơn", "13&&một", "14&&chút"], "label": "COM+"}
+
+Đối với iPhone 14 Pro max vì chỉ zoom kỹ thuật số nên chất lượng sẽ kém hơn so với 2 đối thủ nhưng những gì chiếc máy này làm được cũng khá ấn tượng .
+{"subject": ["3&&iPhone", "4&&14", "5&&Pro", "6&&max"], "object": ["21&&2", "22&&đối", "23&&thủ"], "aspect": ["14&&chất", "15&&lượng"], "predicate": ["17&&kém", "18&&hơn"], "label": "COM-"}
+
+alt : Zoom 10x trên Xiaomi 13 Pro và Galaxy S23 Ultra khá ngon
+
+des : Galaxy S23 Ultra 3 điểm > Xiaomi 13 Pro 2 điểm > iPhone 14 Pro Max 1 điểm
+
+Đến với camera siêu góc rộng , ảnh từ ba máy gần như không quá chênh lệch tuy nhiên ảnh chụp từ Xiaomi 13 Pro vẫn giữ chất ảnh đặc trưng Leica với độ tương phản cao .
+{"subject": ["11&&máy"], "object": ["10&&ba"], "aspect": ["8&&ảnh"], "predicate": ["12&&gần", "13&&như", "14&&không", "15&&quá", "16&&chênh", "17&&lệch"], "label": "EQL"}
+{"subject": ["24&&13"], "object": ["10&&ba"], "aspect": ["8&&ảnh"], "predicate": ["12&&gần", "13&&như", "14&&không", "15&&quá", "16&&chênh", "17&&lệch"], "label": "EQL"}
+
+Ảnh từ iPhone 14 Pro max có xu hướng hơi ám vàng nhẹ khi .
+
+Riêng ảnh chụp từ S23 Ultra có chất lượng tốt nhất với màu sắc nịnh mắt hơn các đối thủ .
+{"subject": ["2&&ảnh", "3&&chụp", "4&&từ", "5&&S23", "6&&Ultra"], "object": ["18&&các", "19&&đối", "20&&thủ"], "aspect": ["13&&màu", "14&&sắc"], "predicate": ["15&&nịnh", "16&&mắt", "17&&hơn"], "label": "COM+"}
+
+alt : Galaxy S23 Ultra cho màu sắc tươi sáng hơn hai đối thủ
+
+des : Galaxy S23 Ultra 3 điểm > iPhone 14 Pro Max 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Về chụp chân dung , cả ba máy đều cho khả năng xóa phông xuất sắc tuy nhiên màu sắc Leica đặc trưng khiến ảnh được chụp từ Xiaomi 13 Pro tối đi khá nhiều .
+{"subject": ["29&&Xiaomi", "30&&13", "31&&Pro"], "object": [], "aspect": [], "predicate": ["32&&tối", "33&&đi", "34&&khá", "35&&nhiều"], "label": "EQL"}
+
+Ở chế độ này thể hiện tốt nhất chính là S23 Ultra với màu sắc đẹp , xử lý màu da tốt hơn hai đối thủ còn lại .
+{"subject": ["11&&S23", "12&&Ultra"], "object": ["24&&hai", "25&&đối", "26&&thủ", "27&&còn", "28&&lại"], "aspect": ["2&&chế", "3&&độ", "4&&này"], "predicate": ["5&&thể", "6&&hiện", "7&&tốt", "8&&nhất"], "label": "SUP+"}
+
+Nhiều bạn xem xong cho rằng màu Leica cũng chỉ để marketing .
+
+Thực tế chất ảnh Leica không hề " phế " như các bạn nghĩ nếu bạn chụp Street Life chắc chắn sẽ khó có đối thủ nào so sánh được .
+{"subject": ["5&&Leica"], "object": [], "aspect": ["3&&chất", "4&&ảnh"], "predicate": ["7&&hề", "8&&\"", "9&&phế"], "label": "SUP+"}
+{"subject": ["5&&Leica"], "object": [], "aspect": ["3&&chất", "4&&ảnh"], "predicate": ["23&&khó", "24&&có", "25&&đối", "26&&thủ", "27&&nào", "28&&so", "29&&sánh", "30&&được"], "label": "COM-"}
+{"subject": ["18&&Street", "19&&Life"], "object": [], "aspect": ["3&&chất", "4&&ảnh"], "predicate": ["7&&hề", "8&&\"", "9&&phế"], "label": "SUP+"}
+{"subject": ["18&&Street", "19&&Life"], "object": [], "aspect": ["3&&chất", "4&&ảnh"], "predicate": ["23&&khó", "24&&có", "25&&đối", "26&&thủ", "27&&nào", "28&&so", "29&&sánh", "30&&được"], "label": "COM-"}
+
+alt : Chất ảnh Leica trên Xiaomi 13 Pro khiến tổng thể bức ảnh tối hơn
+
+des : Galaxy S23 Ultra 3 điểm > iPhone 14 Pro Max 2 điểm > Xiaomi 13 Pro 1 điếm
+
+So " găng " trong điều kiện thiếu sáng
+
+Trong điều kiện ánh sáng yếu ảnh từ 14 Pro Max có xu hướng ám vàng trong khi đó S23 Ultra thì hơi ám hồng nhẹ .
+
+Mặc dù trong điều kiện đủ sáng chất ảnh từ Xiaomi 13 Pro tối hơn so với hai đối thủ , tuy nhiên lần này trong điều kiện thiếu sáng camera Leica đã làm rất tốt .
+{"subject": ["11&&Xiaomi", "12&&13", "13&&Pro"], "object": ["18&&hai", "19&&đối", "20&&thủ"], "aspect": ["8&&chất", "9&&ảnh"], "predicate": ["14&&tối", "15&&hơn"], "label": "COM-"}
+
+Ảnh chụp từ nhà Xiaomi có chất ảnh đẹp và không bị ám màu như các đối thủ .
+{"subject": ["1&&Ảnh", "2&&chụp", "3&&từ", "4&&nhà", "5&&Xiaomi"], "object": ["16&&các", "17&&đối", "18&&thủ"], "aspect": [], "predicate": ["11&&không", "12&&bị", "13&&ám", "14&&màu", "15&&như"], "label": "DIF"}
+
+alt : Lần này Xiaomi 13 Pro cho chất lượng ảnh tốt hơn 2 đối thủ còn lại
+
+des : Lần này Xiaomi 13 Pro cho chất lượng ảnh tốt hơn 2 đối thủ còn lại
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["14&&2", "15&&đối", "16&&thủ", "17&&còn", "18&&lại"], "aspect": ["9&&chất", "10&&lượng", "11&&ảnh"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
+
+Thử ở một góc độ khác chiếc điện thoại đến từ thương hiệu Mỹ và Hàn Quốc đã có sự tương đồng với nhau nhưng màu sắc từ iPhone có độ bảo hòa cao hơn .
+{"subject": ["7&&chiếc", "8&&điện", "9&&thoại", "10&&đến", "11&&từ", "12&&thương", "13&&hiệu", "14&&Mỹ", "15&&và"], "object": [], "aspect": ["26&&màu", "27&&sắc"], "predicate": ["19&&có", "20&&sự", "21&&tương", "22&&đồng"], "label": "EQL"}
+
+Tuy nhiên lần này điện thoại thương hiệu Trung Quốc có chất ảnh Leica Vibrant sống động khá nịnh mắt .
+{"subject": ["5&&điện", "6&&thoại", "7&&thương", "8&&hiệu", "9&&Trung", "10&&Quốc"], "object": [], "aspect": ["12&&chất", "13&&ảnh"], "predicate": ["16&&sống", "17&&động", "18&&khá", "19&&nịnh", "20&&mắt"], "label": "EQL"}
+{"subject": ["14&&Leica", "15&&Vibrant"], "object": [], "aspect": ["12&&chất", "13&&ảnh"], "predicate": ["16&&sống", "17&&động", "18&&khá", "19&&nịnh", "20&&mắt"], "label": "EQL"}
+
+alt : Ảnh từ Xiaomi 13 Pro có độ bão hòa cao hơn
+
+des : Xiaomi 13 Pro 3 điểm > iPhone 14 Pro Max 2 điểm > Galaxy S23 Ultra 1 điểm
+
+Ảnh dưới đây được chụp trong nhà lồng chợ Bến Thành , với những nơi có nhiều màu sắc thì chất ảnh của Leica khó chiếc máy nào có thể vượt qua .
+{"subject": ["24&&Leica"], "object": [], "aspect": ["21&&chất", "22&&ảnh"], "predicate": ["25&&khó", "26&&chiếc", "27&&máy", "28&&nào", "29&&có", "30&&thể", "31&&vượt", "32&&qua"], "label": "COM-"}
+
+alt :
+
+des : Xiaomi 13 Pro 3 điểm > Galaxy S23 Ultra 2 điểm > iPhone 14 Pro Max 1 điểm
+
+Với khung hình này cá nhân mình thấy thích ảnh từ iPhone hơn bởi ảnh chụp xử lý màu da và ánh sáng tốt hơn so với Samsung .
+
+Còn ảnh từ Xiaomi 13 thì vẫn phong cách đó với độ tương phản cao và độ bão hòa cao .
+
+alt :
+
+des : iPhone 14 Pro Max 3 điểm > Galaxy S23 Ultra 2 điểm > Xiaomi 13 Pro 1 điểm
+
+Hình dưới đây được chụp ở một góc phố trên đường Lê Lợi quận 1 .
+
+Với tấm hình này mình muốn thấy được khả năng xử lý HDR trên những chiếc bảng hiệu của 3 chiếc flagship này .
+
+Kết quả Galaxy S23 Ultra cho khả năng xử lý HDR tốt tuy nhiên màu sắc chưa chuẩn xác .
+
+Tương tự Xiaomi 13 Pro cũng cho khả năng xử lý HDR ấn tượng đặc biệt màu sắc có phần chuẩn xác hơn S23 Ultra .
+{"subject": ["3&&Xiaomi", "4&&13", "5&&Pro"], "object": ["24&&S23", "25&&Ultra"], "aspect": ["17&&màu", "18&&sắc"], "predicate": ["19&&có", "20&&phần", "21&&chuẩn", "22&&xác", "23&&hơn"], "label": "COM+"}
+
+Riêng iPhone 14 Pro Max có phần kém hơn hai đối thủ khi bảng hiệu Onebank có hơi bị cháy nhưng tổng thể vẫn rất ngon .
+{"subject": ["2&&iPhone", "3&&14", "4&&Pro", "5&&Max"], "object": ["10&&hai", "11&&đối", "12&&thủ"], "aspect": ["14&&bảng", "15&&hiệu", "16&&Onebank"], "predicate": ["8&&kém", "9&&hơn"], "label": "COM-"}
+{"subject": ["2&&iPhone", "3&&14", "4&&Pro", "5&&Max"], "object": ["10&&hai", "11&&đối", "12&&thủ"], "aspect": ["22&&tổng", "23&&thể"], "predicate": ["8&&kém", "9&&hơn"], "label": "COM-"}
+
+alt :
+
+des : Xiaomi 13 Pro 3 điểm > Galaxy S23 Ultra 2 điểm > iPhone 14 Pro Max 1 điểm
+
+Ở một góc độ khác hình ảnh bảng hiệu cá viên chiên bị cháy mất chi tiết khi chụp bằng iPhone .
+
+ảnh từ Xiaomi và Samsung có chất lượng rất tốt không bị cháy sáng .
+
+Tuy nhiên ở bức ảnh này cá nhân mình thích màu sắc của Leica hơn .
+
+alt :
+
+des : Xiaomi 13 Pro 3 điểm > Galaxy S23 Ultra 2 điểm > iPhone 14 Pro Max 1 điểm
+
+Thử zoom 3x những biển quảng cáo gần chợ Bến Thành để xem chiếc điện thoại nào làm tốt hơn ?
+
+Mặc dù chụp đêm nhưng chất ảnh zoom 3x từ 3 máy đều ấn tượng tuy nhiên ảnh của Xiaomi 13 Pro có phần hơi rực , ảnh từ S23 Ultra có độ sáng nhỉnh hơn và xử lý phần bóng đèn trên biển quảng cáo tốt hơn so với iPhone 14 Pro Max .
+{"subject": ["30&&S23", "31&&Ultra"], "object": ["11&&3"], "aspect": ["38&&xử", "39&&lý", "40&&phần", "41&&bóng", "42&&đèn", "43&&trên", "44&&biển", "45&&quảng", "46&&cáo"], "predicate": ["14&&ấn", "15&&tượng"], "label": "EQL"}
+{"subject": ["30&&S23", "31&&Ultra"], "object": ["11&&3"], "aspect": ["38&&xử", "39&&lý", "40&&phần", "41&&bóng", "42&&đèn", "43&&trên", "44&&biển", "45&&quảng", "46&&cáo"], "predicate": ["47&&tốt", "48&&hơn"], "label": "EQL"}
+{"subject": ["30&&S23", "31&&Ultra"], "object": ["51&&iPhone", "52&&14", "53&&Pro", "54&&Max"], "aspect": ["38&&xử", "39&&lý", "40&&phần", "41&&bóng", "42&&đèn", "43&&trên", "44&&biển", "45&&quảng", "46&&cáo"], "predicate": ["14&&ấn", "15&&tượng"], "label": "EQL"}
+{"subject": ["30&&S23", "31&&Ultra"], "object": ["51&&iPhone", "52&&14", "53&&Pro", "54&&Max"], "aspect": ["38&&xử", "39&&lý", "40&&phần", "41&&bóng", "42&&đèn", "43&&trên", "44&&biển", "45&&quảng", "46&&cáo"], "predicate": ["47&&tốt", "48&&hơn"], "label": "EQL"}
+
+src : https : / / cdn.sforum.vn / sforum / wp-content / uploads / 2023 / 04 / so-sanh-xiaomi - 13 - pro-vs-samsung-iphone - 14 . jpg
+
+alt :
+
+des : Galaxy S23 Ultra 3 điểm > iPhone 14 Pro Max 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Thử zoom 3x thì cũng phải thử zoom 10x , lần này mình chụp tấm bảng NEWTECONS đối diện chợ Bến Thành .
+
+Không cần phải nói thì chất ảnh từ chiếc điện thoại Hàn Quốc có độ chi tiết cao nhất , khả năng khử nhiễu tốt .
+{"subject": ["6&&chất", "7&&ảnh", "8&&từ", "9&&chiếc", "10&&điện", "11&&thoại", "12&&Hàn", "13&&Quốc"], "object": [], "aspect": ["21&&khả", "22&&năng", "23&&khử", "24&&nhiễu"], "predicate": ["25&&tốt"], "label": "SUP+"}
+
+Ảnh từ đại diện Mỹ cũng có độ chi tiết cao tuy nhiên xuất hiện noise khá nhiều .
+
+Riêng đại diện từ Trung Quốc ảnh hơi tối và mất chi tiết khá nhiều .
+
+alt :
+
+des : Galaxy S23 Ultra 3 điểm > iPhone 14 Pro Max 2 điểm > Xiaomi 13 Pro 1 điếm
+
+Ở một góc khác , ảnh từ Xiaomi 13 Pro và Galaxy S23 Ultra đều có chất lượng tốt , ngược lại ảnh được chụp bởi iPhone 14 Pro Max xuất hiện khá nhiều nhiễu sạn .
+{"subject": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": ["6&&ảnh"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
+{"subject": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "object": ["12&&Galaxy", "13&&S23", "14&&Ultra"], "aspect": ["35&&nhiễu", "36&&sạn"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
+
+Tuy nhiên trong trường hợp này mình đánh giá cao camera Leica hơn .
+{"subject": ["11&&camera", "12&&Leica"], "object": [], "aspect": [], "predicate": ["10&&cao"], "label": "COM+"}
+{"subject": ["11&&camera", "12&&Leica"], "object": [], "aspect": [], "predicate": ["13&&hơn"], "label": "COM+"}
+
+alt :
+
+des : Galaxy S23 Ultra 3 điểm > Xiaomi 13 Pro 2 điếm > iPhone 14 Pro Max 1 điểm
+
+Thử zoom lên xíu nữa cụ thể 14 Pro Max sẽ là zoom 15x , 13 Pro và S23 Ultra zoom 70x thì được kết quả như hình dưới .
+
+Tất nhiên iPhone không có chế độ chụp " chị Hằng " nên không thể so sánh được với hai đối thủ còn lại được .
+{"subject": ["3&&iPhone"], "object": ["20&&hai", "21&&đối", "22&&thủ", "23&&còn", "24&&lại"], "aspect": ["6&&chế", "7&&độ", "8&&chụp", "9&&\"", "10&&chị", "11&&Hằng"], "predicate": ["14&&không", "15&&thể", "16&&so", "17&&sánh", "18&&được"], "label": "COM-"}
+
+Cơ mà cá nhân mình thấy mặt trăng của Samsung đẹp hơn Xiaomi .
+{"subject": ["10&&Samsung"], "object": ["13&&Xiaomi"], "aspect": ["7&&mặt", "8&&trăng"], "predicate": ["11&&đẹp", "12&&hơn"], "label": "COM+"}
+
+alt :
+
+des : iPhone không có chế độ chụp trăng nên mình sẽ không cho điểm nhé !
+
+Về khả năng chụp chân dung , trong điều kiện thiếu sáng ảnh chân dung từ 13 Pro làm mình khá bât ngờ , ảnh xóa phông tự nhiên xử lý da rất tốt .
+
+S23 Ultra xóa phông nhỉnh hơn một chút tuy nhiên xử lý phần da chưa được ưng cho lắm .
+{"subject": ["1&&S23", "2&&Ultra"], "object": [], "aspect": ["11&&xử", "12&&lý", "13&&phần", "14&&da"], "predicate": ["15&&chưa", "16&&được", "17&&ưng"], "label": "COM-"}
+
+Riêng 14 Pro Max mời các bạn cho ý kiến !
+
+alt :
+
+des : Xiaomi 13 Pro 3 điểm > Galaxy S23 Ultra 2 điểm > iPhone 14 Pro Max 1 điểm
+
+Tổng kết số điểm của 3 máy :
+
+Như vậy với số điểm trên Galaxy S23 Ultra xứng đáng ngồi lên vị trí chiếc điện thoại chụp ảnh đẹp nhất trong 3 chiếc điện thoại trên , đây cũng chính là lý do Samsung không có chỗ " đứng " .
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["26&&điện", "27&&thoại"], "aspect": ["19&&chụp", "20&&ảnh"], "predicate": ["21&&đẹp", "22&&nhất", "23&&trong", "24&&3", "25&&chiếc"], "label": "SUP+"}
+{"subject": ["7&&Galaxy", "8&&S23", "9&&Ultra"], "object": ["26&&điện", "27&&thoại"], "aspect": ["19&&chụp", "20&&ảnh"], "predicate": ["28&&trên"], "label": "SUP+"}
+
+Tổng kết
+
+Tóm lại là những chiếc Flagship đầu bảng cả Xiaomi 13 Pro , Galaxy S23 Ultra và iPhone 14 Pro Max đều xứng đáng là chiếc smartphone chụp ảnh đẹp nhất .
+{"subject": ["18&&iPhone", "19&&14", "20&&Pro", "21&&Max"], "object": ["10&&Xiaomi", "11&&13", "12&&Pro"], "aspect": ["28&&chụp", "29&&ảnh"], "predicate": ["30&&đẹp", "31&&nhất"], "label": "SUP+"}
+
+Bởi lẽ trong mỗi môi trường , điều kiện ánh sáng khác nhau chất ảnh cũng khác nhau .
+
+Tuy nhiên trong điều kiện đủ sáng chất ảnh từ Xiaomi 13 Pro có phần lép vế so với hai đối thủ còn lại .
+{"subject": ["11&&Xiaomi", "12&&13", "13&&Pro"], "object": ["20&&hai", "21&&đối", "22&&thủ", "23&&còn", "24&&lại"], "aspect": ["8&&chất", "9&&ảnh"], "predicate": ["14&&có", "15&&phần", "16&&lép", "17&&vế"], "label": "COM-"}
+
+Ngược lại trong điều kiện thiếu sáng Xiaomi có phần nhỉnh hơn trong một vài chế độ chụp .
+{"subject": ["8&&Xiaomi"], "object": [], "aspect": ["4&&điều", "5&&kiện", "6&&thiếu", "7&&sáng"], "predicate": ["9&&có", "10&&phần", "11&&nhỉnh", "12&&hơn"], "label": "COM+"}
+
+Galaxy S23 Ultra có tuy không phải môi trường nào cũng cho ra những bức ảnh đẹp nhất nhưng đây là chiếc máy có chất ảnh ổn định nhất trong mọi điều kiện môi trường .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": [], "aspect": ["25&&chất", "26&&ảnh"], "predicate": ["27&&ổn", "28&&định", "29&&nhất", "30&&trong"], "label": "SUP+"}
+

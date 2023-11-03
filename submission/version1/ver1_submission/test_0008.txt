@@ -1,0 +1,348 @@
+Title : " Đọ kèo " camera Galaxy S23 Ultra và 14 Pro Max : Ai mới là ông vua nhiếp ảnh di động ?
+
+Galaxy S23 Ultra và iPhone 14 Pro Max ai chiếc smartphone đầu bảng ở thời điểm hiện tại , sở hữu những tính năng và phần cứng vượt trội bậc nhất , liệu chiếc máy nào sẽ xử lý tốt hơn trong bài test camera ?
+{"subject": [], "object": ["5&&iPhone", "6&&14", "7&&Pro", "8&&Max"], "aspect": ["22&&những", "23&&tính", "24&&năng"], "predicate": ["13&&bảng", "14&&ở", "15&&thời", "16&&điểm", "17&&hiện", "18&&tại"], "label": "SUP+"}
+{"subject": [], "object": ["5&&iPhone", "6&&14", "7&&Pro", "8&&Max"], "aspect": ["22&&những", "23&&tính", "24&&năng"], "predicate": ["28&&vượt", "29&&trội"], "label": "SUP+"}
+{"subject": [], "object": ["5&&iPhone", "6&&14", "7&&Pro", "8&&Max"], "aspect": ["27&&cứng"], "predicate": ["13&&bảng", "14&&ở", "15&&thời", "16&&điểm", "17&&hiện", "18&&tại"], "label": "SUP+"}
+{"subject": [], "object": ["5&&iPhone", "6&&14", "7&&Pro", "8&&Max"], "aspect": ["27&&cứng"], "predicate": ["28&&vượt", "29&&trội"], "label": "COM+"}
+
+Samsung với Galaxy S23 Ultra ra mắt mang đến nhiều sự cải tiến , đặc biệt là ở phần mềm và trải nghiệm người dùng .
+
+Tất nhiên chiếc máy này cũng sở hữu nhiều tính năng ấn tượng , đặc biệt là ở camera .
+
+Và tất nhiên , đối thủ của Galaxy S23 Ultra không ai khác chính là iPhone 14 Pro Max .
+
+Hãy cùng Sforum.vn đánh giá chất lượng camera của 2 chiếc máy này để xem ai mới là ông vua nhiếp ảnh di động nhé !
+
+Điểm qua về mặt thông số
+
+Trước tiên , chúng ta hãy cùng điểm qua một chút về thông số camera của 2 chiếc máy này :
+
+alt :
+
+des :
+
+Nhìn tổng quát về thông số của 2 chiếc flagship đầu bảng ở hình trên , chúng ta có thể thấy cả 2 đều sở hữu cụm camera vô cùng ấn tượng , đều xứng đáng với danh xưng smartphone tốt nhất thế giới ở thời điểm hiện tại .
+{"subject": ["22&&cả"], "object": ["22&&cả"], "aspect": [], "predicate": ["35&&xứng", "36&&đáng"], "label": "EQL"}
+{"subject": ["22&&cả"], "object": ["22&&cả"], "aspect": [], "predicate": ["41&&tốt", "42&&nhất", "43&&thế", "44&&giới", "45&&ở", "46&&thời", "47&&điểm", "48&&hiện", "49&&tại"], "label": "EQL"}
+{"subject": ["40&&smartphone"], "object": [], "aspect": [], "predicate": ["35&&xứng", "36&&đáng"], "label": "EQL"}
+{"subject": ["40&&smartphone"], "object": [], "aspect": [], "predicate": ["41&&tốt", "42&&nhất", "43&&thế", "44&&giới", "45&&ở", "46&&thời", "47&&điểm", "48&&hiện", "49&&tại"], "label": "SUP+"}
+
+Galaxy S23 Ultra có thêm một điểm cộng lớn khi còn sở hữu thêm camera tele 10x cho khả năng chụp ảnh xa với độ sắc nét cao , đây là điểm mà 14 Pro Max không có được .
+{"subject": ["1&&Galaxy", "2&&S23", "3&&Ultra"], "object": ["34&&14", "35&&Pro", "36&&Max"], "aspect": ["25&&độ", "26&&sắc", "27&&nét"], "predicate": ["37&&không", "38&&có", "39&&được"], "label": "DIF"}
+
+alt :
+
+des :
+
+Ngoài ra , còn một yếu tố khá then chốt và sẽ quyết định khả năng xử lý ảnh của 2 chiếc máy này nữa đó chính là vi xử lý .
+
+Cụ thể , trên 14 Pro Max sẽ là Apple A16 Bionic còn Galaxy S23 Ultra sẽ là Snapdragon Gen 2 for Galaxy .
+
+Ngoài sở hữu khả năng xử lý nhanh chóng , 2 vi xử lý này còn phục vụ cho khả năng xử lý ảnh , thêm nữa là cả AI , thứ mà cả Samsung và Apple đều quảng bá rất nhiều cho sản phẩm di động của mình .
+
+Không chờ đợi lâu nữa , mời các bạn xem ảnh so sánh được chụp từ 2 chiếc máy này .
+
+" Mắt thần bóng đêm " đối đầu với " camera Pro "
+
+Điều kiện đủ sáng
+
+Ở điều kiện ánh sáng ban ngày , cả hai đều thể hiện khả năng chụp ảnh rất tốt , vì thế , cái chúng ta quan tâm hơn cả là chất ảnh hay màu ảnh của chiếc máy nào khiến chúng ta ưng mắt hơn .
+{"subject": ["9&&cả", "10&&hai"], "object": ["9&&cả", "10&&hai"], "aspect": ["35&&màu", "36&&ảnh"], "predicate": ["44&&ưng", "45&&mắt", "46&&hơn"], "label": "COM+"}
+
+Thời điểm mình so sánh camera của 2 chiếc máy này cũng không phải quá sáng nữa , đã là hơn 5 giờ chiều , trời bắt đầu hơi nhá nhem tối một chút , tất nhiên là để tăng độ khó cho bộ đôi này .
+
+Bức ảnh đầu tiên được mình chụp ở ống kính góc rộng , xét về tổng thể , cả hai không có nhiều sự chênh lệch , khác biệt rõ nhất có thể thấy là ánh đèn hắt xuống dưới đường của iPhone thì sẽ rực hơn trong khi đó Samsung thì hơi nhạt .
+{"subject": ["19&&cả", "20&&hai"], "object": ["51&&Samsung"], "aspect": ["16&&tổng", "17&&thể"], "predicate": ["21&&không", "22&&có", "23&&nhiều", "24&&sự", "25&&chênh", "26&&lệch"], "label": "EQL"}
+{"subject": ["19&&cả", "20&&hai"], "object": ["51&&Samsung"], "aspect": ["36&&ánh", "37&&đèn", "38&&hắt", "39&&xuống", "40&&dưới", "41&&đường"], "predicate": ["21&&không", "22&&có", "23&&nhiều", "24&&sự", "25&&chênh", "26&&lệch"], "label": "EQL"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Sử dụng ống kính 3x để zoom chi tiết hơn , tổng thể ảnh của 14 Pro Max sáng hơn tuy nhiên ở dòng chữ " Mỹ phẩm " thì hơi sáng hơn , cả màn hình phía dưới cũng mang lại hiện tượng hơi chói mắt .
+{"subject": ["16&&14", "17&&Pro", "18&&Max"], "object": [], "aspect": ["24&&dòng", "25&&chữ"], "predicate": ["31&&hơi", "32&&sáng", "33&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tòa chung cư này có lẽ khá quen thuộc với nhiều người , điểm khác biệt rõ rệt ở dòng chữ Kangaroo khi Samsung S23 Ultra có màu xanh hơi lợt trong iPhone 14 Pro Max thì lại hơi đậm đà .
+{"subject": ["24&&Samsung", "25&&S23", "26&&Ultra"], "object": ["33&&iPhone", "34&&14", "35&&Pro", "36&&Max"], "aspect": ["20&&dòng", "21&&chữ"], "predicate": ["14&&điểm", "15&&khác", "16&&biệt", "17&&rõ", "18&&rệt"], "label": "DIF"}
+{"subject": ["24&&Samsung", "25&&S23", "26&&Ultra"], "object": ["33&&iPhone", "34&&14", "35&&Pro", "36&&Max"], "aspect": ["20&&dòng", "21&&chữ"], "predicate": ["41&&đà"], "label": "DIF"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Test thử một góc khác với ống kính 3x , góc tòa nhà này có nhiều ánh sáng tự nhiên hơn nên ảnh sẽ sáng hơn 2 bức ảnh trước .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tiếp tục là ống kính 3x với tòa nhà Time Square , cả 2 bức ảnh chụp từ ống kính 3x cho thấy , ảnh của iPhone 14 Pro Max luôn cho lại màu sắc có phần đậm đà hơn .
+{"subject": ["13&&cả", "14&&2", "15&&bức", "16&&ảnh"], "object": ["13&&cả", "14&&2", "15&&bức", "16&&ảnh"], "aspect": ["34&&màu", "35&&sắc"], "predicate": ["36&&có", "37&&phần", "38&&đậm", "39&&đà", "40&&hơn"], "label": "COM+"}
+{"subject": ["27&&iPhone", "28&&14", "29&&Pro", "30&&Max"], "object": [], "aspect": ["34&&màu", "35&&sắc"], "predicate": ["36&&có", "37&&phần", "38&&đậm", "39&&đà", "40&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Có thể nhận thấy , màu sắc trên iPhone 14 Pro Max có phần ám vàng hơn , tuy nhiên khả năng giữ chi tiết cũng rất ấn tượng , chúng ta có thể xem hình dưới , quả địa cầu chụp trên chiếc Galaxy S23 Ultra hơi cháy sáng trong khi đối thủ thì lại lấy rõ từng chi tiết .
+{"subject": ["11&&Pro"], "object": ["53&&đối", "54&&thủ"], "aspect": ["21&&khả", "22&&năng", "23&&giữ", "24&&chi", "25&&tiết"], "predicate": ["48&&hơi", "49&&cháy", "50&&sáng"], "label": "COM"}
+{"subject": ["11&&Pro"], "object": ["53&&đối", "54&&thủ"], "aspect": ["39&&quả", "40&&địa", "41&&cầu"], "predicate": ["48&&hơi", "49&&cháy", "50&&sáng"], "label": "COM+"}
+{"subject": ["44&&chiếc", "45&&Galaxy", "46&&S23", "47&&Ultra"], "object": ["53&&đối", "54&&thủ"], "aspect": ["21&&khả", "22&&năng", "23&&giữ", "24&&chi", "25&&tiết"], "predicate": ["48&&hơi", "49&&cháy", "50&&sáng"], "label": "COM"}
+{"subject": ["44&&chiếc", "45&&Galaxy", "46&&S23", "47&&Ultra"], "object": ["53&&đối", "54&&thủ"], "aspect": ["39&&quả", "40&&địa", "41&&cầu"], "predicate": ["48&&hơi", "49&&cháy", "50&&sáng"], "label": "COM"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tuy nhiên , Galaxy S23 Ultra lại có lợi thế với ống kính tiềm vọng 10x , khoản này thì 14 Pro Max đành " bó tay " .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["21&&14", "22&&Pro", "23&&Max"], "aspect": ["12&&ống", "13&&kính", "14&&tiềm", "15&&vọng"], "predicate": ["24&&đành"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": ["21&&14", "22&&Pro", "23&&Max"], "aspect": ["12&&ống", "13&&kính", "14&&tiềm", "15&&vọng"], "predicate": ["26&&bó", "27&&tay", "28&&\""], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Ở camera góc rộng , trong tấm hình này , sự khác biệt giữa hay máy gần như không kể .
+{"subject": ["11&&sự"], "object": ["16&&máy"], "aspect": [], "predicate": ["12&&khác", "13&&biệt"], "label": "DIF"}
+{"subject": ["11&&sự"], "object": ["16&&máy"], "aspect": [], "predicate": ["17&&gần", "18&&như", "19&&không", "20&&kể"], "label": "EQL"}
+{"subject": ["15&&hay"], "object": ["16&&máy"], "aspect": [], "predicate": ["12&&khác", "13&&biệt"], "label": "DIF"}
+{"subject": ["15&&hay"], "object": ["16&&máy"], "aspect": [], "predicate": ["17&&gần", "18&&như", "19&&không", "20&&kể"], "label": "EQL"}
+
+Góc camera của Samsung có phần rộng hơn iPhone , ngoài ra , khả năng xử lý da mặt của S23 Ultra cũng sáng hơn 14 Pro Max trong tấm hình này .
+{"subject": ["21&&S23", "22&&Ultra"], "object": ["26&&14", "27&&Pro", "28&&Max"], "aspect": ["14&&khả", "15&&năng", "16&&xử", "17&&lý", "18&&da", "19&&mặt"], "predicate": ["24&&sáng", "25&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Nhiều người cho rằng , không nên so sánh camera zoom xa như 10x giữa iPhone và Samsung vì iPhone không được trang bị ống kính đó và sẽ có phần thiệt hơn cho iPhone .
+{"subject": [], "object": ["35&&iPhone"], "aspect": ["10&&camera", "11&&zoom", "12&&xa", "13&&như"], "predicate": ["30&&có", "31&&phần", "32&&thiệt", "33&&hơn"], "label": "COM-"}
+
+Tuy nhiên , với mình thì lại khác , là 2 chiếc máy đầu bảng đồng nghĩa phải tận dụng hết những tính năng của cả 2 mới đúng là sự so sánh cần thiết bởi cả 2 đều chung 1 phân khúc .
+{"subject": ["11&&2", "12&&chiếc", "13&&máy"], "object": ["11&&2", "12&&chiếc", "13&&máy"], "aspect": ["22&&những", "23&&tính", "24&&năng"], "predicate": ["39&&đều", "40&&chung"], "label": "EQL"}
+{"subject": ["11&&2", "12&&chiếc", "13&&máy"], "object": ["11&&2", "12&&chiếc", "13&&máy"], "aspect": ["42&&phân", "43&&khúc"], "predicate": ["39&&đều", "40&&chung"], "label": "EQL"}
+
+Tấm ảnh này được mình chụp bằng camera tiềm vọng 10x trên S23 Ultra cùng với tính năng zoom kết hợp trên iPhone 14 series , bản thân mình thích màu của iPhone hơn khi cho nền trời xanh cùng màu của tòa Bitexco cũng rất đẹp , tuy nhiên độ chi tiết thì khó bằng Samsung được .
+
+Hơn nữa , màu sắc của tòa nhà và nền trời khi ấy thì S23 Ultra cho ra giống hơn .
+{"subject": ["15&&S23", "16&&Ultra"], "object": [], "aspect": ["10&&nền", "11&&trời"], "predicate": ["19&&giống", "20&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+Tiếp tục là hình này , màu sắc thì iPhone đậm hơn , nhưng độ chi tiết thì vẫn là Samsung Galaxy S23 Ultra ăn đứt .
+{"subject": [], "object": ["21&&Samsung", "22&&Galaxy", "23&&S23", "24&&Ultra"], "aspect": ["15&&độ", "16&&chi", "17&&tiết"], "predicate": ["25&&ăn", "26&&đứt"], "label": "COM+"}
+
+alt :
+
+des :
+
+Ở chế độ chụp chân dung , cả 2 đều sử dụng ống kính 3x để chụp chân dung , ống kính của iPhone 14 Pro Max khá rộng khi so với S23 Ultra , cả 2 đều có khả năng tách nền ấn tượng , ảnh bokeh cũng rất tốt .
+{"subject": ["24&&iPhone", "25&&14", "26&&Pro", "27&&Max"], "object": ["33&&S23", "34&&Ultra"], "aspect": ["21&&ống", "22&&kính"], "predicate": ["28&&khá", "29&&rộng"], "label": "COM+"}
+
+Nhìn xử lý da mặt thì Samsung cho chất lượng tốt hơn , da sáng đều và đẹp , 14 Pro Max thì cho da hơi sạm một chút , chắc là nhiều chị em sẽ không thích màu ảnh này và sẽ chỉnh lại để lung linh hơn .
+{"subject": ["20&&14", "21&&Pro", "22&&Max"], "object": [], "aspect": ["2&&xử", "3&&lý", "4&&da", "5&&mặt"], "predicate": ["12&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+Về khả năng quay video , Sforum sẽ gửi đến các bạn trong bài đánh giá chi tiết sau , mình test nhanh khả năng quay video 4K của 2 chiếc máy này ở video dưới đây :
+
+Điều kiện thiếu sáng
+
+Điều kiện mình test lúc này cũng chưa thực sự quá tối , cộng thêm với khu vực phố đi bộ cũng rất nhiều ánh đèn nên cũng chưa phải quá khắc nghiệt với cả 2 chiếc máy này .
+
+Với ống kính góc siêu rộng , cả 2 đều sở hữu ống kính 120 độ , tuy nhiên , iPhone lại có góc hơi rộng hơn Samsung một chút .
+
+Về ánh sáng thì ảnh này iPhone thua Samsung một nấc .
+{"subject": ["5&&ảnh", "6&&này", "7&&iPhone"], "object": [], "aspect": ["2&&ánh", "3&&sáng"], "predicate": ["8&&thua", "9&&Samsung", "10&&một", "11&&nấc"], "label": "COM-"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Qua với bức ảnh thứ 2 , chụp với ống kính chính , ảnh này là một bức ảnh khiến mình hơi đứng hình khi nhận kết quả .
+
+Điều kiện này ánh sáng mặt trời vừa nhá nhem , nhiều ánh sáng phức tạp xung quanh hơn nữa lại là ảnh chụp ngược sáng .
+
+Mình xin phép để kết quả này để các bạn tự so sánh .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Cũng là góc tòa nhà đó nhưng lần này là ảnh chụp từ camera 3x .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Ở hình dưới đây , màu sắc cả 2 khá tương đồng , chất lượng ảnh cũng vậy , nhưng để ý kỹ các bóng đèn trắng ở phía trên thì ảnh của Galaxy S23 Ultra hơi có hiện tượng n
+{"subject": ["34&&Galaxy", "35&&S23", "36&&Ultra"], "object": [], "aspect": ["14&&chất"], "predicate": ["37&&hơi", "38&&có", "39&&hiện", "40&&tượng", "41&&n"], "label": "EQL"}
+{"subject": ["34&&Galaxy", "35&&S23", "36&&Ultra"], "object": [], "aspect": ["24&&các", "25&&bóng", "26&&đèn", "27&&trắng", "28&&ở", "29&&phía", "30&&trên"], "predicate": ["37&&hơi", "38&&có", "39&&hiện", "40&&tượng", "41&&n"], "label": "EQL"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tấm ảnh này thì mình rất thích ảnh Samsung cho ra , màu sắc tốt , độ chi tiết cũng ổn lại sáng đều .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tương tự đó là tấm ảnh này , ảnh của iPhone chụp ra có cảm giác màu sắc bệt bệt và xanh xanh hơi khó chịu .
+
+Ảnh này được chụp bằng ống kính góc siêu rộng .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Điểm sáng của iPhone trong bức hình này là ngoài chủ thể ( Bitexco ) thì màn hình LED ở phía dưới cũng có độ chi tiết tốt , trong khi S23 Ultra thì khó nhìn rõ nội dung bảng điện tử này .
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tấm ảnh này chụp bằng camera 10x của Samsung và tính năng zoom 10x của iPhone , cả hai đều mang tính chất chụp cho vui vì đều . . .
+{"subject": ["18&&cả", "19&&hai"], "object": ["18&&cả", "19&&hai"], "aspect": ["13&&zoom"], "predicate": ["28&&đều", "29&&."], "label": "EQL"}
+
+tệ .
+
+Nhưng chúng ta cũng có thể thấy Samsung Galaxy S23 Ultra cũng cứu vớt được phần nào .
+
+Phải nói thêm , tấm ảnh này mình chụp lúc trời đã khá tối rồi .
+
+alt :
+
+des :
+
+Thử chế độ chân dung ban đêm , phải nói cả 2 đều cho khả năng tách nền cực kỳ tốt dù trong đêm tối .
+{"subject": ["11&&cả", "12&&2"], "object": ["11&&cả", "12&&2"], "aspect": ["2&&chế", "3&&độ", "4&&chân", "5&&dung", "6&&ban", "7&&đêm"], "predicate": ["13&&đều", "14&&cho"], "label": "EQL"}
+{"subject": ["11&&cả", "12&&2"], "object": ["11&&cả", "12&&2"], "aspect": ["2&&chế", "3&&độ", "4&&chân", "5&&dung", "6&&ban", "7&&đêm"], "predicate": ["19&&cực"], "label": "EQL"}
+{"subject": ["11&&cả", "12&&2"], "object": ["11&&cả", "12&&2"], "aspect": ["15&&khả", "16&&năng", "17&&tách", "18&&nền"], "predicate": ["13&&đều", "14&&cho"], "label": "EQL"}
+{"subject": ["11&&cả", "12&&2"], "object": ["11&&cả", "12&&2"], "aspect": ["15&&khả", "16&&năng", "17&&tách", "18&&nền"], "predicate": ["19&&cực"], "label": "EQL"}
+
+Mình vẫn hơi thiên về màu ảnh của Samsung hơn , đặc biệt là da người sáng hồng , dễ chịu hơn .
+{"subject": [], "object": [], "aspect": ["15&&da", "16&&người"], "predicate": ["20&&dễ", "21&&chịu", "22&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Tương tự với đó là tấm ảnh này , da người cũng hồng hào hơn .
+{"subject": [], "object": [], "aspect": ["10&&da", "11&&người"], "predicate": ["13&&hồng", "14&&hào", "15&&hơn"], "label": "COM+"}
+
+Tuy nhiên , bokeh của iPhone lại ảo diệu và mờ hơn so với Samsung , cái này thì sẽ tùy vào từng người và có thể chỉnh được bên trong cài đặt sau khi chụp .
+{"subject": ["6&&iPhone"], "object": ["15&&Samsung"], "aspect": ["4&&bokeh"], "predicate": ["8&&ảo", "9&&diệu", "10&&và", "11&&mờ", "12&&hơn"], "label": "COM+"}
+
+alt :
+
+des :
+
+alt :
+
+des :
+
+Phải nói , khả năng zoom tiềm vọng 10x là một lợi thế lớn của Samsung , hữu hiệu trong nhiều trường hợp , đây là ví dụ .
+
+alt :
+
+des :
+
+Kết thúc chuyến đi bằng một bức ảnh chụp tối hẳn và mình dành một lời khen cho iPhone 14 Pro Max , khả năng xử lý bức ảnh này thì khiến mình thích hơn chất ảnh của Samsung .
+{"subject": ["19&&iPhone", "20&&14", "21&&Pro", "22&&Max"], "object": ["39&&Samsung"], "aspect": ["26&&xử", "27&&lý"], "predicate": ["10&&tối", "11&&hẳn"], "label": "COM+"}
+{"subject": ["19&&iPhone", "20&&14", "21&&Pro", "22&&Max"], "object": ["39&&Samsung"], "aspect": ["36&&chất", "37&&ảnh"], "predicate": ["10&&tối", "11&&hẳn"], "label": "COM+"}
+
+Ảnh chụp trên Galaxy S23 Ultra sáng hơn nhưng lại cho mình cảm giác như đang có một lớp sương mờ phủ lên .
+{"subject": ["4&&Galaxy", "5&&S23", "6&&Ultra"], "object": [], "aspect": ["1&&Ảnh", "2&&chụp"], "predicate": ["7&&sáng", "8&&hơn"], "label": "COM"}
+
+alt :
+
+des :
+
+Tạm kết
+
+Nhìn chung , với cả 2 mẫu máy đều thể hiện khả năng chụp ảnh ấn tượng .
+{"subject": ["5&&cả", "6&&2", "7&&mẫu", "8&&máy"], "object": ["5&&cả", "6&&2", "7&&mẫu", "8&&máy"], "aspect": ["12&&khả", "13&&năng", "14&&chụp", "15&&ảnh", "16&&ấn", "17&&tượng"], "predicate": ["9&&đều", "10&&thể", "11&&hiện"], "label": "EQL"}
+
+Ở chế độ chụp ban ngày , không có nhiều sự khác biệt giữa 2 chiếc Galaxy S23 Ultra và iPhone 14 series , tuy nhiên , khi màn đêm buông xuống , Samsung đã thể hiện rất tốt với cả màu ảnh , chi tiết lẫn độ sáng đều tốt hơn .
+{"subject": ["15&&2", "16&&chiếc", "17&&Galaxy", "18&&S23", "19&&Ultra"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["48&&độ", "49&&sáng"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+{"subject": ["34&&Samsung"], "object": ["21&&iPhone", "22&&14", "23&&series"], "aspect": ["48&&độ", "49&&sáng"], "predicate": ["51&&tốt", "52&&hơn"], "label": "COM+"}
+
+Có thể nói Galaxy S23 Ultra sở hữu hệ thống camera vô cùng tuyệt vời và đa dạng góc chụp từ gần đến siêu xa .
+
+Theo bạn , bạn thích ảnh chụp từ chiếc máy nào hơn ?
+

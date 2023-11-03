@@ -1,0 +1,192 @@
+So sánh Galaxy Note 10 Plus và iPhone 11 : 7 triệu chọn flagship cũ nào ?
+
+" iPhone 11 và Galaxy Note 10 Plus đều là những mẫu flagship cũ rất đáng giá trong phân khúc trên dưới 7 triệu đồng .
+
+Với Note 10 Plus , chúng ta có một thiết bị sở hữu thiết kế cao cấp , màn hình xuất sắc cùng bút S-Pen , trong khi iPhone 11 hướng đến đối tượng người dùng trẻ trung với hiệu năng mạnh mẽ cùng iOS mượt mà , ổn định .
+
+Và hãy cùng đặt hai sản phẩm này lên bàn cân , để xem đâu là lựa chọn dành cho .
+
+bạn nhé .
+
+Phần mềm và S-Pen
+
+Hãy đi tới phần mềm trước tiên .
+
+Khá đáng tiếc là Note 10 + lại không hỗ trợ One UI 5 dựa trên nền Android 13 , mà chỉ tối đa là One UI 4 trên Android 12 .
+
+Đổi lại , iPhone 11 đã được cập nhật lên iOS 16.3 mới nhất .
+
+Mẫu máy nhiều khả năng vẫn sẽ hỗ trợ từ 1 - 2 phiên bản iOS nữa , hơn hẳn so với đối thủ tới từ Samsung .
+{"subject": ["1&&Mẫu", "2&&máy"], "object": ["23&&đối", "24&&thủ", "25&&tới", "26&&từ", "27&&Samsung"], "aspect": ["14&&phiên", "15&&bản", "16&&iOS"], "predicate": ["19&&hơn", "20&&hẳn"], "label": "COM+"}
+
+Tuy nhiên Note 10 Plus lại có lợi thế ở bút S-Pen độc quyền .
+{"subject": ["3&&Note", "4&&10", "5&&Plus"], "object": [], "aspect": ["11&&bút", "12&&S-Pen", "13&&độc", "14&&quyền"], "predicate": ["7&&có", "8&&lợi"], "label": "COM+"}
+
+Đây sẽ là trang bị cần thiết với những người cần ghi chú nhiều mà không cần sử dụng sổ tay hay giấy , bút .
+
+S-Pen trên Note 10 Plus vẫn chưa được giảm độ trễ , nhưng với cá nhân mình đó đã là lựa chọn đáng giá trong phân khúc 7 triệu rồi .
+
+alt :
+
+des :
+
+Chưa kể đó , Note 10 Plus còn hỗ trợ Samsung Dex .
+
+Mẫu máy cũng hỗ trợ Samsung Pay , khả năng tương thích và sử dụng có phần nhỉnh hơn Apple Pay trên iPhone 11 .
+{"subject": ["1&&Mẫu", "2&&máy"], "object": ["20&&Apple", "21&&Pay", "22&&trên", "23&&iPhone", "24&&11"], "aspect": ["9&&khả", "10&&năng", "11&&tương", "12&&thích", "13&&và", "14&&sử", "15&&dụng"], "predicate": ["16&&có", "17&&phần", "18&&nhỉnh", "19&&hơn"], "label": "COM+"}
+{"subject": ["6&&Samsung"], "object": ["20&&Apple", "21&&Pay", "22&&trên", "23&&iPhone", "24&&11"], "aspect": ["9&&khả", "10&&năng", "11&&tương", "12&&thích", "13&&và", "14&&sử", "15&&dụng"], "predicate": ["16&&có", "17&&phần", "18&&nhỉnh", "19&&hơn"], "label": "COM+"}
+
+Màn hình
+
+Rõ ràng iPhone 11 thua thiệt hoàn toàn về màn hình so với Galaxy Note 10 + , từ các thông số màn hình , độ phân giải , độ sáng cho đến tấm nền màn hình .
+{"subject": ["3&&iPhone", "4&&11"], "object": ["14&&Galaxy", "15&&Note", "16&&10", "17&&+"], "aspect": ["10&&màn", "11&&hình"], "predicate": ["5&&thua", "6&&thiệt", "7&&hoàn", "8&&toàn"], "label": "COM-"}
+{"subject": ["3&&iPhone", "4&&11"], "object": ["14&&Galaxy", "15&&Note", "16&&10", "17&&+"], "aspect": ["34&&tấm", "35&&nền", "36&&màn", "37&&hình"], "predicate": ["5&&thua", "6&&thiệt", "7&&hoàn", "8&&toàn"], "label": "COM-"}
+
+Đáng nói hơn , iPhone 11 chỉ có màn hình với tấm nền IPS LCD , độ phân giải HD + và tần số quét 60Hz – những tiêu chuẩn khó có thể chấp nhận trong phân khúc này .
+
+alt :
+
+des :
+
+Sở hữu thông số vượt trội nên dễ hiểu khi Note 10 Plus cũng bỏ xa về chất lượng hiển thị với màu sắc tươi tắn , độ sáng và độ tương phản cao hơn .
+{"subject": ["11&&Note", "12&&10", "13&&Plus"], "object": [], "aspect": ["18&&chất", "19&&lượng", "20&&hiển", "21&&thị"], "predicate": ["15&&bỏ", "16&&xa"], "label": "COM+"}
+
+Với các nội dung HDR , Note 10 Plus cũng vượt xa iPhone 11 , đặc biệt là các cảnh có vùng trời nắng .
+{"subject": ["7&&Note", "8&&10", "9&&Plus"], "object": ["13&&iPhone", "14&&11"], "aspect": ["2&&các", "3&&nội", "4&&dung", "5&&HDR"], "predicate": ["11&&vượt", "12&&xa"], "label": "COM+"}
+
+Thiết kế
+
+Cả Galaxy Note 10 Plus và iPhone 11 đều có mặt lưng hoàn thiện từ kính bóng .
+{"subject": ["2&&Galaxy", "3&&Note", "4&&10", "5&&Plus"], "object": ["7&&iPhone", "8&&11"], "aspect": ["11&&mặt", "12&&lưng", "13&&hoàn", "14&&thiện", "15&&từ", "16&&kính", "17&&bóng"], "predicate": ["9&&đều", "10&&có"], "label": "EQL"}
+
+Vậy nên dễ hiểu khi cả hai đều bám rất nhiều mồ hôi và dấu vân tay , quá trình sử dụng máy sẽ rất bẩn và khó lau chùi sạch .
+{"subject": ["6&&cả", "7&&hai"], "object": ["6&&cả", "7&&hai"], "aspect": [], "predicate": ["8&&đều", "9&&bám", "10&&rất"], "label": "EQL"}
+
+Hai mẫu máy đều sở hữu tiêu chuẩn kháng nước IP68 , tuy nhiên bạn nên kiểm tra kỹ khi mua vì khả năng kháng nước khó có thể duy trì sau thời gian dài như vậy .
+{"subject": ["1&&Hai", "2&&mẫu", "3&&máy"], "object": [], "aspect": ["23&&khả", "24&&năng", "25&&kháng", "26&&nước"], "predicate": ["4&&đều", "5&&sở", "6&&hữu"], "label": "EQL"}
+{"subject": ["1&&Hai", "2&&mẫu", "3&&máy"], "object": [], "aspect": ["23&&khả", "24&&năng", "25&&kháng", "26&&nước"], "predicate": ["30&&duy", "31&&trì", "32&&sau", "33&&thời", "34&&gian", "35&&dài"], "label": "EQL"}
+
+alt :
+
+des :
+
+Cá nhân mình sẽ chọn thiết kế trên Note 10 Plus .
+
+Máy đầm , cho cảm giác rất sang trọng và tỉ mỉ .
+
+Màn hình cong đi kèm các viền được vát rất mỏng giúp trải nghiệm hiển thị tăng lên đáng kể .
+
+Trong khi đó , iPhone 11 vẫn giữ lại bốn viền rất dày đi kèm tai thỏ chiếm dụng rất nhiều không gian màn hình .
+
+Thời lượng pin
+
+Pin là một yếu tố khá “ hên xui ” vì các máy cũ thường có sự chênh lệch về mức chai pin .
+{"subject": ["12&&các", "13&&máy", "14&&cũ"], "object": [], "aspect": ["1&&Pin"], "predicate": ["15&&thường", "16&&có", "17&&sự", "18&&chênh", "19&&lệch"], "label": "DIF"}
+{"subject": ["12&&các", "13&&máy", "14&&cũ"], "object": [], "aspect": ["21&&mức", "22&&chai", "23&&pin"], "predicate": ["15&&thường", "16&&có", "17&&sự", "18&&chênh", "19&&lệch"], "label": "DIF"}
+
+Ta sẽ xét ở điều kiện lý tưởng , sau khoảng 1 - 2 năm sử dụng , cả 2 máy sẽ đều chai pin tương đương nhau .
+{"subject": ["19&&cả", "20&&2", "21&&máy"], "object": ["19&&cả", "20&&2", "21&&máy"], "aspect": ["25&&pin"], "predicate": ["23&&đều", "24&&chai"], "label": "EQL"}
+{"subject": ["19&&cả", "20&&2", "21&&máy"], "object": ["19&&cả", "20&&2", "21&&máy"], "aspect": ["25&&pin"], "predicate": ["26&&tương", "27&&đương", "28&&nhau"], "label": "EQL"}
+
+alt :
+
+des :
+
+Khi này thời lượng sử dụng nhìn chung không chênh nhau quá nhiều .
+{"subject": [], "object": [], "aspect": ["3&&thời", "4&&lượng", "5&&sử", "6&&dụng"], "predicate": ["9&&không", "10&&chênh", "11&&nhau", "12&&quá", "13&&nhiều"], "label": "EQL"}
+
+Với nhu cầu sử dụng tương đương nhau , cả hai sẽ cho ra thời gian on-screen trung bình vào khoảng 5 – 5,5 giờ .
+{"subject": ["10&&cả", "11&&hai"], "object": ["10&&cả", "11&&hai"], "aspect": ["15&&thời", "16&&gian", "17&&on-screen", "18&&trung", "19&&bình"], "predicate": ["6&&tương", "7&&đương", "8&&nhau"], "label": "EQL"}
+
+Và nếu bạn có nhu cầu sử dụng cao , việc đem theo sạc dự phòng là điều nên cân nhắc để đảm bảo quá trình sử dụng trong ngày dài .
+
+Camera
+
+Thoạt nhìn có thể thấy iPhone thua thiệt do sở hữu ít ống kính hơn so với Galaxy Note 10 Plus .
+{"subject": ["6&&iPhone"], "object": ["18&&Galaxy", "19&&Note", "20&&10", "21&&Plus"], "aspect": ["13&&ống", "14&&kính"], "predicate": ["12&&ít"], "label": "COM-"}
+{"subject": ["6&&iPhone"], "object": ["18&&Galaxy", "19&&Note", "20&&10", "21&&Plus"], "aspect": ["13&&ống", "14&&kính"], "predicate": ["15&&hơn"], "label": "COM-"}
+
+Tuy nhiên , thực tế lại trái ngược hoàn toàn .
+{"subject": [], "object": [], "aspect": ["4&&thực", "5&&tế"], "predicate": ["7&&trái", "8&&ngược", "9&&hoàn", "10&&toàn"], "label": "DIF"}
+
+alt :
+
+des :
+
+Galaxy Note 10 Plus vẫn gặp vấn đề ở mặt chụp chân dung , khi hình chụp vật thể có cảm giác sương , mờ , độ tương phản không cao , khá khó nhìn .
+
+Trên iPhone , mặc dù ảnh xử lý bị ám vàng khá rõ nhưng lại làm tốt hơn hẳn về tương phản lẫn chi tiết .
+{"subject": ["2&&iPhone"], "object": [], "aspect": ["24&&chi", "25&&tiết"], "predicate": ["16&&làm", "17&&tốt", "18&&hơn", "19&&hẳn"], "label": "COM+"}
+
+Chất ảnh trên Galaxy Note 10 Plus vẫn thể hiện tương tự khi vào điều kiện thiếu sáng .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&10", "7&&Plus"], "object": [], "aspect": ["1&&Chất", "2&&ảnh"], "predicate": ["9&&thể", "10&&hiện", "11&&tương", "12&&tự"], "label": "EQL"}
+
+Cảm giác ảnh sẽ không được trong trẻo như iPhone 11 .
+{"subject": [], "object": ["10&&iPhone", "11&&11"], "aspect": ["1&&Cảm", "2&&giác", "3&&ảnh"], "predicate": ["5&&không", "6&&được", "7&&trong", "8&&trẻo", "9&&như"], "label": "COM-"}
+
+Cùng với đó là chi tiết trên tóc , trên áo của iPhone 11 cũng làm được tốt hơn .
+{"subject": ["13&&iPhone", "14&&11"], "object": [], "aspect": ["11&&áo"], "predicate": ["16&&làm", "17&&được", "18&&tốt", "19&&hơn"], "label": "COM+"}
+
+Chụp chân dung không tốt , thế nhưng Galaxy Note 10 Plus lại vượt trội về khoản xử lý ánh sáng đèn khi chụp đêm .
+{"subject": ["9&&Galaxy", "10&&Note", "11&&10", "12&&Plus"], "object": [], "aspect": ["18&&xử", "19&&lý", "20&&ánh", "21&&sáng", "22&&đèn", "23&&khi", "24&&chụp", "25&&đêm"], "predicate": ["14&&vượt", "15&&trội"], "label": "COM+"}
+
+Ở những biển hiệu hay ngọn đèn , Note 10 Plus giữ được vật thể , không bị cháy , mất chi tiết như iPhone 11 .
+{"subject": ["9&&Note", "10&&10", "11&&Plus"], "object": ["25&&iPhone", "26&&11"], "aspect": ["6&&ngọn", "7&&đèn"], "predicate": ["17&&không"], "label": "DIF"}
+{"subject": ["9&&Note", "10&&10", "11&&Plus"], "object": ["25&&iPhone", "26&&11"], "aspect": ["6&&ngọn", "7&&đèn"], "predicate": ["21&&mất", "22&&chi", "23&&tiết", "24&&như"], "label": "DIF"}
+{"subject": ["9&&Note", "10&&10", "11&&Plus"], "object": ["25&&iPhone", "26&&11"], "aspect": ["14&&vật", "15&&thể"], "predicate": ["17&&không"], "label": "DIF"}
+{"subject": ["9&&Note", "10&&10", "11&&Plus"], "object": ["25&&iPhone", "26&&11"], "aspect": ["14&&vật", "15&&thể"], "predicate": ["21&&mất", "22&&chi", "23&&tiết", "24&&như"], "label": "DIF"}
+
+Về khả năng quay video , điểm cộng là cả hai đều hỗ trợ quay video 4K ở cả camera trước và sau .
+{"subject": ["10&&cả", "11&&hai"], "object": ["10&&cả", "11&&hai"], "aspect": ["2&&khả", "3&&năng", "4&&quay", "5&&video"], "predicate": ["12&&đều", "13&&hỗ", "14&&trợ", "15&&quay", "16&&video", "17&&4K", "18&&ở", "19&&cả", "20&&camera", "21&&trước", "22&&và", "23&&sau"], "label": "EQL"}
+
+Tuy nhiên , iPhone thể hiện sự vượt trội về khả năng chống rung hay xử lý ánh sáng , trong khi Note 10 Plus xử lý màu áo khá tệ , các chi tiết bị ám hồng và khó có thể nhìn một cách rõ ràng .
+{"subject": ["23&&Note", "24&&10", "25&&Plus"], "object": ["4&&iPhone"], "aspect": ["16&&xử", "17&&lý"], "predicate": ["8&&vượt", "9&&trội"], "label": "COM+"}
+{"subject": ["23&&Note", "24&&10", "25&&Plus"], "object": ["4&&iPhone"], "aspect": ["28&&màu", "29&&áo"], "predicate": ["8&&vượt", "9&&trội"], "label": "COM+"}
+
+alt :
+
+des :
+
+Nhìn chung , camera trên iPhone 11 không quá xuất sắc ít nhất xét trong tầm giá này .
+{"subject": ["4&&camera", "5&&trên", "6&&iPhone", "7&&11"], "object": [], "aspect": [], "predicate": ["8&&không", "9&&quá", "10&&xuất", "11&&sắc", "12&&ít", "13&&nhất", "14&&xét", "15&&trong", "16&&tầm", "17&&giá", "18&&này"], "label": "SUP"}
+
+Tuy nhiên , khi đặt cạnh Note 10 Plus , mẫu máy tới từ Apple vẫn cho khả năng quay chụp tốt hơn trong nhiều điều kiện .
+{"subject": ["11&&mẫu", "12&&máy", "13&&tới", "14&&từ", "15&&Apple"], "object": [], "aspect": ["18&&khả", "19&&năng", "20&&quay", "21&&chụp"], "predicate": ["22&&tốt", "23&&hơn"], "label": "COM+"}
+
+Hiệu năng
+
+Phiên bản Galaxy Note 10 Plus mình có trên tay là phiên bản nhà mạng Hàn Quốc , sử dụng Exynos 9825 chứ không phải Snapdragon 855 .
+{"subject": ["3&&Galaxy", "4&&Note", "5&&10", "6&&Plus"], "object": ["26&&Snapdragon", "27&&855"], "aspect": [], "predicate": [], "label": "COM-"}
+
+Nhìn chung , Exynos 9825 thua thiệt hoàn toàn khi so sánh với Apple A13 Bionic có trên iPhone 11 , từ điểm số cho đến màn thể hiện trong các tựa game .
+{"subject": ["4&&Exynos", "5&&9825"], "object": ["14&&Apple", "15&&A13", "16&&Bionic"], "aspect": ["27&&màn", "28&&thể", "29&&hiện", "30&&trong", "31&&các", "32&&tựa", "33&&game"], "predicate": ["6&&thua", "7&&thiệt", "8&&hoàn", "9&&toàn"], "label": "COM-"}
+{"subject": ["4&&Exynos", "5&&9825"], "object": ["19&&iPhone", "20&&11"], "aspect": ["27&&màn", "28&&thể", "29&&hiện", "30&&trong", "31&&các", "32&&tựa", "33&&game"], "predicate": ["6&&thua", "7&&thiệt", "8&&hoàn", "9&&toàn"], "label": "COM-"}
+
+Ở hầu hết tựa game , kể cả Genshin Impact thì iPhone 11 xử lý vẫn rất tốt .
+
+Mức FPS trung bình đạt được ở tựa game này là 50 , tức là còn tương đương với nhiều mẫu flagship Android mới ra mắt trong năm 2023 .
+{"subject": ["8&&tựa"], "object": ["20&&nhiều", "21&&mẫu", "22&&flagship", "23&&Android", "24&&mới", "25&&ra", "26&&mắt", "27&&trong", "28&&năm", "29&&2023"], "aspect": ["1&&Mức", "2&&FPS", "3&&trung", "4&&bình"], "predicate": ["17&&tương", "18&&đương"], "label": "EQL"}
+{"subject": ["10&&này"], "object": ["20&&nhiều", "21&&mẫu", "22&&flagship", "23&&Android", "24&&mới", "25&&ra", "26&&mắt", "27&&trong", "28&&năm", "29&&2023"], "aspect": ["1&&Mức", "2&&FPS", "3&&trung", "4&&bình"], "predicate": ["17&&tương", "18&&đương"], "label": "EQL"}
+
+Nhìn chung , nếu anh em là người chơi PUBG Mobile , Genshin Impact thì nên ưu tiên lựa chọn iPhone 11 .
+
+Còn với những tựa game cơ bản hơn như LMHT Tốc Chiến hay Liên Quân Mobile , cả hai đều có thể đáp ứng rất tốt về cả FPS lẫn nhiệt độ .
+{"subject": ["15&&Quân", "16&&Mobile"], "object": ["14&&Liên"], "aspect": ["31&&nhiệt", "32&&độ"], "predicate": ["6&&cơ", "7&&bản", "8&&hơn"], "label": "COM+"}
+{"subject": ["15&&Quân", "16&&Mobile"], "object": ["14&&Liên"], "aspect": ["31&&nhiệt", "32&&độ"], "predicate": ["24&&ứng"], "label": "EQL"}
+{"subject": ["18&&cả", "19&&hai"], "object": ["14&&Liên"], "aspect": ["31&&nhiệt", "32&&độ"], "predicate": ["6&&cơ", "7&&bản", "8&&hơn"], "label": "COM+"}
+{"subject": ["18&&cả", "19&&hai"], "object": ["14&&Liên"], "aspect": ["31&&nhiệt", "32&&độ"], "predicate": ["24&&ứng"], "label": "EQL"}
+
+Tất nhiên , tình trạng nóng lên là khó tránh khỏi nếu như mình chơi game trong thời gian dài hay quay video dưới trời nắng .
+
+Tổng kết
+
+Có thể nói Galaxy Note 10 Plus và iPhone 11 là hai mẫu máy trái ngược nhau hoàn toàn .
+{"subject": ["4&&Galaxy", "5&&Note", "6&&10", "7&&Plus"], "object": ["9&&iPhone", "10&&11"], "aspect": [], "predicate": ["15&&trái", "16&&ngược", "17&&nhau", "18&&hoàn", "19&&toàn"], "label": "DIF"}
+
+Chúng gần như chẳng có điểm nào thực sự giống nhau cả .
+{"subject": ["1&&Chúng"], "object": [], "aspect": [], "predicate": ["2&&gần", "3&&như", "4&&chẳng", "5&&có", "6&&điểm", "7&&nào", "8&&thực", "9&&sự", "10&&giống", "11&&nhau"], "label": "EQL"}
+
+Với iPhone 11 , nó sẽ là lựa chọn cho các bạn cần pin trâu , hiệu năng tốt và camera ổn định trong phân khúc giá .
+
+Trong khi đó , Note 10 Plus là lựa chọn cho những ai cần màn hình to đẹp , thiết kế sang trọng cùng những công nghệ độc quyền của Samsung như S-Pen , Samsung Dex hay Samsung Pay . "
+

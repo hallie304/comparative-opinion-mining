@@ -1,0 +1,120 @@
+Title : Apple iPhone 11 và Asus ROG Phone II : Đâu là gu của bạn ?
+
+iPhone 11 Và ROG Phone II đều là những mẫu máy xuất sắc cho các anh em mê game mobile .
+
+Vậy với chênh lệch khoảng 600 nghìn đồng , anh em chọn mẫu máy nào ?
+
+Thiết kế và màn hình hiển thị :
+
+iPhone 11 sử dụng màn hình IPS LCD với độ phân giải 1792 × 828 pixel trên kích thước 6.1inch với thiết kế tai thỏ và phần viền 2 bên mỏng hơn phần “ cằm ” ở phía dưới .
+{"subject": ["1&&iPhone", "2&&11"], "object": ["36&&”"], "aspect": ["5&&màn", "6&&hình"], "predicate": ["31&&mỏng", "32&&hơn"], "label": "COM+"}
+{"subject": ["1&&iPhone", "2&&11"], "object": ["36&&”"], "aspect": ["10&&độ"], "predicate": ["31&&mỏng", "32&&hơn"], "label": "COM+"}
+{"subject": ["1&&iPhone", "2&&11"], "object": ["36&&”"], "aspect": ["33&&phần", "34&&“", "35&&cằm"], "predicate": ["31&&mỏng", "32&&hơn"], "label": "COM+"}
+
+Dòng iPhone 11 vẫn giữ màn hình tai thỏ như các dòng iphone X , Xs hay Xs Max .
+
+Mỏng nhẹ và đa dạng về màu sắc vẫn là ưu điểm của iPhone 11 khi so với ROG Phone II .
+{"subject": ["14&&iPhone", "15&&11"], "object": ["19&&ROG", "20&&Phone", "21&&II"], "aspect": ["7&&màu", "8&&sắc"], "predicate": ["1&&Mỏng", "2&&nhẹ", "3&&và", "4&&đa", "5&&dạng"], "label": "COM+"}
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+des :
+
+hinh anh 1
+
+des :
+
+ROG Phone II đã được Asus trang bị màn hình có tần số quét lên tới 120Hz , tức là những hiệu ứng chuyển cảnh trong game sẽ mượt mà hơn , tốc độ làm tươi được tăng lên , game thủ từ đó sẽ xử lý được những pha tình huống trong game dễ dàng hơn .
+{"subject": ["1&&ROG", "2&&Phone", "3&&II"], "object": [], "aspect": ["21&&những", "22&&hiệu", "23&&ứng", "24&&chuyển", "25&&cảnh", "26&&trong", "27&&game"], "predicate": ["31&&hơn"], "label": "COM+"}
+{"subject": ["1&&ROG", "2&&Phone", "3&&II"], "object": [], "aspect": ["21&&những", "22&&hiệu", "23&&ứng", "24&&chuyển", "25&&cảnh", "26&&trong", "27&&game"], "predicate": ["55&&dễ", "56&&dàng"], "label": "COM+"}
+
+Ngoài màn hình tần số 120Hz , những thông số khác về màn hình của Asus ROG Phone II cũng thuộc dạng “ đấg ao ước ” đối với nhiều anh em game thủ : Màn hình 6.59 inch được trang bị tấm nền AMOLED cùng với độ phân giải FullHD + với 1080 x 2340 pixels cho độ tương phản cao , màu sắc tươi , bắt mắt giúp cho trải nghiệm hiển thị của người dùng , nhất là đối với anh em đam mê chơi game .
+{"subject": ["16&&Asus", "17&&ROG", "18&&Phone", "19&&II"], "object": [], "aspect": ["8&&những", "9&&thông", "10&&số", "11&&khác"], "predicate": ["21&&thuộc", "22&&dạng", "23&&“", "24&&đấg", "25&&ao", "26&&ước", "27&&”"], "label": "EQL"}
+{"subject": ["16&&Asus", "17&&ROG", "18&&Phone", "19&&II"], "object": [], "aspect": ["13&&màn", "14&&hình"], "predicate": ["21&&thuộc", "22&&dạng", "23&&“", "24&&đấg", "25&&ao", "26&&ước", "27&&”"], "label": "SUP+"}
+
+Đối thủ ROG Phone II lại mang lên mình thiết kế đầy mạnh mẽ , đậm chất game thủ với màu đen chủ đạo và các góc cạnh ở lưng máy , thể hiện sự quyết đoán và mạnh mẽ .
+
+ASUS đã trang bị cho ROG Phone II hệ thống tản nhiệt GameCool II với thiết kế buồng hơi 3D thế hệ mới với nguyên lý hoạt động tương tự như buồng hơi của những bộ tản nhiệt khí cao cấp dành cho CPU trên PC .
+{"subject": ["6&&ROG", "7&&Phone", "8&&II"], "object": ["35&&những", "36&&bộ", "37&&tản", "38&&nhiệt", "39&&khí", "40&&cao", "41&&cấp", "42&&dành", "43&&cho", "44&&CPU", "45&&trên", "46&&PC"], "aspect": ["18&&buồng", "19&&hơi"], "predicate": ["29&&tương", "30&&tự"], "label": "EQL"}
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+des :
+
+hinh anh 2
+
+des :
+
+2 : Các phiên bản dung lượng bộ nhớ :
+
+iPhone 11 được bán ra cùng với 3 phiên bản bộ nhớ là 64Gb , 128GB , 256GB .
+
+Tuy nhiên phiên bản bộ nhớ thấp nhất trên Asus ROG Phone II đã là 512GB , gấp đôi phiên bản cao cấp nhất trên iPhone 11 .
+{"subject": ["10&&Asus", "11&&ROG", "12&&Phone", "13&&II"], "object": ["26&&iPhone", "27&&11"], "aspect": ["3&&phiên", "4&&bản", "5&&bộ", "6&&nhớ"], "predicate": ["18&&gấp", "19&&đôi"], "label": "COM+"}
+
+Ngoài ra máy còn có phiên bản bộ nhớ 1TB giúp anh em game thủ thoải mái lưu trữ game không phải lo nghĩ .
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+des :
+
+hinh anh 4
+
+des :
+
+3 : Vi xử lí :
+
+Một trong những điểm đáng chú ý trên iPhone 11 chính là chip xử lý Apple A13 Bionic cung cấp hiệu năng ấn tượng cho mọi tác vụ và có CPU cùng GPU nhanh hơn tới 20% so với A12 vốn đã rất mạnh mẽ .
+{"subject": ["9&&iPhone", "10&&11"], "object": ["40&&A12"], "aspect": ["31&&CPU", "32&&cùng", "33&&GPU"], "predicate": ["34&&nhanh", "35&&hơn", "36&&tới", "37&&20%"], "label": "COM+"}
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+des :
+
+hinh anh 5
+
+des :
+
+Trong khi đó , ROG Phone II được trang bị chip Qualcomm Snapdragon 855 + cùng với chip đồ họa Adreno 640 , đảm bảo trải nghiệm của bạn khi chơi các tựa game yêu cầu cấu hình cao .
+
+So với Apple A13 thì Snapdragon 855 + cho các trải nghiệm gaming không hề thua kém .
+{"subject": ["6&&Snapdragon", "7&&855", "8&&+"], "object": ["3&&Apple", "4&&A13"], "aspect": ["11&&trải", "12&&nghiệm", "13&&gaming"], "predicate": ["14&&không", "15&&hề", "16&&thua", "17&&kém"], "label": "EQL"}
+
+Tuy nhiên Apple iPhone lại nhỉnh hơn ở phần mềm khi iOS tối ưu rất tốt cho các tựa game .
+
+Điều này đã được Asus cải thiện bằng bộ công cụ chơi game dành riêng cho ROG Phone II đi kèm với khả năng tùy biến các hệ thống phần cứng để hỗ trợ việc chơi game như hệ thống tản nhiệt , nút bấm …
+
+4 .
+
+Pin :
+
+Trên chiếc iPhone 11 , Apple tích hợp pin với dung lượng 3110mAh . iPhone 11 còn có khả năng sạc nhanh tới 50% trong 30 phút với bộ chuyển đổi 18W trở lên và hỗ trợ sạc không dây chuẩn Qi .
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+des :
+
+hinh anh 7
+
+des :
+
+Trong khi đó ROG Phone II là một smartphone chuyên về game nên được được trang bị viên pin lớn lên tới 6000mAh , kèm theo đó là chuẩn sạc nhanh Quick Charge 4.0 , củ sạc nhanh 30W đi kèm trong hộp giúp bạn thỏa sức cày game mà không lo lắng về pin của máy .
+
+src :
+
+alt : cung phan khuc gia nen chon iphone 11 hay rog phone 2 de thoa man dam me game ?
+
+hinh anh 8
+
+des :
+

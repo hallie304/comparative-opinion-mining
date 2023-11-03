@@ -1,0 +1,164 @@
+title : So sánh OPPO Reno5 và Samsung Galaxy A71 - Ai là vua tầm trung ?
+
+Bạn đang phân vân về việc lựa chọn một chiếc điện thoại với phân khúc tầm nhưng biết nên lựa chọn sản phẩm ở hãng nào .
+
+Bài viết dưới đây sẽ là một gợi ý cho bạn về hai chiếc điện thoại OPPO Reno5 và Samsung Galaxy A71 đang nhiều người yêu thích bởi mức giá và chất lượng của nó .
+
+Hãy cùng tìm hiểu xem hai chiếc điện thoại này có gì đặc biệt nhé !
+
+1 .
+
+Tổng quan về OPPO Reno 5
+
+OPPO Reno5 với thiết kế tổng thể nguyên khối vô cùng rắn chắc và bo cong mềm mại ở 4 góc , mang đến người dùng cảm giác cầm nắm thoải mái nhất .
+
+Sở hữu 2 phiên bản màu sắc một cách tối giản cho người dùng lựa chọn là : Màu bạc và đen.Trong đó , lớp vỏ của màu bạc được phủ kết hợp giữa lớp kính Reno Glow và lớp nano Picasus cho sắc ánh kim cương trên thân máy , màu đen thì thanh lịch và đơn giản .
+
+alt : OPPO Reno5 với phiên bản màu sắc bắt mắt
+
+des : OPPO Reno5 với phiên bản màu sắc bắt mắt
+
+Màn hình được trang bị tấm nền AMOLED mang khả năng tái tạo màu sắc tốt , hình ảnh sắc nét và rực rỡ , ngoài ra còn tiết kiệm điện năng đáng kể .
+
+Công nghệ màn hình cao cấp sẽ giúp cho người dùng có được những trải nghiệm tuyệt vời ngay khi nhất khi sử dụng
+
+Đặc biệt , còn có hỗ trợ của công nghệ sạc siêu nhanh SuperVOOC lên đến 65 W . Sạc đầy 60% pin chỉ trong 15 phút , đầy 100% pin chỉ trong 35 phút cùng với chế độ tiết kiệm pin giúp kéo dài thời gian sử dụng cho bạn thả ga sử dụng mà không bị gián đoạn .
+
+2 .
+
+Tổng quan Samsung Galaxy A71
+
+Galaxy A71 sở hữu màn hình tràn viền Infinity-O với rãnh camera được đặt chính giữa .
+
+Phần rãnh camera được thiết kế tinh tế làm rất nhỏ , ít gây chú ý , cho trải nghiệm hình ảnh thoải mái và ít bị phân tâm hơn đây là một điểm dành cho điện thoại .
+{"subject": [], "object": [], "aspect": ["1&&Phần", "2&&rãnh", "3&&camera"], "predicate": ["26&&ít", "27&&bị", "28&&phân", "29&&tâm", "30&&hơn"], "label": "COM+"}
+
+alt : Samsung Galaxy A71 thoải mái trải nghiệm đã mắt với kích thước lớn .
+
+des : Samsung Galaxy A71 thoải mái trải nghiệm đã mắt với kích thước lớn .
+
+Điện thoại này được trang bị hệ thống 4 camera sau với sự xuất hiện của camera Macro chụp cận cảnh đột phá mang lại những thước hình ưng ý đến người dùng .
+
+3 .
+
+So sánh OPPO Reno5 và Samsung Galaxy A71
+
+Thiết kế
+
+Về ngoại hình , tuy hai máy khác nhau về hãng nhưng cả hai đều có một điểm chung về thiết kế trẻ trung , năng động toát lên vẻ sang trọng và thời thượng .
+{"subject": ["6&&hai"], "object": [], "aspect": ["3&&hình"], "predicate": ["16&&có"], "label": "EQL"}
+{"subject": ["6&&hai"], "object": [], "aspect": ["11&&hãng"], "predicate": ["8&&khác", "9&&nhau"], "label": "EQL"}
+{"subject": ["6&&hai"], "object": [], "aspect": ["11&&hãng"], "predicate": ["16&&có"], "label": "EQL"}
+{"subject": ["13&&cả"], "object": ["13&&cả"], "aspect": ["3&&hình"], "predicate": ["8&&khác", "9&&nhau"], "label": "EQL"}
+{"subject": ["13&&cả"], "object": ["13&&cả"], "aspect": ["3&&hình"], "predicate": ["16&&có"], "label": "EQL"}
+{"subject": ["13&&cả"], "object": ["13&&cả"], "aspect": ["11&&hãng"], "predicate": ["8&&khác", "9&&nhau"], "label": "EQL"}
+{"subject": ["13&&cả"], "object": ["13&&cả"], "aspect": ["11&&hãng"], "predicate": ["16&&có"], "label": "EQL"}
+
+Cả hai đều được thiết kế tổng thể nguyên khôi vô cùng chắc chắn , bo cong mềm mại 4 góc tạo cảm giác thoải mái khi cầm nắm điện thoại .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["5&&thiết", "6&&kế", "7&&tổng", "8&&thể", "9&&nguyên", "10&&khôi", "11&&vô", "12&&cùng", "13&&chắc", "14&&chắn"], "predicate": ["3&&đều", "4&&được"], "label": "EQL"}
+
+alt : Thiết kế khá tương đồng của OPPO Reno5 & Galaxy A71
+
+des : Thiết kế khá tương đồng của OPPO Reno5 & Galaxy A71
+
+Bên cạnh đó , hai máy cũng có những thiết kế khác biệt tạo nên nét đặc trưng riêng đối với OPPO Reno5 khung viền được làm bằng kim loại , mặt lưng có hiệu ứng đổi màu theo ánh nhìn cực kì bắt mắt , camera trước nằm ở góc trái màn hình .
+{"subject": ["22&&OPPO", "23&&Reno5"], "object": [], "aspect": [], "predicate": ["12&&khác", "13&&biệt"], "label": "DIF"}
+
+Còn Samsung Galaxy A71 khung viên được làm bằng nhựa , có mặt lưng bóng với các đường cắt tạo thành các ô màu có sắc độ khác nhau , camera trước của A71 ở chính giữa trông cân đối hơn .
+{"subject": ["2&&Samsung", "3&&Galaxy", "4&&A71"], "object": [], "aspect": ["31&&camera", "32&&trước"], "predicate": ["39&&cân", "40&&đối", "41&&hơn"], "label": "COM+"}
+
+Camera
+
+Cả OPPO Reno5 và Galaxy A71 đều có 4 camera sau với thiết lập cũng tương đồng , bao gồm 1 camera chính , 1 camera góc siêu rộng , 1 camera macro và 1 cảm biến đo chiều sâu .
+{"subject": ["2&&OPPO", "3&&Reno5"], "object": ["5&&Galaxy", "6&&A71"], "aspect": ["13&&thiết", "14&&lập"], "predicate": ["15&&cũng", "16&&tương", "17&&đồng"], "label": "EQL"}
+
+Hai máy đều có camera chính 64MP với kích thước cảm biến gần như tương đương nhau , tuy nhiên OPPO Reno5 có khẩu độ lớn hơn một chút ( f / 1.7 còn A71 là f / 1.8 ) .
+{"subject": ["21&&OPPO", "22&&Reno5"], "object": [], "aspect": ["9&&kích", "10&&thước", "11&&cảm", "12&&biến"], "predicate": ["13&&gần", "14&&như", "15&&tương", "16&&đương", "17&&nhau"], "label": "EQL"}
+
+alt : Camera OPPO Reno5 xứng danh nhiếp ảnh gia thời thượng
+
+des : Camera OPPO Reno5 xứng danh nhiếp ảnh gia thời thượng
+
+Nhưng Galaxy A71 lại có lợi thế khá nhiều nhờ độ phân giải cao hơn đáng kể .
+{"subject": ["2&&Galaxy", "3&&A71"], "object": [], "aspect": ["11&&độ", "12&&phân", "13&&giải"], "predicate": ["14&&cao", "15&&hơn", "16&&đáng", "17&&kể"], "label": "COM+"}
+
+Cụ thể , camera siêu rộng của Reno5 là 8MP , góc 119 độ , còn Galaxy A71 có camera siêu rộng lên đến 12MP và góc chụp cũng cao hơn – 123 độ giúp việc chụp ảnh trở nên chuyên nghiệp .
+{"subject": ["17&&Galaxy", "18&&A71"], "object": ["8&&Reno5"], "aspect": ["27&&góc", "28&&chụp"], "predicate": ["30&&cao", "31&&hơn"], "label": "COM+"}
+{"subject": ["17&&Galaxy", "18&&A71"], "object": ["8&&Reno5"], "aspect": ["37&&chụp", "38&&ảnh"], "predicate": ["30&&cao", "31&&hơn"], "label": "COM+"}
+
+Cấu hình
+
+Xét về cấu hình , không có quá nhiều sự khác biệt giữa bộ đôi OPPO Reno5 và Samsung Galaxy A71 .
+{"subject": ["16&&OPPO", "17&&Reno5"], "object": ["19&&Samsung", "20&&Galaxy", "21&&A71"], "aspect": ["3&&cấu", "4&&hình"], "predicate": ["6&&không", "7&&có", "8&&quá", "9&&nhiều", "10&&sự", "11&&khác", "12&&biệt"], "label": "EQL"}
+
+Trong đó , Galaxy A71 được trang bị bộ xử lý Qualcomm Snapdragon 730 với tốc độ 2 nhân 2.2 GHz & 6 nhân 1.8 GHz , còn Reno5 là Snapdragon 720G với tốc độ 1 nhân 2.4 GHz , 1 nhân 2.2 GHz & 6 nhân 1.8 GHz là một con chip ra sau tối ưu hơn cho việc chơi game .
+{"subject": ["29&&Reno5"], "object": [], "aspect": [], "predicate": ["56&&tối", "57&&ưu", "58&&hơn"], "label": "COM+"}
+
+alt : Cấu hình mạnh mẽ của Samsung A71 và OPPO Reno5
+
+des : Cấu hình mạnh mẽ của Samsung A71 và OPPO Reno5
+
+Còn về hiệu năng thực tế thì không có nhiều sự chênh lệch giữa hai bộ xử lý , SD730 sẽ mạnh hơn một chút ở điểm số CPU đa nhân , còn SD720G thì được tối ưu GPU hơn một chút để chơi game tốt hơn .
+{"subject": ["20&&SD730"], "object": [], "aspect": ["44&&chơi", "45&&game"], "predicate": ["9&&có", "10&&nhiều", "11&&sự"], "label": "EQL"}
+{"subject": ["34&&SD720G"], "object": [], "aspect": ["44&&chơi", "45&&game"], "predicate": ["9&&có", "10&&nhiều", "11&&sự"], "label": "EQL"}
+
+Nhưng nhìn chung cách biệt giữa các bài test chỉ vào khoảng 5 – 10% , không dễ để nhận ra trong sử dụng thực tế .
+
+Thời lượng sạc
+
+OPPO Reno5 được trang bị dung lượng pin 4,310 mAh , thì Galaxy A71 là 4,500 mAh có thời lượng pin tốt hơn một chút .
+{"subject": ["13&&Galaxy", "14&&A71"], "object": ["1&&OPPO", "2&&Reno5"], "aspect": ["19&&thời", "20&&lượng", "21&&pin"], "predicate": ["22&&tốt", "23&&hơn", "24&&một", "25&&chút"], "label": "COM+"}
+
+Nhưng bù lại OPPO Reno5 lại vượt trội hơn với tính năng sạc nhanh lên đến 50W , thời gian sạc đầy trong khoảng 50 phút .
+{"subject": ["4&&OPPO", "5&&Reno5"], "object": [], "aspect": [], "predicate": ["7&&vượt", "8&&trội", "9&&hơn"], "label": "COM+"}
+
+Còn Galaxy A71 dù có thời lượng pin lớn hơn một chút nhưng lại chỉ đi kèm công suất sạc 25W , thời gian sạc đầy khoảng 1.5 giờ .
+{"subject": ["2&&Galaxy", "3&&A71"], "object": [], "aspect": ["6&&thời", "7&&lượng", "8&&pin"], "predicate": ["9&&lớn", "10&&hơn", "11&&một", "12&&chút"], "label": "COM+"}
+
+Chính vì vậy , khi xét về yếu tố pin rõ ràng OPPO Reno5 chiếm lợi thế hơn .
+{"subject": ["13&&OPPO", "14&&Reno5"], "object": [], "aspect": ["8&&yếu", "9&&tố", "10&&pin"], "predicate": ["15&&chiếm", "16&&lợi", "17&&thế", "18&&hơn"], "label": "COM+"}
+
+alt : Tính năng sạc nhanh của OPPO Reno5 lên đến 5W
+
+des : Tính năng sạc nhanh của OPPO Reno5 lên đến 5W
+
+4 .
+
+Bảng so sánh
+
+5 .
+
+Nên mua OPPO Reno5 hay Samsung Galaxy A71 ?
+
+Với phân khúc tầm trung này thì cả 2 mẫu điện thoại OPPO Reno5 và Samsung Galaxy A71 này đều rất xứng đáng để mua bởi thiết kế đẹp đẹp mắt và trẻ trung , màn hình lớn , hiệu năng vượt trội đem lại trải nghiệm mượt mà , hệ thống 4 camera 64 MP chất lượng cao .
+
+Tuy nhiên nếu bạn là một người đam mê chụp ảnh muốn chụp ảnh góc rộng , chụp cận cảnh và mong muốn những bức ảnh của mình có thể trở nên chuyên nghiệp hơn thì chiếc Samsung Galaxy A71 sẽ là lựa chọn hoàn hảo với camera góc siêu rộng là 12MP và 2 Camera góc rộng 5MP .
+
+alt : Samsung Galaxy A71 sở hữu camera chuyên nghiệp
+
+des : Samsung Galaxy A71 sở hữu camera chuyên nghiệp
+
+Còn nếu như bạn thích có một chiếc điện thoại có màn hình hiển thị mượt hơn , sạc pin nhanh thì chiếc OPPO Reno5 sẽ là lựa chọn cực tốt bởi vì OPPO Reno5 vượt trội hơn với tính năng sạc nhanh lên đến 50W và có thể công nghệ tiết kiệm pin , còn Galaxy A71 chỉ có công suất sạc 25W như vậy bạn dụng có thể cân nhắc thêm về sự lựa chọn này .
+{"subject": ["24&&OPPO", "25&&Reno5"], "object": ["57&&Galaxy", "58&&A71"], "aspect": [], "predicate": ["36&&vượt", "37&&trội", "38&&hơn"], "label": "COM+"}
+{"subject": ["34&&OPPO"], "object": ["57&&Galaxy", "58&&A71"], "aspect": [], "predicate": ["36&&vượt", "37&&trội", "38&&hơn"], "label": "COM+"}
+
+alt : Thời lượng pin ấn tượng của Oppo Reno5
+
+des : Thời lượng pin ấn tượng của Oppo Reno5
+
+6 .
+
+alt : Chính sách bảo hành điện thoại tại TGDĐ
+
+des : Chính sách bảo hành điện thoại tại TGDĐ
+
+- Bảo hành chính hãng 1 năm tại các trung tâm bảo hành hãng .
+
+alt : Chính sách bảo hành điện thoại tại TGDĐ
+
+des : Chính sách bảo hành điện thoại tại TGDĐ
+
+Hi vọng qua những so sánh trên , các bạn có thể chọn được sản phẩm ứng ý , phù hợp nhu cầu sử dụng .
+
+Cám ơn bạn quan tâm và theo dõi hết bài viết này .
+

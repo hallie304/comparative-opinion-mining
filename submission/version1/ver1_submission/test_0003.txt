@@ -1,0 +1,259 @@
+Title : So sánh Samsung Galaxy S23 và iPhone 14 : Liệu Samsung có “ lật đổ ” được Apple ?
+
+alt : So sánh Samsung Galaxy S23 và iPhone 14 : Liệu Samsung có “ lật đổ ” được Apple ?
+
+des :
+
+Đầu năm 2023 , Samsung sẽ chính thức cho ra mắt siêu phẩm Galaxy S23 với thiết kế nổi trội cùng hiệu năng được nâng cấp rõ rệt .
+{"subject": ["14&&Galaxy", "15&&S23"], "object": [], "aspect": ["22&&hiệu", "23&&năng"], "predicate": ["25&&nâng", "26&&cấp", "27&&rõ", "28&&rệt"], "label": "COM+"}
+
+Ngay lập tức , chúng được đưa lên bàn cân so sánh với iPhone 14 ra mắt vào tháng 10 năm ngoái .
+{"subject": ["5&&chúng"], "object": ["14&&iPhone", "15&&14"], "aspect": [], "predicate": [], "label": "EQL"}
+
+Liệu ai sẽ giành chiến thắng trong cuộc so tài này ?
+
+Hãy cùng bài viết so sánh Samsung Galaxy S23 và iPhone 14 chi tiết tại đây .
+
+1 .
+
+Thiết kế tổng quan
+
+Đầu tiên , hãy cùng so sánh Samsung Galaxy S23 và iPhone 14 về mặt thiết kế .
+
+Samsung Galaxy S23 vẫn giữ nguyên kích thước vốn có từ thế hệ trước cùng với 4 cạnh bo góc mềm mại giúp người dùng khi cầm không bị cấn tay .
+
+Theo đó , thiết kế ở mặt trước vẫn giữ nguyên hình nốt ruồi quen thuộc và viền benzel cũng có một vài thay đổi nhỏ mà khi nhìn trông thuận mắt hơn .
+{"subject": [], "object": [], "aspect": ["18&&viền", "19&&benzel"], "predicate": ["31&&thuận", "32&&mắt", "33&&hơn"], "label": "COM+"}
+
+Tuy nhiên , ở mặt sau Samsung đã có sự đột phá cho chiếc điện thoại của mình .
+
+Cụm camera vẫn được sắp xếp theo hàng dọc thế nhưng phần module chứa chúng đã được nhà sản xuất quyết định loại bỏ .
+
+Có nghĩa là các ống kính trên sẽ trực tiếp đính trên bề mặt lưng .
+
+Vì vậy mà trông thiết bị có vẻ tối giản , liền mạch và hài hoà .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Thiết kế S23
+
+Điện thoại iPhone 14 đương nhiên chẳng hề chịu thua khi sở hữu vẻ ngoài vô cùng sang trọng và đẳng cấp .
+{"subject": ["1&&Điện", "2&&thoại", "3&&iPhone", "4&&14"], "object": [], "aspect": ["15&&ngoài"], "predicate": ["7&&chẳng", "8&&hề", "9&&chịu", "10&&thua"], "label": "SUP+"}
+
+Thiết bị vẫn giữ nguyên thiết kế quen thuộc với chiếc notch tai thỏ cùng các góc được bo cong càng làm tăng lên vẻ mềm mại nhưng vẫn giữ được nét riêng .
+
+Với kích thước là 146.7 × 71.5 × 7.8mm gọn gàng mà bất kì ai cầm lên đều thoải mái và dễ chịu .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Thiết kế iPhone 14
+
+Nếu xét về mặt thiết kế thì S23 hay iPhone 14 đều sở hữu một vẻ đẹp riêng tuỳ cảm nhận mỗi người .
+
+Màu sắc trên thiết bị cũng vô cùng đa dạng mà bạn có thể tuỳ ý chọn lựa .
+
+Với Samsung S23 là : Đen , Kem , Xanh và Hồng nhạt còn iPhone 14 sở hữu : Đen , Tím , Trắng , Xanh dương và Đỏ .
+
+2 .
+
+Kích thước và trọng lượng
+
+Tiếp theo , hãy cùng so sánh Samsung Galaxy S23 và iPhone 14 về kích thước cùng trọng lượng của chúng .
+
+Với Galaxy S23 , thiết bị này sở hữu kích thước là 146 x 70.6 x 7.6 mm , cùng trọng lượng 168g .
+
+Còn iPhone 14 là 146.7 × 71.5 × 7.8mm và nặng 174g .
+
+Nhìn chung về mặt kích thước thì cả hai sản phẩm đều có sự tương đồng , còn về trọng lượng thì chiếc điện thoại nhà Táo có vẻ nhỉnh hơn một chút .
+
+Tuy nhiên người dùng vẫn có thể cầm nắm nhẹ nhàng và thoải mái .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Kích thước và trọng lượng khi so sánh iPhone 14 và S23
+
+3 .
+
+Màn hình
+
+Khi so sánh Galaxy S23 và iPhone 14 thì chúng ta càng không thể bỏ qua điểm sáng về màn hình .
+{"subject": ["4&&Galaxy", "5&&S23"], "object": ["7&&iPhone", "8&&14"], "aspect": ["20&&màn", "21&&hình"], "predicate": ["17&&điểm", "18&&sáng"], "label": "SUP+"}
+
+Màn hình mà S23 sở hữu có kích thước là 6.1 inch – một con số không quá lớn nhưng vẫn đáp ứng tốt nhu cầu sử dụng của người dùng .
+
+Với độ phân giải ấn tượng 1080 x 2340 pixels FHD + cùng mật độ điểm ảnh 425ppi và độ sáng 1300nits .
+
+Điện thoại Samsung của bạn vẫn có thể hiển thị tốt ngay cả khi điều kiện ánh sáng bên ngoài mạnh hay yếu .
+
+Đặc biệt với tần số quét lên tới 120Hz sẽ giúp cho mọi thao tác chuyển động của người dùng lên màn hình trở nên nhạy và mượt mà hơn .
+{"subject": [], "object": [], "aspect": ["14&&thao", "15&&tác", "16&&chuyển", "17&&động"], "predicate": ["26&&nhạy", "27&&và", "28&&mượt", "29&&mà", "30&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["22&&màn", "23&&hình"], "predicate": ["26&&nhạy", "27&&và", "28&&mượt", "29&&mà", "30&&hơn"], "label": "COM+"}
+
+Không những vậy mà tấm nền Dynamic AMOLED 2X cũng được trang bị trên em này .
+
+Chúng sẽ đem lại khả năng hiển thị sắc nét và sống động đến từng chi tiết .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Màn hình S23
+
+Điện thoại iPhone 14 cũng sở hữu kích thước tương tự S23 là 6.1 inch với độ phân giải cao 1170 x 2532 pixels .
+{"subject": ["1&&Điện", "2&&thoại", "3&&iPhone", "4&&14"], "object": ["12&&S23"], "aspect": ["17&&độ", "18&&phân", "19&&giải"], "predicate": ["6&&sở", "7&&hữu"], "label": "EQL"}
+{"subject": ["1&&Điện", "2&&thoại", "3&&iPhone", "4&&14"], "object": ["12&&S23"], "aspect": ["17&&độ", "18&&phân", "19&&giải"], "predicate": ["10&&tương", "11&&tự"], "label": "EQL"}
+
+Ngoài ra , thương hiệu Apple còn tiếp tục trang bị cho thiết bị tấm nền Super Retina XDR OLED cùng hỗ trợ HDR10 và Dolby Vision .
+
+Từ đây , chúng sẽ mang đến không gian hiển thị hình ảnh sắc nét với chất lượng cực tốt .
+
+Độ sáng trên màn hình của điện thoại iPhone này là 1200nits nên chúng giúp người dùng có thể nhìn thấy rõ ràng nội dung dưới mọi điều kiện khác nhau .
+
+Tuy nhiên tần số quét chỉ có 60Hz không có gì khác biệt nhiều so với đời trước về cảm giác vuốt chạm .
+{"subject": [], "object": ["17&&đời", "18&&trước"], "aspect": ["4&&số", "5&&quét"], "predicate": ["9&&không", "10&&có", "11&&gì", "12&&khác", "13&&biệt", "14&&nhiều"], "label": "EQL"}
+{"subject": [], "object": ["17&&đời", "18&&trước"], "aspect": ["20&&cảm", "21&&giác", "22&&vuốt", "23&&chạm"], "predicate": ["9&&không", "10&&có", "11&&gì", "12&&khác", "13&&biệt", "14&&nhiều"], "label": "EQL"}
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Màn hình iPhone 14
+
+Tóm lại , cả hai thiết bị đều đem đến không gian trải nghiệm cực kỳ ấn tượng .
+{"subject": ["4&&cả", "5&&hai", "6&&thiết", "7&&bị"], "object": ["4&&cả", "5&&hai", "6&&thiết", "7&&bị"], "aspect": ["11&&không", "12&&gian", "13&&trải", "14&&nghiệm", "15&&cực", "16&&kỳ", "17&&ấn", "18&&tượng"], "predicate": ["8&&đều", "9&&đem", "10&&đến"], "label": "EQL"}
+
+Thế nhưng về tần số quét thì S23 nhỉnh hơn rất nhiều so với iPhone 14 .
+
+Nên theo tư vấn của mình , vào nhu cầu sử dụng mà bạn nên lựa ra sản phẩm phù hợp nhất cho bản thân .
+
+4 .
+
+Camera
+
+Điểm so sánh Samsung S23 và iPhone 14 tiếp theo chính là về camera .
+{"subject": ["4&&Samsung", "5&&S23"], "object": ["7&&iPhone", "8&&14", "9&&tiếp", "10&&theo"], "aspect": ["14&&camera"], "predicate": [], "label": "SUP+"}
+
+Samsung S23 được nâng cấp ở camera trước lên 12MP kết hợp với công nghệ AI xịn sò .
+
+Theo đó là camera chính có độ phân giải 50MP cùng camera góc siêu rộng 12MP và ống kính tele 10MP .
+
+Trong đó camera tele sẽ có khả năng zoom quang học 3x cho hình ảnh chất lượng hơn .
+{"subject": ["3&&camera", "4&&tele"], "object": [], "aspect": ["7&&khả", "8&&năng", "9&&zoom", "10&&quang", "11&&học", "12&&3x"], "predicate": ["16&&chất", "17&&lượng", "18&&hơn"], "label": "COM+"}
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Camera S23 ấn tượng
+
+iPhone 14 cũng không hề chịu thua khi camera chính của chúng sở hữu độ phân giải 12MP với khẩu độ f / 1.5 . Kèm theo đó là camera góc siêu rộng 12MP khẩu độ f / 2.4 chụp góc 120 độ hứa hẹn sẽ đem đến bức ảnh chụp tươi tắn , chi tiết đến bất ngờ .
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["9&&camera", "10&&chính"], "predicate": ["4&&không", "5&&hề", "6&&chịu", "7&&thua"], "label": "SUP+"}
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["9&&camera", "10&&chính"], "predicate": ["52&&tươi", "53&&tắn"], "label": "EQL"}
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["9&&camera", "10&&chính"], "predicate": ["55&&chi", "56&&tiết"], "label": "EQL"}
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["49&&bức"], "predicate": ["4&&không", "5&&hề", "6&&chịu", "7&&thua"], "label": "SUP+"}
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["49&&bức"], "predicate": ["52&&tươi", "53&&tắn"], "label": "EQL"}
+{"subject": [], "object": ["1&&iPhone", "2&&14"], "aspect": ["49&&bức"], "predicate": ["55&&chi", "56&&tiết"], "label": "EQL"}
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Camera iPhone 14 cũng đô không kém
+{"subject": ["3&&Camera", "4&&iPhone", "5&&14"], "object": [], "aspect": [], "predicate": ["7&&đô", "8&&không", "9&&kém"], "label": "EQL"}
+
+Nói chung về chất lượng camera trên em này đều là một chín , một mười .
+{"subject": ["8&&em", "9&&này"], "object": [], "aspect": ["4&&chất", "5&&lượng", "6&&camera"], "predicate": ["10&&đều", "11&&là", "12&&một", "13&&chín", "14&&,", "15&&một", "16&&mười"], "label": "EQL"}
+
+Cả iPhone 14 hay Samsung S23 đều mang đến chất lượng hình ảnh mượt mà và sắc nét cùng với độ sáng hài hoà nhất .
+{"subject": ["2&&iPhone", "3&&14"], "object": ["5&&Samsung", "6&&S23"], "aspect": ["21&&độ", "22&&sáng"], "predicate": ["23&&hài", "24&&hoà", "25&&nhất"], "label": "SUP+"}
+
+Tuy nhiên cũng tuỳ vào cảm nhận của mỗi người thì sẽ thấy chất lượng ảnh trên máy nào là đặc sắc và thu hút hơn .
+{"subject": ["18&&máy"], "object": [], "aspect": ["14&&chất", "15&&lượng", "16&&ảnh"], "predicate": ["21&&đặc", "22&&sắc", "23&&và", "24&&thu", "25&&hút", "26&&hơn"], "label": "COM+"}
+
+5 .
+
+Hiệu năng
+
+Chúng ta không thể bỏ quên phần hiệu năng khi so sánh Samsung Galaxy S23 và iPhone 14 .
+
+Theo như hãng công bố thì S23 được trang bị chip Snapdragon 8 Gen 2 mới ra mắt hiện nay .
+
+Chúng sẽ đem lại khả năng xử lý hình ảnh cao hơn so với Gen 1 là 25% , hiệu suất xử lý cao hơn 35% và tiết kiệm điện năng lên đến 40% .
+{"subject": ["1&&Chúng"], "object": ["15&&Gen", "16&&1"], "aspect": ["20&&hiệu", "21&&suất", "22&&xử", "23&&lý"], "predicate": ["11&&cao", "12&&hơn"], "label": "COM+"}
+{"subject": ["1&&Chúng"], "object": ["15&&Gen", "16&&1"], "aspect": ["20&&hiệu", "21&&suất", "22&&xử", "23&&lý"], "predicate": ["25&&hơn"], "label": "COM+"}
+{"subject": ["1&&Chúng"], "object": ["15&&Gen", "16&&1"], "aspect": ["28&&tiết", "29&&kiệm", "30&&điện", "31&&năng"], "predicate": ["11&&cao", "12&&hơn"], "label": "COM+"}
+{"subject": ["1&&Chúng"], "object": ["15&&Gen", "16&&1"], "aspect": ["28&&tiết", "29&&kiệm", "30&&điện", "31&&năng"], "predicate": ["25&&hơn"], "label": "COM+"}
+
+Ngoài ra , dung lượng RAM mà chúng sở hữu là 8GB đảm bảo cho thiết bị của bạn vận hành mượt mà .
+
+Cùng với đó là 2 tuỳ chọn bộ nhớ trong ROM 128GB và 256GB mang đến không gian lưu trữ rộng và thoải mái .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : Snapdragon 8 Gen 2
+
+Điện thoại iPhone 14 được thương hiệu Apple trang bị con chip A15 Bionic đem lại hiệu năng xử lý cực kỳ mạnh mẽ .
+
+Tiết kiệm năng lên đến 15% so với A14 Bionic trước đó cùng khả năng phản hồi cử chỉ , hoạt ảnh hay hoạt động với tốc độc cực nhanh .
+{"subject": [], "object": ["9&&A14", "10&&Bionic", "11&&trước", "12&&đó"], "aspect": ["1&&Tiết", "2&&kiệm", "3&&năng"], "predicate": [], "label": "COM+"}
+
+Dung lượng RAM mà chúng sở hữu là 6GB cùng 3 tuỳ chọn bộ nhớ trong là 128GB | 256GB | 512GB .
+
+Với dung lượng bộ nhớ này thì chúng hoàn toàn đáp ứng được nhu cầu sử dụng trung bình hoặc cao hơn của người dùng .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : A15 Bionic
+
+Cả hai con chip khủng đều được trang bị trên hai chiếc điện thoại này và chúng đều có thế mạnh riêng .
+{"subject": ["1&&Cả", "2&&hai", "3&&con", "4&&chip", "5&&khủng"], "object": ["12&&chiếc", "13&&điện", "14&&thoại"], "aspect": ["20&&thế", "21&&mạnh", "22&&riêng"], "predicate": ["6&&đều", "7&&được", "8&&trang", "9&&bị"], "label": "EQL"}
+
+Tuy nhiên về khả năng chơi game thì Snapdragon 8 Gen 2 đáp ứng ổn định hơn A15 Bionic bởi chúng được trang bị hệ thống tản nhiệt chất lượng .
+{"subject": ["9&&Snapdragon", "10&&8", "11&&Gen", "12&&2"], "object": ["18&&A15", "19&&Bionic"], "aspect": ["4&&khả", "5&&năng", "6&&chơi", "7&&game"], "predicate": ["15&&ổn", "16&&định", "17&&hơn"], "label": "COM+"}
+
+6 .
+
+Dung lượng pin và sạc nhanh
+
+Tiếp theo , hãy cùng chúng mình so sánh Samsung Galaxy S23 và iPhone 14 về dung lượng pin và sạc nhanh .
+
+Hiện tại , S23 được trang bị mức pin có dung lượng 3.900mAh . Tuy nhiên theo mình thấy đây là con số không ấn tượng cho lắm .
+
+Thế nhưng , công suất sạc nhanh đối với sạc có dây là 25W cùng sạc không dây 15W đã phần nào bù đắp được phần trên .
+
+Như vậy , người dùng sẽ tiết kiệm được khoảng thời gian trong lúc sạc pin .
+
+Riêng iPhone 14 sở hữu viên pin 3.279mAh . Đây vẫn là con số khá khiêm tốn nhưng bù lại chip A15 Bionic có khả năng tiết kiệm năng lượng tốt nên vẫn đáp ứng ổn nhu cầu sử dụng .
+
+Chúng cũng được hỗ trợ sạc nhanh 20W tuy nhiên tốc độ sẽ chậm hơn so với S23 .
+{"subject": ["1&&Chúng"], "object": ["18&&S23"], "aspect": ["11&&tốc", "12&&độ"], "predicate": ["14&&chậm", "15&&hơn"], "label": "COM-"}
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : So sánh iPhone 14 và Samsung Galaxy S23 về dung lượng pin và sạc nhanh
+
+7 .
+
+Hệ điều hành
+
+Cuối cùng sẽ là so sánh Samsung Galaxy S23 và iPhone 14 về hệ điều hành .
+
+Với iPhone 14 , thiết bị sẽ được trang bị hệ điều hành iOS 16 mới nhất với nhiều cải tiến thú vị .
+
+Còn với điện thoại Samsung S23 sẽ chạy trên hệ điều hành Android 13 với giao diện OneUI 5.0 mang đến nhiều trải nghiệm đặc sắc cho người dùng .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : So sánh iPhone 14 và Galaxy S23 về hệ điều hành
+
+8 .
+
+Giá bán khởi điểm
+
+So sánh S23 và iPhone 14 về giá bán khởi điểm cũng là một phần không thể thiếu .
+
+Hiện nay Samsung Galaxy S23 có giá khởi điểm cho bản 256GB là 24.990.000 VNĐ .
+
+alt : so sánh Samsung Galaxy S23 và iPhone 14
+
+des : So sánh iPhone 14 và Samsung S23 về giá bán khởi điểm
+
+Còn iPhone 14 có giá bán khởi điểm tương tự là 799USD .
+{"subject": ["2&&iPhone", "3&&14"], "object": [], "aspect": ["5&&giá", "6&&bán", "7&&khởi", "8&&điểm"], "predicate": ["9&&tương", "10&&tự"], "label": "EQL"}
+
+Hiện tại chúng đang được bán trên thị trường với phiên bản 128GB là 20.290 triệu đồng , bản 256GB là 22.990 triệu đồng và bản 512GB là 26.990 triệu đồng .
+
+Lưu ý : Giá bán của iPhone 14 sẽ thay đổi tuỳ theo biến động trên thị trường sau ngày 16 / 1 / 2023 .
+
