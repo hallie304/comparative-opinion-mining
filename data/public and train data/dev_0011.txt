@@ -1,0 +1,65 @@
+title: So sánh tốc độ sạc có dây trên Galaxy S23 series và dòng iPhone 14, Pixel 7, OnePlus 11	title : So sánh tốc độ sạc có dây trên Galaxy S23 series và dòng iPhone 14 , Pixel 7 , OnePlus 11
+
+Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào?	Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào ?
+
+Nếu bạn đang thắc mắc về khả năng sạc nhanh của Galaxy S23 series thì đừng bỏ qua bài viết này nhé!	Nếu bạn đang thắc mắc về khả năng sạc nhanh của Galaxy S23 series thì đừng bỏ qua bài viết này nhé !
+
+Đặc biệt là phiên bản Galaxy S23 Ultra được xem là một trong những điện thoại Android tốt nhất hiện nay.	Đặc biệt là phiên bản Galaxy S23 Ultra được xem là một trong những điện thoại Android tốt nhất hiện nay .
+
+Trên thị trường hiện nay có nhiều thiết bị cung cấp tốc độ sạc lên đến 100W.	Trên thị trường hiện nay có nhiều thiết bị cung cấp tốc độ sạc lên đến 100W .
+
+Tuy nhiên, Galaxy S23 Plus và Galaxy S23 Ultra chỉ được hỗ trợ sạc với công suất 45W ở mức trung bình.	Tuy nhiên , Galaxy S23 Plus và Galaxy S23 Ultra chỉ được hỗ trợ sạc với công suất 45W ở mức trung bình .
+
+Trong khi đó, phiên bản Galaxy S23 nhỏ gọn hơn hỗ trợ sạc có dây ở mức 25W.	Trong khi đó , phiên bản Galaxy S23 nhỏ gọn hơn hỗ trợ sạc có dây ở mức 25W .
+{"subject": ["5&&phiên", "6&&bản", "7&&Galaxy", "8&&S23"], "object": [], "aspect": [], "predicate": ["9&&nhỏ", "10&&gọn", "11&&hơn"], "label": "COM"}
+
+Hãy so sánh tốc độ sạc có dây của dòng Galaxy S23 với các đối thủ lớn nhất và người tiền nhiệm của chúng!	Hãy so sánh tốc độ sạc có dây của dòng Galaxy S23 với các đối thủ lớn nhất và người tiền nhiệm của chúng !
+
+So sánh sạc dòng Galaxy S23	So sánh sạc dòng Galaxy S23
+
+Đối với tất cả các thử nghiệm sạc pin thường được sử dụng bộ sạc đi kèm trong hộp của mỗi điện thoại hoặc bộ sạc do nhà sản xuất khuyên dùng khi không có phụ kiện nào như vậy đi kèm với thiết bị.	Đối với tất cả các thử nghiệm sạc pin thường được sử dụng bộ sạc đi kèm trong hộp của mỗi điện thoại hoặc bộ sạc do nhà sản xuất khuyên dùng khi không có phụ kiện nào như vậy đi kèm với thiết bị .
+
+Bộ sạc của bên thứ 3 sẽ không được áp dụng trong thử nghiệm này, hoặc bộ sạc không được hỗ trợ để kiểm tra tốc độ sạc trên bất kỳ điện thoại nào.	Bộ sạc của bên thứ 3 sẽ không được áp dụng trong thử nghiệm này , hoặc bộ sạc không được hỗ trợ để kiểm tra tốc độ sạc trên bất kỳ điện thoại nào .
+
+Vậy dòng Galaxy S23 sạc nhanh như thế nào?	Vậy dòng Galaxy S23 sạc nhanh như thế nào ?
+
+Trước hết, chúng ta hãy cùng tìm hiểu những giải pháp sạc mà thiết bị mang đến:	Trước hết , chúng ta hãy cùng tìm hiểu những giải pháp sạc mà thiết bị mang đến :
+
+alt: Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào?	alt : Tốc độ sạc nhanh có dây trên Galaxy S23 series như thế nào ?
+
+des:	des :
+
+Tốc độ sạc này giống với dòng Galaxy S22, vì vậy không có sự cải thiện nào về tốc độ sạc.	Tốc độ sạc này giống với dòng Galaxy S22 , vì vậy không có sự cải thiện nào về tốc độ sạc .
+{"subject": [], "object": ["7&&dòng", "8&&Galaxy", "9&&S22"], "aspect": ["1&&Tốc", "2&&độ", "3&&sạc", "4&&này"], "predicate": ["5&&giống"], "label": "EQL"}
+
+Khi khám phá các kết quả bên dưới, chúng ta chắc chắn có thể thấy rằng dòng Galaxy S23 sạc nhanh như dòng Galaxy S22, mất khoảng một giờ để sạc đầy mỗi chiếc Galaxy mới.	Khi khám phá các kết quả bên dưới , chúng ta chắc chắn có thể thấy rằng dòng Galaxy S23 sạc nhanh như dòng Galaxy S22 , mất khoảng một giờ để sạc đầy mỗi chiếc Galaxy mới .
+{"subject": ["19&&Galaxy", "20&&S23"], "object": ["25&&Galaxy", "26&&S22"], "aspect": ["21&&sạc"], "predicate": ["22&&nhanh", "23&&như"], "label": "EQL"}
+
+Trong khi đó, OnePlus 11 với bộ sạc 80W có thể sạc đầy trong 32 phút, khiến nó trở thành một trong những điện thoại sạc nhanh nhất hiện có ở Mỹ.	Trong khi đó , OnePlus 11 với bộ sạc 80W có thể sạc đầy trong 32 phút , khiến nó trở thành một trong những điện thoại sạc nhanh nhất hiện có ở Mỹ .
+{"subject": ["20&&nó"], "object": [], "aspect": ["28&&sạc"], "predicate": ["29&&nhanh", "30&&nhất", "31&&hiện", "32&&có", "33&&ở", "34&&Mỹ"], "label": "SUP+"}
+
+Ở các thị trường khác bạn sẽ nhận được  bộ sạc 100W, cho phép OnePlus 11 có thể sạc đầy trong vài phút.	Ở các thị trường khác bạn sẽ nhận được bộ sạc 100W , cho phép OnePlus 11 có thể sạc đầy trong vài phút .
+
+Tất nhiên, Galaxy S mới sẽ có lợi thế hơn khi so sánh với iPhone 14 Pro và iPhone 14 Pro Max của Apple, hỗ trợ sạc có dây lên đến 27W và mất nhiều thời gian hơn từ 30 đến 40 phút để được sạc đầy.	Tất nhiên , Galaxy S mới sẽ có lợi thế hơn khi so sánh với iPhone 14 Pro và iPhone 14 Pro Max của Apple , hỗ trợ sạc có dây lên đến 27W và mất nhiều thời gian hơn từ 30 đến 40 phút để được sạc đầy .
+{"subject": ["4&&Galaxy", "5&&S", "6&&mới"], "object": ["16&&iPhone", "17&&14", "18&&Pro"], "aspect": ["29&&sạc", "30&&có", "31&&dây"], "predicate": ["9&&lợi", "10&&thế", "11&&hơn"], "label": "COM+"}
+{"subject": ["4&&Galaxy", "5&&S", "6&&mới"], "object": ["20&&iPhone", "21&&14", "22&&Pro"], "aspect": ["29&&sạc", "30&&có", "31&&dây"], "predicate": ["9&&lợi", "10&&thế", "11&&hơn"], "label": "COM+"}
+
+Google Pixel 7 và Pixel 7 Pro hỗ trợ sạc có dây tương ứng với tốc độ 20W và 23W.	Google Pixel 7 và Pixel 7 Pro hỗ trợ sạc có dây tương ứng với tốc độ 20W và 23W .
+
+Điện thoại mới nhất của Google được sạc đầy trong khoảng một giờ bốn mươi phút, tốc độ khá chậm.	Điện thoại mới nhất của Google được sạc đầy trong khoảng một giờ bốn mươi phút , tốc độ khá chậm .
+
+Trong 30 phút các thiết bị sạc được bao nhiêu %?	Trong 30 phút các thiết bị sạc được bao nhiêu % ?
+
+Trong khoảng nửa giờ thì các thiết bị nạp được bao nhiêu % pin.	Trong khoảng nửa giờ thì các thiết bị nạp được bao nhiêu % pin .
+
+Mặc dù không phải là nhanh nhất mà chúng ta từng thấy, nhưng điện thoại hàng đầu mới nhất của Samsung sạc tương đối nhanh so với các đối thủ.	Mặc dù không phải là nhanh nhất mà chúng ta từng thấy , nhưng điện thoại hàng đầu mới nhất của Samsung sạc tương đối nhanh so với các đối thủ .
+{"subject": ["15&&điện", "16&&thoại", "17&&hàng", "18&&đầu", "19&&mới", "20&&nhất", "21&&của", "22&&Samsung"], "object": ["29&&các", "30&&đối", "31&&thủ"], "aspect": ["23&&sạc"], "predicate": ["24&&tương", "25&&đối", "26&&nhanh", "27&&so", "28&&với"], "label": "COM+"}
+
+Tất nhiên, chúng ta đang nói về thời gian sạc với bộ sạc 45W nhanh hơn trên Galaxy S23+ và Galaxy S23 Ultra.	Tất nhiên , chúng ta đang nói về thời gian sạc với bộ sạc 45W nhanh hơn trên Galaxy S23 + và Galaxy S23 Ultra .
+{"subject": [], "object": ["19&&Galaxy", "20&&S23", "21&&+"], "aspect": ["9&&thời", "10&&gian", "11&&sạc"], "predicate": ["16&&nhanh", "17&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["23&&Galaxy", "24&&S23", "25&&Ultra"], "aspect": ["9&&thời", "10&&gian", "11&&sạc"], "predicate": ["16&&nhanh", "17&&hơn"], "label": "COM+"}
+
+Với một lần sạc nhanh trong 30 phút sẽ cung cấp cho bạn hơn 60% năng lượng, có thể dễ dàng kéo dài nhiều giờ sử dụng của bạn.	Với một lần sạc nhanh trong 30 phút sẽ cung cấp cho bạn hơn 60% năng lượng , có thể dễ dàng kéo dài nhiều giờ sử dụng của bạn .
+
+alt: Trong 30 phút các thiết bị sạc được bao nhiêu %?	alt : Trong 30 phút các thiết bị sạc được bao nhiêu % ?
+

@@ -1,0 +1,137 @@
+title: Galaxy S10 5G và Galaxy Note 9: Smartphone nào đáng mua trong tầm giá 6 triệu?	title : Galaxy S10 5G và Galaxy Note 9 : Smartphone nào đáng mua trong tầm giá 6 triệu ?
+
+Galaxy S10 5G và Galaxy Note 9 đều là những thiết bị hàng đầu một thời của Samsung.	Galaxy S10 5G và Galaxy Note 9 đều là những thiết bị hàng đầu một thời của Samsung .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["5&&Galaxy", "6&&Note", "7&&9"], "aspect": [], "predicate": ["8&&đều", "9&&là", "10&&những", "11&&thiết", "12&&bị", "13&&hàng", "14&&đầu", "15&&một", "16&&thời", "17&&của", "18&&Samsung"], "label": "EQL"}
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": [], "aspect": [], "predicate": ["13&&hàng", "14&&đầu", "15&&một", "16&&thời", "17&&của", "18&&Samsung"], "label": "SUP+"}
+{"subject": ["5&&Galaxy", "6&&Note", "7&&9"], "object": [], "aspect": [], "predicate": ["13&&hàng", "14&&đầu", "15&&một", "16&&thời", "17&&của", "18&&Samsung"], "label": "SUP+"}
+
+Việc cả 2 đều rơi vào phân khúc giá 6 triệu khiến nhiều người không biết nên mua Galaxy S10 5G hay Galaxy Note 9.	Việc cả 2 đều rơi vào phân khúc giá 6 triệu khiến nhiều người không biết nên mua Galaxy S10 5G hay Galaxy Note 9 .
+
+Thiết kế sang trọng từ Samsung	Thiết kế sang trọng từ Samsung
+
+Galaxy S10 5G và Galaxy Note 9 đều là những sản phẩm hàng đầu của Samsung, chính vì vậy đều sở hữu diện mạo khá tinh tế, sang trọng.	Galaxy S10 5G và Galaxy Note 9 đều là những sản phẩm hàng đầu của Samsung , chính vì vậy đều sở hữu diện mạo khá tinh tế , sang trọng .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["5&&Galaxy", "6&&Note", "7&&9"], "aspect": [], "predicate": ["8&&đều", "9&&là", "10&&những", "11&&sản", "12&&phẩm", "13&&hàng", "14&&đầu", "15&&của", "16&&Samsung"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["24&&diện", "25&&mạo", "26&&khá", "27&&tinh", "28&&tế", "29&&,", "30&&sang", "31&&trọng"], "predicate": ["21&&đều", "22&&sở", "23&&hữu"], "label": "EQL"}
+
+Hai sản phẩm này đều được sử dụng khung kim loại nguyên khối mang đến sự mạnh mẽ và bền bỉ.	Hai sản phẩm này đều được sử dụng khung kim loại nguyên khối mang đến sự mạnh mẽ và bền bỉ .
+{"subject": ["1&&Hai", "2&&sản", "3&&phẩm", "4&&này"], "object": ["1&&Hai", "2&&sản", "3&&phẩm", "4&&này"], "aspect": ["9&&khung", "10&&kim", "11&&loại", "12&&nguyên", "13&&khối"], "predicate": ["5&&đều", "6&&được", "7&&sử", "8&&dụng"], "label": "EQL"}
+
+alt: Galaxy Note 9 được đánh giá cao về thiết kế nam tính	alt : Galaxy Note 9 được đánh giá cao về thiết kế nam tính
+
+des:	des :
+
+Galaxy Note 9 được đánh giá cao hơn khi có thiết kế nam tính, kích thước của sản phẩm này dày hơn.	Galaxy Note 9 được đánh giá cao hơn khi có thiết kế nam tính , kích thước của sản phẩm này dày hơn .
+{"subject": ["1&&Galaxy", "2&&Note", "3&&9"], "object": [], "aspect": ["5&&đánh", "6&&giá"], "predicate": ["7&&cao", "8&&hơn"], "label": "COM+"}
+{"subject": ["19&&sản", "20&&phẩm", "21&&này"], "object": [], "aspect": ["16&&kích", "17&&thước"], "predicate": ["22&&dày", "23&&hơn"], "label": "COM+"}
+
+Trong khi đó, ngoại hình Galaxy S10 5G lại hướng đến phong cách thiết kế mỏng nhẹ.	Trong khi đó , ngoại hình Galaxy S10 5G lại hướng đến phong cách thiết kế mỏng nhẹ .
+
+Những đường viền của Galaxy S10 5G được bo mềm mại, tạo nên sự uyển chuyển trong từng đường nét của sản phẩm.	Những đường viền của Galaxy S10 5G được bo mềm mại , tạo nên sự uyển chuyển trong từng đường nét của sản phẩm .
+
+alt: Galaxy S10 5G có thiết kế mỏng nhẹ	alt : Galaxy S10 5G có thiết kế mỏng nhẹ
+
+des:	des :
+
+Galaxy S10 5G và Galaxy Note 9 đều có những thiết kế riêng biệt.	Galaxy S10 5G và Galaxy Note 9 đều có những thiết kế riêng biệt .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["5&&Galaxy", "6&&Note", "7&&9"], "aspect": ["10&&những", "11&&thiết", "12&&kế"], "predicate": ["13&&riêng", "14&&biệt"], "label": "DIF"}
+
+Việc lựa chọn sẽ phụ thuộc vào thị hiếu thẩm mỹ của người dùng.	Việc lựa chọn sẽ phụ thuộc vào thị hiếu thẩm mỹ của người dùng .
+
+Đây cũng là sự phong phú trên các dòng sản phẩm của Samsung giúp người dùng dễ dàng nhận diện.	Đây cũng là sự phong phú trên các dòng sản phẩm của Samsung giúp người dùng dễ dàng nhận diện .
+
+Chất lượng màn hình	Chất lượng màn hình
+
+Galaxy S10 5G và Galaxy Note 9 đều được Samsung áp dụng màn hình 2K+.	Galaxy S10 5G và Galaxy Note 9 đều được Samsung áp dụng màn hình 2K + .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["5&&Galaxy", "6&&Note", "7&&9"], "aspect": ["13&&màn", "14&&hình", "15&&2K", "16&&+"], "predicate": ["8&&đều", "9&&được", "10&&Samsung", "11&&áp", "12&&dụng"], "label": "EQL"}
+
+Ưu điểm của màn hình này đó chính là mang đến chất lượng tuyệt vời khi giải trí, làm việc…Theo đánh giá thực tế, Galaxy S10 5G có chất lượng điểm ảnh trên màn hình nổi bật hơn so với người anh em của mình.	Ưu điểm của màn hình này đó chính là mang đến chất lượng tuyệt vời khi giải trí , làm việc … Theo đánh giá thực tế , Galaxy S10 5G có chất lượng điểm ảnh trên màn hình nổi bật hơn so với người anh em của mình .
+{"subject": ["29&&Galaxy", "30&&S10", "31&&5G"], "object": ["45&&người", "46&&anh", "47&&em", "48&&của", "49&&mình"], "aspect": ["33&&chất", "34&&lượng", "35&&điểm", "36&&ảnh", "37&&trên", "38&&màn", "39&&hình"], "predicate": ["40&&nổi", "41&&bật", "42&&hơn"], "label": "COM+"}
+
+Nguyên nhân được xác định là do trên chiếc Galaxy S10 5G, Samsung đã tích hợp thêm màn hình Dynamic AMOLED cao cấp.	Nguyên nhân được xác định là do trên chiếc Galaxy S10 5G , Samsung đã tích hợp thêm màn hình Dynamic AMOLED cao cấp .
+
+Ngoài ra, sản phẩm này còn có mặt kính cường lực Corning Gorilla Glass 6 mang đến độ bền hơn so với bản tiền nhiệm.	Ngoài ra , sản phẩm này còn có mặt kính cường lực Corning Gorilla Glass 6 mang đến độ bền hơn so với bản tiền nhiệm .
+{"subject": ["4&&sản", "5&&phẩm", "6&&này"], "object": ["24&&bản", "25&&tiền", "26&&nhiệm"], "aspect": ["19&&độ", "20&&bền"], "predicate": ["21&&hơn"], "label": "COM+"}
+
+alt: Màn hình Galaxy S10 5G có chất lượng điểm ảnh tốt hơn	alt : Màn hình Galaxy S10 5G có chất lượng điểm ảnh tốt hơn
+
+des:	des :
+
+Galaxy Note 9 là một trong những sản phẩm được khá nhiều khách hàng đánh giá cao khi có thiết kế full màn hình.	Galaxy Note 9 là một trong những sản phẩm được khá nhiều khách hàng đánh giá cao khi có thiết kế full màn hình .
+
+Điều này chắc chắn sẽ mang đến trải nghiệm rộng rãi, tuyệt vời hơn.	Điều này chắc chắn sẽ mang đến trải nghiệm rộng rãi , tuyệt vời hơn .
+
+Trong khi Galaxy S10 5G lại có vướng phần camera nốt ruồi  ở phía trên màn hình.	Trong khi Galaxy S10 5G lại có vướng phần camera nốt ruồi ở phía trên màn hình .
+
+Cấu hình và dung lượng pin	Cấu hình và dung lượng pin
+
+Cấu hình Galaxy S10 5G Hàn được trang bị bộ vi xử lý Exynos 9820 8 nhân, chip đồ họa Mali-G67 MP12.	Cấu hình Galaxy S10 5G Hàn được trang bị bộ vi xử lý Exynos 9820 8 nhân , chip đồ họa Mali-G67 MP12 .
+
+Sản phẩm này còn có bộ nhớ RAM 8GB mang đến sức mạnh nổi bật hơn so với Galaxy Note 9.	Sản phẩm này còn có bộ nhớ RAM 8GB mang đến sức mạnh nổi bật hơn so với Galaxy Note 9 .
+{"subject": ["1&&Sản", "2&&phẩm", "3&&này"], "object": ["19&&Galaxy", "20&&Note", "21&&9"], "aspect": ["12&&sức", "13&&mạnh"], "predicate": ["14&&nổi", "15&&bật", "16&&hơn"], "label": "COM+"}
+
+Điểm hạn chế duy nhất của chiếc điện thoại này là chỉ dùng 1 SIM và không hỗ trợ thêm thẻ nhớ ngoài.	Điểm hạn chế duy nhất của chiếc điện thoại này là chỉ dùng 1 SIM và không hỗ trợ thêm thẻ nhớ ngoài .
+
+Galaxy Note 9 lại khiến cho người dùng thích thú hơn khi có 2 lựa chọn: Một là có thể dùng cả 2 SIM (người dùng sẽ độ lên) và hai là có thể tận dụng 1 SIM và 1 khe cắm thẻ nhớ.	Galaxy Note 9 lại khiến cho người dùng thích thú hơn khi có 2 lựa chọn : Một là có thể dùng cả 2 SIM ( người dùng sẽ độ lên ) và hai là có thể tận dụng 1 SIM và 1 khe cắm thẻ nhớ .
+
+Điều này sẽ cực kỳ thuận tiện cho người dùng nếu sử dụng điện thoại nhiều trong công việc.	Điều này sẽ cực kỳ thuận tiện cho người dùng nếu sử dụng điện thoại nhiều trong công việc .
+
+alt: Galaxy Note 9 có thể sử dụng đồng thời 2 SIM	alt : Galaxy Note 9 có thể sử dụng đồng thời 2 SIM
+
+des:	des :
+
+Xét về dung lượng pin, Galaxy S10 5G có lợi thế hơn khi được trang bị viên pin 4.500 mAh, hỗ trợ sạc nhanh 25W.	Xét về dung lượng pin , Galaxy S10 5G có lợi thế hơn khi được trang bị viên pin 4.500 mAh , hỗ trợ sạc nhanh 25W .
+{"subject": ["7&&Galaxy", "8&&S10", "9&&5G"], "object": [], "aspect": ["3&&dung", "4&&lượng", "5&&pin"], "predicate": ["11&&lợi", "12&&thế", "13&&hơn"], "label": "COM+"}
+
+Trong khi đó, Galaxy Note 9 chỉ có mức dung lượng pin đạt 4.000 mAh và hỗ trợ sạc nhanh 15W.	Trong khi đó , Galaxy Note 9 chỉ có mức dung lượng pin đạt 4.000 mAh và hỗ trợ sạc nhanh 15W .
+
+Thiết kế camera	Thiết kế camera
+
+Galaxy S10 5G một lần nữa cho thấy lợi thế hơn so với Galaxy Note 9 khi được trang bị camera phụ 16MP ở phần camera sau.	Galaxy S10 5G một lần nữa cho thấy lợi thế hơn so với Galaxy Note 9 khi được trang bị camera phụ 16MP ở phần camera sau .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["14&&Galaxy", "15&&Note", "16&&9"], "aspect": ["21&&camera"], "predicate": ["9&&lợi", "10&&thế", "11&&hơn"], "label": "COM+"}
+
+Chi tiết này giúp cho việc chụp ảnh trong điều kiện thiếu ánh sáng được tốt hơn.	Chi tiết này giúp cho việc chụp ảnh trong điều kiện thiếu ánh sáng được tốt hơn .
+{"subject": [], "object": [], "aspect": ["6&&việc", "7&&chụp", "8&&ảnh", "9&&trong", "10&&điều", "11&&kiện", "12&&thiếu", "13&&ánh", "14&&sáng"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Bù lại, Galaxy Note 9 lại được đánh giá cao khi chụp chân dung.	Bù lại , Galaxy Note 9 lại được đánh giá cao khi chụp chân dung .
+
+alt: Thiết kế camera sau của Galaxy S10 5G	alt : Thiết kế camera sau của Galaxy S10 5G
+
+des:	des :
+
+Phần camera trước của Galaxy S10 5G được trang bị cảm biến 10MP, kèm theo đó còn có camera phụ TOF 3D giúp cho chất lượng hình ảnh trở nên tối ưu hơn.	Phần camera trước của Galaxy S10 5G được trang bị cảm biến 10MP , kèm theo đó còn có camera phụ TOF 3D giúp cho chất lượng hình ảnh trở nên tối ưu hơn .
+{"subject": ["2&&camera", "3&&trước", "4&&của", "5&&Galaxy", "6&&S10", "7&&5G"], "object": [], "aspect": ["26&&chất", "27&&lượng", "28&&hình", "29&&ảnh"], "predicate": ["32&&tối", "33&&ưu", "34&&hơn"], "label": "COM+"}
+
+Ngoài ra, sản phẩm này cũng được trang bị một số tính năng như: Chụp hình bằng giọng nói, chụp hình qua cử chỉ, chụp 4K,…Nguyên nhân là do Galaxy S10 5G ra mắt sau nên được Samsung trang bị nhiều nâng cấp hơn.	Ngoài ra , sản phẩm này cũng được trang bị một số tính năng như : Chụp hình bằng giọng nói , chụp hình qua cử chỉ , chụp 4K , … Nguyên nhân là do Galaxy S10 5G ra mắt sau nên được Samsung trang bị nhiều nâng cấp hơn .
+{"subject": ["37&&Galaxy", "38&&S10", "39&&5G"], "object": [], "aspect": [], "predicate": ["48&&nhiều", "49&&nâng", "50&&cấp", "51&&hơn"], "label": "COM+"}
+
+Tiện ích nổi bật	Tiện ích nổi bật
+
+Galaxy S10 5G và Galaxy Note 9 đều là những mẫu flagship khá nổi bật của Samsung.	Galaxy S10 5G và Galaxy Note 9 đều là những mẫu flagship khá nổi bật của Samsung .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&5G"], "object": ["5&&Galaxy", "6&&Note", "7&&9"], "aspect": [], "predicate": ["8&&đều", "9&&là", "10&&những", "11&&mẫu", "12&&flagship", "13&&khá", "14&&nổi", "15&&bật", "16&&của", "17&&Samsung"], "label": "EQL"}
+
+Trong mức giá 6 triệu, hai sản phẩm này đều có những công nghệ hiện đại đáp ứng nhu cầu sử dụng của người dùng.	Trong mức giá 6 triệu , hai sản phẩm này đều có những công nghệ hiện đại đáp ứng nhu cầu sử dụng của người dùng .
+{"subject": ["7&&hai", "8&&sản", "9&&phẩm", "10&&này"], "object": ["7&&hai", "8&&sản", "9&&phẩm", "10&&này"], "aspect": ["13&&những", "14&&công", "15&&nghệ", "16&&hiện", "17&&đại"], "predicate": ["11&&đều", "12&&có"], "label": "EQL"}
+
+Cụ thể, một số công nghệ nổi bật trên các mẫu điện thoại này phải kể đến như: Kháng bụi IP68, mic chuyên dụng chống ồn....	Cụ thể , một số công nghệ nổi bật trên các mẫu điện thoại này phải kể đến như : Kháng bụi IP68 , mic chuyên dụng chống ồn . . . .
+
+alt: Bút S-Pen giúp bạn có thể thực hiện nhiều thao tác với khoảng cách tối đa 10m	alt : Bút S-Pen giúp bạn có thể thực hiện nhiều thao tác với khoảng cách tối đa 10m
+
+des:	des :
+
+Trên sản phẩm Galaxy S10 5G được trang bị cảm biến vân tay trực tiếp trên màn hình sẽ giúp bạn dễ dàng hơn khi mở khóa.	Trên sản phẩm Galaxy S10 5G được trang bị cảm biến vân tay trực tiếp trên màn hình sẽ giúp bạn dễ dàng hơn khi mở khóa .
+{"subject": ["4&&Galaxy", "5&&S10", "6&&5G"], "object": [], "aspect": ["26&&mở", "27&&khóa"], "predicate": ["22&&dễ", "23&&dàng", "24&&hơn"], "label": "COM+"}
+
+Ở Galaxy Note 9 thì cảm biến này được tích hợp ở mặt sau.	Ở Galaxy Note 9 thì cảm biến này được tích hợp ở mặt sau .
+
+Ngoài ra Galaxy Note 9 cũng được người dùng đánh giá cao khi hỗ trợ công nghệ tản nhiệt nước carbon.	Ngoài ra Galaxy Note 9 cũng được người dùng đánh giá cao khi hỗ trợ công nghệ tản nhiệt nước carbon .
+
+Mua Galaxy Note 9 giá rẻ bạn sẽ được trải nghiệm bút S-Pen với nhiều tiện ích như: chụp ảnh, mở khóa, khởi động nhanh ứng dụng, điều khiển trình phát nhạc, trình chiều Powerpoint,... Trong khi Galaxy S10 5G được hỗ trợ 5G, đây là xu hướng của tương lai mà Samsung Note 9 không thể nào có được.	Mua Galaxy Note 9 giá rẻ bạn sẽ được trải nghiệm bút S-Pen với nhiều tiện ích như : chụp ảnh , mở khóa , khởi động nhanh ứng dụng , điều khiển trình phát nhạc , trình chiều Powerpoint , . . . Trong khi Galaxy S10 5G được hỗ trợ 5G , đây là xu hướng của tương lai mà Samsung Note 9 không thể nào có được .
+
+Nên mua Galaxy S10 5G hay Galaxy Note 9?	Nên mua Galaxy S10 5G hay Galaxy Note 9 ?
+
+Galaxy S10 5G hay Galaxy Note 9 đều có những ưu, nhược điểm riêng.	Galaxy S10 5G hay Galaxy Note 9 đều có những ưu , nhược điểm riêng .
+
+Galaxy S10 5G nổi bật với mức giá rẻ, màn hình đẹp, cấu hình mạnh, hỗ trợ mạng 5G… Trong khi đó, Galaxy Note 9 lại cho thấy một diện mạo nam tính, cụm camera kép chất lượng, chụp ảnh chân dung tốt.	Galaxy S10 5G nổi bật với mức giá rẻ , màn hình đẹp , cấu hình mạnh , hỗ trợ mạng 5G … Trong khi đó , Galaxy Note 9 lại cho thấy một diện mạo nam tính , cụm camera kép chất lượng , chụp ảnh chân dung tốt .
+
+Do đó, việc lựa chọn thực tế sẽ phụ thuộc vào nhu cầu sử dụng và sở thích của người dùng.	Do đó , việc lựa chọn thực tế sẽ phụ thuộc vào nhu cầu sử dụng và sở thích của người dùng .
+

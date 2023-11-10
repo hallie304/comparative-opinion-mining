@@ -1,0 +1,44 @@
+Title: Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m: ơ mây zinh, gút chóp Apple!	Title : Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m : ơ mây zinh , gút chóp Apple !
+
+Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m.	Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m .
+
+Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy!	Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy !
+
+Bài test độ bền iPhone 12 Pro bằng cách thả rơi 100m tự do cho kết quả bất ngờ	Bài test độ bền iPhone 12 Pro bằng cách thả rơi 100m tự do cho kết quả bất ngờ
+
+Một tài khoản Youtube có tên là Versus, chuyên về review thiết bị di động, phần cứng PC và ứng dụng đã tiến hành thí nghiệm thử độ bền iPhone 12 Pro.	Một tài khoản Youtube có tên là Versus , chuyên về review thiết bị di động , phần cứng PC và ứng dụng đã tiến hành thí nghiệm thử độ bền iPhone 12 Pro .
+
+Anh treo điện thoại vào giá drone rồi điều khiển nó lên cao 300 feet (~ 100 m), sau đó lái sang trái để điện thoại trượt khỏi giá và rơi xuống.	Anh treo điện thoại vào giá drone rồi điều khiển nó lên cao 300 feet ( ~ 100 m ) , sau đó lái sang trái để điện thoại trượt khỏi giá và rơi xuống .
+
+Theo kết quả từ video, chúng ta dễ dàng thấy được khi rơi ở độ cao như thế, mặt sau của chiếc iPhone 12 Pro đã vỡ nát.	Theo kết quả từ video , chúng ta dễ dàng thấy được khi rơi ở độ cao như thế , mặt sau của chiếc iPhone 12 Pro đã vỡ nát .
+
+Một số vi mạch điện tử bên trong còn bị lộ ra ngoài, camera cũng không còn nguyên vẹn.	Một số vi mạch điện tử bên trong còn bị lộ ra ngoài , camera cũng không còn nguyên vẹn .
+
+Tuy nhiên, màn hình iPhone vẫn hoạt động tốt.	Tuy nhiên , màn hình iPhone vẫn hoạt động tốt .
+
+Camera trước vẫn còn sử dụng được, một số tính năng như nghe, gọi vẫn không bị ảnh hưởng.	Camera trước vẫn còn sử dụng được , một số tính năng như nghe , gọi vẫn không bị ảnh hưởng .
+
+Tỷ lệ thiệt hại này nhẹ hơn Youtuber đã dự kiến.	Tỷ lệ thiệt hại này nhẹ hơn Youtuber đã dự kiến .
+{"subject": [], "object": [], "aspect": ["1&&Tỷ", "2&&lệ", "3&&thiệt", "4&&hại", "5&&này"], "predicate": ["6&&nhẹ", "7&&hơn", "8&&Youtuber", "9&&đã", "10&&dự", "11&&kiến"], "label": "COM+"}
+
+Bài test khác dành cho màn hình Ceramic Shield trên iPhone 12 Pro	Bài test khác dành cho màn hình Ceramic Shield trên iPhone 12 Pro
+
+Trước đó, Allstate Protection Plans đã thực hiện những thử nghiệm về khả năng chống vỡ trên iPhone 12 và iPhone 12 Pro ở độ cao 1,8m.	Trước đó , Allstate Protection Plans đã thực hiện những thử nghiệm về khả năng chống vỡ trên iPhone 12 và iPhone 12 Pro ở độ cao 1,8m .
+
+Kết quả, màn hình chiếc iPhone 12 bị nứt nhỏ, các góc và cạnh đều bị trầy xước.	Kết quả , màn hình chiếc iPhone 12 bị nứt nhỏ , các góc và cạnh đều bị trầy xước .
+
+Đối với iPhone 12 Pro, chiếc smartphone này đã bị nứt ở nửa dưới của màn hình Ceramic Shield nhưng cảm ứng vẫn hoạt động.	Đối với iPhone 12 Pro , chiếc smartphone này đã bị nứt ở nửa dưới của màn hình Ceramic Shield nhưng cảm ứng vẫn hoạt động .
+
+Độ bền này tốt hơn đáng kể so với iPhone 11 Pro trong các thử nghiệm tương tự.	Độ bền này tốt hơn đáng kể so với iPhone 11 Pro trong các thử nghiệm tương tự .
+{"subject": [], "object": ["10&&iPhone", "11&&11", "12&&Pro"], "aspect": ["1&&Độ", "2&&bền"], "predicate": ["4&&tốt", "5&&hơn", "6&&đáng", "7&&kể"], "label": "COM+"}
+
+alt:	alt :
+
+des: Công nghệ màn hình Ceremic Shield mới cho độ bền gấp 4 lần	des : Công nghệ màn hình Ceremic Shield mới cho độ bền gấp 4 lần
+
+Tạm kết	Tạm kết
+
+Vậy còn bạn đã sở hữu cho mình chiếc iPhone 12 mới chưa?	Vậy còn bạn đã sở hữu cho mình chiếc iPhone 12 mới chưa ?
+
+Hãy để lại ý kiến cá nhân ở phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé.	Hãy để lại ý kiến cá nhân ở phần bình luận và cũng đừng quên theo dõi Hoàng Hà Mobile để cập nhật các tin tức công nghệ mới nhất nhé .
+
