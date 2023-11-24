@@ -1,4 +1,3 @@
-
 from transformers import DataCollatorWithPadding,AutoModelForTokenClassification, Trainer, TrainingArguments,AutoTokenizer,AutoModel,AutoConfig, DataCollatorForTokenClassification
 import torch
 import torch.nn as nn
@@ -115,7 +114,7 @@ def task2_train(data_path, output_path, model_path):
     batch_size = 32
     training_args = TrainingArguments(
     output_dir="results",
-    num_train_epochs=30,
+    num_train_epochs=15,
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
     evaluation_strategy="epoch",

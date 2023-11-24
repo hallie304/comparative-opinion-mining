@@ -1,9 +1,11 @@
 import py_vncorenlp
-segmenter = py_vncorenlp.VnCoreNLP(annotators=["wseg"], save_dir=r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\vncorenlp")
+import os
+segmenter = py_vncorenlp.VnCoreNLP(annotators=["wseg"], save_dir = os.getcwd() + "/vncorenlp")
+working_directory = "/home/group2/group1/github_test"
+os.chdir(working_directory)
 import torch
 from transformers.file_utils import is_tf_available, is_torch_available, is_torch_tpu_available
-from transformers import AutoModelForSequenceClassification, AutoTokenizer, TrainingArguments, Trainer, AutoModel, \
-    AutoConfig
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, TrainingArguments, Trainer, AutoModel, AutoConfig
 import numpy as np
 from sklearn.model_selection import train_test_split, StratifiedKFold
 import ast
@@ -83,7 +85,7 @@ def task1_task3_train(data_path, output_path, model_path):
             learning_rate=3e-5,
             per_device_train_batch_size=32,
             per_device_eval_batch_size=32,
-            num_train_epochs=15,
+            num_train_epochs=1,
             evaluation_strategy="epoch",
             save_strategy="no",
             #         save_total_limit = 2,

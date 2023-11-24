@@ -1,6 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForTokenClassification
-from transformers import pipeline
-from transformers import DataCollatorWithPadding,AutoModelForSequenceClassification, Trainer, TrainingArguments,AutoTokenizer,AutoModel,AutoConfig, DataCollatorForTokenClassification
+from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline, DataCollatorWithPadding,AutoModelForSequenceClassification, Trainer, TrainingArguments,AutoTokenizer,AutoModel,AutoConfig, DataCollatorForTokenClassification
 from transformers.modeling_outputs import TokenClassifierOutput
 import torch
 import torch.nn as nn
@@ -19,11 +17,11 @@ import os
 tokenizer1 = AutoTokenizer.from_pretrained("vinai/phobert-base-v2")
 
 
-fold0 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task1\0")
+fold0 = AutoModelForSequenceClassification.from_pretrained(r"task1/0")
 
-fold1 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task1\1")
+fold1 = AutoModelForSequenceClassification.from_pretrained(r"task1/1")
 
-fold2 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task1\2")
+fold2 = AutoModelForSequenceClassification.from_pretrained(r"task1/2")
 
 nlp0 = pipeline("sentiment-analysis", model = fold0, tokenizer = tokenizer1, device = "cuda:0")
 nlp1 = pipeline("sentiment-analysis", model = fold1, tokenizer = tokenizer1, device = "cuda:0")
@@ -38,13 +36,13 @@ label2id = {"O": 0 , "B-Subject": 1, "I-Subject": 2 , "B-Object": 3, "I-Object":
             "B-Predicate": 7, "I-Predicate": 8}
 
 electra_tokenizer = AutoTokenizer.from_pretrained("NlpHUST/ner-vietnamese-electra-base")
-electra_model = AutoModelForTokenClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task2\phobert").to("cuda")
+electra_model = AutoModelForTokenClassification.from_pretrained(r"task2/electra").to("cuda")
 
 phobert_tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base-v2")
-phobert_model = AutoModelForTokenClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task2\electra").to("cuda")
+phobert_model = AutoModelForTokenClassification.from_pretrained(r"task2/phobert").to("cuda")
 
 multi_tokenizer = AutoTokenizer.from_pretrained("bert-base-multilingual-cased")
-multi_model = AutoModelForTokenClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task2\bert").to("cuda")
+multi_model = AutoModelForTokenClassification.from_pretrained(r"task2/bert").to("cuda")
 
 
 def align_tokens(text, tokenizer):
@@ -93,10 +91,6 @@ def combine_model_logits(text):
   phobert_output = reduce_logits_size(text, phobert_tokenizer, phobert_model)
   multi_output = reduce_logits_size(text, multi_tokenizer, multi_model)
   final_output = 0.3 * electra_output + 0.2 * phobert_output + 0.5 * multi_output
-  # final_output = 0.6 * electra_output + 0.2 * phobert_output + 0.2 * multi_output
-  # final_output = 1 * electra_output + 0 * phobert_output + 0 * multi_output
-  # final_output = 0.6 * electra_output + 0.4 * phobert_output
-  # final_output = multi_output
 
   return final_output
 
@@ -114,9 +108,9 @@ def infer_logits(text):
 
 from transformers import AutoTokenizer
 tokenizer1 = AutoTokenizer.from_pretrained("vinai/phobert-base-v2")
-fold3 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task3\0")
-fold4 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task3\1")
-fold5 = AutoModelForSequenceClassification.from_pretrained(r"C:\Users\Public\VLSP23-Comparative-Opinion-Mining\model_outputs\task3\2")
+fold3 = AutoModelForSequenceClassification.from_pretrained(r"task3/0")
+fold4 = AutoModelForSequenceClassification.from_pretrained(r"task3/1")
+fold5 = AutoModelForSequenceClassification.from_pretrained(r"task3/2")
 
 nlp3 = pipeline("sentiment-analysis", model = fold3, tokenizer = tokenizer1, device = "cuda:0")
 nlp4 = pipeline("sentiment-analysis", model = fold4, tokenizer = tokenizer1, device = "cuda:0")
@@ -231,9 +225,9 @@ def generate_all_possible_quadruple(sentence, input_quintuple):
 
 """# Output"""
 
-
-input_directory = '/content/drive/MyDrive/VLSP23/Data/HH/baseline_models/VLSP2023_ComOM_private_test_nolabel'
-output_directory = '/content/drive/MyDrive/VLSP23/ver4_submission'
+os.mkdir("raw_output")
+input_directory = 'data/private_test'
+output_directory = 'raw_output'
 for file_number in range(1, 37):
     input_file_name = f'test_{str(file_number).zfill(4)}.txt'
     input_file_path = os.path.join(input_directory, input_file_name)
@@ -336,4 +330,3 @@ for file_number in range(1, 37):
                 modified_line = f"{line}\n"
 
             output_file.write(modified_line)
-
