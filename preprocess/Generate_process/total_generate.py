@@ -1,11 +1,11 @@
-import new_data_sampling_Phuong
-import new_data_sampling_Bao
+import new_data_sampling_A
+import new_data_sampling_B
 import data_utils
 import pandas as pd
 import os
 
 os.mkdir('Generate')
-new_data_sampling_Phuong.write_total_sampling('Generate/generate.txt')
+new_data_sampling_A.write_total_sampling('Generate/generate.txt')
 ''' New data records according to number of json '''
 usable_gen_data = data_utils.preprocessing_with_BIO('Generate/generate.txt')
 df_gen1_mono = pd.DataFrame(columns=["content", "comparative", "subject", "object", "aspect", "predicate", "label", "NER"])
@@ -68,7 +68,6 @@ df_gen6 = df_gen6_mono.sample(283,random_state=50)._append(df_gen6_multi.sample(
 df_gen7 = df_gen7_mono.sample(480,random_state=50)._append(df_gen7_multi.sample(192,random_state=50))
 df_gen8 = df_gen8_mono.sample(521,random_state=50)._append(df_gen8_multi.sample(208,random_state=50))
 
-''' Summing up data from Phuong '''
 df_gen_total = df_gen1._append(df_gen2)._append(df_gen3)._append(df_gen4)._append(df_gen5)._append(df_gen6)._append(df_gen7)._append(df_gen8)
 
 
@@ -102,7 +101,7 @@ for i in only_files_btc:
 toc = ["DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
 num = [0, 93, 443, 145, 6, 10, 733, 168, 42]
 for i in range(len(toc)):
-    new_data_sampling_Bao.generate_data(toc[i],num[i+1],1500)
+    new_data_sampling_B.generate_data(toc[i],num[i+1],1500)
 
 ''' Double check '''
 only_files = [f for f in os.listdir("Generate") if
@@ -114,5 +113,5 @@ for i in only_files:
     df_read_txt = df_read_txt._append(data_utils.preprocessing_with_BIO('Generate/' + i))
 
 ''' Sum up data'''
-df_Bao_Phuong = df_read_txt._append(df_gen_total)._append(df_btc_data)._append(df_noncomparative)
-df_Bao_Phuong.to_csv('Upsample_data.csv')
+df_final = df_read_txt._append(df_gen_total)._append(df_btc_data)._append(df_noncomparative)
+df_final.to_csv('Upsample_data.csv')

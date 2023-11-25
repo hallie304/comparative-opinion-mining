@@ -72,19 +72,6 @@ def reduce_logits_size(text, tokenizer, model):
     tensor_list.append(final_sum)
   return torch.stack(tensor_list).unsqueeze(0)
 
-# def normalize_tensor(logits):
-#   min_value = logits.min()
-#   max_value = logits.max()
-#   normalized_tensor = (logits - min_value) / (max_value - min_value)
-#   return normalized_tensor
-
-# def combine_model_logits(text):
-#   electra_output = normalize_tensor(reduce_logits_size(text, electra_tokenizer, electra_model))
-#   phobert_output = normalize_tensor(reduce_logits_size(text, phobert_tokenizer, phobert_model))
-#   multi_output = normalize_tensor(reduce_logits_size(text, multi_tokenizer, multi_model))
-#   # sum = electra_output + phobert_output + multi_output
-#   final_output = 0.3 * electra_output + 0.2 * phobert_output + 0.5 * multi_output
-#   return final_output
 
 def combine_model_logits(text):
   electra_output = reduce_logits_size(text, electra_tokenizer, electra_model)

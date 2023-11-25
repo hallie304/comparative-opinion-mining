@@ -1,68 +1,22 @@
 import data_utils
 import random
 import json
-import new_data_sampling_Phuong
-# count = 0
-# for i in block_list:
-#   if "DIF" in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "EQL" in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "SUP" in i and ("SUP+" not in i and "SUP-" not in i) and "SUPER" not in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "SUP+" in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "SUP-" in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "COM" in i and ("COM+" not in i and "COM-" not in i):
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "COM+" in i:
-#     count += 1
-# count
-#
-# count = 0
-# for i in block_list:
-#   if "COM-" in i:
-#     count += 1
-# count
+import new_data_sampling_A
+
 
 blocklist = []
 for i in range(1, 61):
     if i < 10:
-        text_path = r"VLSP2023_ComOM_public_test_golden\train_000" + str(i) + ".txt"
+        text_path = r"../../data/public and train data\train_000" + str(i) + ".txt"
     if i >= 10:
-        text_path = r"VLSP2023_ComOM_public_test_golden\train_00" + str(i) + ".txt"
+        text_path = r"../../data/public and train data\train_00" + str(i) + ".txt"
     blocklist.append(data_utils.get_block_list(text_path))
 
 for i in range(1, 25):
   if i < 10:
-    text_path = r"VLSP2023_ComOM_public_test_golden\dev_000" + str(i) + ".txt"
+    text_path = r"../../data/public and train data\dev_000" + str(i) + ".txt"
   if i >= 10:
-    text_path = r"VLSP2023_ComOM_public_test_golden\dev_00" + str(i) + ".txt"
+    text_path = r"../../data/public and train data\dev_00" + str(i) + ".txt"
   blocklist.append(data_utils.get_block_list(text_path))
 
 block_list = [item for sublist in blocklist for item in sublist]
@@ -100,14 +54,14 @@ for i in block_list:
   except:
     print(i)
 
-filepath_list = [r"Predicate/dif_predicate.txt",
-                 r"Predicate/eql_predicate_list.txt",
-                 r"Predicate/sup+_predicate.txt",
-                 r"Predicate/sup-_predicate.txt",
-                 r"Predicate/com_predicate.txt",
-                 r"Predicate/com+_predicate.txt",
-                 r"Predicate/com-_predicate.txt",
-                 r"Predicate/sup_predicate.txt"]
+filepath_list = [r"../../data/predicate list/dif_predicate.txt",
+                 r"../../data/predicate list/eql_predicate_list.txt",
+                 r"../../data/predicate list/sup+_predicate.txt",
+                 r"../../data/predicate list/sup-_predicate.txt",
+                 r"../../data/predicate list/com_predicate.txt",
+                 r"../../data/predicate list/com+_predicate.txt",
+                 r"../../data/predicate list/com-_predicate.txt",
+                 r"../../data/predicate list/sup_predicate.txt"]
 error_count = 0
 for i in filepath_list:
   with open(i, "r", encoding="utf8") as file:
@@ -126,7 +80,7 @@ print(error_count)
 name_list = []
 
 # Load the JSON data from the file
-with open(r'../Data/devices.json', 'r') as file:
+with open(r'../../data/device and brand/devices.json', 'r') as file:
     data = json.load(file)
 
 # Extract "name" field from each record, split it, and append to a list
@@ -136,7 +90,7 @@ for record in data["RECORDS"]:
     name_list.append(words)
 
 # Load the JSON data from the file
-with open(r'../Data/brands.json', 'r') as brand_file:
+with open(r'../../data/device and brand/brands.json', 'r') as brand_file:
     brand_data = json.load(brand_file)
 
 # Extract "name" field from each record, split it, and append to a list
@@ -159,10 +113,6 @@ random.shuffle(object_list)
 random.shuffle(aspect_list)
 random.shuffle(predicate_label_list)
 
-# with open("pred_label_list.txt", "w") as file:
-#     # Iterate through the list and write each element to the file
-#     for item in predicate_label_list:
-#         file.write(" ".join(item[0]) + ": " + item[1] + "\n")
 
 for i in predicate_label_list:
   if "SUP-" == i[1]:

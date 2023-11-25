@@ -405,7 +405,6 @@ def update_thing(list_of_json,sentence_split,new_word_split,gen_data,thing, orig
         stat[type_of_compare.index(new_list_of_json[i]['label'])] += 1
         return new_sentence
 
-''' Bao '''
 
 def remove_text_before_tab(input_string):
     parts = input_string.split('\t', 1)
@@ -625,18 +624,7 @@ def swap_multi_label_sentence_majority(first_sentence, subject_list, object_list
   unique_object_list = make_unique(unique_object_list)
   unique_aspect_list = make_unique(unique_aspect_list)
   unique_pred_label_list = make_unique_for_pred(unique_pred_label_list)
-  # print(unique_subject_list)
-  # print(unique_object_list)
-  # print(unique_aspect_list)
-  # print(unique_pred_label_list)
 
-
-  # for i in range(len(component_list)):
-  #   first_subject = " ".join(component_list[i][0])
-  #   first_object = " ".join(component_list[i][1])
-  #   new_first_content = new_first_content.replace(first_subject, second_subject, 1)
-  #   new_first_content = new_first_content.replace(first_object, second_object, 1)
-  # output_block = new_first_content + "\n"
   if len(unique_subject_list) > 0:
     for i in unique_subject_list:
       random_subject_int = random.randint(0, len(subject_list) - 1)
@@ -659,20 +647,6 @@ def swap_multi_label_sentence_majority(first_sentence, subject_list, object_list
       new_first_content = new_first_content.replace(" ".join(i), " ".join(random_aspect))
       for x in range(len(component_list)):
         new_component_list[x] = replace_nested_list(new_component_list[x], i, random_aspect)
-
-  # if len(unique_pred_label_list) > 0:
-  #   for i in unique_pred_label_list:
-  #         random_pred_label_int = random.randint(0, len(predicate_label_list) - 1)
-  #         random_pred = predicate_label_list[random_pred_label_int][0]
-  #         random_label = predicate_label_list[random_pred_label_int][1]
-  #         true_pred = i[0]
-  #         true_label = i[1]
-  #         new_first_content = new_first_content.replace(" ".join(true_pred), " ".join(random_pred))
-  #         for x in range(len(component_list)):
-  #           if new_component_list[x][3] == true_pred:
-  #             new_component_list[x][4] = random_label
-  #           new_component_list[x] = replace_nested_list(new_component_list[x], true_pred, random_pred)
-
 
   output_block = new_first_content + "\n"
   for i in new_component_list:
@@ -716,18 +690,6 @@ def swap_multi_label_sentence_minority(first_sentence, pred_list, subject_list, 
   unique_object_list = make_unique(unique_object_list)
   unique_aspect_list = make_unique(unique_aspect_list)
   unique_pred_label_list = make_unique_for_pred(unique_pred_label_list)
-  # print(unique_subject_list)
-  # print(unique_object_list)
-  # print(unique_aspect_list)
-  # print(unique_pred_label_list)
-
-
-  # for i in range(len(component_list)):
-  #   first_subject = " ".join(component_list[i][0])
-  #   first_object = " ".join(component_list[i][1])
-  #   new_first_content = new_first_content.replace(first_subject, second_subject, 1)
-  #   new_first_content = new_first_content.replace(first_object, second_object, 1)
-  # output_block = new_first_content + "\n"
   if len(unique_subject_list) > 0:
     for i in unique_subject_list:
       random_subject_int = random.randint(0, len(subject_list) - 1)

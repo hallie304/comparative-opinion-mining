@@ -88,8 +88,6 @@ def task1_task3_train(data_path, output_path, model_path):
             num_train_epochs=1,
             evaluation_strategy="epoch",
             save_strategy="no",
-            #         save_total_limit = 2,
-            #         load_best_model_at_end=True,
         )
 
         trainer = Trainer(
@@ -98,7 +96,6 @@ def task1_task3_train(data_path, output_path, model_path):
             train_dataset=X,
             eval_dataset=y,
             compute_metrics=compute_metrics,
-            #         optimizers = (optim.Adam(phobert.parameters(),lr=3e-5), None)
         )
 
         trainer.train()

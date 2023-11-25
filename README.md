@@ -19,7 +19,7 @@ Please change this line to the directory where you cloned the repository.
 ### Preprocessing data
 Run the total_generate.py file to upsample the data, and convert them into one .csv file to be used to train
 ```
-python preprocess/total_generate.py
+python preprocess/Generate_process/total_generate.py
 ```
 This will create a file called "Upsample_data.csv" in preprocess/Generate_process. This file will be used to train the models.
 ### Training the models
