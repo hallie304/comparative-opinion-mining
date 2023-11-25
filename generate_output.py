@@ -300,7 +300,7 @@ for file_number in range(1, 37):
                         quintuple['aspect'].append(f"{index}&&{word}")
                     elif entity in ['B-Predicate', 'I-Predicate']:
                         quintuple['predicate'].append(f"{index}&&{word}")
-                # Generate all possible quadruple for input of task 3
+                # Generate_process all possible quadruple for input of task 3
                 results = generate_all_possible_quadruple(line, quintuple)
                 temp = []
                 for i in range(len(results)):
