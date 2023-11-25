@@ -1,0 +1,123 @@
+title: Trên tay Galaxy Z Fold2: Siêu phẩm định hình tương lai của Samsung	title : Trên tay Galaxy Z Fold2 : Siêu phẩm định hình tương lai của Samsung
+
+Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung, mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold.	Samsung Galaxy Z Fold2 – mẫu điện thoại màn hình gập thế hệ mới của Samsung , mang tới nhiều nâng cấp và cải tiến hơn rất nhiều so với người tiền nhiệm Galaxy Fold .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&Z", "4&&Fold2"], "object": ["31&&người", "32&&tiền", "33&&nhiệm", "34&&Galaxy", "35&&Fold"], "aspect": ["21&&nâng", "22&&cấp"], "predicate": ["20&&nhiều", "21&&nâng", "22&&cấp", "23&&và", "24&&cải", "25&&tiến", "26&&hơn", "27&&rất", "28&&nhiều"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&Z", "4&&Fold2"], "object": ["31&&người", "32&&tiền", "33&&nhiệm", "34&&Galaxy", "35&&Fold"], "aspect": ["24&&cải", "25&&tiến"], "predicate": ["20&&nhiều", "21&&nâng", "22&&cấp", "23&&và", "24&&cải", "25&&tiến", "26&&hơn", "27&&rất", "28&&nhiều"], "label": "COM+"}
+
+Hãy cùng Hoàng Hà Mobile trên tay siêu phẩm sẽ định hình lại thế giới smartphone trong tương lai nhé!	Hãy cùng Hoàng Hà Mobile trên tay siêu phẩm sẽ định hình lại thế giới smartphone trong tương lai nhé !
+
+Với sự kiện Galaxy Unpacked dành riêng cho Galaxy Z Fold2 hôm 2/9 vừa qua, dường như Samsung đang gửi đến các hãng điện thoại khác một thông điệp cực kì rõ ràng: “Galaxy Z Fold2 chính là tương lai của smartphone và chúng tôi vẫn đang dẫn đầu”.	Với sự kiện Galaxy Unpacked dành riêng cho Galaxy Z Fold2 hôm 2 / 9 vừa qua , dường như Samsung đang gửi đến các hãng điện thoại khác một thông điệp cực kì rõ ràng : “ Galaxy Z Fold2 chính là tương lai của smartphone và chúng tôi vẫn đang dẫn đầu ” .
+
+Bản thân người viết là mình cũng đã có cơ hội được trải nghiệm Galaxy Z Fold2 trong một thời gian không phải dài nhưng cũng không phải là ngắn.	Bản thân người viết là mình cũng đã có cơ hội được trải nghiệm Galaxy Z Fold2 trong một thời gian không phải dài nhưng cũng không phải là ngắn .
+
+Dù cho đã được mở hộp Galaxy Fold từ năm ngoái, thế nhưng với Galaxy Z Fold2 của năm nay, mọi trải nghiệm dường như hoàn toàn mới mẻ và cực kì ấn tượng.	Dù cho đã được mở hộp Galaxy Fold từ năm ngoái , thế nhưng với Galaxy Z Fold2 của năm nay , mọi trải nghiệm dường như hoàn toàn mới mẻ và cực kì ấn tượng .
+
+Cảm nhận đầu tiên của mình khi cầm trên tay chiếc Galaxy Z Fold2 đó chính là các đường bo xung quanh máy đã được Samsung tinh chỉnh lại để mang lại một cảm giác máy có phần bền bỉ, chắc chắn hơn thế hệ Galaxy Fold đầu tiên.	Cảm nhận đầu tiên của mình khi cầm trên tay chiếc Galaxy Z Fold2 đó chính là các đường bo xung quanh máy đã được Samsung tinh chỉnh lại để mang lại một cảm giác máy có phần bền bỉ , chắc chắn hơn thế hệ Galaxy Fold đầu tiên .
+{"subject": ["11&&chiếc", "12&&Galaxy", "13&&Z", "14&&Fold2"], "object": ["45&&thế", "46&&hệ", "47&&Galaxy", "48&&Fold", "49&&đầu", "50&&tiên"], "aspect": ["19&&đường", "20&&bo", "21&&xung", "22&&quanh", "23&&máy"], "predicate": ["39&&bền", "40&&bỉ", "41&&,", "42&&chắc", "43&&chắn", "44&&hơn"], "label": "COM+"}
+
+Từ vật liệu cấu thành cho tới kiểu cách hoàn thiện máy, mọi thứ đều mang lại cho người dùng một cảm giác cực kì cao cấp và sang trọng.	Từ vật liệu cấu thành cho tới kiểu cách hoàn thiện máy , mọi thứ đều mang lại cho người dùng một cảm giác cực kì cao cấp và sang trọng .
+
+Ông lớn tới từ Hàn Quốc đã dùng khung kim loại cùng với tấm kính cường lực Gorilla Glass Victus ở cả mặt trước lẫn mặt sau.	Ông lớn tới từ Hàn Quốc đã dùng khung kim loại cùng với tấm kính cường lực Gorilla Glass Victus ở cả mặt trước lẫn mặt sau .
+
+Các phím bấm vật lý bạn đọc có thể tìm thấy ở cạnh phải máy, và nút nguồn cũng đồng thời là cảm biến vân tay một chạm siêu nhạy.	Các phím bấm vật lý bạn đọc có thể tìm thấy ở cạnh phải máy , và nút nguồn cũng đồng thời là cảm biến vân tay một chạm siêu nhạy .
+
+alt: tren-tay-galaxy-z-fold2-2	alt : tren-tay-galaxy-z-fold2 - 2
+
+des: Samsung Galaxy Z Fold2	des : Samsung Galaxy Z Fold2
+
+Xoay qua phần mặt lưng, bạn đọc sẽ bắt gặp cụm camera rất quen thuộc đã từng xuất hiện trên Galaxy Note20 Ultra.	Xoay qua phần mặt lưng , bạn đọc sẽ bắt gặp cụm camera rất quen thuộc đã từng xuất hiện trên Galaxy Note20 Ultra .
+
+Đó là một cụm module hình chữ nhật được nhô lên hơi cao so với mặt lưng cùng hệ thống 3 ống kính camera ở bên trong.	Đó là một cụm module hình chữ nhật được nhô lên hơi cao so với mặt lưng cùng hệ thống 3 ống kính camera ở bên trong .
+{"subject": ["4&&cụm", "5&&module", "6&&hình", "7&&chữ", "8&&nhật"], "object": ["16&&mặt", "17&&lưng"], "aspect": [], "predicate": ["10&&nhô", "11&&lên", "12&&hơi", "13&&cao", "14&&so", "15&&với"], "label": "COM"}
+
+Samsung sẽ cung cấp tới 2 phiên bản màu sắc của Galaxy Z Fold2 cho người dùng lựa chọn bao gồm Mystic Bronze và Mystic Black.	Samsung sẽ cung cấp tới 2 phiên bản màu sắc của Galaxy Z Fold2 cho người dùng lựa chọn bao gồm Mystic Bronze và Mystic Black .
+
+Điểm đáng khen nhất đó chính là phần bản lề của Galaxy Z Fold2 đã được Samsung “đại tu” lại.	Điểm đáng khen nhất đó chính là phần bản lề của Galaxy Z Fold2 đã được Samsung “ đại tu ” lại .
+
+Mình cảm thấy cực kì hài lòng và ấn tượng với độ chắc chắn và cứng cáp của phần bàn lề này.	Mình cảm thấy cực kì hài lòng và ấn tượng với độ chắc chắn và cứng cáp của phần bàn lề này .
+
+Công nghệ bản lề này chúng ta đã từng thấy trên mẫu Galaxy Z Flip trước đây.	Công nghệ bản lề này chúng ta đã từng thấy trên mẫu Galaxy Z Flip trước đây .
+
+Cấu trúc CAM mà hãng đang áp dụng bên trong phần bản lề giúp tăng cường độ cứng cáp, từ đó phần bản lề của máy sẽ trở nên cực kì bền bỉ.	Cấu trúc CAM mà hãng đang áp dụng bên trong phần bản lề giúp tăng cường độ cứng cáp , từ đó phần bản lề của máy sẽ trở nên cực kì bền bỉ .
+
+Độ bền bỉ này đã được Samsung tự hào dành riêng cho một cái tên là “Flex Mode”.	Độ bền bỉ này đã được Samsung tự hào dành riêng cho một cái tên là “ Flex Mode ” .
+
+alt: tren-tay-galaxy-z-fold2-3	alt : tren-tay-galaxy-z-fold2 - 3
+
+des: Phần bản lề của Galaxy Z Fold2 giờ đây đã cứng cáp hơn rất nhiều	des : Phần bản lề của Galaxy Z Fold2 giờ đây đã cứng cáp hơn rất nhiều
+{"subject": ["7&&Galaxy", "8&&Z", "9&&Fold2"], "object": [], "aspect": ["3&&Phần", "4&&bản", "5&&lề"], "predicate": ["13&&cứng", "14&&cáp", "15&&hơn", "16&&rất", "17&&nhiều"], "label": "COM+"}
+
+Đi sâu vào Flex Mode thì với công nghệ này, phần bản lề của máy sẽ có thể tùy ý dừng lại ở mọi góc độ khác nhau trong khoảng từ 80 cho tới 160 độ), cho phép người dùng có thể sử dụng được phần màn hình chính bên trong tùy theo mọi mục đích khác nhau.	Đi sâu vào Flex Mode thì với công nghệ này , phần bản lề của máy sẽ có thể tùy ý dừng lại ở mọi góc độ khác nhau trong khoảng từ 80 cho tới 160 độ ) , cho phép người dùng có thể sử dụng được phần màn hình chính bên trong tùy theo mọi mục đích khác nhau .
+
+Và theo như Samsung công bố thì phần bản lề này có thể đóng gập được tối đa 200.000 lần, vậy nên nếu bạn đang sở hữu một chiếc Galaxy Z Fold2 thì có thể yên tâm sử dụng được trong vòng ít nhất là từ 2-3 năm.	Và theo như Samsung công bố thì phần bản lề này có thể đóng gập được tối đa 200.000 lần , vậy nên nếu bạn đang sở hữu một chiếc Galaxy Z Fold2 thì có thể yên tâm sử dụng được trong vòng ít nhất là từ 2 - 3 năm .
+
+Điểm cải tiến đáng giá tiếp theo chính là phần màn hình ngoài của Galaxy Z Fold2 đã được Samsung tăng kích thước lên rộng hơn.	Điểm cải tiến đáng giá tiếp theo chính là phần màn hình ngoài của Galaxy Z Fold2 đã được Samsung tăng kích thước lên rộng hơn .
+{"subject": ["15&&Galaxy", "16&&Z", "17&&Fold2"], "object": [], "aspect": ["10&&phần", "11&&màn", "12&&hình", "13&&ngoài"], "predicate": ["21&&tăng", "22&&kích", "23&&thước", "24&&lên", "25&&rộng", "26&&hơn"], "label": "COM+"}
+{"subject": ["10&&phần", "11&&màn", "12&&hình", "13&&ngoài", "14&&của", "15&&Galaxy", "16&&Z", "17&&Fold2"], "object": [], "aspect": ["22&&kích", "23&&thước"], "predicate": ["25&&rộng", "26&&hơn"], "label": "COM+"}
+
+Giờ đây, người dùng chúng ta đã có một màn hình ngoài rộng tới 6.2 inch, tỉ lệ 25:9 trên tấm nền Super AMOLED, độ phân giải 2.260 x 816 pixel.	Giờ đây , người dùng chúng ta đã có một màn hình ngoài rộng tới 6.2 inch , tỉ lệ 25 : 9 trên tấm nền Super AMOLED , độ phân giải 2.260 x 816 pixel .
+
+Triết lý thiết kế Infinity-O cũng giúp cho Galaxy Z Fold2 nếu nhin từ bên ngoài khá quen thuộc và thân thiện.	Triết lý thiết kế Infinity-O cũng giúp cho Galaxy Z Fold2 nếu nhin từ bên ngoài khá quen thuộc và thân thiện .
+
+Nếu như so với màn hình 4.6 inch của Galaxy Fold đời đầu, đây thực sự là một nâng cấp tuyệt vời.	Nếu như so với màn hình 4.6 inch của Galaxy Fold đời đầu , đây thực sự là một nâng cấp tuyệt vời .
+
+alt: tren-tay-galaxy-z-fold2-4	alt : tren-tay-galaxy-z-fold2 - 4
+
+des: Màn hình bên ngoài của Galaxy Z Fold2	des : Màn hình bên ngoài của Galaxy Z Fold2
+
+Thế nhưng đó chưa phải là tất cả của Galaxy Z Fold2.	Thế nhưng đó chưa phải là tất cả của Galaxy Z Fold2 .
+
+Nhắc tới mẫu điện thoại này mà bỏ qua phần màn hình chính bên trong thì thật là một thiếu sót vô cùng lớn.	Nhắc tới mẫu điện thoại này mà bỏ qua phần màn hình chính bên trong thì thật là một thiếu sót vô cùng lớn .
+
+Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch, lúc này máy sẽ như một chiếc tablet 7 inch thứ thiệt.	Màn hình Infinity Flex có thể gập lại của Galaxy Z Fold2 có kích thước khi mở ra lên tới 7.6 inch , lúc này máy sẽ như một chiếc tablet 7 inch thứ thiệt .
+{"subject": ["26&&máy"], "object": ["29&&một", "30&&chiếc", "31&&tablet", "32&&7", "33&&inch", "34&&thứ", "35&&thiệt"], "aspect": [], "predicate": ["28&&như"], "label": "EQL"}
+
+Màn hình của Z Fold2 sẽ được bảo vệ bởi lớp kính siêu mỏng UTG đã được áp dụng trên Galaxy Z Flip.	Màn hình của Z Fold2 sẽ được bảo vệ bởi lớp kính siêu mỏng UTG đã được áp dụng trên Galaxy Z Flip .
+
+Tốc độ tần số quét màn hình của Galaxy Z Fold2 giờ đây đã được nâng lên thành 120Hz thay vì 60Hz cơ bản của Galaxy Fold và Galaxy Z Flip.	Tốc độ tần số quét màn hình của Galaxy Z Fold2 giờ đây đã được nâng lên thành 120Hz thay vì 60Hz cơ bản của Galaxy Fold và Galaxy Z Flip .
+
+Màn hình chính này có tỉ lệ là 22.5:18, cùng độ phân giải đạt 2.208 x 1.768 pixel.	Màn hình chính này có tỉ lệ là 22.5 : 18 , cùng độ phân giải đạt 2.208 x 1.768 pixel .
+
+Một thay đổi “đáng đồng tiền bát gạo” khác tren màn hình này chính là việc Samsung đã thay phần notch khá lớn của Galaxy Fold thành thiết kế dạng đục lỗ chứa camera selfie.	Một thay đổi “ đáng đồng tiền bát gạo ” khác tren màn hình này chính là việc Samsung đã thay phần notch khá lớn của Galaxy Fold thành thiết kế dạng đục lỗ chứa camera selfie .
+
+Sự thay đổi này đã giúp cho màn hình chính của Galaxy Z Fold2 có thêm nhiều không gian hiển thị hơn, nâng cao trải nghiệm hàng ngày của người dùng, từ đọc báo, xem phim cho tới chơi game, tất cả đều thật tuyệt vời.	Sự thay đổi này đã giúp cho màn hình chính của Galaxy Z Fold2 có thêm nhiều không gian hiển thị hơn , nâng cao trải nghiệm hàng ngày của người dùng , từ đọc báo , xem phim cho tới chơi game , tất cả đều thật tuyệt vời .
+{"subject": ["12&&Galaxy", "13&&Z", "14&&Fold2"], "object": [], "aspect": ["8&&màn", "9&&hình", "10&&chính"], "predicate": ["17&&nhiều", "18&&không", "19&&gian", "20&&hiển", "21&&thị", "22&&hơn"], "label": "COM+"}
+
+Tuy vẫn còn nếp nhăn ở giữa màn hình thế nhưng điều này cũng sẽ không ảnh hưởng quá nhiều tới trải nghiệm của người dùng.	Tuy vẫn còn nếp nhăn ở giữa màn hình thế nhưng điều này cũng sẽ không ảnh hưởng quá nhiều tới trải nghiệm của người dùng .
+
+alt: tren-tay-galaxy-z-fold2-5	alt : tren-tay-galaxy-z-fold2 - 5
+
+des: Màn hình chính của Galaxy Z Fold2	des : Màn hình chính của Galaxy Z Fold2
+
+Về sức mạnh phần cứng, Galaxy Z Fold2 được Samsung ưu ái trang bị bộ vi xử lý mạnh mẽ và tốt nhất hiện tại của Qualcomm là Snapdragon 865+.	Về sức mạnh phần cứng , Galaxy Z Fold2 được Samsung ưu ái trang bị bộ vi xử lý mạnh mẽ và tốt nhất hiện tại của Qualcomm là Snapdragon 865 + .
+{"subject": ["7&&Galaxy", "8&&Z", "9&&Fold2"], "object": [], "aspect": ["16&&bộ", "17&&vi", "18&&xử", "19&&lý"], "predicate": ["20&&mạnh", "21&&mẽ", "22&&và", "23&&tốt", "24&&nhất", "25&&hiện", "26&&tại", "27&&của", "28&&Qualcomm"], "label": "SUP+"}
+
+Đi cùng với đó là thanh RAM 12GB, bộ nhớ trong 128GB hoặc 256GB sử dụng công nghệ UFS 3.1 cho tốc độ truy xuất dữ liệu siêu nhanh.	Đi cùng với đó là thanh RAM 12GB , bộ nhớ trong 128GB hoặc 256GB sử dụng công nghệ UFS 3.1 cho tốc độ truy xuất dữ liệu siêu nhanh .
+
+alt: tren-tay-galaxy-z-fold2-6	alt : tren-tay-galaxy-z-fold2 - 6
+
+des:	des :
+
+Chuyển tới khả năng nhiếp ảnh, Galaxy Z Fold2 sở hữu một hệ thông camera bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy Note20.	Chuyển tới khả năng nhiếp ảnh , Galaxy Z Fold2 sở hữu một hệ thông camera bao gồm 3 ống kính ở phía sau với thông số lần lượt là 12MP cho camera chính tương tự như của Galaxy Note20 .
+{"subject": ["8&&Galaxy", "9&&Z", "10&&Fold2"], "object": ["39&&Galaxy", "40&&Note20"], "aspect": ["14&&hệ", "15&&thông", "16&&camera"], "predicate": ["35&&tương", "36&&tự"], "label": "EQL"}
+
+Camera thứ hai có độ phân giải cũng là 12MP hỗ trợ chụp góc siêu rộng với độ rộng lên tới 123 độ và cuối cùng là camera tele độ phân giải 12MP có khả năng zoom quang 2x.	Camera thứ hai có độ phân giải cũng là 12MP hỗ trợ chụp góc siêu rộng với độ rộng lên tới 123 độ và cuối cùng là camera tele độ phân giải 12MP có khả năng zoom quang 2x .
+
+Các chế độ chụp ảnh của Galaxy Z Fold2 cũng rất ấn tượng bao gồm Single Take (Chụp một chạm), Night Mode (Chụp đêm), Pro Video (Quay video chuyên nghiệp),…Đặc biệt, với Galaxy Z Fold2, bạn còn có thể xem trước được camera ở phần màn hình bên ngoài khi chụp ảnh bằng camera sau.	Các chế độ chụp ảnh của Galaxy Z Fold2 cũng rất ấn tượng bao gồm Single Take ( Chụp một chạm ) , Night Mode ( Chụp đêm ) , Pro Video ( Quay video chuyên nghiệp ) , … Đặc biệt , với Galaxy Z Fold2 , bạn còn có thể xem trước được camera ở phần màn hình bên ngoài khi chụp ảnh bằng camera sau .
+
+Với camera selfie, máy sở hữu tới 2 camera 10MP, một camera ở màn hình bên ngoài và một camera được tích hợp ở phần màn hình bên trong.	Với camera selfie , máy sở hữu tới 2 camera 10MP , một camera ở màn hình bên ngoài và một camera được tích hợp ở phần màn hình bên trong .
+
+Tổng kết	Tổng kết
+
+Có quá nhiều điểm để chúng ta có thể “xiêu lòng” Galaxy Z Fold2 ngay từ cái nhìn và cái chạm tay đầu tiên.	Có quá nhiều điểm để chúng ta có thể “ xiêu lòng ” Galaxy Z Fold2 ngay từ cái nhìn và cái chạm tay đầu tiên .
+
+Với những người dùng đã và đang sử dụng Galaxy Fold thế hệ đầu, Galaxy Z Fold2 chính là những gì mà họ đang mong đợi.	Với những người dùng đã và đang sử dụng Galaxy Fold thế hệ đầu , Galaxy Z Fold2 chính là những gì mà họ đang mong đợi .
+
+Màn hình phụ lớn hơn, màn hình chính cũng được tăng kích thước, phần bản lề chắc chắn hơn cùng một cấu hình phần cứng vượt trội.	Màn hình phụ lớn hơn , màn hình chính cũng được tăng kích thước , phần bản lề chắc chắn hơn cùng một cấu hình phần cứng vượt trội .
+{"subject": [], "object": [], "aspect": ["1&&Màn", "2&&hình", "3&&phụ"], "predicate": ["4&&lớn", "5&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["7&&màn", "8&&hình", "9&&chính"], "predicate": ["11&&được", "12&&tăng", "13&&kích", "14&&thước"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["16&&phần", "17&&bản", "18&&lề"], "predicate": ["19&&chắc", "20&&chắn", "21&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["24&&cấu", "25&&hình", "26&&phần", "27&&cứng"], "predicate": ["28&&vượt", "29&&trội"], "label": "COM+"}
+
+Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18/9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $1.999, tức là sẽ rơi vào khoảng hơn 46 triệu đồng.	Samsung Galaxy Z Fold2 sẽ bắt đầu được mở bán từ ngày 18 / 9 tới đây tại hơn 40 quốc gia cùng mức giá niêm yết khởi điểm là $1.999 , tức là sẽ rơi vào khoảng hơn 46 triệu đồng .
+

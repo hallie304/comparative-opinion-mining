@@ -1,0 +1,132 @@
+title: So sánh camera giữa Galaxy S10 Plus và Huawei P30 Pro	title : So sánh camera giữa Galaxy S10 Plus và Huawei P30 Pro
+
+Năm nay, 2 hãng Samsung và Huawei đều có chung tầm nhìn khi tập trung vào phát triển camera trên các thế hệ flagship của họ.	Năm nay , 2 hãng Samsung và Huawei đều có chung tầm nhìn khi tập trung vào phát triển camera trên các thế hệ flagship của họ .
+
+Đầu năm nay, Samsung mở màn với sự ra mắt của chiếc Galaxy S10 Plus với cụm 3 camera đặt ngang thì lập tức Huawei đáp trả bằng cụm 4 camera đặt dọc của Huawei P30 Pro.	Đầu năm nay , Samsung mở màn với sự ra mắt của chiếc Galaxy S10 Plus với cụm 3 camera đặt ngang thì lập tức Huawei đáp trả bằng cụm 4 camera đặt dọc của Huawei P30 Pro .
+
+Theo như những gì Huawei công bố thì cụm camera của P30 Pro sẽ “định nghĩa lại qui luật nhiếp ảnh”.	Theo như những gì Huawei công bố thì cụm camera của P30 Pro sẽ “ định nghĩa lại qui luật nhiếp ảnh ” .
+
+Vậy thì trên thực tế thì P30 Pro có cho chất lượng ảnh tương tự, hay tốt hơn Galaxy S10 Plus của Samsung được hay không ?	Vậy thì trên thực tế thì P30 Pro có cho chất lượng ảnh tương tự , hay tốt hơn Galaxy S10 Plus của Samsung được hay không ?
+
+Trang technobuffalo đã có 1 bài so sánh camera của 2 mẫu flagship này dựa theo những ảnh chụp thực tế.	Trang technobuffalo đã có 1 bài so sánh camera của 2 mẫu flagship này dựa theo những ảnh chụp thực tế .
+
+Cả 2 máy đều sử dụng camera mặc định với phiên bản phần mềm ngay từ lúc khui hộp, nhằm tránh đi sự sai lệch về khả năng thực tế do 2 mẫu smartphone này có thời điểm ra mắt khác nhau.	Cả 2 máy đều sử dụng camera mặc định với phiên bản phần mềm ngay từ lúc khui hộp , nhằm tránh đi sự sai lệch về khả năng thực tế do 2 mẫu smartphone này có thời điểm ra mắt khác nhau .
+{"subject": ["1&&Cả", "2&&2", "3&&máy"], "object": ["1&&Cả", "2&&2", "3&&máy"], "aspect": ["7&&camera", "8&&mặc", "9&&định"], "predicate": ["4&&đều", "5&&sử", "6&&dụng"], "label": "EQL"}
+
+alt: Galaxy S10 Plus cho góc chụp rộng hơn	alt : Galaxy S10 Plus cho góc chụp rộng hơn
+
+des:	des :
+
+Với ảnh chụp từ camera góc rộng và camera góc siêu rộng như trong ảnh trên, bên trái sẽ là ảnh từ P30 Pro, còn bên phải là của Galaxy S10 Plus, tương tự với các ảnh ở dưới.	Với ảnh chụp từ camera góc rộng và camera góc siêu rộng như trong ảnh trên , bên trái sẽ là ảnh từ P30 Pro , còn bên phải là của Galaxy S10 Plus , tương tự với các ảnh ở dưới .
+
+Samsung có góc chụp rộng hơn ở camera góc siêu rộng, chất lượng hình của cả 2 máy đều rất tương xứng, tuy có 1 chút sự khác biệt ở màu sắc nhưng điều này là không đáng kể do nó còn phụ thuộc vào sự tinh chỉnh của hãng và người dùng.	Samsung có góc chụp rộng hơn ở camera góc siêu rộng , chất lượng hình của cả 2 máy đều rất tương xứng , tuy có 1 chút sự khác biệt ở màu sắc nhưng điều này là không đáng kể do nó còn phụ thuộc vào sự tinh chỉnh của hãng và người dùng .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["3&&góc", "4&&chụp"], "predicate": ["5&&rộng", "6&&hơn"], "label": "COM+"}
+{"subject": ["17&&cả", "18&&2", "19&&máy"], "object": ["17&&cả", "18&&2", "19&&máy"], "aspect": ["13&&chất", "14&&lượng", "15&&hình"], "predicate": ["20&&đều", "21&&rất", "22&&tương", "23&&xứng"], "label": "EQL"}
+
+alt: Khả năng zoom vượt trội của Huawei P30 Pro	alt : Khả năng zoom vượt trội của Huawei P30 Pro
+
+des:	des :
+
+Điểm khác biệt lớn nhất mà chúng ta nhận thấy sẽ là ở camera zoom.	Điểm khác biệt lớn nhất mà chúng ta nhận thấy sẽ là ở camera zoom .
+{"subject": [], "object": [], "aspect": ["14&&camera", "15&&zoom"], "predicate": ["1&&Điểm", "2&&khác", "3&&biệt", "4&&lớn", "5&&nhất"], "label": "DIF"}
+
+P30 Pro cho khả năng zoom quang học 5X, 10X zoom lai và lên đến 50X zoom kỹ thuật số.	P30 Pro cho khả năng zoom quang học 5X , 10X zoom lai và lên đến 50X zoom kỹ thuật số .
+
+Đối với Galaxy S10 Plus thì chỉ là 2X zoom quang học và zoom kỹ thuật số tối đa chỉ có 10X.	Đối với Galaxy S10 Plus thì chỉ là 2X zoom quang học và zoom kỹ thuật số tối đa chỉ có 10X .
+
+Không nghi ngờ gì nữa, khả năng zoom của P30 Pro vượt trội hơn hẳn so với Galaxy S10 Plus.	Không nghi ngờ gì nữa , khả năng zoom của P30 Pro vượt trội hơn hẳn so với Galaxy S10 Plus .
+{"subject": ["11&&P30", "12&&Pro"], "object": ["19&&Galaxy", "20&&S10", "21&&Plus"], "aspect": ["7&&khả", "8&&năng", "9&&zoom"], "predicate": ["13&&vượt", "14&&trội", "15&&hơn", "16&&hẳn"], "label": "COM+"}
+
+alt: Khả năng zoom vượt trội của Huawei P30 Pro	alt : Khả năng zoom vượt trội của Huawei P30 Pro
+
+des:	des :
+
+alt: Khả năng zoom vượt trội của Huawei P30 Pro	alt : Khả năng zoom vượt trội của Huawei P30 Pro
+
+des:	des :
+
+Galaxy S10 Plus cho chất lượng hình ảnh rất tốt, nhưng khả năng zoom của P30 Pro lại càng tuyệt vời hơn.	Galaxy S10 Plus cho chất lượng hình ảnh rất tốt , nhưng khả năng zoom của P30 Pro lại càng tuyệt vời hơn .
+{"subject": ["17&&P30", "18&&Pro"], "object": ["1&&Galaxy", "2&&S10", "3&&Plus"], "aspect": ["13&&khả", "14&&năng", "15&&zoom"], "predicate": ["21&&tuyệt", "22&&vời", "23&&hơn"], "label": "COM+"}
+
+Đối với smartphone, khả năng zoom ở khoảng cách cực xa như vậy mà vẫn giữ được độ rõ nét, và chi tiết đủ dùng như vậy là quá vượt trội.	Đối với smartphone , khả năng zoom ở khoảng cách cực xa như vậy mà vẫn giữ được độ rõ nét , và chi tiết đủ dùng như vậy là quá vượt trội .
+
+alt: Huawei chỉ có thể chụp chân dung chủ thể người	alt : Huawei chỉ có thể chụp chân dung chủ thể người
+
+des:	des :
+
+Khi đi sâu vào khả năng chụp ảnh xóa phông thì chế độ chụp chân dung của Huawei sẽ không hoạt động nếu chủ thể không có mặt người.	Khi đi sâu vào khả năng chụp ảnh xóa phông thì chế độ chụp chân dung của Huawei sẽ không hoạt động nếu chủ thể không có mặt người .
+
+Hình ảnh bên trái của Huawei P30 Pro được chụp bằng chế độ khẩu độ, còn bên phải của Samsung Galaxy S10 Plus được chụp qua chế độ lấy nét động ( chế độ này của Samsung không đòi hỏi yêu cầu mặt người trên chủ thể).	Hình ảnh bên trái của Huawei P30 Pro được chụp bằng chế độ khẩu độ , còn bên phải của Samsung Galaxy S10 Plus được chụp qua chế độ lấy nét động ( chế độ này của Samsung không đòi hỏi yêu cầu mặt người trên chủ thể ) .
+
+alt: Huawei P30 Pro chụp đêm tốt hơn Galaxy S10 Plus	alt : Huawei P30 Pro chụp đêm tốt hơn Galaxy S10 Plus
+
+des:	des :
+
+Huawei P30 Pro cho khả năng chụp ảnh thiếu sáng tốt hơn so với Samsung Galaxy S10 Plus ngay cả khi ở chế độ thường và chế độ chụp đêm.	Huawei P30 Pro cho khả năng chụp ảnh thiếu sáng tốt hơn so với Samsung Galaxy S10 Plus ngay cả khi ở chế độ thường và chế độ chụp đêm .
+{"subject": ["1&&Huawei", "2&&P30", "3&&Pro"], "object": ["15&&Samsung", "16&&Galaxy", "17&&S10", "18&&Plus"], "aspect": ["5&&khả", "6&&năng", "7&&chụp", "8&&ảnh", "9&&thiếu", "10&&sáng"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+
+Khẩu độ kép trên Galaxy Note 10 Plus cho nhiều ánh sáng vào hơn, nhưng kể cả khi dùng thêm tính năng tối ưu hóa cảnh vật thì P30 Pro vẫn cho hình ảnh giàu chi tiết và ánh sáng hơn.	Khẩu độ kép trên Galaxy Note 10 Plus cho nhiều ánh sáng vào hơn , nhưng kể cả khi dùng thêm tính năng tối ưu hóa cảnh vật thì P30 Pro vẫn cho hình ảnh giàu chi tiết và ánh sáng hơn .
+{"subject": ["5&&Galaxy", "6&&Note", "7&&10", "8&&Plus"], "object": ["30&&P30", "31&&Pro"], "aspect": ["1&&Khẩu", "2&&độ", "3&&kép"], "predicate": ["9&&cho", "10&&nhiều", "11&&ánh", "12&&sáng", "13&&vào", "14&&hơn"], "label": "COM+"}
+{"subject": ["30&&P30", "31&&Pro"], "object": ["5&&Galaxy", "6&&Note", "7&&10", "8&&Plus"], "aspect": ["34&&hình", "35&&ảnh"], "predicate": ["36&&giàu", "37&&chi", "38&&tiết", "39&&và", "40&&ánh", "41&&sáng", "42&&hơn"], "label": "COM+"}
+
+Hình trên bên trái là P30 Pro dùng chế độ chụp thường, ở giữa là chế độ tối của P30 Pro, bên phải là của Galaxy S10 Plus.	Hình trên bên trái là P30 Pro dùng chế độ chụp thường , ở giữa là chế độ tối của P30 Pro , bên phải là của Galaxy S10 Plus .
+
+alt: Galaxy S10 Plus xử lý chủ thể chân dung tốt hơn	alt : Galaxy S10 Plus xử lý chủ thể chân dung tốt hơn
+
+des:	des :
+
+Cảm biến ToF mang lại những gì ?	Cảm biến ToF mang lại những gì ?
+
+Theo như Huawei thì cảm biến này cung cấp dữ kiện cho AI để phân biệt được những chi tiết nhỏ nhất như sợi tóc trên chủ thể trong chế độ chân dung.	Theo như Huawei thì cảm biến này cung cấp dữ kiện cho AI để phân biệt được những chi tiết nhỏ nhất như sợi tóc trên chủ thể trong chế độ chân dung .
+
+Vậy nên cả 2 đều cho chất lượng ảnh chân dung khá tương đồng.	Vậy nên cả 2 đều cho chất lượng ảnh chân dung khá tương đồng .
+{"subject": ["3&&cả", "4&&2"], "object": ["3&&cả", "4&&2"], "aspect": ["7&&chất", "8&&lượng", "9&&ảnh", "10&&chân", "11&&dung"], "predicate": ["12&&khá", "13&&tương", "14&&đồng"], "label": "EQL"}
+
+Ngoại trừ việc dù không có ToF nhưng Galaxy S10 Plus vẫn nhận diện tóc trên đầu của chủ thể tốt hơn P30 Pro.	Ngoại trừ việc dù không có ToF nhưng Galaxy S10 Plus vẫn nhận diện tóc trên đầu của chủ thể tốt hơn P30 Pro .
+{"subject": ["9&&Galaxy", "10&&S10", "11&&Plus"], "object": ["23&&P30", "24&&Pro"], "aspect": ["13&&nhận", "14&&diện", "15&&tóc", "16&&trên", "17&&đầu", "18&&của", "19&&chủ", "20&&thể"], "predicate": ["21&&tốt", "22&&hơn"], "label": "COM+"}
+
+alt: Cả 2 máy cho chất lượng hình khá tương đồng	alt : Cả 2 máy cho chất lượng hình khá tương đồng
+
+des:	des :
+
+Cả 2 mẫu flagship này đều bắt được chi tiết rất tốt ngay cả khi chịu ảnh hưởng của ánh sáng mạnh phát ra từ chiếc đèn sưởi.	Cả 2 mẫu flagship này đều bắt được chi tiết rất tốt ngay cả khi chịu ảnh hưởng của ánh sáng mạnh phát ra từ chiếc đèn sưởi .
+{"subject": ["1&&Cả", "2&&2", "3&&mẫu", "4&&flagship", "5&&này"], "object": [], "aspect": ["9&&chi", "10&&tiết"], "predicate": ["6&&đều", "7&&bắt", "8&&được", "9&&chi", "10&&tiết", "11&&rất", "12&&tốt"], "label": "EQL"}
+
+Huawei cho độ chính xác màu tốt hơn ở khu vực đèn sáng mạnh.	Huawei cho độ chính xác màu tốt hơn ở khu vực đèn sáng mạnh .
+{"subject": ["1&&Huawei"], "object": [], "aspect": ["3&&độ", "4&&chính", "5&&xác", "6&&màu"], "predicate": ["7&&tốt", "8&&hơn", "9&&ở", "10&&khu", "11&&vực", "12&&đèn", "13&&sáng", "14&&mạnh"], "label": "COM+"}
+
+Còn trong khi đó Galaxy S10 Plus có dải tương phản động tốt hơn, có thể dễ dàng nhận ra khi nhìn vào ổ cửa sổ đằng sau.	Còn trong khi đó Galaxy S10 Plus có dải tương phản động tốt hơn , có thể dễ dàng nhận ra khi nhìn vào ổ cửa sổ đằng sau .
+{"subject": ["5&&Galaxy", "6&&S10", "7&&Plus"], "object": [], "aspect": ["9&&dải", "10&&tương", "11&&phản", "12&&động"], "predicate": ["13&&tốt", "14&&hơn"], "label": "COM+"}
+
+alt: Ảnh chụp chân dung của Galaxy S10 Plus hơi bị ám sương trắng	alt : Ảnh chụp chân dung của Galaxy S10 Plus hơi bị ám sương trắng
+
+des:	des :
+
+Galaxy S10 Plus hơi tỏ ra thua thiệt khi chụp selfie, phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng.	Galaxy S10 Plus hơi tỏ ra thua thiệt khi chụp selfie , phần lớn hình ảnh bị phủ bởi 1 lớp sương trắng .
+{"subject": ["1&&Galaxy", "2&&S10", "3&&Plus"], "object": [], "aspect": ["10&&chụp", "11&&selfie"], "predicate": ["5&&tỏ", "6&&ra", "7&&thua", "8&&thiệt"], "label": "COM-"}
+
+Khi so sánh thì Huawei P30 Pro cho chi tiết hình tốt hơn với độ chính xác màu cao hơn ở cả chủ thể và hậu cảnh.	Khi so sánh thì Huawei P30 Pro cho chi tiết hình tốt hơn với độ chính xác màu cao hơn ở cả chủ thể và hậu cảnh .
+{"subject": ["5&&Huawei", "6&&P30", "7&&Pro"], "object": [], "aspect": ["9&&chi", "10&&tiết", "11&&hình"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
+{"subject": ["5&&Huawei", "6&&P30", "7&&Pro"], "object": [], "aspect": ["15&&độ", "16&&chính", "17&&xác", "18&&màu"], "predicate": ["19&&cao", "20&&hơn"], "label": "COM+"}
+
+alt: Huawei P30 Pro cho chi tiết hoa tốt kèm theo xử lý nền	alt : Huawei P30 Pro cho chi tiết hoa tốt kèm theo xử lý nền
+
+des:	des :
+
+Hình ảnh trên là một bài thử AI khá thú vị ở trên 2 mẫu điện thoại.	Hình ảnh trên là một bài thử AI khá thú vị ở trên 2 mẫu điện thoại .
+
+P30 Pro làm mờ hậu cảnh khá tốt trong khi đó vẫn giữ được chi tiết của bông hoa.	P30 Pro làm mờ hậu cảnh khá tốt trong khi đó vẫn giữ được chi tiết của bông hoa .
+
+Đối với Galaxy S10 Plus thì bông hoa cũng tương tự nhưng hậu cảnh lại không được xử lý như Huawei.	Đối với Galaxy S10 Plus thì bông hoa cũng tương tự nhưng hậu cảnh lại không được xử lý như Huawei .
+{"subject": ["3&&Galaxy", "4&&S10", "5&&Plus"], "object": ["21&&Huawei"], "aspect": ["7&&bông", "8&&hoa"], "predicate": ["10&&tương", "11&&tự"], "label": "EQL"}
+{"subject": ["3&&Galaxy", "4&&S10", "5&&Plus"], "object": ["21&&Huawei"], "aspect": ["13&&hậu", "14&&cảnh"], "predicate": ["16&&không", "17&&được", "18&&xử", "19&&lý", "20&&như"], "label": "DIF"}
+
+Samsung Galaxy S10 Plus và Huawei P30 Pro đều có cụm camera ấn tượng, nhưng 2 máy hướng đến 2 trường phái khác nhau khi chụp.	Samsung Galaxy S10 Plus và Huawei P30 Pro đều có cụm camera ấn tượng , nhưng 2 máy hướng đến 2 trường phái khác nhau khi chụp .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S10", "4&&Plus"], "object": ["6&&Huawei", "7&&P30", "8&&Pro"], "aspect": ["11&&cụm", "12&&camera", "13&&ấn", "14&&tượng"], "predicate": ["9&&đều", "10&&có"], "label": "EQL"}
+
+Vậy thì quyết định chiếc smartphone nào sở hữu camera tốt hơn còn phụ thuộc vào sở thích cũng như con mắt nghệ thuật của người dùng.	Vậy thì quyết định chiếc smartphone nào sở hữu camera tốt hơn còn phụ thuộc vào sở thích cũng như con mắt nghệ thuật của người dùng .
+
+Huawei P30 Pro cho hình ấm áp hơn, còn Samsung Galaxy S10 Plus đi theo hướng tươi sáng nhiều hơn.	Huawei P30 Pro cho hình ấm áp hơn , còn Samsung Galaxy S10 Plus đi theo hướng tươi sáng nhiều hơn .
+{"subject": ["1&&Huawei", "2&&P30", "3&&Pro"], "object": ["11&&Samsung", "12&&Galaxy", "13&&S10"], "aspect": ["5&&hình"], "predicate": ["6&&ấm", "7&&áp", "8&&hơn"], "label": "COM+"}
+{"subject": ["11&&Samsung", "12&&Galaxy", "13&&S10"], "object": ["1&&Huawei", "2&&P30", "3&&Pro"], "aspect": [], "predicate": ["18&&tươi", "19&&sáng", "20&&nhiều", "21&&hơn"], "label": "COM+"}
+

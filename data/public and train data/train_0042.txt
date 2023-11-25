@@ -1,0 +1,181 @@
+Title: So sánh iPhone 14 Pro Max và OPPO Find X6 Pro: màn lột xác của flagship OPPO!	Title : So sánh iPhone 14 Pro Max và OPPO Find X6 Pro : màn lột xác của flagship OPPO !
+
+OPPO Find X6 Pro là mẫu flagship mới nhất nằm trong dải sản phẩm Find của hãng.	OPPO Find X6 Pro là mẫu flagship mới nhất nằm trong dải sản phẩm Find của hãng .
+
+Với thiết kế hoàn toàn mới, cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ, đây có thể coi một trong những mẫu máy toàn diện nhất nửa đầu năm 2023.	Với thiết kế hoàn toàn mới , cụm camera nhiều nâng cấp cùng hiệu năng mạnh mẽ , đây có thể coi một trong những mẫu máy toàn diện nhất nửa đầu năm 2023 .
+{"subject": ["19&&đây"], "object": [], "aspect": [], "predicate": ["28&&toàn", "29&&diện", "30&&nhất", "31&&nửa", "32&&đầu", "33&&năm", "34&&2023"], "label": "SUP+"}
+
+Vậy thì hãy đặt lên bàn cân cùng với iPhone 14 Pro Max, để xem đâu là lựa chọn dành cho bạn nhé.	Vậy thì hãy đặt lên bàn cân cùng với iPhone 14 Pro Max , để xem đâu là lựa chọn dành cho bạn nhé .
+
+Thời lượng pin	Thời lượng pin
+
+Thời lượng pin là điểm khiến mình ấn tượng nhất trên OPPO Find X6 Pro.	Thời lượng pin là điểm khiến mình ấn tượng nhất trên OPPO Find X6 Pro .
+
+Thế hệ OPPO Find X5 Pro tiền nhiệm mặc dù có cùng dung lượng pin 5.000mAh nhưng lại cho ra thời lượng sử dụng chỉ 3,5 giờ liên tục.	Thế hệ OPPO Find X5 Pro tiền nhiệm mặc dù có cùng dung lượng pin 5.000mAh nhưng lại cho ra thời lượng sử dụng chỉ 3,5 giờ liên tục .
+
+Còn trên Find X6 Pro, máy đạt tới hơn 7 giờ on-screen với các tác vụ hỗn hợp, bao gồm cả chơi game lẫn chấm điểm benchmark.	Còn trên Find X6 Pro , máy đạt tới hơn 7 giờ on-screen với các tác vụ hỗn hợp , bao gồm cả chơi game lẫn chấm điểm benchmark .
+
+alt:	alt :
+
+des:	des :
+
+Con số này có thể coi là đã tiệm cận iPhone 14 Pro Max.	Con số này có thể coi là đã tiệm cận iPhone 14 Pro Max .
+{"subject": [], "object": ["11&&iPhone", "12&&14", "13&&Pro", "14&&Max"], "aspect": ["1&&Con", "2&&số", "3&&này"], "predicate": ["9&&tiệm", "10&&cận"], "label": "EQL"}
+
+Tất nhiên thiết bị tới từ Apple vẫn cho thời lượng pin nhỉnh hơn một chút với từ 8 – 9 giờ on-screen, tuy nhiên sự chênh lệch khi sử dụng thực tế là không quá nhiều.	Tất nhiên thiết bị tới từ Apple vẫn cho thời lượng pin nhỉnh hơn một chút với từ 8 – 9 giờ on-screen , tuy nhiên sự chênh lệch khi sử dụng thực tế là không quá nhiều .
+{"subject": ["3&&thiết", "4&&bị", "5&&tới", "6&&từ", "7&&Apple"], "object": [], "aspect": ["10&&thời", "11&&lượng", "12&&pin"], "predicate": ["13&&nhỉnh", "14&&hơn", "15&&một"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Tuy nhiên, OPPO lại sở hữu công suất sạc vượt trội hơn hẳn đối thủ.	Tuy nhiên , OPPO lại sở hữu công suất sạc vượt trội hơn hẳn đối thủ .
+{"subject": ["4&&OPPO"], "object": ["15&&đối", "16&&thủ"], "aspect": ["8&&công", "9&&suất", "10&&sạc"], "predicate": ["11&&vượt", "12&&trội", "13&&hơn", "14&&hẳn"], "label": "COM+"}
+
+Với củ sạc 100W, máy có thể nạp đầy viên pin 5.000mAh chỉ trong 20 phút, trong khi iPhone 14 Pro Max cần tới gần 2 tiếng để sạc đầy pin.	Với củ sạc 100W , máy có thể nạp đầy viên pin 5.000mAh chỉ trong 20 phút , trong khi iPhone 14 Pro Max cần tới gần 2 tiếng để sạc đầy pin .
+
+Con số này là rất đáng cân nhắc nếu như bạn có nhu cầu sử dụng, di chuyển nhiều.	Con số này là rất đáng cân nhắc nếu như bạn có nhu cầu sử dụng , di chuyển nhiều .
+
+Màn hình	Màn hình
+
+Đều là những mẫu flagship nên hiển nhiên chất lượng màn hình trên OPPO Find X6 Pro và iPhone 14 Pro Max không có gì phải bàn cãi.	Đều là những mẫu flagship nên hiển nhiên chất lượng màn hình trên OPPO Find X6 Pro và iPhone 14 Pro Max không có gì phải bàn cãi .
+
+alt:	alt :
+
+des:	des :
+
+– OPPO dùng màn hình cong, trong khi iPhone dùng màn phẳng.	– OPPO dùng màn hình cong , trong khi iPhone dùng màn phẳng .
+
+Cá nhân mình thích màn hình trên OPPO hơn vì màn hình cong khiến trải nghiệm hiển thị tăng lên khá nhiều.	Cá nhân mình thích màn hình trên OPPO hơn vì màn hình cong khiến trải nghiệm hiển thị tăng lên khá nhiều .
+
+– Độ sáng màn hình trên OPPO là 2.500 nits, cao hơn so với chỉ 2.000 nits trên iPhone.	– Độ sáng màn hình trên OPPO là 2.500 nits , cao hơn so với chỉ 2.000 nits trên iPhone .
+{"subject": ["7&&OPPO"], "object": ["20&&iPhone"], "aspect": ["2&&Độ", "3&&sáng", "4&&màn", "5&&hình"], "predicate": ["12&&cao", "13&&hơn"], "label": "COM+"}
+
+Tuy nhiên, đó chỉ là độ sáng cực đại khi dùng ngoài trời, còn trong các điều kiện thông thường, OPPO sẽ hạ xuống còn 1.500 nits, tức là tối hơn một chút so với iPhone 14 Pro Max.	Tuy nhiên , đó chỉ là độ sáng cực đại khi dùng ngoài trời , còn trong các điều kiện thông thường , OPPO sẽ hạ xuống còn 1.500 nits , tức là tối hơn một chút so với iPhone 14 Pro Max .
+{"subject": ["24&&OPPO"], "object": ["40&&iPhone", "41&&14", "42&&Pro", "43&&Max"], "aspect": [], "predicate": ["34&&tối", "35&&hơn", "36&&một", "37&&chút"], "label": "COM-"}
+
+Độ sáng màn hình trên OPPO Find X6 Pro và iPhone 14 Pro Max	Độ sáng màn hình trên OPPO Find X6 Pro và iPhone 14 Pro Max
+
+Camera	Camera
+
+Tiếp theo là tới camera.	Tiếp theo là tới camera .
+
+Với cá nhân mình, Find X6 Pro đã lột xác hoàn toàn so với Find X5 Pro của năm ngoái, và đây mới là OPPO Flagship mà mình mong muốn.	Với cá nhân mình , Find X6 Pro đã lột xác hoàn toàn so với Find X5 Pro của năm ngoái , và đây mới là OPPO Flagship mà mình mong muốn .
+{"subject": ["6&&Find", "7&&X6", "8&&Pro"], "object": ["16&&Find", "17&&X5", "18&&Pro"], "aspect": [], "predicate": ["10&&lột", "11&&xác", "12&&hoàn", "13&&toàn"], "label": "DIF"}
+
+alt:	alt :
+
+des:	des :
+
+THỨ TỰ ẢNH CHỤP	THỨ TỰ ẢNH CHỤP
+
+OPPO FIND X6 PRO (TRÁI) — IPHONE 14 PRO MAX (PHẢI)	OPPO FIND X6 PRO ( TRÁI ) — IPHONE 14 PRO MAX ( PHẢI )
+
+Hãy đi đến khả năng quay video.	Hãy đi đến khả năng quay video .
+
+Trong điều kiện thực tế, nước ảnh cho ra trên OPPO là rất tuyệt vời ngay cả khi đặt cạnh với iPhone 14 Pro Max.	Trong điều kiện thực tế , nước ảnh cho ra trên OPPO là rất tuyệt vời ngay cả khi đặt cạnh với iPhone 14 Pro Max .
+
+Khả năng cân bằng trắng tốt, màu áo xử lý đúng chứ không bị ngả sang tone vàng như trên iPhone.	Khả năng cân bằng trắng tốt , màu áo xử lý đúng chứ không bị ngả sang tone vàng như trên iPhone .
+{"subject": [], "object": ["22&&iPhone"], "aspect": ["8&&màu", "9&&áo"], "predicate": ["14&&không", "15&&bị", "16&&ngả", "17&&sang", "18&&tone", "19&&vàng", "20&&như"], "label": "DIF"}
+
+Đặc biệt khi zoom, OPPO cho lượng chi tiết tái tạo tốt hơn thấy rõ so với iPhone, đôi khi bị mờ và noise.	Đặc biệt khi zoom , OPPO cho lượng chi tiết tái tạo tốt hơn thấy rõ so với iPhone , đôi khi bị mờ và noise .
+{"subject": ["6&&OPPO"], "object": ["19&&iPhone"], "aspect": ["8&&lượng", "9&&chi", "10&&tiết", "11&&tái", "12&&tạo"], "predicate": ["13&&tốt", "14&&hơn", "15&&thấy", "16&&rõ"], "label": "COM+"}
+
+alt:	alt :
+
+des: Khả năng lấy nét khi quay video trên hai mẫu máy	des : Khả năng lấy nét khi quay video trên hai mẫu máy
+
+Những bức ảnh chụp ra trên OPPO Find X6 Pro cho màu sắc rất tương đồng với Galaxy S23 Ultra.	Những bức ảnh chụp ra trên OPPO Find X6 Pro cho màu sắc rất tương đồng với Galaxy S23 Ultra .
+{"subject": ["1&&Những", "2&&bức", "3&&ảnh", "4&&chụp", "5&&ra", "6&&trên", "7&&OPPO", "8&&Find", "9&&X6", "10&&Pro"], "object": ["18&&Galaxy", "19&&S23", "20&&Ultra"], "aspect": ["12&&màu", "13&&sắc"], "predicate": ["15&&tương", "16&&đồng"], "label": "EQL"}
+{"subject": ["7&&OPPO", "8&&Find", "9&&X6", "10&&Pro"], "object": ["18&&Galaxy", "19&&S23", "20&&Ultra"], "aspect": ["1&&Những", "2&&bức", "3&&ảnh"], "predicate": ["12&&màu", "13&&sắc", "14&&rất", "15&&tương", "16&&đồng"], "label": "EQL"}
+
+Tuy nhiên, điểm đáng giá là chi tiết được tái tạo rất chân thực, không bị gai góc như trên Samsung.	Tuy nhiên , điểm đáng giá là chi tiết được tái tạo rất chân thực , không bị gai góc như trên Samsung .
+{"subject": [], "object": ["23&&Samsung"], "aspect": [], "predicate": ["17&&không", "18&&bị", "19&&gai", "20&&góc", "21&&như"], "label": "COM+"}
+
+Trên iPhone, bức ảnh vẫn được tái tạo rất chân thật, tuy nhiên ám vàng khá mạnh và bạn nên hậu kỳ chúng trước khi đăng tải lên mạng xã hội.	Trên iPhone , bức ảnh vẫn được tái tạo rất chân thật , tuy nhiên ám vàng khá mạnh và bạn nên hậu kỳ chúng trước khi đăng tải lên mạng xã hội .
+
+alt:	alt :
+
+des:	des :
+
+Tuy nhiên, ảnh chân dung trên OPPO Find X6 Pro đôi khi cho ra sự thiếu ổn định khi xảy ra hiện tượng xoá phông lỗi.	Tuy nhiên , ảnh chân dung trên OPPO Find X6 Pro đôi khi cho ra sự thiếu ổn định khi xảy ra hiện tượng xoá phông lỗi .
+
+Lỗi này diễn ra ngay cả trong điều kiện thiếu sáng lẫn đủ sáng.	Lỗi này diễn ra ngay cả trong điều kiện thiếu sáng lẫn đủ sáng .
+
+Trong khi đó, iPhone có thể giữ được sự ổn định của mình với những bức ảnh chân dung sắc nét, xoá phông tốt.	Trong khi đó , iPhone có thể giữ được sự ổn định của mình với những bức ảnh chân dung sắc nét , xoá phông tốt .
+
+alt:	alt :
+
+des:	des :
+
+Một điểm đáng khen nữa trên Find X6 Pro là nó đã tối ưu rất với các ứng dụng mạng xã hội.	Một điểm đáng khen nữa trên Find X6 Pro là nó đã tối ưu rất với các ứng dụng mạng xã hội .
+
+Đây là điều không thường thấy vì các hãng Trung Quốc thường không chú trọng vào yếu tố này, đặc biệt là các mẫu máy nội địa.	Đây là điều không thường thấy vì các hãng Trung Quốc thường không chú trọng vào yếu tố này , đặc biệt là các mẫu máy nội địa .
+
+Với ứng dụng Instagram, mình đã có thể chuyển qua lại giữa các ống kính với nhau.	Với ứng dụng Instagram , mình đã có thể chuyển qua lại giữa các ống kính với nhau .
+
+alt:	alt :
+
+des: Ảnh chụp bởi Instagram (trái) và ảnh chụp bằng camera (phải)	des : Ảnh chụp bởi Instagram ( trái ) và ảnh chụp bằng camera ( phải )
+
+Chất ảnh chụp ra trên các mạng xã hội nhìn chung là tốt, không bị bệt hay mất chi tiết như trên các thế hệ tiền nhiệm.	Chất ảnh chụp ra trên các mạng xã hội nhìn chung là tốt , không bị bệt hay mất chi tiết như trên các thế hệ tiền nhiệm .
+{"subject": [], "object": ["24&&các", "25&&thế", "26&&hệ", "27&&tiền", "28&&nhiệm"], "aspect": ["1&&Chất", "2&&ảnh", "3&&chụp", "4&&ra", "5&&trên", "6&&các", "7&&mạng", "8&&xã", "9&&hội"], "predicate": ["15&&không", "16&&bị", "17&&bệt", "18&&hay", "19&&mất", "20&&chi", "21&&tiết", "22&&như"], "label": "DIF"}
+
+Khi so sánh với iPhone 14 Pro Max, thực sự OPPO năm nay đã làm quá tốt về chi tiết, tuy nhiên màu sắc vẫn bị biến đổi và không thật như khi trên khung xem trước.	Khi so sánh với iPhone 14 Pro Max , thực sự OPPO năm nay đã làm quá tốt về chi tiết , tuy nhiên màu sắc vẫn bị biến đổi và không thật như khi trên khung xem trước .
+
+Thiết kế	Thiết kế
+
+Về thiết kế, mỗi mẫu máy đi theo một trường phái riêng.	Về thiết kế , mỗi mẫu máy đi theo một trường phái riêng .
+
+OPPO có một mặt lưng da đẹp, đi kèm cụm camera rất lớn với thiết kế đặc trưng.	OPPO có một mặt lưng da đẹp , đi kèm cụm camera rất lớn với thiết kế đặc trưng .
+
+Còn iPhone đi theo ngôn ngữ thiết kế sang trọng, cao cấp với mặt lưng kính nhám cùng cụm ba camera vô cùng dày và lớn.	Còn iPhone đi theo ngôn ngữ thiết kế sang trọng , cao cấp với mặt lưng kính nhám cùng cụm ba camera vô cùng dày và lớn .
+
+Cả hai đều sở hữu những thông số bảo vệ tốt, từ IP68 cho đến kính cường lực cao cấp.	Cả hai đều sở hữu những thông số bảo vệ tốt , từ IP68 cho đến kính cường lực cao cấp .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&những", "7&&thông", "8&&số", "9&&bảo", "10&&vệ", "11&&tốt"], "predicate": ["3&&đều", "4&&sở", "5&&hữu"], "label": "EQL"}
+
+alt:	alt :
+
+des:	des :
+
+Tuy nhiên, do sở hữu màn hình cong nên OPPO Find X6 Pro sẽ khó dán cường lực và phụ kiện hơn iPhone.	Tuy nhiên , do sở hữu màn hình cong nên OPPO Find X6 Pro sẽ khó dán cường lực và phụ kiện hơn iPhone .
+{"subject": ["11&&OPPO", "12&&Find", "13&&X6", "14&&Pro"], "object": ["24&&iPhone"], "aspect": ["18&&cường", "19&&lực", "20&&và", "21&&phụ", "22&&kiện"], "predicate": ["16&&khó", "17&&dán", "18&&cường", "19&&lực", "20&&và", "21&&phụ", "22&&kiện", "23&&hơn"], "label": "COM-"}
+
+Cá nhân mình thích cách làm màn hình cong trên Galaxy S23 Ultra hơn, độ cong vừa đủ trong khi vẫn đem đến trải nghiệm hiển thị là tuyệt vời.	Cá nhân mình thích cách làm màn hình cong trên Galaxy S23 Ultra hơn , độ cong vừa đủ trong khi vẫn đem đến trải nghiệm hiển thị là tuyệt vời .
+
+Hiệu năng	Hiệu năng
+
+Là hai chiếc flagship đỉnh cao nhất nên dễ hiểu khi cả OPPO Find X6 Pro và iPhone 14 Pro Max đều sở hữu cấu hình mạnh mẽ nhất.	Là hai chiếc flagship đỉnh cao nhất nên dễ hiểu khi cả OPPO Find X6 Pro và iPhone 14 Pro Max đều sở hữu cấu hình mạnh mẽ nhất .
+{"subject": ["13&&OPPO", "14&&Find", "15&&X6", "16&&Pro"], "object": ["18&&iPhone", "19&&14", "20&&Pro", "21&&Max"], "aspect": ["25&&cấu", "26&&hình", "27&&mạnh", "28&&mẽ", "29&&nhất"], "predicate": ["22&&đều", "23&&sở", "24&&hữu"], "label": "EQL"}
+
+Tuy nhiên, khi xét cùng phiên bản bộ nhớ tiêu chuẩn, OPPO Find X6 Pro có đến 12GB RAM và 256GB ROM, gấp đôi so với 6GB RAM và 128GB ROM trên iPhone.	Tuy nhiên , khi xét cùng phiên bản bộ nhớ tiêu chuẩn , OPPO Find X6 Pro có đến 12GB RAM và 256GB ROM , gấp đôi so với 6GB RAM và 128GB ROM trên iPhone .
+{"subject": ["14&&OPPO", "15&&Find", "16&&X6", "17&&Pro"], "object": ["36&&iPhone"], "aspect": ["7&&phiên", "8&&bản", "9&&bộ", "10&&nhớ", "11&&tiêu", "12&&chuẩn"], "predicate": ["26&&gấp", "27&&đôi"], "label": "COM+"}
+
+alt:	alt :
+
+des:	des :
+
+Qua các bài chấm điểm benchmark, OPPO Find X6 Pro đạt được hơn 1,3 triệu điểm Antutu Benchmark.	Qua các bài chấm điểm benchmark , OPPO Find X6 Pro đạt được hơn 1,3 triệu điểm Antutu Benchmark .
+
+Tuy nhiên, iPhone lại duy trì được hiệu năng tốt hơn khi đạt độ ổn định cao hơn tới 10% trong bài kiểm tra 3DMark Wild Life Extreme Stress Test.	Tuy nhiên , iPhone lại duy trì được hiệu năng tốt hơn khi đạt độ ổn định cao hơn tới 10% trong bài kiểm tra 3DMark Wild Life Extreme Stress Test .
+{"subject": ["4&&iPhone"], "object": [], "aspect": ["6&&duy", "7&&trì", "8&&được", "9&&hiệu", "10&&năng"], "predicate": ["11&&tốt", "12&&hơn"], "label": "COM+"}
+{"subject": ["4&&iPhone"], "object": [], "aspect": ["15&&độ", "16&&ổn", "17&&định"], "predicate": ["18&&cao", "19&&hơn", "20&&tới", "21&&10%"], "label": "COM+"}
+
+Khả năng chơi game trên OPPO Find X6 Pro năm nay cũng rất ấn tượng.	Khả năng chơi game trên OPPO Find X6 Pro năm nay cũng rất ấn tượng .
+
+Kể cả với Genshin Impact, một tựa game ‘sát’ cấu hình thì OPPO vẫn có thể duy trì hiệu năng tốt khi dải FPS cho ra gần như thẳng tắp.	Kể cả với Genshin Impact , một tựa game ‘ sát ’ cấu hình thì OPPO vẫn có thể duy trì hiệu năng tốt khi dải FPS cho ra gần như thẳng tắp .
+
+Nhiệt lượng toả ra cũng vô cùng mát mẻ, thậm chí tốt hơn rất nhiều so với iPhone 14 Pro Max.	Nhiệt lượng toả ra cũng vô cùng mát mẻ , thậm chí tốt hơn rất nhiều so với iPhone 14 Pro Max .
+{"subject": [], "object": ["19&&iPhone", "20&&14", "21&&Pro", "22&&Max"], "aspect": ["1&&Nhiệt", "2&&lượng", "3&&toả", "4&&ra"], "predicate": ["13&&tốt", "14&&hơn", "15&&rất", "16&&nhiều"], "label": "COM+"}
+
+Thông số sau 15 phút chơi Genshin Impact (Cao, 60FPS) trên OPPO Find X6 Pro và iPhone 14 Pro Max	Thông số sau 15 phút chơi Genshin Impact ( Cao , 60FPS ) trên OPPO Find X6 Pro và iPhone 14 Pro Max
+
+Tổng kết	Tổng kết
+
+Có thể nói, cả iPhone 14 Pro Max lẫn OPPO Find X6 Pro đều là những mẫu flagship rất đáng để trải nghiệm.	Có thể nói , cả iPhone 14 Pro Max lẫn OPPO Find X6 Pro đều là những mẫu flagship rất đáng để trải nghiệm .
+
+OPPO sẽ phù hợp nếu bạn yêu cầu một chiếc máy với ngôn ngữ thiết kế độc đáo, mới lạ, một hiệu năng mạnh mẽ cùng hệ thống camera chất lượng.	OPPO sẽ phù hợp nếu bạn yêu cầu một chiếc máy với ngôn ngữ thiết kế độc đáo , mới lạ , một hiệu năng mạnh mẽ cùng hệ thống camera chất lượng .
+
+Còn iPhone 14 Pro Max vẫn sẽ là sự lựa chọn an toàn nhờ hệ điều hành iOS ổn định, lâu dài cùng thương hiệu tốt hơn.	Còn iPhone 14 Pro Max vẫn sẽ là sự lựa chọn an toàn nhờ hệ điều hành iOS ổn định , lâu dài cùng thương hiệu tốt hơn .
+{"subject": ["2&&iPhone", "3&&14", "4&&Pro", "5&&Max"], "object": [], "aspect": ["15&&hệ", "16&&điều", "17&&hành", "18&&iOS"], "predicate": ["19&&ổn", "20&&định", "21&&,", "22&&lâu", "23&&dài", "24&&cùng", "25&&thương", "26&&hiệu", "27&&tốt", "28&&hơn"], "label": "COM+"}
+

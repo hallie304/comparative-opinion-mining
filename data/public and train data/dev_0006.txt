@@ -1,0 +1,142 @@
+title: Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra: Đâu là kẻ chiến thắng?	title : Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra : Đâu là kẻ chiến thắng ?
+
+Đứng từ phía người dùng, họ luôn có những băn khoăn giữa 2 chiếc Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra, câu hỏi được đặt ra liệu sản phẩm nào tốt hơn.	Đứng từ phía người dùng , họ luôn có những băn khoăn giữa 2 chiếc Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra , câu hỏi được đặt ra liệu sản phẩm nào tốt hơn .
+
+Để chi tiền một cách hiệu quả nhất, các bạn hãy cùng chúng tôi tìm hiểu ở bài viết ngay sau đây nhé!	Để chi tiền một cách hiệu quả nhất , các bạn hãy cùng chúng tôi tìm hiểu ở bài viết ngay sau đây nhé !
+
+1.Thiết kế	1 . Thiết kế
+
+Khi nói đến chất lượng hoàn thiện, Xiaomi chắc chắn hoàn toàn ngang bằng với Galaxy S23 Ultra.	Khi nói đến chất lượng hoàn thiện , Xiaomi chắc chắn hoàn toàn ngang bằng với Galaxy S23 Ultra .
+{"subject": ["9&&Xiaomi"], "object": ["17&&Galaxy", "18&&S23", "19&&Ultra"], "aspect": ["4&&chất", "5&&lượng", "6&&hoàn", "7&&thiện"], "predicate": ["12&&hoàn", "13&&toàn", "14&&ngang", "15&&bằng"], "label": "EQL"}
+
+Cả hai đều cho thấy cảm giác tinh tế, chắc chắn khi cầm tay, được hoàn thiện tốt về mặt ngoại hình.	Cả hai đều cho thấy cảm giác tinh tế , chắc chắn khi cầm tay , được hoàn thiện tốt về mặt ngoại hình .
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["6&&cảm", "7&&giác", "8&&tinh", "9&&tế"], "predicate": ["3&&đều", "4&&cho", "5&&thấy"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["11&&chắc", "12&&chắn", "13&&khi", "14&&cầm", "15&&tay"], "predicate": ["3&&đều", "4&&cho", "5&&thấy"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai"], "object": [], "aspect": ["17&&được", "18&&hoàn", "19&&thiện", "20&&tốt", "21&&về", "22&&mặt", "23&&ngoại", "24&&hình"], "predicate": ["3&&đều", "4&&cho", "5&&thấy"], "label": "EQL"}
+
+Trong khi Galaxy được làm bằng kính ở mặt trước và mặt sau và nhôm cho khung giữa, thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau, một là kính giống như Galaxy, nhưng bạn cũng có lựa chọn mặt sau bằng gốm bền hơn nhiều, đến trầy xước và thậm chí là lớp hoàn thiện giả da với họa tiết rất dễ chịu.	Trong khi Galaxy được làm bằng kính ở mặt trước và mặt sau và nhôm cho khung giữa , thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau , một là kính giống như Galaxy , nhưng bạn cũng có lựa chọn mặt sau bằng gốm bền hơn nhiều , đến trầy xước và thậm chí là lớp hoàn thiện giả da với họa tiết rất dễ chịu .
+{"subject": ["45&&mặt", "46&&sau", "47&&bằng", "48&&gốm"], "object": ["34&&kính", "35&&giống", "36&&như", "37&&Galaxy"], "aspect": ["49&&bền"], "predicate": ["50&&hơn", "51&&nhiều"], "label": "COM+"}
+
+alt: Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra	alt : Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra
+
+des: Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra	des : Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra
+
+Xét về trọng lượng, Galaxy chắc chắn là điện thoại lớn hơn và nặng hơn, trong khi Xiaomi thì ngược lại, cảm giác nhỏ gọn và dễ thao tác hơn bằng một tay khi sử dụng.	Xét về trọng lượng , Galaxy chắc chắn là điện thoại lớn hơn và nặng hơn , trong khi Xiaomi thì ngược lại , cảm giác nhỏ gọn và dễ thao tác hơn bằng một tay khi sử dụng .
+{"subject": ["6&&Galaxy"], "object": ["20&&Xiaomi"], "aspect": [], "predicate": ["12&&lớn", "13&&hơn"], "label": "COM-"}
+{"subject": ["6&&Galaxy"], "object": ["20&&Xiaomi"], "aspect": [], "predicate": ["15&&nặng", "16&&hơn"], "label": "COM-"}
+{"subject": ["20&&Xiaomi"], "object": ["6&&Galaxy"], "aspect": ["35&&một", "36&&tay", "37&&khi", "38&&sử", "39&&dụng"], "predicate": ["27&&nhỏ", "28&&gọn", "29&&và", "30&&dễ", "31&&thao", "32&&tác", "33&&hơn"], "label": "COM+"}
+
+Ngoài ra còn có một sự khác biệt đáng chú ý về kích thước và kích thước màn hình.	Ngoài ra còn có một sự khác biệt đáng chú ý về kích thước và kích thước màn hình .
+{"subject": [], "object": [], "aspect": ["13&&kích", "14&&thước"], "predicate": ["7&&khác", "8&&biệt", "9&&đáng", "10&&chú", "11&&ý"], "label": "DIF"}
+{"subject": [], "object": [], "aspect": ["16&&kích", "17&&thước", "18&&màn", "19&&hình"], "predicate": ["7&&khác", "8&&biệt", "9&&đáng", "10&&chú", "11&&ý"], "label": "DIF"}
+
+Galaxy có màn hình 6,8 inch, trong khi Xiaomi có màn hình 6,7 inch, nhưng sự khác biệt 0,1 inch đó là sai lệch vì Galaxy lớn hơn đáng kể nhờ tỷ lệ khung hình 19,3:9 rộng hơn (so với 20:9 trên Xiaomi).	Galaxy có màn hình 6,8 inch , trong khi Xiaomi có màn hình 6,7 inch , nhưng sự khác biệt 0,1 inch đó là sai lệch vì Galaxy lớn hơn đáng kể nhờ tỷ lệ khung hình 19,3 : 9 rộng hơn ( so với 20 : 9 trên Xiaomi ) .
+{"subject": ["28&&Galaxy"], "object": ["10&&Xiaomi"], "aspect": ["12&&màn", "13&&hình"], "predicate": ["29&&lớn", "30&&hơn", "31&&đáng", "32&&kể"], "label": "COM"}
+{"subject": ["28&&Galaxy"], "object": ["50&&Xiaomi"], "aspect": ["34&&tỷ", "35&&lệ", "36&&khung", "37&&hình"], "predicate": ["41&&rộng", "42&&hơn"], "label": "COM+"}
+
+2.	2 .
+
+Màn hình	Màn hình
+
+Cả hai dường như đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung, đây là một tin tuyệt vời.	Cả hai dường như đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung , đây là một tin tuyệt vời .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["8&&công", "9&&nghệ", "10&&tấm", "11&&nền", "12&&OLED", "13&&mới", "14&&nhất", "15&&của", "16&&Samsung"], "predicate": ["5&&đều", "6&&sử", "7&&dụng"], "label": "EQL"}
+
+Khung màn hình phủ màu sắc rất sống động, ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn.	Khung màn hình phủ màu sắc rất sống động , ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn .
+
+Bạn thậm chí có thể thấy rằng Xiaomi thực sự đạt được độ sáng tối đa cao hơn một chút, điều này thực sự thú vị.	Bạn thậm chí có thể thấy rằng Xiaomi thực sự đạt được độ sáng tối đa cao hơn một chút , điều này thực sự thú vị .
+{"subject": ["8&&Xiaomi"], "object": [], "aspect": ["13&&độ", "14&&sáng", "15&&tối", "16&&đa"], "predicate": ["17&&cao", "18&&hơn", "19&&một", "20&&chút"], "label": "COM+"}
+
+alt: Màn hình hiển thị giữa 2 phiên bản	alt : Màn hình hiển thị giữa 2 phiên bản
+
+des: Màn hình hiển thị giữa 2 phiên bản	des : Màn hình hiển thị giữa 2 phiên bản
+
+Về sinh trắc học, cả hai đều dựa vào máy quét dấu vân tay dưới màn hình, nhưng Galaxy sử dụng cảm biến siêu âm, trong khi Xiaomi sử dụng cảm biến loại quang học.	Về sinh trắc học , cả hai đều dựa vào máy quét dấu vân tay dưới màn hình , nhưng Galaxy sử dụng cảm biến siêu âm , trong khi Xiaomi sử dụng cảm biến loại quang học .
+{"subject": ["6&&cả", "7&&hai"], "object": ["6&&cả", "7&&hai"], "aspect": ["11&&máy", "12&&quét", "13&&dấu", "14&&vân", "15&&tay", "16&&dưới", "17&&màn", "18&&hình"], "predicate": ["8&&đều", "9&&dựa", "10&&vào"], "label": "EQL"}
+{"subject": ["6&&cả", "7&&hai"], "object": ["6&&cả", "7&&hai"], "aspect": ["2&&sinh", "3&&trắc", "4&&học"], "predicate": ["8&&đều", "9&&dựa", "10&&vào", "11&&máy", "12&&quét", "13&&dấu", "14&&vân", "15&&tay", "16&&dưới", "17&&màn", "18&&hình"], "label": "EQL"}
+
+Cả hai đều hoàn thành công việc tốt như nhau, vì vậy không có gì phải phàn nàn ở đây.	Cả hai đều hoàn thành công việc tốt như nhau , vì vậy không có gì phải phàn nàn ở đây .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": [], "predicate": ["3&&đều", "4&&hoàn", "5&&thành", "6&&công", "7&&việc", "8&&tốt", "9&&như", "10&&nhau"], "label": "EQL"}
+
+3.	3 .
+
+Hiệu năng	Hiệu năng
+
+Cả hai điện thoại đều đi kèm với bộ vi xử lý Snapdragon 8 Gen 2 của Qualcomm và mặc dù Samsung gọi phiên bản của nó là một mẫu đặc biệt, nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Cả hai điện thoại đều đi kèm với bộ vi xử lý Snapdragon 8 Gen 2 của Qualcomm và mặc dù Samsung gọi phiên bản của nó là một mẫu đặc biệt , nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&bộ", "10&&vi", "11&&xử", "12&&lý", "13&&Snapdragon", "14&&8", "15&&Gen", "16&&2", "17&&của", "18&&Qualcomm"], "predicate": ["5&&đều", "6&&đi", "7&&kèm"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["39&&hiệu", "40&&suất", "41&&thực", "42&&tế"], "predicate": ["35&&sự", "36&&khác", "37&&biệt", "38&&về", "39&&hiệu", "40&&suất", "41&&thực", "42&&tế", "43&&là", "44&&không", "45&&đáng", "46&&kể"], "label": "EQL"}
+
+Nếu bạn tò mò về lý do tại sao lại như vậy, thì phiên bản Snapdragon của Samsung có xung nhịp cao hơn một chút, điều này mang lại cho nó một lợi thế rất nhỏ trong một số trường hợp sử dụng.	Nếu bạn tò mò về lý do tại sao lại như vậy , thì phiên bản Snapdragon của Samsung có xung nhịp cao hơn một chút , điều này mang lại cho nó một lợi thế rất nhỏ trong một số trường hợp sử dụng .
+{"subject": ["19&&Samsung"], "object": [], "aspect": ["15&&phiên", "16&&bản", "17&&Snapdragon"], "predicate": ["21&&xung", "22&&nhịp", "23&&cao", "24&&hơn", "25&&một", "26&&chút"], "label": "COM+"}
+{"subject": ["15&&phiên", "16&&bản", "17&&Snapdragon", "18&&của", "19&&Samsung"], "object": [], "aspect": ["21&&xung", "22&&nhịp"], "predicate": ["23&&cao", "24&&hơn", "25&&một", "26&&chút"], "label": "COM+"}
+
+Và về RAM và dung lượng lưu trữ, Galaxy có mẫu cơ sở với RAM 8GB và dung lượng lưu trữ 256 GB, trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB.	Và về RAM và dung lượng lưu trữ , Galaxy có mẫu cơ sở với RAM 8GB và dung lượng lưu trữ 256 GB , trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB .
+
+Bạn cũng có thể nhận được RAM 12 GB trên Galaxy, nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512 GB để được nâng cấp RAM.	Bạn cũng có thể nhận được RAM 12 GB trên Galaxy , nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512 GB để được nâng cấp RAM .
+
+Bạn có thể thấy những khác biệt nhỏ về điểm số của những điện thoại này trong bài kiểm tra trung tâm CPU GeekBench.	Bạn có thể thấy những khác biệt nhỏ về điểm số của những điện thoại này trong bài kiểm tra trung tâm CPU GeekBench .
+
+Thay vào đó, sự khác biệt thực sự nằm ở bài kiểm tra 3D Mark Wildlife thứ hai, đây là bài kiểm tra chơi trò chơi.	Thay vào đó , sự khác biệt thực sự nằm ở bài kiểm tra 3D Mark Wildlife thứ hai , đây là bài kiểm tra chơi trò chơi .
+
+Điểm số cao mà bạn thấy thể hiện sự bùng nổ hiệu suất ban đầu, nhưng điểm số thứ hai cho thấy điểm số sử dụng thực tế hơn.	Điểm số cao mà bạn thấy thể hiện sự bùng nổ hiệu suất ban đầu , nhưng điểm số thứ hai cho thấy điểm số sử dụng thực tế hơn .
+
+Nó cho thấy Galaxy tăng tốc đáng kể như thế nào sau vài phút thử nghiệm chơi trò chơi căng thẳng này, trong khi Xiaomi giữ vững vị trí của mình tốt hơn nhiều.	Nó cho thấy Galaxy tăng tốc đáng kể như thế nào sau vài phút thử nghiệm chơi trò chơi căng thẳng này , trong khi Xiaomi giữ vững vị trí của mình tốt hơn nhiều .
+{"subject": ["26&&Xiaomi"], "object": ["4&&Galaxy"], "aspect": [], "predicate": ["33&&tốt", "34&&hơn", "35&&nhiều"], "label": "COM+"}
+
+alt: So sánh theo thang 3D Mark Extreme	alt : So sánh theo thang 3D Mark Extreme
+
+des: So sánh theo thang 3D Mark Extreme	des : So sánh theo thang 3D Mark Extreme
+
+4.	4 .
+
+Camera	Camera
+
+Hứa hẹn lớn của Xiaomi 13 Pro chắc chắn là về máy ảnh: bạn có cảm biến máy ảnh chính loại 1 inch, lớn hơn những gì bạn có trên Galaxy và về mặt lý thuyết sẽ hoạt động tốt hơn vào ban đêm và bạn có khả năng thu phóng 3,2 lần máy ảnh có một số siêu năng lực mà chúng ta sẽ nói đến dưới đây.	Hứa hẹn lớn của Xiaomi 13 Pro chắc chắn là về máy ảnh : bạn có cảm biến máy ảnh chính loại 1 inch , lớn hơn những gì bạn có trên Galaxy và về mặt lý thuyết sẽ hoạt động tốt hơn vào ban đêm và bạn có khả năng thu phóng 3,2 lần máy ảnh có một số siêu năng lực mà chúng ta sẽ nói đến dưới đây .
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["33&&Galaxy"], "aspect": ["17&&cảm", "18&&biến", "19&&máy", "20&&ảnh", "21&&chính"], "predicate": ["26&&lớn", "27&&hơn"], "label": "COM+"}
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro"], "object": ["33&&Galaxy"], "aspect": ["17&&cảm", "18&&biến", "19&&máy", "20&&ảnh", "21&&chính"], "predicate": ["40&&hoạt", "41&&động", "42&&tốt", "43&&hơn", "44&&vào", "45&&ban", "46&&đêm"], "label": "COM+"}
+
+Vào một ngày nắng đẹp, bạn có thể thấy rằng Xiaomi sẽ tối hơn, trong khi Galaxy chụp ảnh sáng hơn với màu sắc tương sáng hơn thực tế.	Vào một ngày nắng đẹp , bạn có thể thấy rằng Xiaomi sẽ tối hơn , trong khi Galaxy chụp ảnh sáng hơn với màu sắc tương sáng hơn thực tế .
+{"subject": ["12&&Xiaomi"], "object": ["19&&Galaxy"], "aspect": ["20&&chụp", "21&&ảnh"], "predicate": ["14&&tối", "15&&hơn"], "label": "COM"}
+{"subject": ["19&&Galaxy"], "object": ["12&&Xiaomi"], "aspect": ["20&&chụp", "21&&ảnh"], "predicate": ["22&&sáng", "23&&hơn"], "label": "COM"}
+{"subject": ["19&&Galaxy"], "object": ["12&&Xiaomi"], "aspect": ["25&&màu", "26&&sắc", "27&&tương"], "predicate": ["28&&sáng", "29&&hơn", "30&&thực", "31&&tế"], "label": "COM"}
+
+alt: Khả năng chụp hình giữa hai camera	alt : Khả năng chụp hình giữa hai camera
+
+des: Khả năng chụp hình giữa hai camera	des : Khả năng chụp hình giữa hai camera
+
+5.	5 .
+
+Thời lượng pin sử dụng	Thời lượng pin sử dụng
+
+Nhìn vào kích thước pin, bạn có viên pin 4.820 mAh trên Xiaomi 13 Pro và lớn hơn gần 4%, viên pin 5.000 mAh trên Galaxy, vì vậy bạn có thể nghĩ rằng Galaxy sẽ dễ dàng giành chiến thắng trong vòng đấu về pin.	Nhìn vào kích thước pin , bạn có viên pin 4.820 mAh trên Xiaomi 13 Pro và lớn hơn gần 4% , viên pin 5.000 mAh trên Galaxy , vì vậy bạn có thể nghĩ rằng Galaxy sẽ dễ dàng giành chiến thắng trong vòng đấu về pin .
+{"subject": ["14&&Xiaomi", "15&&13", "16&&Pro"], "object": ["28&&Galaxy"], "aspect": ["3&&kích", "4&&thước", "5&&pin"], "predicate": ["18&&lớn", "19&&hơn", "20&&gần", "21&&4%"], "label": "COM+"}
+{"subject": ["37&&Galaxy"], "object": ["14&&Xiaomi", "15&&13", "16&&Pro"], "aspect": ["48&&pin"], "predicate": ["39&&dễ", "40&&dàng", "41&&giành", "42&&chiến", "43&&thắng"], "label": "COM+"}
+
+Như bạn có thể thấy, các bạn có thể thấy, Galaxy đánh bại Xiaomi trong trò chơi 3D (có thể là điều chỉnh giúp ích ở đây) và Xiaomi thực sự có một lợi thế rất lớn trong thời gian phát lại video YouTube.	Như bạn có thể thấy , các bạn có thể thấy , Galaxy đánh bại Xiaomi trong trò chơi 3D ( có thể là điều chỉnh giúp ích ở đây ) và Xiaomi thực sự có một lợi thế rất lớn trong thời gian phát lại video YouTube .
+{"subject": ["13&&Galaxy"], "object": ["16&&Xiaomi"], "aspect": ["18&&trò", "19&&chơi", "20&&3D"], "predicate": ["14&&đánh", "15&&bại"], "label": "COM+"}
+{"subject": ["33&&Xiaomi"], "object": ["13&&Galaxy"], "aspect": ["43&&thời", "44&&gian", "45&&phát", "46&&lại", "47&&video", "48&&YouTube"], "predicate": ["36&&có", "37&&một", "38&&lợi", "39&&thế", "40&&rất", "41&&lớn"], "label": "COM+"}
+
+alt: Thời lượng pin sử dụng máy	alt : Thời lượng pin sử dụng máy
+
+des:	des :
+
+Trong cuộc sống thực, cả hai điện thoại đều dễ dàng tồn tại trong nhiều ngày thậm chí còn dài hơn và với mức sử dụng vừa phải, trung bình sẽ kéo dài khoảng một ngày rưỡi và thậm chí nhiều hơn nếu bạn hầu như không sử dụng điện thoại của mình.	Trong cuộc sống thực , cả hai điện thoại đều dễ dàng tồn tại trong nhiều ngày thậm chí còn dài hơn và với mức sử dụng vừa phải , trung bình sẽ kéo dài khoảng một ngày rưỡi và thậm chí nhiều hơn nếu bạn hầu như không sử dụng điện thoại của mình .
+
+Khi nói đến sạc, Galaxy với “sạc nhanh” 45W trông giống như một cầu thủ hạng D so với ngôi sao toàn năng Xiaomi với sạc nhanh 120W.	Khi nói đến sạc , Galaxy với “ sạc nhanh ” 45W trông giống như một cầu thủ hạng D so với ngôi sao toàn năng Xiaomi với sạc nhanh 120W .
+{"subject": ["6&&Galaxy"], "object": ["27&&Xiaomi"], "aspect": ["9&&sạc", "10&&nhanh"], "predicate": ["15&&như", "16&&một", "17&&cầu", "18&&thủ", "19&&hạng", "20&&D", "21&&so", "22&&với", "23&&ngôi", "24&&sao", "25&&toàn", "26&&năng"], "label": "COM-"}
+
+Đó là một sự khác biệt lớn, Xiaomi sạc đầy trong vòng chưa đầy 30 phút, trong khi Galaxy mất hơn một giờ.	Đó là một sự khác biệt lớn , Xiaomi sạc đầy trong vòng chưa đầy 30 phút , trong khi Galaxy mất hơn một giờ .
+{"subject": ["9&&Xiaomi"], "object": ["21&&Galaxy"], "aspect": ["10&&sạc"], "predicate": ["5&&khác", "6&&biệt", "7&&lớn"], "label": "DIF"}
+
+Cả hai điện thoại cũng hỗ trợ sạc không dây và một lần nữa, Xiaomi nhanh hơn rất nhiều với tốc độ 50W so với chỉ 10W trên Galaxy.	Cả hai điện thoại cũng hỗ trợ sạc không dây và một lần nữa , Xiaomi nhanh hơn rất nhiều với tốc độ 50W so với chỉ 10W trên Galaxy .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&sạc", "9&&không", "10&&dây"], "predicate": ["5&&cũng", "6&&hỗ", "7&&trợ"], "label": "EQL"}
+{"subject": ["16&&Xiaomi"], "object": ["30&&Galaxy"], "aspect": ["22&&tốc", "23&&độ"], "predicate": ["17&&nhanh", "18&&hơn", "19&&rất", "20&&nhiều"], "label": "COM+"}
+
+Tạm kết	Tạm kết
+
+Có thể nói cả hai phiên bản khá cân tài cân sức trong bài so sánh.	Có thể nói cả hai phiên bản khá cân tài cân sức trong bài so sánh .
+{"subject": ["4&&cả", "5&&hai", "6&&phiên", "7&&bản"], "object": ["4&&cả", "5&&hai", "6&&phiên", "7&&bản"], "aspect": [], "predicate": ["9&&cân", "10&&tài", "11&&cân", "12&&sức"], "label": "EQL"}
+
+Sự chênh lệch thực sự không nhiều về mọi mặt.	Sự chênh lệch thực sự không nhiều về mọi mặt .
+
+Vậy nên với mỗi người dùng yêu cầu tiêu chí khác nhau có thể chọn phiên bản tốt hơn để tối ưu khi sử dụng.	Vậy nên với mỗi người dùng yêu cầu tiêu chí khác nhau có thể chọn phiên bản tốt hơn để tối ưu khi sử dụng .
+
