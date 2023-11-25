@@ -7,7 +7,7 @@ sys.path.append(working_directory + "/models")
 from models.task1_and_task3 import task1_task3_train
 from models.task2 import task2_train
 
-data_path = r"data/all_task_ver3_combine_as_pred.csv"
+data_path = r"preprocess/Generate_process/Upsample_data.csv"
 
 task1_phobert = task1_task3_train(data_path, r"task1", "vinai/phobert-base")
 task3_phobert = task1_task3_train(data_path, r"task3", "vinai/phobert-base")
