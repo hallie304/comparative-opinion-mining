@@ -1,0 +1,121 @@
+title: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	title : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
+
+Ở thời điểm hiện tại, mặc dù Samsung vẫn chưa chính thức ra mắt Galaxy S23 nhưng nhờ các tin đồn và rò rỉ xuất hiện thời gian qua, chúng ta đã có khá đầy đủ thông tin về flagship này.	Ở thời điểm hiện tại , mặc dù Samsung vẫn chưa chính thức ra mắt Galaxy S23 nhưng nhờ các tin đồn và rò rỉ xuất hiện thời gian qua , chúng ta đã có khá đầy đủ thông tin về flagship này .
+
+Dựa trên điều đó, chúng ta có thể so sánh Galaxy S23 với iPhone 13 để giúp người dùng có được những hình dung ban đầu về hai điện thoại này, từ đó quyết định sẽ mua model nào khi Samsung giới thiệu thế hệ Galaxy S mới của mình vào đầu năm tới.	Dựa trên điều đó , chúng ta có thể so sánh Galaxy S23 với iPhone 13 để giúp người dùng có được những hình dung ban đầu về hai điện thoại này , từ đó quyết định sẽ mua model nào khi Samsung giới thiệu thế hệ Galaxy S mới của mình vào đầu năm tới .
+
+Thiết kế	Thiết kế
+
+Trên iPhone 13, Apple đã mang đến một cải tiến nhỏ về thiết kế mặt trước khi phần notch xuất hiện với kích thước nhỏ gọn hơn một chút so với thế hệ trước.	Trên iPhone 13 , Apple đã mang đến một cải tiến nhỏ về thiết kế mặt trước khi phần notch xuất hiện với kích thước nhỏ gọn hơn một chút so với thế hệ trước .
+{"subject": ["2&&iPhone", "3&&13"], "object": ["33&&thế", "34&&hệ", "35&&trước"], "aspect": ["14&&thiết", "15&&kế", "16&&mặt", "17&&trước"], "predicate": ["10&&cải", "11&&tiến", "12&&nhỏ"], "label": "DIF"}
+{"subject": ["2&&iPhone", "3&&13"], "object": ["33&&thế", "34&&hệ", "35&&trước"], "aspect": ["19&&phần", "20&&notch"], "predicate": ["24&&kích", "25&&thước", "26&&nhỏ", "27&&gọn", "28&&hơn", "29&&một", "30&&chút"], "label": "COM+"}
+
+Dù vậy, phần khuyết đỉnh này vẫn lớn hơn khá nhiều so với màn hình đục lỗ của Galaxy S23.	Dù vậy , phần khuyết đỉnh này vẫn lớn hơn khá nhiều so với màn hình đục lỗ của Galaxy S23 .
+{"subject": [], "object": ["20&&Galaxy", "21&&S23"], "aspect": ["4&&phần", "5&&khuyết", "6&&đỉnh"], "predicate": ["9&&lớn", "10&&hơn", "11&&khá", "12&&nhiều"], "label": "COM-"}
+
+alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
+
+des: iPhone 13	des : iPhone 13
+
+Cả hai điện thoại này đều sở hữu khung viền nhôm được vát phẳng và mặt lưng kính bóng bẩy phía sau.	Cả hai điện thoại này đều sở hữu khung viền nhôm được vát phẳng và mặt lưng kính bóng bẩy phía sau .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại", "5&&này"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại", "5&&này"], "aspect": ["9&&khung", "10&&viền", "11&&nhôm", "12&&được", "13&&vát", "14&&phẳng"], "predicate": ["6&&đều", "7&&sở", "8&&hữu"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại", "5&&này"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại", "5&&này"], "aspect": ["16&&mặt", "17&&lưng", "18&&kính", "19&&bóng", "20&&bẩy", "21&&phía", "22&&sau"], "predicate": ["6&&đều", "7&&sở", "8&&hữu"], "label": "EQL"}
+
+Chính vì vậy, mà xét về tính thẩm mỹ thì Galaxy S23 đã làm tốt hơn.	Chính vì vậy , mà xét về tính thẩm mỹ thì Galaxy S23 đã làm tốt hơn .
+{"subject": ["12&&Galaxy", "13&&S23"], "object": [], "aspect": ["8&&tính", "9&&thẩm", "10&&mỹ"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Chưa hết, hệ thống camera trên mẫu flagship sắp tới của Samsung được cho là không còn khung viền bao quanh nên trông liền lạc và đẹp mắt hơn so với mô-đun máy ảnh hình vuông của	Chưa hết , hệ thống camera trên mẫu flagship sắp tới của Samsung được cho là không còn khung viền bao quanh nên trông liền lạc và đẹp mắt hơn so với mô-đun máy ảnh hình vuông của
+{"subject": ["8&&mẫu", "9&&flagship", "10&&sắp", "11&&tới", "12&&của", "13&&Samsung"], "object": ["33&&mô-đun", "34&&máy", "35&&ảnh", "36&&hình", "37&&vuông", "38&&của"], "aspect": ["4&&hệ", "5&&thống", "6&&camera"], "predicate": ["28&&đẹp", "29&&mắt", "30&&hơn"], "label": "COM+"}
+
+alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
+
+des: Ảnh render Samsung Galaxy S23	des : Ảnh render Samsung Galaxy S23
+
+Dù vậy, di động Apple có chất lượng hoàn thiện tốt hơn khi máy có thể “lặn” ở độ sâu lên tới 6 mét dưới nước trong tối đa 30 phút, trong khi Samsung S23 dự kiến chỉ sống sót ở độ sâu 1.5 mét trong cùng khoảng thời gian.	Dù vậy , di động Apple có chất lượng hoàn thiện tốt hơn khi máy có thể “ lặn ” ở độ sâu lên tới 6 mét dưới nước trong tối đa 30 phút , trong khi Samsung S23 dự kiến chỉ sống sót ở độ sâu 1.5 mét trong cùng khoảng thời gian .
+{"subject": ["4&&di", "5&&động", "6&&Apple"], "object": ["38&&Samsung", "39&&S23"], "aspect": ["8&&chất", "9&&lượng", "10&&hoàn", "11&&thiện"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
+
+Màn hình	Màn hình
+
+iPhone 13 được Apple trang bị màn hình OLED cao cấp để mang đến cho người dùng những trải nghiệm tốt hơn so với thế hệ trước.	iPhone 13 được Apple trang bị màn hình OLED cao cấp để mang đến cho người dùng những trải nghiệm tốt hơn so với thế hệ trước .
+{"subject": ["1&&iPhone", "2&&13"], "object": ["25&&thế", "26&&hệ", "27&&trước"], "aspect": ["7&&màn", "8&&hình"], "predicate": ["19&&trải", "20&&nghiệm", "21&&tốt", "22&&hơn"], "label": "COM+"}
+
+Trong khi đó, Galaxy S23 cũng được đồn đại sẽ ra mắt với màn hình Dynamic AMOLED 2X cực kỳ chất lượng.	Trong khi đó , Galaxy S23 cũng được đồn đại sẽ ra mắt với màn hình Dynamic AMOLED 2X cực kỳ chất lượng .
+
+alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
+
+des:	des :
+
+Tuy nhiên, so với đối thủ đến từ Apple thì Galaxy S23 có một lợi thế lớn là hỗ trợ tần số quét thích ứng 120Hz.	Tuy nhiên , so với đối thủ đến từ Apple thì Galaxy S23 có một lợi thế lớn là hỗ trợ tần số quét thích ứng 120Hz .
+{"subject": ["12&&Galaxy", "13&&S23"], "object": ["6&&đối", "7&&thủ", "8&&đến", "9&&từ", "10&&Apple"], "aspect": ["22&&tần", "23&&số", "24&&quét", "25&&thích", "26&&ứng"], "predicate": ["16&&lợi", "17&&thế"], "label": "COM+"}
+
+Do đó, chiếc flagship tiếp theo của Samsung hứa hẹn sẽ mang đến trải nghiệm xem mượt mà hơn, đặc biệt là khi người dùng xem video hay chơi game.	Do đó , chiếc flagship tiếp theo của Samsung hứa hẹn sẽ mang đến trải nghiệm xem mượt mà hơn , đặc biệt là khi người dùng xem video hay chơi game .
+{"subject": ["4&&chiếc", "5&&flagship", "6&&tiếp", "7&&theo", "8&&của", "9&&Samsung"], "object": [], "aspect": ["15&&trải", "16&&nghiệm", "17&&xem"], "predicate": ["18&&mượt", "19&&mà", "20&&hơn"], "label": "COM+"}
+
+Hiệu năng	Hiệu năng
+
+alt: Trên tay iPhone 13 bản mẫu 3	alt : Trên tay iPhone 13 bản mẫu 3
+
+des:	des :
+
+Đây là yếu tố được rất nhiều người quan tâm khi so sánh Galaxy S23 và iPhone 13.	Đây là yếu tố được rất nhiều người quan tâm khi so sánh Galaxy S23 và iPhone 13 .
+
+Bởi vì các đại diện của Samsung luôn bị đánh giá thấp hơn về hiệu năng so với các đối thủ đến từ Apple.	Bởi vì các đại diện của Samsung luôn bị đánh giá thấp hơn về hiệu năng so với các đối thủ đến từ Apple .
+{"subject": ["3&&các", "4&&đại", "5&&diện", "6&&của", "7&&Samsung"], "object": ["19&&các", "20&&đối", "21&&thủ", "22&&đến", "23&&từ", "24&&Apple"], "aspect": ["15&&hiệu", "16&&năng"], "predicate": ["10&&đánh", "11&&giá", "12&&thấp", "13&&hơn"], "label": "COM-"}
+
+Dù vậy, do có sự chênh lệch một vòng đời nên Galaxy S23 được kỳ vọng sẽ lấn lướt về hiệu năng so với iPhone 13.	Dù vậy , do có sự chênh lệch một vòng đời nên Galaxy S23 được kỳ vọng sẽ lấn lướt về hiệu năng so với iPhone 13 .
+{"subject": ["13&&Galaxy", "14&&S23"], "object": ["26&&iPhone", "27&&13"], "aspect": ["22&&hiệu", "23&&năng"], "predicate": ["19&&lấn", "20&&lướt"], "label": "COM+"}
+
+Đó là bởi vì mẫu điện thoại cao cấp tiếp theo của Samsung dự kiến sẽ sử dụng các bộ xử lý cao cấp nhất Qualcomm ở thời điểm hiện tại là Snapdragon 8 Gen 2.	Đó là bởi vì mẫu điện thoại cao cấp tiếp theo của Samsung dự kiến sẽ sử dụng các bộ xử lý cao cấp nhất Qualcomm ở thời điểm hiện tại là Snapdragon 8 Gen 2 .
+{"subject": ["5&&mẫu", "6&&điện", "7&&thoại", "8&&cao", "9&&cấp", "10&&tiếp", "11&&theo", "12&&của", "13&&Samsung"], "object": [], "aspect": ["20&&bộ", "21&&xử", "22&&lý"], "predicate": ["23&&cao", "24&&cấp", "25&&nhất", "26&&Qualcomm", "27&&ở", "28&&thời", "29&&điểm", "30&&hiện", "31&&tại"], "label": "SUP+"}
+{"subject": ["33&&Snapdragon", "34&&8", "35&&Gen", "36&&2"], "object": [], "aspect": [], "predicate": ["23&&cao", "24&&cấp", "25&&nhất", "26&&Qualcomm", "27&&ở", "28&&thời", "29&&điểm", "30&&hiện", "31&&tại"], "label": "SUP+"}
+
+SoC này được xây dựng trên tiến trình 4nm với hiệu suất được cải tiến ấn tượng so với Snapdragon 8 Gen 1, đi kèm với RAM 8GB và bộ nhớ trong tối thiểu 128GB.	SoC này được xây dựng trên tiến trình 4nm với hiệu suất được cải tiến ấn tượng so với Snapdragon 8 Gen 1 , đi kèm với RAM 8GB và bộ nhớ trong tối thiểu 128GB .
+
+Trong khi đó, iPhone 13 sử dụng chipset A15 Bionic 5nm, đi kèm RAM 4GB và có bộ nhớ 128GB ở phiên bản cấu hình thấp nhất.	Trong khi đó , iPhone 13 sử dụng chipset A15 Bionic 5nm , đi kèm RAM 4GB và có bộ nhớ 128GB ở phiên bản cấu hình thấp nhất .
+
+Dù vậy, có lẽ chúng ta sẽ phải chờ đến khi chiếc Galaxy S23 ra mắt mới có cái nhìn khách quan nhất về hiệu suất giữa điện thoại này so với iPhone 13.	Dù vậy , có lẽ chúng ta sẽ phải chờ đến khi chiếc Galaxy S23 ra mắt mới có cái nhìn khách quan nhất về hiệu suất giữa điện thoại này so với iPhone 13 .
+
+Camera	Camera
+
+alt: Galaxy S23 (ảnh 3)	alt : Galaxy S23 ( ảnh 3 )
+
+des:	des :
+
+Về khả năng nhiếp ảnh, Apple đã trang bị cho chiếc iPhone 13 của mình hệ thống camera kép 12MP ở mặt sau tương tự như thế hệ trước, nhưng cảm biến chính có kích thước lớn hơn giúp cải thiện chất lượng ảnh thiếu sáng.	Về khả năng nhiếp ảnh , Apple đã trang bị cho chiếc iPhone 13 của mình hệ thống camera kép 12MP ở mặt sau tương tự như thế hệ trước , nhưng cảm biến chính có kích thước lớn hơn giúp cải thiện chất lượng ảnh thiếu sáng .
+{"subject": ["13&&iPhone", "14&&13"], "object": ["28&&thế", "29&&hệ", "30&&trước"], "aspect": ["17&&hệ", "18&&thống", "19&&camera", "20&&kép"], "predicate": ["25&&tương", "26&&tự"], "label": "EQL"}
+{"subject": ["13&&iPhone", "14&&13"], "object": ["28&&thế", "29&&hệ", "30&&trước"], "aspect": ["33&&cảm", "34&&biến", "35&&chính"], "predicate": ["37&&kích", "38&&thước", "39&&lớn", "40&&hơn"], "label": "COM+"}
+
+Ở bên kia chiến tuyến, Samsung được đồn đại mang đến một số cải tiến về khả năng chụp ảnh cho chiếc flagship Galaxy S23 tiếp theo của mình.	Ở bên kia chiến tuyến , Samsung được đồn đại mang đến một số cải tiến về khả năng chụp ảnh cho chiếc flagship Galaxy S23 tiếp theo của mình .
+
+Điện thoại này được đồn sẽ có camera chính 50MP với khẩu độ f/1.8, hứa hẹn mang đến những bức ảnh chất lượng cao cho người dùng trong hầu hết các điều kiện ánh sáng.	Điện thoại này được đồn sẽ có camera chính 50MP với khẩu độ f / 1.8 , hứa hẹn mang đến những bức ảnh chất lượng cao cho người dùng trong hầu hết các điều kiện ánh sáng .
+
+Ngoài ra, mẫu flagship thế hệ mới của Samsung còn sở hữu máy ảnh góc siêu rộng 12MP và camera tele 10MP với hỗ trợ zoom quang học 2x.	Ngoài ra , mẫu flagship thế hệ mới của Samsung còn sở hữu máy ảnh góc siêu rộng 12MP và camera tele 10MP với hỗ trợ zoom quang học 2x .
+
+Do đó, xét về khả năng đa dụng, thì rõ ràng Galaxy S23 vượt trội hoàn toàn so với iPhone 13.	Do đó , xét về khả năng đa dụng , thì rõ ràng Galaxy S23 vượt trội hoàn toàn so với iPhone 13 .
+{"subject": ["14&&Galaxy", "15&&S23"], "object": ["22&&iPhone", "23&&13"], "aspect": ["6&&khả", "7&&năng", "8&&đa", "9&&dụng"], "predicate": ["16&&vượt", "17&&trội", "18&&hoàn", "19&&toàn"], "label": "COM+"}
+
+Còn về chất lượng ảnh thì có lẽ chúng ta sẽ phải chờ đến khi Galaxy S23 ra mắt mới có được đánh giá khách quan nhất về khả năng chụp ảnh của hai điện thoại này.	Còn về chất lượng ảnh thì có lẽ chúng ta sẽ phải chờ đến khi Galaxy S23 ra mắt mới có được đánh giá khách quan nhất về khả năng chụp ảnh của hai điện thoại này .
+
+Thời lượng pin	Thời lượng pin
+
+alt: Trên tay iPhone 13 bản mẫu 2	alt : Trên tay iPhone 13 bản mẫu 2
+
+des:	des :
+
+Nhiều nguồn tin trước đó cho biết, Samsung sẽ nâng cấp dung lượng pin của Galaxy S23 lên mức 3,900 mAh.	Nhiều nguồn tin trước đó cho biết , Samsung sẽ nâng cấp dung lượng pin của Galaxy S23 lên mức 3,900 mAh .
+
+Con số này cao hơn một chút so với thỏi pin 3,240 mAh của iPhone 13.	Con số này cao hơn một chút so với thỏi pin 3,240 mAh của iPhone 13 .
+{"subject": [], "object": ["15&&iPhone", "16&&13"], "aspect": [], "predicate": ["4&&cao", "5&&hơn", "6&&một", "7&&chút"], "label": "COM+"}
+
+Tuy nhiên, nhờ sự tối ưu hóa tốt của hệ điều hành iOS nên di động Apple vẫn cho thời gian sử dụng pin khá tốt, không hề thua kém nhiều so với Galaxy S23.	Tuy nhiên , nhờ sự tối ưu hóa tốt của hệ điều hành iOS nên di động Apple vẫn cho thời gian sử dụng pin khá tốt , không hề thua kém nhiều so với Galaxy S23 .
+{"subject": ["16&&di", "17&&động", "18&&Apple"], "object": ["36&&Galaxy", "37&&S23"], "aspect": ["21&&thời", "22&&gian", "23&&sử", "24&&dụng", "25&&pin"], "predicate": ["29&&không", "30&&hề", "31&&thua", "32&&kém", "33&&nhiều"], "label": "EQL"}
+
+Tạm kết	Tạm kết
+
+Khách quan mà nói, Galaxy S23 có nhiều lợi thế hơn iPhone 13 ở nhiều khía cạnh như màn hình 120Hz siêu mượt, có ống kính tele và phần cứng hiện đại nhất.	Khách quan mà nói , Galaxy S23 có nhiều lợi thế hơn iPhone 13 ở nhiều khía cạnh như màn hình 120Hz siêu mượt , có ống kính tele và phần cứng hiện đại nhất .
+{"subject": ["6&&Galaxy", "7&&S23"], "object": ["13&&iPhone", "14&&13"], "aspect": ["20&&màn", "21&&hình"], "predicate": ["10&&lợi", "11&&thế", "12&&hơn"], "label": "COM+"}
+{"subject": ["6&&Galaxy", "7&&S23"], "object": ["13&&iPhone", "14&&13"], "aspect": ["27&&ống", "28&&kính", "29&&tele"], "predicate": ["10&&lợi", "11&&thế", "12&&hơn"], "label": "COM+"}
+{"subject": ["6&&Galaxy", "7&&S23"], "object": [], "aspect": ["31&&phần", "32&&cứng"], "predicate": ["33&&hiện", "34&&đại", "35&&nhất"], "label": "SUP+"}
+
+Tuy nhiên, nếu trung thành với Apple và tìm kiếm thiết bị có hiệu năng mạnh mẽ thì rõ ràng iPhone 13 vẫn là lựa chọn tốt ở thời điểm hiện tại.	Tuy nhiên , nếu trung thành với Apple và tìm kiếm thiết bị có hiệu năng mạnh mẽ thì rõ ràng iPhone 13 vẫn là lựa chọn tốt ở thời điểm hiện tại .
+

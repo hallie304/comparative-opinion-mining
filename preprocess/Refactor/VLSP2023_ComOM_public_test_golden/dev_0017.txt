@@ -1,0 +1,185 @@
+title: So sánh Samsung Galaxy A12 và Galaxy A31 - Nên chọn mua dòng nào?	title : So sánh Samsung Galaxy A12 và Galaxy A31 - Nên chọn mua dòng nào ?
+
+Galaxy A31 và Galaxy A12 là hai chiếc smartphone có nhiều điểm tương đồng với nhau.	Galaxy A31 và Galaxy A12 là hai chiếc smartphone có nhiều điểm tương đồng với nhau .
+{"subject": ["1&&Galaxy", "2&&A31"], "object": ["4&&Galaxy", "5&&A12"], "aspect": [], "predicate": ["10&&có", "11&&nhiều", "12&&điểm", "13&&tương", "14&&đồng", "15&&với", "16&&nhau"], "label": "EQL"}
+
+Hãy cùng TGDĐ tìm hiểu xem Galaxy A31 và Galaxy A12 có những điểm gì giống và khác nhau qua bài viết này nhé!	Hãy cùng TGDĐ tìm hiểu xem Galaxy A31 và Galaxy A12 có những điểm gì giống và khác nhau qua bài viết này nhé !
+
+1.	1 .
+
+Tổng quan về Samsung Galaxy A12	Tổng quan về Samsung Galaxy A12
+
+alt: Samsung Galaxy A12	alt : Samsung Galaxy A12
+
+des: Samsung Galaxy A12	des : Samsung Galaxy A12
+
+Samsung Galaxy A12.	Samsung Galaxy A12 .
+
+Galaxy A12  với thiết kế mặt lưng được chia làm 2 phần với phần trên được làm dạng nhám sần, phần dưới là dạng nhám trơn tạo nên điểm khác biệt so với những Smartphone giá rẻ khác.	Galaxy A12 với thiết kế mặt lưng được chia làm 2 phần với phần trên được làm dạng nhám sần , phần dưới là dạng nhám trơn tạo nên điểm khác biệt so với những Smartphone giá rẻ khác .
+{"subject": ["1&&Galaxy", "2&&A12"], "object": ["35&&những", "36&&Smartphone", "37&&giá", "38&&rẻ", "39&&khác"], "aspect": ["4&&thiết", "5&&kế", "6&&mặt", "7&&lưng"], "predicate": ["31&&khác", "32&&biệt"], "label": "DIF"}
+
+Chất liệu nhám giúp mặt lưng của máy đỡ xước, ít để lại mồ hôi và dấu vân tay.	Chất liệu nhám giúp mặt lưng của máy đỡ xước , ít để lại mồ hôi và dấu vân tay .
+
+Mặt lưng cũng như khung viền của Galaxy A12 chỉ được làm từ chất liệu nhựa.	Mặt lưng cũng như khung viền của Galaxy A12 chỉ được làm từ chất liệu nhựa .
+
+Điều này cũng dễ hiểu bởi mức giá của Galaxy A12 nằm trong phân khúc máy giá rẻ.	Điều này cũng dễ hiểu bởi mức giá của Galaxy A12 nằm trong phân khúc máy giá rẻ .
+
+Chất liệu nhựa có ưu điểm là máy chỉ có trọng lượng 205g trong khi chứa bên trong viên pin khủng 5000mAh. Galaxy A12 cho cảm giác cầm nắm vừa tay, chắc chắn, thoải mái khi sử dụng trong thời gian dài.	Chất liệu nhựa có ưu điểm là máy chỉ có trọng lượng 205g trong khi chứa bên trong viên pin khủng 5000mAh . Galaxy A12 cho cảm giác cầm nắm vừa tay , chắc chắn , thoải mái khi sử dụng trong thời gian dài .
+
+2.	2 .
+
+Tổng quan Samsung Galaxy A31	Tổng quan Samsung Galaxy A31
+
+alt: Samsung Galaxy A31	alt : Samsung Galaxy A31
+
+des: Samsung Galaxy A31	des : Samsung Galaxy A31
+
+Samsung Galaxy A31.	Samsung Galaxy A31 .
+
+Samsung Galaxy A31  sở hữu thiết kế mỏng 8.6mm cực kì thời trang, nhưng không vì thế mà máy có dung lượng pin thấp.	Samsung Galaxy A31 sở hữu thiết kế mỏng 8.6mm cực kì thời trang , nhưng không vì thế mà máy có dung lượng pin thấp .
+
+Trái lại, Galaxy A31 mang trong mình viên pin lớn tới 5.000 mAh, có thể đảm bảo trải nghiệm thoải mái suốt ngày dài.	Trái lại , Galaxy A31 mang trong mình viên pin lớn tới 5.000 mAh , có thể đảm bảo trải nghiệm thoải mái suốt ngày dài .
+
+Sản phẩm sẽ khiến bạn hài lòng khi cầm nắm và thao tác nhờ bộ khung vỏ được tạo dáng khéo léo vừa vặn với lòng bàn tay.	Sản phẩm sẽ khiến bạn hài lòng khi cầm nắm và thao tác nhờ bộ khung vỏ được tạo dáng khéo léo vừa vặn với lòng bàn tay .
+
+Mặt lưng máy có hoạ tiết tạo khối hình học cắt xẻ độc đáo và được tô điểm bởi những sắc màu thời trang như xanh, đen và trắng.	Mặt lưng máy có hoạ tiết tạo khối hình học cắt xẻ độc đáo và được tô điểm bởi những sắc màu thời trang như xanh , đen và trắng .
+
+3.	3 .
+
+So sánh Samsung Galaxy A12 và Galaxy A31	So sánh Samsung Galaxy A12 và Galaxy A31
+
+Thiết kế	Thiết kế
+
+Xét về thiết kế thì hai chiếc smartphone này có nhiều điểm giống nhau nếu nhìn từ mặt trước.	Xét về thiết kế thì hai chiếc smartphone này có nhiều điểm giống nhau nếu nhìn từ mặt trước .
+{"subject": ["6&&hai", "7&&chiếc", "8&&smartphone"], "object": ["6&&hai", "7&&chiếc", "8&&smartphone"], "aspect": ["3&&thiết", "4&&kế"], "predicate": ["10&&có", "11&&nhiều", "12&&điểm", "13&&giống", "14&&nhau", "15&&nếu", "16&&nhìn", "17&&từ", "18&&mặt", "19&&trước"], "label": "EQL"}
+
+Theo đó, cả hai máy đều được hãng trang bị màn hình giọt nước chứa camera selfie.	Theo đó , cả hai máy đều được hãng trang bị màn hình giọt nước chứa camera selfie .
+{"subject": ["4&&cả", "5&&hai", "6&&máy"], "object": ["4&&cả", "5&&hai", "6&&máy"], "aspect": ["12&&màn", "13&&hình", "14&&giọt", "15&&nước", "16&&chứa", "17&&camera", "18&&selfie"], "predicate": ["7&&đều", "8&&được", "9&&hãng", "10&&trang", "11&&bị"], "label": "EQL"}
+
+Ngoài ra, viền bezel hai cạnh bên khá mỏng, tuy nhiên phần viền dưới lại có kích thước khá dày.	Ngoài ra , viền bezel hai cạnh bên khá mỏng , tuy nhiên phần viền dưới lại có kích thước khá dày .
+
+Điểm khác biệt của thiết kể khi chúng ta lật mặt sau của hai máy.	Điểm khác biệt của thiết kể khi chúng ta lật mặt sau của hai máy .
+
+Theo đó, Galaxy A12 được hãng trang bị cụm camera hình vuông gọn gàng hơn so với hệ thống camera hình chữ nhật của Galaxy A31.	Theo đó , Galaxy A12 được hãng trang bị cụm camera hình vuông gọn gàng hơn so với hệ thống camera hình chữ nhật của Galaxy A31 .
+{"subject": ["4&&Galaxy", "5&&A12"], "object": ["26&&Galaxy", "27&&A31"], "aspect": ["10&&cụm", "11&&camera"], "predicate": ["14&&gọn", "15&&gàng", "16&&hơn"], "label": "COM+"}
+
+Mặt lưng của hai máy đều được làm từ chất liệu nhựa, cạnh được bo cong mềm mại mang lại cảm giác cầm nắm thoải mái hơn.	Mặt lưng của hai máy đều được làm từ chất liệu nhựa , cạnh được bo cong mềm mại mang lại cảm giác cầm nắm thoải mái hơn .
+{"subject": ["4&&hai", "5&&máy"], "object": ["4&&hai", "5&&máy"], "aspect": ["1&&Mặt", "2&&lưng"], "predicate": ["6&&đều", "7&&được", "8&&làm", "9&&từ", "10&&chất", "11&&liệu", "12&&nhựa"], "label": "EQL"}
+
+alt: Thiết kế màn hình tràn viền Samsung Galaxy A12	alt : Thiết kế màn hình tràn viền Samsung Galaxy A12
+
+des: Thiết kế màn hình tràn viền Samsung Galaxy A12	des : Thiết kế màn hình tràn viền Samsung Galaxy A12
+
+Thiết kế màn hình tràn viền Samsung Galaxy A12.	Thiết kế màn hình tràn viền Samsung Galaxy A12 .
+
+Tuy nhiên, xét về tính thẩm mỹ thì Galaxy A31 trông hấp dẫn hơn vì điện thoại này có các hoạ tiết hình học 3D bắt mắt ở mặt lưng và được tích hợp cảm biến vân tay dưới màn hình ở mặt trước.	Tuy nhiên , xét về tính thẩm mỹ thì Galaxy A31 trông hấp dẫn hơn vì điện thoại này có các hoạ tiết hình học 3D bắt mắt ở mặt lưng và được tích hợp cảm biến vân tay dưới màn hình ở mặt trước .
+{"subject": ["10&&Galaxy", "11&&A31"], "object": [], "aspect": ["6&&tính", "7&&thẩm", "8&&mỹ"], "predicate": ["12&&trông", "13&&hấp", "14&&dẫn", "15&&hơn"], "label": "COM+"}
+
+Trong khi Galaxy A12 được thiết kế mặt lưng 2 tông màu không mấy ấn tượng và có máy quét vân tay được tích hợp vào nút nguồn ở cạnh bên.	Trong khi Galaxy A12 được thiết kế mặt lưng 2 tông màu không mấy ấn tượng và có máy quét vân tay được tích hợp vào nút nguồn ở cạnh bên .
+
+Màn hình	Màn hình
+
+Galaxy A31 được Samsung trang bị màn hình Super AMOLED rộng 6.5 inch, Full HD+ còn Galaxy A12 chỉ được trang bị màn hình IPS LCD rộng 6.4 inch, HD+.	Galaxy A31 được Samsung trang bị màn hình Super AMOLED rộng 6.5 inch , Full HD + còn Galaxy A12 chỉ được trang bị màn hình IPS LCD rộng 6.4 inch , HD + .
+
+Chính vì vậy mà chất lượng hiển thị của màn hình Galaxy A31 tốt hơn Galaxy A12, độ chi tiết và sắc nét cao hơn hẳn A12.	Chính vì vậy mà chất lượng hiển thị của màn hình Galaxy A31 tốt hơn Galaxy A12 , độ chi tiết và sắc nét cao hơn hẳn A12 .
+{"subject": ["12&&Galaxy", "13&&A31"], "object": ["16&&Galaxy", "17&&A12"], "aspect": ["5&&chất", "6&&lượng", "7&&hiển", "8&&thị"], "predicate": ["14&&tốt", "15&&hơn"], "label": "COM+"}
+{"subject": ["5&&chất", "6&&lượng", "7&&hiển", "8&&thị", "9&&của", "10&&màn", "11&&hình", "12&&Galaxy", "13&&A31"], "object": ["28&&A12"], "aspect": ["19&&độ", "20&&chi", "21&&tiết"], "predicate": ["25&&cao", "26&&hơn", "27&&hẳn"], "label": "COM+"}
+{"subject": ["5&&chất", "6&&lượng", "7&&hiển", "8&&thị", "9&&của", "10&&màn", "11&&hình", "12&&Galaxy", "13&&A31"], "object": ["28&&A12"], "aspect": ["23&&sắc", "24&&nét"], "predicate": ["25&&cao", "26&&hơn", "27&&hẳn"], "label": "COM+"}
+
+alt: Màn hình Samsung Galaxy A31	alt : Màn hình Samsung Galaxy A31
+
+des: Màn hình Samsung Galaxy A31	des : Màn hình Samsung Galaxy A31
+
+Màn hình Samsung Galaxy A31.	Màn hình Samsung Galaxy A31 .
+
+Hiệu năng	Hiệu năng
+
+Galaxy A31 được nhà sản xuất trang bị vi xử lý MediaTek Helio P65, dung lượng RAM 6GB, ROM 128GB và đặc biệt là người dùng có thể dễ dàng mở rộng qua khe cắm thẻ nhớ microSD lên tới 512GB.	Galaxy A31 được nhà sản xuất trang bị vi xử lý MediaTek Helio P65 , dung lượng RAM 6GB , ROM 128GB và đặc biệt là người dùng có thể dễ dàng mở rộng qua khe cắm thẻ nhớ microSD lên tới 512GB .
+
+Còn đối thủ của nó là Galaxy A12 chỉ được tích hợp vi xử lý SoC MediaTek Helio G35, 4GB RAM, bộ nhớ trong là 128GB và cũng có thể mở rộng qua khe cắm thẻ nhớ microSD.	Còn đối thủ của nó là Galaxy A12 chỉ được tích hợp vi xử lý SoC MediaTek Helio G35 , 4GB RAM , bộ nhớ trong là 128GB và cũng có thể mở rộng qua khe cắm thẻ nhớ microSD .
+
+alt: Cấu hình của Galaxy A31 tốt hơn Galaxy A12	alt : Cấu hình của Galaxy A31 tốt hơn Galaxy A12
+
+des: Cấu hình của Galaxy A31 tốt hơn Galaxy A12	des : Cấu hình của Galaxy A31 tốt hơn Galaxy A12
+
+Cấu hình của Galaxy A31 tốt hơn Galaxy A12.	Cấu hình của Galaxy A31 tốt hơn Galaxy A12 .
+
+Thời lượng pin	Thời lượng pin
+
+Samsung tích hợp cho 2 sản phẩm của mình viên pin 5000 mAh và khả năng sạc công suất 15W.	Samsung tích hợp cho 2 sản phẩm của mình viên pin 5000 mAh và khả năng sạc công suất 15W .
+
+Do đó, tuổi thọ pin của cả Galaxy A12 và Galaxy A13 tương đương nhau.	Do đó , tuổi thọ pin của cả Galaxy A12 và Galaxy A13 tương đương nhau .
+{"subject": ["9&&Galaxy", "10&&A12"], "object": ["12&&Galaxy", "13&&A13"], "aspect": ["4&&tuổi", "5&&thọ", "6&&pin"], "predicate": ["14&&tương", "15&&đương", "16&&nhau"], "label": "EQL"}
+
+Tuy nhiên, Galaxy A12 hứa hẹn sẽ cho thời gian sử dụng tốt hơn một chút vì viên pin của điện thoại này chỉ phải “gánh” màn hình HD+, trong khi Galaxy A31 là Full-HD+.	Tuy nhiên , Galaxy A12 hứa hẹn sẽ cho thời gian sử dụng tốt hơn một chút vì viên pin của điện thoại này chỉ phải “ gánh ” màn hình HD + , trong khi Galaxy A31 là Full-HD + .
+{"subject": ["4&&Galaxy", "5&&A12"], "object": ["37&&Galaxy", "38&&A31"], "aspect": ["10&&thời", "11&&gian", "12&&sử", "13&&dụng"], "predicate": ["14&&tốt", "15&&hơn", "16&&một", "17&&chút"], "label": "COM+"}
+
+Dẫu vậy, bộ đôi này sẽ dư sức đáp ứng tốt một ngày dài sử dụng với cường độ cao của người dùng.	Dẫu vậy , bộ đôi này sẽ dư sức đáp ứng tốt một ngày dài sử dụng với cường độ cao của người dùng .
+
+alt: Cả hai máy đều được tích hợp pin dung lượng 5000mAh	alt : Cả hai máy đều được tích hợp pin dung lượng 5000mAh
+
+des: Cả hai máy đều được tích hợp pin dung lượng 5000mAh	des : Cả hai máy đều được tích hợp pin dung lượng 5000mAh
+
+Cả hai máy đều được tích hợp pin dung lượng 5000mAh.	Cả hai máy đều được tích hợp pin dung lượng 5000mAh .
+{"subject": ["1&&Cả", "2&&hai", "3&&máy"], "object": ["1&&Cả", "2&&hai", "3&&máy"], "aspect": ["8&&pin", "9&&dung", "10&&lượng", "11&&5000mAh"], "predicate": ["4&&đều", "5&&được", "6&&tích", "7&&hợp"], "label": "EQL"}
+
+Camera	Camera
+
+Cả hai chiếc smartphone đều được Samsung tích hợp camera chính 48MP, ống kính f/2.0. Sự khác biệt chỉ đến từ 3 chiếc camera phụ.	Cả hai chiếc smartphone đều được Samsung tích hợp camera chính 48MP , ống kính f / 2.0 . Sự khác biệt chỉ đến từ 3 chiếc camera phụ .
+{"subject": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&smartphone"], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&smartphone"], "aspect": ["10&&camera", "11&&chính", "12&&48MP"], "predicate": ["5&&đều", "6&&được", "7&&Samsung", "8&&tích", "9&&hợp"], "label": "EQL"}
+
+Trong khi Galaxy A31 được trang bị ống kính góc siêu rộng 8MP, camera macro và độ sâu đều có độ phân giải 5MP.	Trong khi Galaxy A31 được trang bị ống kính góc siêu rộng 8MP , camera macro và độ sâu đều có độ phân giải 5MP .
+
+Còn trên Galaxy A12, camera góc siêu rộng độ phân giải 5MP, camera macro và độ sâu là 2MP.	Còn trên Galaxy A12 , camera góc siêu rộng độ phân giải 5MP , camera macro và độ sâu là 2MP .
+
+Qua đó chúng ta có thể nhận thấy Camera của Galaxy A31 chắc chắn sẽ tốt hơn A12.	Qua đó chúng ta có thể nhận thấy Camera của Galaxy A31 chắc chắn sẽ tốt hơn A12 .
+{"subject": ["11&&Galaxy", "12&&A31"], "object": ["18&&A12"], "aspect": ["9&&Camera"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+alt: Camera của Galaxy A31 tốt hơn A12	alt : Camera của Galaxy A31 tốt hơn A12
+
+des: Camera của Galaxy A31 tốt hơn A12	des : Camera của Galaxy A31 tốt hơn A12
+
+Camera của Galaxy A31 tốt hơn A12.	Camera của Galaxy A31 tốt hơn A12 .
+
+4.	4 .
+
+Bảng so sánh	Bảng so sánh
+
+5.	5 .
+
+Nên mua Samsung Galaxy A12 hay Galaxy A31?	Nên mua Samsung Galaxy A12 hay Galaxy A31 ?
+
+Chúng ta có thể nhận thấy chiếc Galaxy A31 vượt trội hơn hẳn.	Chúng ta có thể nhận thấy chiếc Galaxy A31 vượt trội hơn hẳn .
+{"subject": ["8&&Galaxy", "9&&A31"], "object": [], "aspect": [], "predicate": ["10&&vượt", "11&&trội", "12&&hơn", "13&&hẳn"], "label": "COM+"}
+
+Chính vì vậy, để lựa chọn giữa hai sản phẩm này, tốt nhất bạn nên bỏ ra một chút tiền nữa để mua Galaxy A31 thay vì Galaxy A12 để có những trải nghiệm mượt mà hơn.	Chính vì vậy , để lựa chọn giữa hai sản phẩm này , tốt nhất bạn nên bỏ ra một chút tiền nữa để mua Galaxy A31 thay vì Galaxy A12 để có những trải nghiệm mượt mà hơn .
+{"subject": ["26&&Galaxy", "27&&A31"], "object": ["30&&Galaxy", "31&&A12"], "aspect": ["35&&trải", "36&&nghiệm"], "predicate": ["37&&mượt", "38&&mà", "39&&hơn"], "label": "COM+"}
+
+alt: Nhìn chung Galaxy A31 vượt trội hơn hẳn	alt : Nhìn chung Galaxy A31 vượt trội hơn hẳn
+
+des: Nhìn chung Galaxy A31 vượt trội hơn hẳn	des : Nhìn chung Galaxy A31 vượt trội hơn hẳn
+{"subject": ["5&&Galaxy", "6&&A31"], "object": [], "aspect": [], "predicate": ["7&&vượt", "8&&trội", "9&&hơn", "10&&hẳn"], "label": "COM+"}
+
+Nhìn chung Galaxy A31 vượt trội hơn hẳn.	Nhìn chung Galaxy A31 vượt trội hơn hẳn .
+{"subject": ["3&&Galaxy", "4&&A31"], "object": [], "aspect": [], "predicate": ["5&&vượt", "6&&trội", "7&&hơn", "8&&hẳn"], "label": "COM+"}
+
+6.	6 .
+
+Chính sách bảo hành điện thoại tại TGDĐ	Chính sách bảo hành điện thoại tại TGDĐ
+
+Khi mua điện thoại tại Thế Giới Di Động, bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như:	Khi mua điện thoại tại Thế Giới Di Động , bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như :
+
+- Bảo hành có cam kết trong  12 tháng .	- Bảo hành có cam kết trong 12 tháng .
+
+- Bảo hành chính hãng  1 năm  tại các trung tâm bảo hành hãng.	- Bảo hành chính hãng 1 năm tại các trung tâm bảo hành hãng .
+
+alt: Chính sách bảo hành điện thoại tại Thế giới di động	alt : Chính sách bảo hành điện thoại tại Thế giới di động
+
+des: Chính sách bảo hành điện thoại tại Thế giới di động	des : Chính sách bảo hành điện thoại tại Thế giới di động
+
+Chính sách bảo hành điện thoại tại Thế giới di động .	Chính sách bảo hành điện thoại tại Thế giới di động .
+
+Hy vọng sau khi tham khảo bài viết này bạn đã có thêm những thông tin hữu ích về so sánh Samsung Galaxy A12 và Samsung Galaxy A31- Nên mua dòng nào.	Hy vọng sau khi tham khảo bài viết này bạn đã có thêm những thông tin hữu ích về so sánh Samsung Galaxy A12 và Samsung Galaxy A31 - Nên mua dòng nào .
+
+Cám ơn các bạn đã theo dõi bài viết, hẹn gặp lại các bạn ở những bài viết tiếp theo!	Cám ơn các bạn đã theo dõi bài viết , hẹn gặp lại các bạn ở những bài viết tiếp theo !
+

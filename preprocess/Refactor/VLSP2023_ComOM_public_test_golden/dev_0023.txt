@@ -1,0 +1,67 @@
+Title: Review nhanh iPhone 12 mini: Chiếc điện thoại “tí hon” thần kì của Apple	Title : Review nhanh iPhone 12 mini : Chiếc điện thoại “ tí hon ” thần kì của Apple
+
+iPhone 12 mini có lẽ là chiếc điện thoại mang nhiều “ẩn số” nhất trong lần ra mắt sản phẩm mới này của Apple.	iPhone 12 mini có lẽ là chiếc điện thoại mang nhiều “ ẩn số ” nhất trong lần ra mắt sản phẩm mới này của Apple .
+{"subject": ["1&&iPhone", "2&&12", "3&&mini"], "object": [], "aspect": ["13&&ẩn", "14&&số"], "predicate": ["11&&nhiều", "12&&“", "13&&ẩn", "14&&số", "15&&”", "16&&nhất", "17&&trong", "18&&lần", "19&&ra", "20&&mắt", "21&&sản", "22&&phẩm", "23&&mới", "24&&này", "25&&của", "26&&Apple"], "label": "SUP"}
+
+Hãy cùng Hoàng Hà Mobile tìm hiểu về chiếc iPhone tí hon này nhé!	Hãy cùng Hoàng Hà Mobile tìm hiểu về chiếc iPhone tí hon này nhé !
+
+Viên pin nhỏ hơn	Viên pin nhỏ hơn
+{"subject": [], "object": [], "aspect": ["1&&Viên", "2&&pin"], "predicate": ["3&&nhỏ", "4&&hơn"], "label": "COM-"}
+
+Để iPhone nhỏ hơn, mọi thứ phải nhỏ hơn, bao gồm cả pin.	Để iPhone nhỏ hơn , mọi thứ phải nhỏ hơn , bao gồm cả pin .
+{"subject": ["2&&iPhone"], "object": [], "aspect": [], "predicate": ["3&&nhỏ", "4&&hơn"], "label": "COM-"}
+{"subject": ["2&&iPhone"], "object": [], "aspect": ["6&&mọi", "7&&thứ"], "predicate": ["9&&nhỏ", "10&&hơn"], "label": "COM-"}
+
+iPhone 12 mini có dung lượng là 2.227mAh. Apple thống kê pin của iPhone 12 mini lên đến 15 giờ phát lại video (cục bộ), 10 giờ video phát trực tuyến và lên đến 50 giờ để phát lại âm thanh.	iPhone 12 mini có dung lượng là 2.227mAh . Apple thống kê pin của iPhone 12 mini lên đến 15 giờ phát lại video ( cục bộ ) , 10 giờ video phát trực tuyến và lên đến 50 giờ để phát lại âm thanh .
+
+alt:	alt :
+
+des: Viên pin của iPhone 12 mini	des : Viên pin của iPhone 12 mini
+
+Nếu bạn là người sử dụng iPhone hàng giờ liền trong ngày để làm việc, bạn có thể thấy dung lượng pin của iPhone 12 mini hơi ít.	Nếu bạn là người sử dụng iPhone hàng giờ liền trong ngày để làm việc , bạn có thể thấy dung lượng pin của iPhone 12 mini hơi ít .
+
+Nhưng có một điều cần lưu ý, đó là không phải pin của iPhone 12 mini tệ, mà chỉ là nó cần được thu nhỏ lại để vừa vặn với kích thước điện thoại.	Nhưng có một điều cần lưu ý , đó là không phải pin của iPhone 12 mini tệ , mà chỉ là nó cần được thu nhỏ lại để vừa vặn với kích thước điện thoại .
+
+Camera	Camera
+
+iPhone 12 mini vẫn được trang bị cụm camera kép phía sau với một ống kính góc rộng độ phân giải 12MP, khẩu độ f/1.6 và ống kính góc siêu rộng độ phân giải 12 MP khẩu độ f/2.4.	iPhone 12 mini vẫn được trang bị cụm camera kép phía sau với một ống kính góc rộng độ phân giải 12MP , khẩu độ f / 1.6 và ống kính góc siêu rộng độ phân giải 12 MP khẩu độ f / 2.4 .
+
+alt:	alt :
+
+des:	des :
+
+Đối với các nhu cầu sử dụng máy ảnh thông thường, camera của iPhone 12 mini được đánh giá là “tốt”.	Đối với các nhu cầu sử dụng máy ảnh thông thường , camera của iPhone 12 mini được đánh giá là “ tốt ” .
+
+Nếu bạn không phải là một người chụp ảnh quá nhiều, và mong muốn một chiếc máy ảnh “ổn”, thì bạn sẽ hài lòng với camera của iPhone 12 mini.	Nếu bạn không phải là một người chụp ảnh quá nhiều , và mong muốn một chiếc máy ảnh “ ổn ” , thì bạn sẽ hài lòng với camera của iPhone 12 mini .
+
+Tính di động của iPhone 12 mini	Tính di động của iPhone 12 mini
+
+Thay đổi đáng kể nhất khi chuyển từ điện thoại Max sang mini là tính di động.	Thay đổi đáng kể nhất khi chuyển từ điện thoại Max sang mini là tính di động .
+
+Với iPhone 11 Pro Max, bạn không bao giờ phải đặt câu hỏi liệu nó có trong túi của mình hay không.	Với iPhone 11 Pro Max , bạn không bao giờ phải đặt câu hỏi liệu nó có trong túi của mình hay không .
+
+Bởi lẽ, chiếc điện thoại này khá to và cồng kềnh.	Bởi lẽ , chiếc điện thoại này khá to và cồng kềnh .
+
+Còn với iPhone 12 mini, sẽ có lúc bạn không chắc chắn 100% rằng nó có ở trong túi của mình.	Còn với iPhone 12 mini , sẽ có lúc bạn không chắc chắn 100% rằng nó có ở trong túi của mình .
+
+Nếu bạn đang muốn một chiếc điện thoại mang kích thước iPhone SE, nhưng với công nghệ mới nhất, bạn sẽ thích iPhone 12 mini.	Nếu bạn đang muốn một chiếc điện thoại mang kích thước iPhone SE , nhưng với công nghệ mới nhất , bạn sẽ thích iPhone 12 mini .
+
+alt:	alt :
+
+des:	des :
+
+Tạm kết	Tạm kết
+
+Theo một người dùng từ trang 9to5mac, anh ấy không hề thấy hối hận vì đã mua iPhone 12 mini.	Theo một người dùng từ trang 9to5mac , anh ấy không hề thấy hối hận vì đã mua iPhone 12 mini .
+
+Bởi lẽ, chiếc điện thoại mang toàn bộ công nghệ mới nhất mà lại rất nhỏ và gọn.	Bởi lẽ , chiếc điện thoại mang toàn bộ công nghệ mới nhất mà lại rất nhỏ và gọn .
+{"subject": ["4&&chiếc", "5&&điện", "6&&thoại"], "object": [], "aspect": ["10&&công", "11&&nghệ"], "predicate": ["12&&mới", "13&&nhất"], "label": "SUP+"}
+
+Bạn nghĩ sao về review iPhone 12 mini?	Bạn nghĩ sao về review iPhone 12 mini ?
+
+Hãy chia sẻ cùng Hoàng Hà Mobile nhé!	Hãy chia sẻ cùng Hoàng Hà Mobile nhé !
+
+Cũng đừng quên rằng Hoàng Hà Mobile hiện đang là nhà bán lẻ Apple được ủy quyền chính thức tại Việt Nam.	Cũng đừng quên rằng Hoàng Hà Mobile hiện đang là nhà bán lẻ Apple được ủy quyền chính thức tại Việt Nam .
+
+Click tại đây để đặt trước dòng sản phẩm iPhone 12 chính hãng VN/A với giá ưu đãi chỉ từ 17,99 triệu (giá áp dụng khi tham gia chương trình thu cũ đổi mới).	Click tại đây để đặt trước dòng sản phẩm iPhone 12 chính hãng VN / A với giá ưu đãi chỉ từ 17,99 triệu ( giá áp dụng khi tham gia chương trình thu cũ đổi mới ) .
+

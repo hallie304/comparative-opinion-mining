@@ -1,0 +1,50 @@
+Title: iPhone 12 Mini và 12 Pro Max: Người khổng lồ cùng bé tí hon, có gì đặc biệt?	Title : iPhone 12 Mini và 12 Pro Max : Người khổng lồ cùng bé tí hon , có gì đặc biệt ?
+
+Trong bài viết ngày hôm nay, chúng ta hãy cùng đi so sánh iPhone 12 Mini và iPhone 12 Pro Max, để xem giữa một “gã khổng lồ” khi đứng cạnh một “chú bé” tí hon thì có gì thú vị nhé.	Trong bài viết ngày hôm nay , chúng ta hãy cùng đi so sánh iPhone 12 Mini và iPhone 12 Pro Max , để xem giữa một “ gã khổng lồ ” khi đứng cạnh một “ chú bé ” tí hon thì có gì thú vị nhé .
+
+So sánh nhanh iPhone 12 Mini và iPhone 12 Pro Max	So sánh nhanh iPhone 12 Mini và iPhone 12 Pro Max
+
+Được bán ra sau hai model iPhone 12 và 12 Pro với màn hình 6,1 inch, iPhone 12 Mini và 12 Pro Max sẽ sớm được mở bán cũng như giao đến tay những người dùng đã đặt trước.	Được bán ra sau hai model iPhone 12 và 12 Pro với màn hình 6,1 inch , iPhone 12 Mini và 12 Pro Max sẽ sớm được mở bán cũng như giao đến tay những người dùng đã đặt trước .
+
+Dưới đây là video so sánh nhanh ngoại hình, thiết kế của hai sản phẩm này.	Dưới đây là video so sánh nhanh ngoại hình , thiết kế của hai sản phẩm này .
+
+iPhone 12 Mini đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của iPhone 12 tiêu chuẩn.	iPhone 12 Mini đúng như tên gọi của nó là phiên bản với kích thước nhỏ gọn hơn của iPhone 12 tiêu chuẩn .
+{"subject": ["1&&iPhone", "2&&12", "3&&Mini"], "object": ["20&&iPhone", "21&&12", "22&&tiêu", "23&&chuẩn"], "aspect": ["14&&kích", "15&&thước"], "predicate": ["16&&nhỏ", "17&&gọn", "18&&hơn"], "label": "COM"}
+
+Các thông số kỹ thuật còn lại như bộ vi xử lý, cụm camera, thiết kế vuông vức lấy cảm hứng từ iPhone 4 thì gần như là giống hệt.	Các thông số kỹ thuật còn lại như bộ vi xử lý , cụm camera , thiết kế vuông vức lấy cảm hứng từ iPhone 4 thì gần như là giống hệt .
+{"subject": [], "object": [], "aspect": ["9&&bộ", "10&&vi", "11&&xử", "12&&lý"], "predicate": ["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["14&&cụm", "15&&camera"], "predicate": ["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["17&&thiết", "18&&kế"], "predicate": ["28&&gần", "29&&như", "30&&là", "31&&giống", "32&&hệt"], "label": "EQL"}
+
+Nhờ thiết kế viền màn hình mỏng, iPhone 12 Mini trông rất “mi nhon” khi đặt cạnh những người anh em sở hữu màn hình chỉ 4,7 inch như iPhone 7, 8 hay là SE 2020.	Nhờ thiết kế viền màn hình mỏng , iPhone 12 Mini trông rất “ mi nhon ” khi đặt cạnh những người anh em sở hữu màn hình chỉ 4,7 inch như iPhone 7 , 8 hay là SE 2020 .
+
+alt: iphone-12-mini-va-12-pro-2	alt : iphone - 12 - mini-va - 12 - pro - 2
+
+des: iPhone 5s (Trái), iPhone 12 Mini (giữa) và iPhone 7 (phải)	des : iPhone 5s ( Trái ) , iPhone 12 Mini ( giữa ) và iPhone 7 ( phải )
+
+iPhone 12 Pro Max lại là một thái cực hoàn toàn khác, đây đúng nghĩa là một gã khổng lồ thực sự trong thế hệ iPhone 12 năm nay.	iPhone 12 Pro Max lại là một thái cực hoàn toàn khác , đây đúng nghĩa là một gã khổng lồ thực sự trong thế hệ iPhone 12 năm nay .
+
+alt: iphone-12-mini-va-12-pro-1	alt : iphone - 12 - mini-va - 12 - pro - 1
+
+des: iPhone 12 Mini đứng cạnh iPhone 12 Pro Max	des : iPhone 12 Mini đứng cạnh iPhone 12 Pro Max
+
+Phiên bản này có kích thước nhỉnh hơn đôi chút cho với các mẫu iPhone 6/7/8 Plus và hơn hẳn so với 11 Pro Max ra mắt vào năm ngoái.	Phiên bản này có kích thước nhỉnh hơn đôi chút cho với các mẫu iPhone 6 / 7 / 8 Plus và hơn hẳn so với 11 Pro Max ra mắt vào năm ngoái .
+{"subject": ["1&&Phiên", "2&&bản", "3&&này"], "object": ["13&&các", "14&&mẫu", "15&&iPhone", "16&&6", "17&&/", "18&&7", "19&&/", "20&&8", "21&&Plus"], "aspect": ["5&&kích", "6&&thước"], "predicate": ["7&&nhỉnh", "8&&hơn", "9&&đôi", "10&&chút"], "label": "COM"}
+{"subject": ["1&&Phiên", "2&&bản", "3&&này"], "object": ["27&&11", "28&&Pro", "29&&Max"], "aspect": ["5&&kích", "6&&thước"], "predicate": ["23&&hơn", "24&&hẳn"], "label": "COM"}
+
+Không sở hữu sự tương đồng về mặt cấu hình như bộ đôi iPhone 12 Mini và iPhone 12, Apple đã lợi dụng không gian lớn bên trong phiên bản Pro Max để trang bị cho mẫu smartphone này hệ thống camera chất lượng hơn.	Không sở hữu sự tương đồng về mặt cấu hình như bộ đôi iPhone 12 Mini và iPhone 12 , Apple đã lợi dụng không gian lớn bên trong phiên bản Pro Max để trang bị cho mẫu smartphone này hệ thống camera chất lượng hơn .
+{"subject": ["38&&mẫu", "39&&smartphone", "40&&này", "41&&hệ", "42&&thống", "43&&camera"], "object": ["14&&iPhone", "15&&12", "16&&Mini"], "aspect": [], "predicate": ["44&&chất", "45&&lượng", "46&&hơn"], "label": "COM+"}
+{"subject": ["38&&mẫu", "39&&smartphone", "40&&này"], "object": ["18&&iPhone", "19&&12"], "aspect": ["41&&hệ", "42&&thống", "43&&camera"], "predicate": ["44&&chất", "45&&lượng", "46&&hơn"], "label": "COM+"}
+{"subject": ["30&&phiên", "31&&bản", "32&&Pro", "33&&Max"], "object": ["14&&iPhone", "15&&12", "16&&Mini"], "aspect": ["9&&cấu", "10&&hình"], "predicate": ["1&&Không", "2&&sở", "3&&hữu", "4&&sự", "5&&tương", "6&&đồng"], "label": "DIF"}
+{"subject": ["30&&phiên", "31&&bản", "32&&Pro", "33&&Max"], "object": ["18&&iPhone", "19&&12"], "aspect": ["9&&cấu", "10&&hình"], "predicate": ["1&&Không", "2&&sở", "3&&hữu", "4&&sự", "5&&tương", "6&&đồng"], "label": "DIF"}
+
+Nhờ đó, chất lượng hình ảnh trên iPhone 12 Pro Max hứa hẹn sẽ có chất lượng vượt trội hơn so với người anh em của mình.	Nhờ đó , chất lượng hình ảnh trên iPhone 12 Pro Max hứa hẹn sẽ có chất lượng vượt trội hơn so với người anh em của mình .
+{"subject": ["9&&iPhone", "10&&12", "11&&Pro", "12&&Max"], "object": ["24&&người", "25&&anh", "26&&em", "27&&của", "28&&mình"], "aspect": ["4&&chất", "5&&lượng", "6&&hình", "7&&ảnh"], "predicate": ["19&&vượt", "20&&trội", "21&&hơn"], "label": "COM+"}
+{"subject": ["6&&hình", "7&&ảnh", "8&&trên", "9&&iPhone", "10&&12", "11&&Pro", "12&&Max"], "object": ["24&&người", "25&&anh", "26&&em", "27&&của", "28&&mình"], "aspect": ["4&&chất", "5&&lượng"], "predicate": ["19&&vượt", "20&&trội", "21&&hơn"], "label": "COM+"}
+
+alt:iphone-12-mini-va-12-pro-5	alt : iphone - 12 - mini-va - 12 - pro - 5
+
+des: Từ trái sang phải: iPhone 12 Mini, 12 Pro, 12 Pro Max	des : Từ trái sang phải : iPhone 12 Mini , 12 Pro , 12 Pro Max
+
+Được biết, bộ đôi iPhone 12 Mini và Pro Max sẽ cùng được lên kệ vào ngày 13/11 tới đây với mức giá khởi điểm lần lượt từ $729 cho bản Mini và $1.099 cho bản Pro Max.	Được biết , bộ đôi iPhone 12 Mini và Pro Max sẽ cùng được lên kệ vào ngày 13 / 11 tới đây với mức giá khởi điểm lần lượt từ $729 cho bản Mini và $1.099 cho bản Pro Max .
+

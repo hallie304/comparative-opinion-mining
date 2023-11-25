@@ -1,0 +1,162 @@
+title: Trên tay & đánh giá Samsung Galaxy S22 Plus: Đây mới thực sự là dòng S?	title : Trên tay & đánh giá Samsung Galaxy S22 Plus : Đây mới thực sự là dòng S ?
+
+Năm nay, khi Galaxy S22 Ultra được nhiều ý kiến cho rằng đây là một chiếc Note đổi tên, thì Galaxy S22 Plus được trở lại đúng vị thế anh cả của dòng S. Sản phẩm này được đánh giá sẽ tiếp cận với nhiều đối tượng khách hàng một cách rộng rãi hơn.	Năm nay , khi Galaxy S22 Ultra được nhiều ý kiến cho rằng đây là một chiếc Note đổi tên , thì Galaxy S22 Plus được trở lại đúng vị thế anh cả của dòng S . Sản phẩm này được đánh giá sẽ tiếp cận với nhiều đối tượng khách hàng một cách rộng rãi hơn .
+
+Cùng Hoàng Hà Mobile điểm qua những yếu tố đáng chú ý của Samsung Galaxy S22 Plus nhé!	Cùng Hoàng Hà Mobile điểm qua những yếu tố đáng chú ý của Samsung Galaxy S22 Plus nhé !
+
+1.	1 .
+
+Thiết kế “anh em” với S21 Plus nhưng cảm giác cầm nắm tuyệt vời hơn	Thiết kế “ anh em ” với S21 Plus nhưng cảm giác cầm nắm tuyệt vời hơn
+{"subject": ["8&&S21", "9&&Plus"], "object": [], "aspect": ["11&&cảm", "12&&giác", "13&&cầm", "14&&nắm"], "predicate": ["15&&tuyệt", "16&&vời", "17&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["8&&S21", "9&&Plus"], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["4&&anh", "5&&em"], "label": "EQL"}
+
+Về tương quan, Samsung Galaxy S22 Plus khá giống với phiên bản năm 2021, mặc dù có một số cải tiến nổi bật.	Về tương quan , Samsung Galaxy S22 Plus khá giống với phiên bản năm 2021 , mặc dù có một số cải tiến nổi bật .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&S22", "8&&Plus"], "object": ["12&&phiên", "13&&bản", "14&&năm", "15&&2021"], "aspect": ["2&&tương", "3&&quan"], "predicate": ["9&&khá", "10&&giống"], "label": "EQL"}
+
+Cụ thể, hai bên cạnh viền cảm giác to hơn, dày hơn và dễ cầm nắm hơn.	Cụ thể , hai bên cạnh viền cảm giác to hơn , dày hơn và dễ cầm nắm hơn .
+{"subject": [], "object": [], "aspect": ["4&&hai", "5&&bên", "6&&cạnh", "7&&viền"], "predicate": ["10&&to", "11&&hơn"], "label": "COM"}
+{"subject": [], "object": [], "aspect": ["4&&hai", "5&&bên", "6&&cạnh", "7&&viền"], "predicate": ["13&&dày", "14&&hơn"], "label": "COM"}
+{"subject": [], "object": [], "aspect": ["4&&hai", "5&&bên", "6&&cạnh", "7&&viền"], "predicate": ["16&&dễ", "17&&cầm", "18&&nắm", "19&&hơn"], "label": "COM+"}
+
+Mặt lưng của máy thì vẫn quá tốt như từ trước tới nay.	Mặt lưng của máy thì vẫn quá tốt như từ trước tới nay .
+{"subject": ["4&&máy"], "object": ["10&&từ", "11&&trước", "12&&tới", "13&&nay"], "aspect": ["1&&Mặt", "2&&lưng"], "predicate": ["8&&tốt", "9&&như"], "label": "EQL"}
+
+Lưng của Galaxy S22 Plus rất mịn khi chạm vào mà không quá trơn.	Lưng của Galaxy S22 Plus rất mịn khi chạm vào mà không quá trơn .
+
+Thiết kế đường viền cắt – nơi mô-đun máy ảnh năm nay cảm giác gọn gẽ và sắc nét hơn so với Galaxy S21 Plus.	Thiết kế đường viền cắt – nơi mô-đun máy ảnh năm nay cảm giác gọn gẽ và sắc nét hơn so với Galaxy S21 Plus .
+{"subject": [], "object": ["23&&Galaxy", "24&&S21", "25&&Plus"], "aspect": ["1&&Thiết", "2&&kế", "3&&đường", "4&&viền", "5&&cắt", "6&&–", "7&&nơi", "8&&mô-đun", "9&&máy", "10&&ảnh"], "predicate": ["15&&gọn", "16&&gẽ", "17&&và", "18&&sắc", "19&&nét", "20&&hơn"], "label": "COM+"}
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+Cụm camera Galaxy S22 Plus là điểm nhấn ở mặt lưng, vẫn là thiết kế camera xếp dọc hình viên thuốc quen thuộc như trên phiên bản S21 Plus tiền nhiệm.	Cụm camera Galaxy S22 Plus là điểm nhấn ở mặt lưng , vẫn là thiết kế camera xếp dọc hình viên thuốc quen thuộc như trên phiên bản S21 Plus tiền nhiệm .
+{"subject": ["1&&Cụm", "2&&camera", "3&&Galaxy", "4&&S22", "5&&Plus"], "object": ["27&&phiên", "28&&bản", "29&&S21", "30&&Plus", "31&&tiền", "32&&nhiệm"], "aspect": ["15&&thiết", "16&&kế", "17&&camera", "18&&xếp", "19&&dọc", "20&&hình", "21&&viên", "22&&thuốc"], "predicate": ["25&&như"], "label": "EQL"}
+
+Tuy nhiên, camera trên chiếc máy được sơn đồng màu với mặt lưng chứ không còn nổi bật như trên Galaxy S21 Plus.	Tuy nhiên , camera trên chiếc máy được sơn đồng màu với mặt lưng chứ không còn nổi bật như trên Galaxy S21 Plus .
+{"subject": ["4&&camera", "5&&trên", "6&&chiếc", "7&&máy"], "object": ["22&&Galaxy", "23&&S21", "24&&Plus"], "aspect": ["9&&sơn"], "predicate": ["16&&không", "17&&còn", "18&&nổi", "19&&bật", "20&&như"], "label": "COM-"}
+
+Nhờ vậy, tổng thể thiết kế của Galaxy S22+ được liền mạch và thống nhất hơn.	Nhờ vậy , tổng thể thiết kế của Galaxy S22 + được liền mạch và thống nhất hơn .
+{"subject": ["9&&Galaxy", "10&&S22", "11&&+"], "object": [], "aspect": ["4&&tổng", "5&&thể", "6&&thiết", "7&&kế"], "predicate": ["13&&liền", "14&&mạch", "15&&và", "16&&thống", "17&&nhất", "18&&hơn"], "label": "COM+"}
+
+Người dùng không phải đắn đo việc “màu lưng đẹp nhưng lại không thích màu cụm camera” như năm ngoái.	Người dùng không phải đắn đo việc “ màu lưng đẹp nhưng lại không thích màu cụm camera ” như năm ngoái .
+
+Máy vẫn có loa kép, và cổng sạc type-C tích hợp tai nghe, hỗ trợ 2 sim.	Máy vẫn có loa kép , và cổng sạc type-C tích hợp tai nghe , hỗ trợ 2 sim .
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+2.	2 .
+
+Màn hình sống động bậc nhất thế giới Android	Màn hình sống động bậc nhất thế giới Android
+{"subject": ["1&&Màn", "2&&hình"], "object": [], "aspect": [], "predicate": ["3&&sống", "4&&động", "5&&bậc", "6&&nhất", "7&&thế", "8&&giới", "9&&Android"], "label": "SUP+"}
+
+Samsung Galaxy S22 Plus sở hữu màn hình AMOLED 6.6 inch dạng phẳng, cùng viền màn hình cực sexy.	Samsung Galaxy S22 Plus sở hữu màn hình AMOLED 6.6 inch dạng phẳng , cùng viền màn hình cực sexy .
+
+Mặc dù bé hơn một chút với S21 Plus, nhưng không vì thế mà ảnh hưởng đến trải nghiệm.	Mặc dù bé hơn một chút với S21 Plus , nhưng không vì thế mà ảnh hưởng đến trải nghiệm .
+{"subject": [], "object": ["8&&S21", "9&&Plus"], "aspect": [], "predicate": ["3&&bé", "4&&hơn", "5&&một", "6&&chút"], "label": "COM-"}
+
+Phải khẳng định đây là một trong những màn hình xứng đáng điểm 10.	Phải khẳng định đây là một trong những màn hình xứng đáng điểm 10 .
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+Màn hình này là một trong những màn hình đẹp nhất chúng ta từng thấy.	Màn hình này là một trong những màn hình đẹp nhất chúng ta từng thấy .
+{"subject": ["1&&Màn", "2&&hình", "3&&này"], "object": [], "aspect": [], "predicate": ["10&&đẹp", "11&&nhất"], "label": "SUP+"}
+
+Mặc dù bị giới hạn ở độ phân giải 1080p, nhưng sự sống động và rõ ràng của màu sắc HDR10+ đã thuyết phục hoàn toàn.	Mặc dù bị giới hạn ở độ phân giải 1080p , nhưng sự sống động và rõ ràng của màu sắc HDR10 + đã thuyết phục hoàn toàn .
+
+Thực tế trong điều kiện dùng thông thường, độ phân giải 2K tỏ ra không quá khác biệt, nên 1080p là vừa đủ.	Thực tế trong điều kiện dùng thông thường , độ phân giải 2K tỏ ra không quá khác biệt , nên 1080p là vừa đủ .
+{"subject": ["10&&độ", "11&&phân", "12&&giải", "13&&2K"], "object": [], "aspect": ["4&&điều", "5&&kiện", "6&&dùng", "7&&thông", "8&&thường"], "predicate": ["16&&không", "17&&quá", "18&&khác", "19&&biệt"], "label": "EQL"}
+
+Độ sáng tối đa được cải thiện – công ty tuyên bố là 1750 nits – đủ sức dùng trong cả điều kiện nắng gắt.	Độ sáng tối đa được cải thiện – công ty tuyên bố là 1750 nits – đủ sức dùng trong cả điều kiện nắng gắt .
+
+Màn hình vẫn sẽ dùng tần số quét 120Hz, rất tiếc chưa đẩy lên 144Hz để chúng ta thấy sự khác biệt.	Màn hình vẫn sẽ dùng tần số quét 120Hz , rất tiếc chưa đẩy lên 144Hz để chúng ta thấy sự khác biệt .
+
+Cảm biến vân tay siêu âm của Samsung cung cấp không thay đổi quá nhiều so với cảm biến trong Galaxy S21 series vì nó đã vốn quá tốt, tốc độ rất nhanh nhạy và chính xác.	Cảm biến vân tay siêu âm của Samsung cung cấp không thay đổi quá nhiều so với cảm biến trong Galaxy S21 series vì nó đã vốn quá tốt , tốc độ rất nhanh nhạy và chính xác .
+{"subject": ["1&&Cảm", "2&&biến", "3&&vân", "4&&tay", "5&&siêu", "6&&âm", "7&&của", "8&&Samsung"], "object": ["18&&cảm", "19&&biến", "20&&trong", "21&&Galaxy", "22&&S21", "23&&series"], "aspect": [], "predicate": ["11&&không", "12&&thay", "13&&đổi", "14&&quá", "15&&nhiều"], "label": "EQL"}
+
+3.	3 .
+
+Không còn đắn đo lựa chọn với Snapdragon 8 Gen 1 cực mạnh mẽ!	Không còn đắn đo lựa chọn với Snapdragon 8 Gen 1 cực mạnh mẽ !
+
+Thật thú vị khi Samsung quyết định sử dụng chip Snapdragon cho dòng S năm nay tại Việt Nam, khi người dùng đã dần nhàm chán với Exynos.	Thật thú vị khi Samsung quyết định sử dụng chip Snapdragon cho dòng S năm nay tại Việt Nam , khi người dùng đã dần nhàm chán với Exynos .
+
+Rõ ràng đây là một cú “twist” ngoạn mục.	Rõ ràng đây là một cú “ twist ” ngoạn mục .
+
+Galaxy S22 series là thương hiệu sử dụng Snapdragon 8 Gen 1 sớm bậc nhất.	Galaxy S22 series là thương hiệu sử dụng Snapdragon 8 Gen 1 sớm bậc nhất .
+{"subject": ["1&&Galaxy", "2&&S22", "3&&series"], "object": [], "aspect": ["7&&sử", "8&&dụng", "9&&Snapdragon", "10&&8", "11&&Gen", "12&&1"], "predicate": ["13&&sớm", "14&&bậc", "15&&nhất"], "label": "SUP"}
+
+Con chip 1 triệu điểm Antutu này được đánh giá có khả năng “càn quét” mọi ứng dụng.	Con chip 1 triệu điểm Antutu này được đánh giá có khả năng “ càn quét ” mọi ứng dụng .
+
+Ngoài ra, Samsung đã thực hiện một số thay đổi tinh tế đối với One UI 4.1 để cải thiện trải nghiệm theo những cách nhỏ nhưng thú vị.	Ngoài ra , Samsung đã thực hiện một số thay đổi tinh tế đối với One UI 4.1 để cải thiện trải nghiệm theo những cách nhỏ nhưng thú vị .
+
+Mọi thứ sẽ cảm thấy khá quen thuộc.	Mọi thứ sẽ cảm thấy khá quen thuộc .
+
+Galaxy S22 Plus khi được bán ra sẽ có RAM 8GB và bộ nhớ trong tối đa 256 GB.	Galaxy S22 Plus khi được bán ra sẽ có RAM 8GB và bộ nhớ trong tối đa 256 GB .
+
+Rất tiếc khi bản 12GB RAM vẫn chưa có mặt.	Rất tiếc khi bản 12GB RAM vẫn chưa có mặt .
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+Theo trải nghiệm nhanh, sau 30 phút chơi Call of Duty: Mobile, điện thoại sẽ ấm lên nhưng không khó chịu, không có tác động lớn đến tốc độ khung hình, ngay cả ở cài đặt đồ họa cao nhất.	Theo trải nghiệm nhanh , sau 30 phút chơi Call of Duty : Mobile , điện thoại sẽ ấm lên nhưng không khó chịu , không có tác động lớn đến tốc độ khung hình , ngay cả ở cài đặt đồ họa cao nhất .
+
+Pin 4.500mAh chắc chắn đủ để bạn sử dụng cả ngày với nhu cầu sử dụng bình thường, vừa đủ để dùng từ sáng đến tối mới cần sạc.	Pin 4.500mAh chắc chắn đủ để bạn sử dụng cả ngày với nhu cầu sử dụng bình thường , vừa đủ để dùng từ sáng đến tối mới cần sạc .
+
+Sạc nhanh 45W được mang lên sản phẩm, sẽ giải quyết nhu cầu sạc nhanh chóng, khoảng 30 phút để đạt được 50%.	Sạc nhanh 45W được mang lên sản phẩm , sẽ giải quyết nhu cầu sạc nhanh chóng , khoảng 30 phút để đạt được 50% .
+
+4.	4 .
+
+Camera cải thiện chụp đêm và kế thừa ưu điểm của Galaxy S21 series!	Camera cải thiện chụp đêm và kế thừa ưu điểm của Galaxy S21 series !
+
+Galaxy S22 và S22 Plus khá khác biệt so với những người tiền nhiệm năm 2021.	Galaxy S22 và S22 Plus khá khác biệt so với những người tiền nhiệm năm 2021 .
+{"subject": ["1&&Galaxy", "2&&S22"], "object": ["11&&những", "12&&người", "13&&tiền", "14&&nhiệm", "15&&năm", "16&&2021"], "aspect": [], "predicate": ["6&&khá", "7&&khác", "8&&biệt"], "label": "DIF"}
+{"subject": ["4&&S22", "5&&Plus"], "object": ["11&&những", "12&&người", "13&&tiền", "14&&nhiệm", "15&&năm", "16&&2021"], "aspect": [], "predicate": ["6&&khá", "7&&khác", "8&&biệt"], "label": "DIF"}
+
+Không còn là cảm biến chính 12MP, thay vào đó là cảm biến Samsung 50MP.	Không còn là cảm biến chính 12MP , thay vào đó là cảm biến Samsung 50MP .
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+Với kích thước 1/1.56 ”, cảm biến là cảm biến lớn nhất được tìm thấy, và được ghép nối với ống kính f/1.8 và các cải tiến về xử lý hậu kỳ, kết quả trong hầu hết mọi điều kiện ánh sáng đều rất hài lòng.	Với kích thước 1 / 1.56 ” , cảm biến là cảm biến lớn nhất được tìm thấy , và được ghép nối với ống kính f / 1.8 và các cải tiến về xử lý hậu kỳ , kết quả trong hầu hết mọi điều kiện ánh sáng đều rất hài lòng .
+{"subject": ["9&&cảm", "10&&biến"], "object": [], "aspect": [], "predicate": ["14&&lớn", "15&&nhất", "16&&được", "17&&tìm", "18&&thấy"], "label": "SUP+"}
+
+Cảm biến lớn hơn ghi lại nhiều chi tiết và như mọi khi, quá trình xử lý màu sắc của Samsung được điều chỉnh đến mức rực rỡ và nịnh mắt.	Cảm biến lớn hơn ghi lại nhiều chi tiết và như mọi khi , quá trình xử lý màu sắc của Samsung được điều chỉnh đến mức rực rỡ và nịnh mắt .
+
+Samsung cũng cải thiện hiệu suất ánh sáng yếu và đã đạt được kết quả tốt hơn từ cảm biến 50MP của S22 Plus.	Samsung cũng cải thiện hiệu suất ánh sáng yếu và đã đạt được kết quả tốt hơn từ cảm biến 50MP của S22 Plus .
+{"subject": ["1&&Samsung"], "object": [], "aspect": ["5&&hiệu", "6&&suất", "7&&ánh", "8&&sáng", "9&&yếu"], "predicate": ["3&&cải", "4&&thiện"], "label": "COM+"}
+{"subject": ["23&&S22", "24&&Plus"], "object": [], "aspect": ["19&&cảm", "20&&biến", "21&&50MP"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+
+Ảnh chụp ban đêm rõ ràng hơn, sáng hơn và ít nhiễu hơn so với các điện thoại Samsung năm ngoái.	Ảnh chụp ban đêm rõ ràng hơn , sáng hơn và ít nhiễu hơn so với các điện thoại Samsung năm ngoái .
+{"subject": [], "object": ["17&&các", "18&&điện", "19&&thoại", "20&&Samsung", "21&&năm", "22&&ngoái"], "aspect": ["1&&Ảnh", "2&&chụp", "3&&ban", "4&&đêm"], "predicate": ["5&&rõ", "6&&ràng", "7&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["17&&các", "18&&điện", "19&&thoại", "20&&Samsung", "21&&năm", "22&&ngoái"], "aspect": ["1&&Ảnh", "2&&chụp", "3&&ban", "4&&đêm"], "predicate": ["9&&sáng", "10&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["17&&các", "18&&điện", "19&&thoại", "20&&Samsung", "21&&năm", "22&&ngoái"], "aspect": ["1&&Ảnh", "2&&chụp", "3&&ban", "4&&đêm"], "predicate": ["12&&ít", "13&&nhiễu", "14&&hơn"], "label": "COM+"}
+
+alt: Hoàng Hà Mobile Samsung S22 Plus	alt : Hoàng Hà Mobile Samsung S22 Plus
+
+des:	des :
+
+Tính năng Ultrawide do sử dụng phần cứng tương tự như S21 Plus, nên không có quá nhiều cải tiến.	Tính năng Ultrawide do sử dụng phần cứng tương tự như S21 Plus , nên không có quá nhiều cải tiến .
+{"subject": [], "object": ["12&&S21", "13&&Plus"], "aspect": ["7&&phần", "8&&cứng"], "predicate": ["9&&tương", "10&&tự"], "label": "EQL"}
+{"subject": [], "object": ["12&&S21", "13&&Plus"], "aspect": ["1&&Tính", "2&&năng", "3&&Ultrawide"], "predicate": ["16&&không", "17&&có", "18&&quá", "19&&nhiều", "20&&cải", "21&&tiến"], "label": "EQL"}
+
+Camera selfie trên hầu hết các flagship của Samsung thường là tuyệt vời và Galaxy S22 Plus không gây thất vọng.	Camera selfie trên hầu hết các flagship của Samsung thường là tuyệt vời và Galaxy S22 Plus không gây thất vọng .
+
+Chi tiết tuyệt vời mà không bị quá sắc nét, màu sắc tuyệt vời và khả năng tách đối tượng tuyệt vời ở chế độ chân dung sẽ khiến bạn muốn chụp nhiều ảnh selfie hơn.	Chi tiết tuyệt vời mà không bị quá sắc nét , màu sắc tuyệt vời và khả năng tách đối tượng tuyệt vời ở chế độ chân dung sẽ khiến bạn muốn chụp nhiều ảnh selfie hơn .
+
+Kết luận về Samsung Galaxy S22	Kết luận về Samsung Galaxy S22
+
+Đầu tiên cần khẳng định: Đây là một chiếc điện thoại tuyệt vời.	Đầu tiên cần khẳng định : Đây là một chiếc điện thoại tuyệt vời .
+
+Samsung Galaxy S22 Plus là giao điểm ngọt ngào giữa kích thước nhỏ gọn của Galaxy S22 và phần cứng mạnh mẽ từ Galaxy S22 Ultra.	Samsung Galaxy S22 Plus là giao điểm ngọt ngào giữa kích thước nhỏ gọn của Galaxy S22 và phần cứng mạnh mẽ từ Galaxy S22 Ultra .
+
+Sản phẩm có màn hình hiển thị đáng kinh ngạc, hiệu suất tốt nhất trong phân khúc.	Sản phẩm có màn hình hiển thị đáng kinh ngạc , hiệu suất tốt nhất trong phân khúc .
+{"subject": ["1&&Sản", "2&&phẩm"], "object": [], "aspect": ["12&&hiệu", "13&&suất"], "predicate": ["14&&tốt", "15&&nhất", "16&&trong", "17&&phân", "18&&khúc"], "label": "SUP+"}
+
+Nếu bạn muốn một chiếc điện thoại hoạt động tốt hầu hết yêu cầu, mức giá dễ chịu, nhưng đảm bảo mọi yếu tố cao cấp và được hỗ trợ lâu dài, thì Galaxy S22 Plus là một lựa chọn nổi bật.	Nếu bạn muốn một chiếc điện thoại hoạt động tốt hầu hết yêu cầu , mức giá dễ chịu , nhưng đảm bảo mọi yếu tố cao cấp và được hỗ trợ lâu dài , thì Galaxy S22 Plus là một lựa chọn nổi bật .
+

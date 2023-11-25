@@ -1,0 +1,98 @@
+Title: So sánh iPhone 15 Plus và Google Pixel 7 Pro: Máy nào ngon hơn?	Title : So sánh iPhone 15 Plus và Google Pixel 7 Pro : Máy nào ngon hơn ?
+
+Dù iPhone 15 series chưa ra mắt nhưng sự quan tâm của người dùng với các sản phẩm này chưa bao giờ hạ nhiệt.	Dù iPhone 15 series chưa ra mắt nhưng sự quan tâm của người dùng với các sản phẩm này chưa bao giờ hạ nhiệt .
+
+Để người dùng có cái nhìn tổng quan hơn, trong nội dung bài viết này, chúng ta sẽ so sánh iPhone 15 Plus và Pixel 7 Pro qua các thông số cấu hình rò rỉ đang có.	Để người dùng có cái nhìn tổng quan hơn , trong nội dung bài viết này , chúng ta sẽ so sánh iPhone 15 Plus và Pixel 7 Pro qua các thông số cấu hình rò rỉ đang có .
+
+alt: iphone 15 plus và google pixel 7 pro	alt : iphone 15 plus và google pixel 7 pro
+
+des: So sánh iPhone 15 Plus và Google Pixel 7 Pro: Máy nào ngon hơn?	des : So sánh iPhone 15 Plus và Google Pixel 7 Pro : Máy nào ngon hơn ?
+
+Google gần đây vừa chính thức ra mắt điện thoại Pixel 7 Pro mới, dòng máy này sở hữu nhiều thông số kỹ thuật tuyệt vời về phần cứng cũng như màn hình, hệ thống camera tốt nhất từ trước đến nay.	Google gần đây vừa chính thức ra mắt điện thoại Pixel 7 Pro mới , dòng máy này sở hữu nhiều thông số kỹ thuật tuyệt vời về phần cứng cũng như màn hình , hệ thống camera tốt nhất từ trước đến nay .
+{"subject": ["11&&Pixel", "12&&7", "13&&Pro"], "object": [], "aspect": ["29&&phần", "30&&cứng"], "predicate": ["39&&tốt", "40&&nhất", "41&&từ", "42&&trước", "43&&đến", "44&&nay"], "label": "SUP+"}
+{"subject": ["11&&Pixel", "12&&7", "13&&Pro"], "object": [], "aspect": ["33&&màn", "34&&hình"], "predicate": ["39&&tốt", "40&&nhất", "41&&từ", "42&&trước", "43&&đến", "44&&nay"], "label": "SUP+"}
+{"subject": ["11&&Pixel", "12&&7", "13&&Pro"], "object": [], "aspect": ["36&&hệ", "37&&thống", "38&&camera"], "predicate": ["39&&tốt", "40&&nhất", "41&&từ", "42&&trước", "43&&đến", "44&&nay"], "label": "SUP+"}
+
+Dù vậy, Pixel 7 Pro có thể sẽ phải đối đầu với iPhone 15 Plus sắp ra mắt trong năm nay.	Dù vậy , Pixel 7 Pro có thể sẽ phải đối đầu với iPhone 15 Plus sắp ra mắt trong năm nay .
+
+Nếu đặt hai smartphone này lên bàn cân thì đâu mới là lựa chọn hoàn hảo nhất cho người dùng.	Nếu đặt hai smartphone này lên bàn cân thì đâu mới là lựa chọn hoàn hảo nhất cho người dùng .
+
+Màn hình iPhone 15 Plus và Google Pixel 7 Pro	Màn hình iPhone 15 Plus và Google Pixel 7 Pro
+
+Trước hết về mặt hiển thị, iPhone 15 Plus được đồn đoán sẽ có trang bị màn hình OLED 6,7 inch, độ phân giải 2778 x 1284 pixel, trong khi đó Pixel 7 Pro được trang bị màn hình OLED 6,67 inch với độ phân giải 3120 x 1440 pixel.	Trước hết về mặt hiển thị , iPhone 15 Plus được đồn đoán sẽ có trang bị màn hình OLED 6,7 inch , độ phân giải 2778 x 1284 pixel , trong khi đó Pixel 7 Pro được trang bị màn hình OLED 6,67 inch với độ phân giải 3120 x 1440 pixel .
+
+Màn hình của Pixel 7 Pro với các thông số như trên sẽ mang đến màn hình mới với độ tương phản cao, màu sắc trung thực hơn so với iPhone 15 Plus.	Màn hình của Pixel 7 Pro với các thông số như trên sẽ mang đến màn hình mới với độ tương phản cao , màu sắc trung thực hơn so với iPhone 15 Plus .
+{"subject": ["1&&Màn", "2&&hình", "3&&của", "4&&Pixel", "5&&7", "6&&Pro"], "object": ["32&&iPhone", "33&&15", "34&&Plus"], "aspect": ["25&&màu", "26&&sắc"], "predicate": ["27&&trung", "28&&thực", "29&&hơn"], "label": "COM+"}
+
+Ngược lại với màn hình của iPhone 15 Plus thì sẽ cho mức độ hiển thị với độ sáng tối đa tốt hơn, hỗ trợ cho người dùng có thể thoải mái sử dụng thiết bị ngoài trời, không sợ hiện tượng nhòe mờ hay khó theo dõi thông tin hiển thị.	Ngược lại với màn hình của iPhone 15 Plus thì sẽ cho mức độ hiển thị với độ sáng tối đa tốt hơn , hỗ trợ cho người dùng có thể thoải mái sử dụng thiết bị ngoài trời , không sợ hiện tượng nhòe mờ hay khó theo dõi thông tin hiển thị .
+{"subject": ["4&&màn", "5&&hình", "6&&của", "7&&iPhone", "8&&15", "9&&Plus"], "object": [], "aspect": ["18&&độ", "19&&sáng", "20&&tối", "21&&đa"], "predicate": ["22&&tốt", "23&&hơn"], "label": "COM+"}
+
+alt: so sánh iphone 15 plus và google pixel 7 pro thiết kế	alt : so sánh iphone 15 plus và google pixel 7 pro thiết kế
+
+des: Màn hình của Pixel 7 Pro sẽ mang đến màn hình mới với độ tương phản cao, màu sắc trung thực hơn so với iPhone 15 Plus	des : Màn hình của Pixel 7 Pro sẽ mang đến màn hình mới với độ tương phản cao , màu sắc trung thực hơn so với iPhone 15 Plus
+{"subject": ["3&&Màn", "4&&hình", "5&&của", "6&&Pixel", "7&&7", "8&&Pro"], "object": [], "aspect": ["21&&màu", "22&&sắc"], "predicate": ["23&&trung", "24&&thực", "25&&hơn"], "label": "COM+"}
+
+Hãng Apple còn được cho rằng sẽ trang bị tính năng ProMotion cho mẫu iPhone 15 Plus sắp ra mắt, sở hữu tần số quét màn hình lên đến 120Hz, mang lại trải nghiệm mượt mà nhất.	Hãng Apple còn được cho rằng sẽ trang bị tính năng ProMotion cho mẫu iPhone 15 Plus sắp ra mắt , sở hữu tần số quét màn hình lên đến 120Hz , mang lại trải nghiệm mượt mà nhất .
+
+Trong khi đó, chiếc điện thoại Google mới này không có tính năng tương tự.	Trong khi đó , chiếc điện thoại Google mới này không có tính năng tương tự .
+{"subject": ["5&&chiếc", "6&&điện", "7&&thoại", "8&&Google", "9&&mới", "10&&này"], "object": [], "aspect": [], "predicate": ["11&&không", "12&&có", "13&&tính", "14&&năng", "15&&tương", "16&&tự"], "label": "DIF"}
+
+Camera iPhone 15 Plus và Google Pixel 7 Pro	Camera iPhone 15 Plus và Google Pixel 7 Pro
+
+Cả iPhone 15 Plus và Pixel 7 Pro đều sẽ sở hữu cụm camera kép ở mặt sau.	Cả iPhone 15 Plus và Pixel 7 Pro đều sẽ sở hữu cụm camera kép ở mặt sau .
+{"subject": ["2&&iPhone", "3&&15", "4&&Plus"], "object": ["6&&Pixel", "7&&7", "8&&Pro"], "aspect": ["13&&cụm", "14&&camera", "15&&kép", "16&&ở", "17&&mặt", "18&&sau"], "predicate": ["9&&đều", "10&&sẽ", "11&&sở", "12&&hữu"], "label": "EQL"}
+
+Cụ thể, tin đồn cho rằng chiếc iPhone 15 Plus sẽ có cụm camera chính 12MP và camera góc siêu rộng 12MP, trong khi đó dòng Pixel 7 Pro có cụm camera chính 50MP và camera góc siêu rộng 12MP.	Cụ thể , tin đồn cho rằng chiếc iPhone 15 Plus sẽ có cụm camera chính 12MP và camera góc siêu rộng 12MP , trong khi đó dòng Pixel 7 Pro có cụm camera chính 50MP và camera góc siêu rộng 12MP .
+
+alt: so sánh iphone 15 plus và google pixel 7 pro camera	alt : so sánh iphone 15 plus và google pixel 7 pro camera
+
+des: Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu	des : Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu
+{"subject": ["3&&Google", "4&&Pixel", "5&&7", "6&&Pro"], "object": [], "aspect": ["13&&khả", "14&&năng", "15&&chụp", "16&&ảnh", "17&&trong", "18&&điều", "19&&kiện", "20&&ánh", "21&&sáng", "22&&yếu"], "predicate": ["7&&được", "8&&đánh", "9&&giá", "10&&cao", "11&&hơn"], "label": "COM+"}
+
+Theo đánh giá chung thì Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu cũng như máy sở hữu tính năng zoom kỹ thuật số chất lượng, đảm bảo cho ra các hình ảnh rõ nét và có mật độ chi tiết cao.	Theo đánh giá chung thì Google Pixel 7 Pro được đánh giá cao hơn ở khả năng chụp ảnh trong điều kiện ánh sáng yếu cũng như máy sở hữu tính năng zoom kỹ thuật số chất lượng , đảm bảo cho ra các hình ảnh rõ nét và có mật độ chi tiết cao .
+{"subject": ["6&&Google", "7&&Pixel", "8&&7", "9&&Pro"], "object": ["16&&khả", "17&&năng", "18&&chụp", "19&&ảnh", "20&&trong", "21&&điều", "22&&kiện", "23&&ánh", "24&&sáng", "25&&yếu"], "aspect": [], "predicate": ["10&&được", "11&&đánh", "12&&giá", "13&&cao", "14&&hơn"], "label": "COM+"}
+
+Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn, hình ảnh độ phân giải cao và chi tiết hơn so với iPhone 15 Plus.	Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn , hình ảnh độ phân giải cao và chi tiết hơn so với iPhone 15 Plus .
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": ["28&&iPhone", "29&&15", "30&&Plus"], "aspect": ["10&&chụp", "11&&ảnh", "12&&đêm"], "predicate": ["13&&tốt", "14&&hơn"], "label": "COM+"}
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": ["28&&iPhone", "29&&15", "30&&Plus"], "aspect": ["16&&hình", "17&&ảnh"], "predicate": ["18&&độ", "19&&phân", "20&&giải", "21&&cao"], "label": "COM+"}
+{"subject": ["1&&Pixel", "2&&7", "3&&Pro"], "object": ["28&&iPhone", "29&&15", "30&&Plus"], "aspect": ["16&&hình", "17&&ảnh"], "predicate": ["23&&chi", "24&&tiết", "25&&hơn"], "label": "COM+"}
+{"subject": ["16&&hình", "17&&ảnh"], "object": ["28&&iPhone", "29&&15", "30&&Plus"], "aspect": ["18&&độ", "19&&phân", "20&&giải"], "predicate": ["21&&cao"], "label": "COM+"}
+{"subject": ["16&&hình", "17&&ảnh"], "object": ["28&&iPhone", "29&&15", "30&&Plus"], "aspect": ["23&&chi", "24&&tiết"], "predicate": ["25&&hơn"], "label": "COM+"}
+
+Những người dùng đam mê chụp ảnh selfie hoàn toàn có thể hài lòng khi Pixel 7 Pro được trang bị tính năng chụp ảnh chân dung tuyệt vời và có hỗ trợ xóa phông ảnh ấn tượng.	Những người dùng đam mê chụp ảnh selfie hoàn toàn có thể hài lòng khi Pixel 7 Pro được trang bị tính năng chụp ảnh chân dung tuyệt vời và có hỗ trợ xóa phông ảnh ấn tượng .
+
+alt: so sánh iphone 15 plus và google pixel 7 pro cấu hình	alt : so sánh iphone 15 plus và google pixel 7 pro cấu hình
+
+des: Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn, hình ảnh độ phân giải cao và chi tiết hơn	des : Pixel 7 Pro cũng được trang bị tính năng chụp ảnh đêm tốt hơn , hình ảnh độ phân giải cao và chi tiết hơn
+
+Riêng dòng iPhone 15 Plus sẽ tốt hơn ở mảng chụp ảnh với giao diện đơn giản và trực quan.	Riêng dòng iPhone 15 Plus sẽ tốt hơn ở mảng chụp ảnh với giao diện đơn giản và trực quan .
+{"subject": ["3&&iPhone", "4&&15", "5&&Plus"], "object": [], "aspect": ["11&&chụp", "12&&ảnh"], "predicate": ["7&&tốt", "8&&hơn"], "label": "COM+"}
+
+Tùy theo nhu cầu sử dụng mà người dùng có thể chọn mẫu máy phù hợp nhất nhưng nhìn chung, cả hai camera của hai dòng máy mới nên trên đều đảm bảo chất lượng, xử lý hầu hết mọi tác vụ nhiếp ảnh.	Tùy theo nhu cầu sử dụng mà người dùng có thể chọn mẫu máy phù hợp nhất nhưng nhìn chung , cả hai camera của hai dòng máy mới nên trên đều đảm bảo chất lượng , xử lý hầu hết mọi tác vụ nhiếp ảnh .
+
+Hiệu năng iPhone 15 Plus và Google Pixel 7 Pro	Hiệu năng iPhone 15 Plus và Google Pixel 7 Pro
+
+iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp.	iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp .
+
+iPhone 15 Plus được trang bị chip A17 Bionic của Apple, trong khi Pixel 7 Pro được trang bị chip Snapdragon 895 của Qualcomm.	iPhone 15 Plus được trang bị chip A17 Bionic của Apple , trong khi Pixel 7 Pro được trang bị chip Snapdragon 895 của Qualcomm .
+
+Cả hai chipset này đều cung cấp hiệu năng mạnh mẽ và tốc độ xử lý nhanh chóng, mượt mà.	Cả hai chipset này đều cung cấp hiệu năng mạnh mẽ và tốc độ xử lý nhanh chóng , mượt mà .
+
+Tuy nhiên, con chip trên dòng iPhone được đánh giá cao hơn ở khả năng tối ưu hiệu suất và ổn định hơn.	Tuy nhiên , con chip trên dòng iPhone được đánh giá cao hơn ở khả năng tối ưu hiệu suất và ổn định hơn .
+{"subject": ["4&&con", "5&&chip", "6&&trên", "7&&dòng", "8&&iPhone"], "object": [], "aspect": ["15&&khả", "16&&năng", "17&&tối", "18&&ưu", "19&&hiệu", "20&&suất"], "predicate": ["12&&cao", "13&&hơn"], "label": "COM+"}
+{"subject": ["4&&con", "5&&chip", "6&&trên", "7&&dòng", "8&&iPhone"], "object": [], "aspect": [], "predicate": ["22&&ổn", "23&&định", "24&&hơn"], "label": "COM+"}
+
+Do Apple thiết kế phần cứng và phần mềm của thiết bị của mình, cho phép tối ưu hóa tốt hơn hiệu năng của thiết bị.	Do Apple thiết kế phần cứng và phần mềm của thiết bị của mình , cho phép tối ưu hóa tốt hơn hiệu năng của thiết bị .
+
+Còn Pixel 7 Pro chạy trên hệ điều hành Android, có thể còn gặp phải một số vấn đề về tối ưu hóa hiệu năng.	Còn Pixel 7 Pro chạy trên hệ điều hành Android , có thể còn gặp phải một số vấn đề về tối ưu hóa hiệu năng .
+
+alt: so sánh iphone 15 plus và google pixel 7 pro pin	alt : so sánh iphone 15 plus và google pixel 7 pro pin
+
+des: iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp	des : iPhone 15 Plus và Pixel 7 Pro đều được trang bị chip xử lý mạnh mẽ và bộ nhớ RAM cao cấp
+
+Mọi người chọn mua smartphone cũng rất quan tâm tới mức giá bán hiện tại.	Mọi người chọn mua smartphone cũng rất quan tâm tới mức giá bán hiện tại .
+
+Trong thời điểm này, iPhone 15 Plus dự kiến có giá bán khoảng 23,5 triệu đồng, cao hơn so với Pixel 7 Pro giá khoảng 21 triệu đồng.	Trong thời điểm này , iPhone 15 Plus dự kiến có giá bán khoảng 23,5 triệu đồng , cao hơn so với Pixel 7 Pro giá khoảng 21 triệu đồng .
+
+Mức chênh lệch có thể nhận thấy là không nhiều, nhưng chúng ta cần chờ ngày iPhone 15 series ra mắt chính thức để biết được giá chính xác.	Mức chênh lệch có thể nhận thấy là không nhiều , nhưng chúng ta cần chờ ngày iPhone 15 series ra mắt chính thức để biết được giá chính xác .
+

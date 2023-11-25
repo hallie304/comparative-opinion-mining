@@ -1,0 +1,125 @@
+title: iPhone Xs Max và iPhone 11 chênh lệch 1 triệu, nên mua máy nào?	title : iPhone Xs Max và iPhone 11 chênh lệch 1 triệu , nên mua máy nào ?
+
+iPhone Xs Max và iPhone 11 giống như hai dòng máy khác nhau bởi sự khác biệt về ngoại hình.	iPhone Xs Max và iPhone 11 giống như hai dòng máy khác nhau bởi sự khác biệt về ngoại hình .
+{"subject": ["1&&iPhone", "2&&Xs", "3&&Max"], "object": ["5&&iPhone", "6&&11"], "aspect": ["19&&ngoại", "20&&hình"], "predicate": ["12&&khác", "13&&nhau"], "label": "DIF"}
+
+Dù chênh lệch chỉ 1 triệu đồng nhưng không ít người đang băn khoăn trước hai sản phẩm này.	Dù chênh lệch chỉ 1 triệu đồng nhưng không ít người đang băn khoăn trước hai sản phẩm này .
+
+Thiết kế mỗi người một vẻ	Thiết kế mỗi người một vẻ
+
+Về bản chất, cả iPhone 11 và iPhone Xs Max đều có mặt lưng được ốp kính, tạo cái nhìn khá sang và bóng bẩy.	Về bản chất , cả iPhone 11 và iPhone Xs Max đều có mặt lưng được ốp kính , tạo cái nhìn khá sang và bóng bẩy .
+{"subject": ["6&&iPhone", "7&&11"], "object": ["9&&iPhone", "10&&Xs", "11&&Max"], "aspect": ["14&&mặt", "15&&lưng", "16&&được", "17&&ốp", "18&&kính"], "predicate": ["12&&đều", "13&&có"], "label": "EQL"}
+
+Đi về phần khung thì bắt đầu khác biệt khi Xs Max được hoàn thiện từ chất liệu thép không gỉ còn iPhone 11 lại làm bằng nhôm.	Đi về phần khung thì bắt đầu khác biệt khi Xs Max được hoàn thiện từ chất liệu thép không gỉ còn iPhone 11 lại làm bằng nhôm .
+
+Vậy nên, iPhone Xs Max lại tạo được sự đảng cấp hơn 1 chút.	Vậy nên , iPhone Xs Max lại tạo được sự đảng cấp hơn 1 chút .
+{"subject": ["4&&iPhone", "5&&Xs", "6&&Max"], "object": [], "aspect": [], "predicate": ["11&&đảng", "12&&cấp", "13&&hơn", "14&&1", "15&&chút"], "label": "COM+"}
+
+Bù lại, iPhone 11 lại có nhiều phiên bản màu sắc so với người anh của mình.	Bù lại , iPhone 11 lại có nhiều phiên bản màu sắc so với người anh của mình .
+{"subject": ["4&&iPhone", "5&&11"], "object": ["15&&người", "16&&anh", "17&&của", "18&&mình"], "aspect": ["9&&phiên", "10&&bản", "11&&màu", "12&&sắc"], "predicate": ["8&&nhiều", "9&&phiên", "10&&bản", "11&&màu", "12&&sắc", "13&&so", "14&&với"], "label": "COM+"}
+
+alt: iPhone 11 thay mới thiết kế so với iPhone Xs Max	alt : iPhone 11 thay mới thiết kế so với iPhone Xs Max
+
+des:	des :
+
+Nếu xét về cái nhìn bên ngoài, iPhone 11 mang đến một cái nhìn hoàn toàn mới, khác hẳn với các thế hệ trước.	Nếu xét về cái nhìn bên ngoài , iPhone 11 mang đến một cái nhìn hoàn toàn mới , khác hẳn với các thế hệ trước .
+{"subject": ["9&&iPhone", "10&&11"], "object": ["23&&các", "24&&thế", "25&&hệ", "26&&trước"], "aspect": ["4&&cái", "5&&nhìn", "6&&bên", "7&&ngoài"], "predicate": ["20&&khác", "21&&hẳn"], "label": "DIF"}
+
+Điểm nhấn và dễ phân biệt giữ hai chiếc điện thoại nằm ở bố trí cụm camera và đèn LED.	Điểm nhấn và dễ phân biệt giữ hai chiếc điện thoại nằm ở bố trí cụm camera và đèn LED .
+{"subject": ["8&&hai", "9&&chiếc", "10&&điện", "11&&thoại"], "object": ["8&&hai", "9&&chiếc", "10&&điện", "11&&thoại"], "aspect": ["14&&bố", "15&&trí", "16&&cụm", "17&&camera", "18&&và", "19&&đèn", "20&&LED"], "predicate": ["4&&dễ", "5&&phân", "6&&biệt"], "label": "DIF"}
+
+Theo đó, người dùng có vẻ thích mẫu iPhone mới hơn, có vẻ là vì nó mới lạ và xu hướng chung của điện thoại thông minh.	Theo đó , người dùng có vẻ thích mẫu iPhone mới hơn , có vẻ là vì nó mới lạ và xu hướng chung của điện thoại thông minh .
+
+Màn hình có điểm cách biệt	Màn hình có điểm cách biệt
+
+Cùng sở hữu màn hình tai thở nhưng iPhone Xs Max lại có màn hình tốt hơn iPhone 11.	Cùng sở hữu màn hình tai thở nhưng iPhone Xs Max lại có màn hình tốt hơn iPhone 11 .
+{"subject": ["9&&iPhone", "10&&Xs", "11&&Max"], "object": ["18&&iPhone", "19&&11"], "aspect": ["14&&màn", "15&&hình"], "predicate": ["16&&tốt", "17&&hơn"], "label": "COM+"}
+{"subject": ["9&&iPhone", "10&&Xs", "11&&Max"], "object": ["18&&iPhone", "19&&11"], "aspect": ["4&&màn", "5&&hình", "6&&tai", "7&&thở"], "predicate": ["1&&Cùng", "2&&sở", "3&&hữu"], "label": "EQL"}
+
+Chính xác thì chiếc iPhone 2018 được cài sẵn màn hình OLED 6,5 inch với công nghệ Super Rentina HD.	Chính xác thì chiếc iPhone 2018 được cài sẵn màn hình OLED 6,5 inch với công nghệ Super Rentina HD .
+
+Người em của nó lại sử dụng tấm nền LCD với khích thước 6.1 in, tương tự như iPhone Xr. Rõ ràng, khả năng hiện thì của chiếc iPhone đời mới không bằng mà còn ngốn pin hơn.	Người em của nó lại sử dụng tấm nền LCD với khích thước 6.1 in , tương tự như iPhone Xr . Rõ ràng , khả năng hiện thì của chiếc iPhone đời mới không bằng mà còn ngốn pin hơn .
+{"subject": ["1&&Người", "2&&em", "3&&của", "4&&nó"], "object": ["20&&iPhone", "21&&Xr"], "aspect": ["8&&tấm", "9&&nền", "10&&LCD", "11&&với", "12&&khích", "13&&thước", "14&&6.1", "15&&in"], "predicate": ["17&&tương", "18&&tự"], "label": "EQL"}
+{"subject": ["31&&chiếc", "32&&iPhone", "33&&đời", "34&&mới"], "object": [], "aspect": ["26&&khả", "27&&năng", "28&&hiện", "29&&thì"], "predicate": ["35&&không", "36&&bằng"], "label": "COM-"}
+{"subject": ["31&&chiếc", "32&&iPhone", "33&&đời", "34&&mới"], "object": [], "aspect": ["40&&pin"], "predicate": ["39&&ngốn", "40&&pin", "41&&hơn"], "label": "COM-"}
+
+alt: Màn hình OLED trên iPhone Xs Max tốt hơn iPhone 11	alt : Màn hình OLED trên iPhone Xs Max tốt hơn iPhone 11
+
+des:	des :
+
+Về công nghệ, trên iPhone Xs Max được bổ sung 3D Touch, một tính năng tiện lợi và hiện đại cho những ai dùng nhiều ứng dụng.	Về công nghệ , trên iPhone Xs Max được bổ sung 3D Touch , một tính năng tiện lợi và hiện đại cho những ai dùng nhiều ứng dụng .
+
+Nói tóm lại, màn hình iPhone Xs Max được đánh giá cao hơn nhiều so với iPhone 11.	Nói tóm lại , màn hình iPhone Xs Max được đánh giá cao hơn nhiều so với iPhone 11 .
+{"subject": ["7&&iPhone", "8&&Xs", "9&&Max"], "object": ["18&&iPhone", "19&&11"], "aspect": ["5&&màn", "6&&hình"], "predicate": ["10&&được", "11&&đánh", "12&&giá", "13&&cao", "14&&hơn", "15&&nhiều"], "label": "COM+"}
+
+Hiệu năng hoạt động	Hiệu năng hoạt động
+
+Một truyền thống của Apple là một đời iPhone mới đều nhận một nâng cấp mang tính đốt phá liên quan đến bộ xử lí.	Một truyền thống của Apple là một đời iPhone mới đều nhận một nâng cấp mang tính đốt phá liên quan đến bộ xử lí .
+
+iPhone 11 được tích hợp còn chip A13 Bionic.	iPhone 11 được tích hợp còn chip A13 Bionic .
+
+So với A12 Bionic trên iPhone Xs Max thì con chip này nhanh hơn 10-20%.	So với A12 Bionic trên iPhone Xs Max thì con chip này nhanh hơn 10 - 20% .
+{"subject": ["10&&con", "11&&chip", "12&&này"], "object": ["3&&A12", "4&&Bionic"], "aspect": [], "predicate": ["13&&nhanh", "14&&hơn", "15&&10", "16&&-", "17&&20%"], "label": "COM+"}
+
+Các chỉ số về đồ hòa và khả năng tiết kiệm năng lượng cũng được cải thiện không ít.	Các chỉ số về đồ hòa và khả năng tiết kiệm năng lượng cũng được cải thiện không ít .
+
+alt: Chip A13 trên iPhone 11 tốt hơn A12 trên iPhone Xs Max	alt : Chip A13 trên iPhone 11 tốt hơn A12 trên iPhone Xs Max
+
+des:	des :
+
+Vậy nên, iPhone 11 mạnh hơn hẳn iPhone Xs Max cho dù cả 2 cùng lượng RAM 4GB và sử dùng iOS cùng phiên bản.	Vậy nên , iPhone 11 mạnh hơn hẳn iPhone Xs Max cho dù cả 2 cùng lượng RAM 4GB và sử dùng iOS cùng phiên bản .
+{"subject": ["4&&iPhone", "5&&11"], "object": ["9&&iPhone", "10&&Xs", "11&&Max"], "aspect": [], "predicate": ["6&&mạnh", "7&&hơn", "8&&hẳn"], "label": "COM+"}
+{"subject": ["14&&cả", "15&&2"], "object": ["14&&cả", "15&&2"], "aspect": ["18&&RAM", "19&&4GB"], "predicate": ["16&&cùng"], "label": "EQL"}
+
+Dù vậy, nó cũng không thể giúp viên pin 3110 trên iPhone 11 có thể hoạt động lâu hơn Xs Max.	Dù vậy , nó cũng không thể giúp viên pin 3110 trên iPhone 11 có thể hoạt động lâu hơn Xs Max .
+{"subject": ["13&&iPhone", "14&&11"], "object": ["21&&Xs", "22&&Max"], "aspect": ["17&&hoạt", "18&&động"], "predicate": ["6&&không", "7&&thể", "8&&giúp", "9&&viên", "10&&pin", "11&&3110", "12&&trên", "13&&iPhone", "14&&11", "15&&có", "16&&thể", "17&&hoạt", "18&&động", "19&&lâu", "20&&hơn"], "label": "COM-"}
+
+Viên pin 3174mAh giúp iPhone 2018 sử dụng liên tục 8 giờ, một phần nhờ màn hình OLED tiêu thụ ít điện năng so với LCD.	Viên pin 3174mAh giúp iPhone 2018 sử dụng liên tục 8 giờ , một phần nhờ màn hình OLED tiêu thụ ít điện năng so với LCD .
+{"subject": ["19&&OLED"], "object": ["27&&LCD"], "aspect": [], "predicate": ["20&&tiêu", "21&&thụ", "22&&ít", "23&&điện", "24&&năng", "25&&so", "26&&với"], "label": "COM+"}
+
+Camera chuyên biệt	Camera chuyên biệt
+
+iPhone 11 và iPhone Xs Max đều có số lượng camera giống nhau nhưng có vẻ Apple đã điều chỉnh không ít thuật toán.	iPhone 11 và iPhone Xs Max đều có số lượng camera giống nhau nhưng có vẻ Apple đã điều chỉnh không ít thuật toán .
+{"subject": ["1&&iPhone", "2&&11"], "object": ["4&&iPhone", "5&&Xs", "6&&Max"], "aspect": ["9&&số", "10&&lượng", "11&&camera"], "predicate": ["12&&giống", "13&&nhau"], "label": "EQL"}
+
+Trên camera sau iPhone Xs Max có hai ống kính, một cảm biến thông thường và một cảm biến chụp xa.	Trên camera sau iPhone Xs Max có hai ống kính , một cảm biến thông thường và một cảm biến chụp xa .
+
+Trong khi đó, iPhone 11 lại đổi thành một ống kính góc rộng và một ống kính góc siêu rộng.	Trong khi đó , iPhone 11 lại đổi thành một ống kính góc rộng và một ống kính góc siêu rộng .
+
+alt: Camera iPhone 11 với iPhone Xs Max khác nhau	alt : Camera iPhone 11 với iPhone Xs Max khác nhau
+{"subject": ["4&&iPhone", "5&&11"], "object": ["7&&iPhone", "8&&Xs", "9&&Max"], "aspect": ["3&&Camera"], "predicate": ["10&&khác", "11&&nhau"], "label": "DIF"}
+
+des:	des :
+
+Vì loại camera khác nhau nên chúng ta rất khó để so sánh thiết bị nào chụp ảnh tốt hơn, nó phụ thuộc nhiều hơn vào sở thích người dùng.	Vì loại camera khác nhau nên chúng ta rất khó để so sánh thiết bị nào chụp ảnh tốt hơn , nó phụ thuộc nhiều hơn vào sở thích người dùng .
+
+iPhone 11 mang đến những hình ảnh phong cảnh, ảnh chụp nhóm chất lượng.	iPhone 11 mang đến những hình ảnh phong cảnh , ảnh chụp nhóm chất lượng .
+
+Hơn nữa, trên thiết bị còn có chế độ Night Mode hỗ trợ chụp ảnh tròn điều kiện thiếu sáng rất tốt.	Hơn nữa , trên thiết bị còn có chế độ Night Mode hỗ trợ chụp ảnh tròn điều kiện thiếu sáng rất tốt .
+
+Cụm camera của iPhone Xs Max lại nghiêm về chụp đơn thể, chụp chân dung.	Cụm camera của iPhone Xs Max lại nghiêm về chụp đơn thể , chụp chân dung .
+
+Kết hợp với ứng dụng chụp ảnh thứ 3 thì bạn chắc chắn sẽ bất ngờ với những gì chiếc điện thoại mang lại.	Kết hợp với ứng dụng chụp ảnh thứ 3 thì bạn chắc chắn sẽ bất ngờ với những gì chiếc điện thoại mang lại .
+
+Theo đánh giá cá nhân, tôi vẫn thích camera trên iPhone 11 hơn, ít nhất nó có độ phân giải cao hơn (12MP).	Theo đánh giá cá nhân , tôi vẫn thích camera trên iPhone 11 hơn , ít nhất nó có độ phân giải cao hơn ( 12MP ) .
+{"subject": ["18&&nó"], "object": [], "aspect": ["20&&độ", "21&&phân", "22&&giải"], "predicate": ["23&&cao", "24&&hơn"], "label": "COM+"}
+
+Đồng thời camera selfie của iPhone 11 có chế độ slow motion và hỗ trợ video 4K.	Đồng thời camera selfie của iPhone 11 có chế độ slow motion và hỗ trợ video 4K .
+
+Nên mua iPhone 11 hay iPhone Xs Max?	Nên mua iPhone 11 hay iPhone Xs Max ?
+
+Tổng hợp lại, iPhone Xs Max mang đến mời chất lượng hiện thị tuyệt vời.	Tổng hợp lại , iPhone Xs Max mang đến mời chất lượng hiện thị tuyệt vời .
+
+iPhone 11 là hiệu năng tốt hơn.	iPhone 11 là hiệu năng tốt hơn .
+{"subject": ["1&&iPhone", "2&&11"], "object": [], "aspect": ["4&&hiệu", "5&&năng"], "predicate": ["6&&tốt", "7&&hơn"], "label": "COM+"}
+
+Việc lựa chọn thiết bị nào phù thuộc vào sở thích của bạn về thiết kế điện thoại và camera.	Việc lựa chọn thiết bị nào phù thuộc vào sở thích của bạn về thiết kế điện thoại và camera .
+
+Chệnh lệnh mức giá giữ hai thiết bị cũng không cao, tầm 1 triệu.	Chệnh lệnh mức giá giữ hai thiết bị cũng không cao , tầm 1 triệu .
+
+Với một smartphone giá trên 15 triệu thì chênh lệch này cũng không đáng bận tâm đúng không.	Với một smartphone giá trên 15 triệu thì chênh lệch này cũng không đáng bận tâm đúng không .
+
+Thay vì đó, đến XTmobile để nhận được giá deal, quà tặng và thẻ mua hàng đáng giá hơn nhiều.	Thay vì đó , đến XTmobile để nhận được giá deal , quà tặng và thẻ mua hàng đáng giá hơn nhiều .
+
+Hơn nữa, ở đây có đội ngũ nhân viên tư vấn dày dạn kinh nghiệp, giúp bạn giải quyết những băn khoăn khi lựa chọn 2 chiếc điện thoại này.	Hơn nữa , ở đây có đội ngũ nhân viên tư vấn dày dạn kinh nghiệp , giúp bạn giải quyết những băn khoăn khi lựa chọn 2 chiếc điện thoại này .
+
