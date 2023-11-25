@@ -1,7 +1,7 @@
 # VLSP 2023: Comparative Opinion Mining from Vietnamese Product Reviews
 Finetune multiple pre-trained Transformer-based models to solve the challenge of Comparative Opinion Mining from Vietnamese Product Reviews in the VLSP2023 shared task.
 ## Recreating the result
-### Cloining the repository and install the requirements
+### Cloining the repository, install the requirements, and set up the files
 ```
 git clone https://github.com/hallie304/VLSP23-Comparative-Opinion-Mining.git
 cd VLSP23-Comparative-Opinion-Mining
