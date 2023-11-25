@@ -4,6 +4,7 @@ import data_utils
 import pandas as pd
 import os
 
+os.mkdir('Generate')
 new_data_sampling_Phuong.write_total_sampling('Generate/generate.txt')
 ''' New data records according to number of json '''
 usable_gen_data = data_utils.preprocessing_with_BIO('Generate/generate.txt')
