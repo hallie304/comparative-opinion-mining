@@ -1,8 +1,0 @@
-- Version 1 Description:
-    - About Dataset:
-        - Modify and relabel the train and public test dataset include spelling, comparision labeling, and quintuple extraction.
-        - Create dictionary of subjects, objects, aspects and predicates from Bing, ChatGPT for sampling data purpose. 
-        - The dataset for version contains 6241 non compartive sentences and 7026 compartive sentences includes 410 "DIF", 1797 "EQL", 573 "SUP+", 25 "SUP-", 54 "SUP", 2995 "COM+", 857 "COM-", 315 "COM"
-    - About Modeling:
-        - Do bootstrap for comparative sentence identification (task 1) and comparision type identification (task 3) on PhoBERT_based_v2
-        - Do model ensembling for comparative quadruple extraction including: PhoBERT_based_v2, Bert based multilingual cased, NER Vietnamese Electra cased with final_output = 0.6 * electra_output + 0.2 * phobert_output + 0.2 * multi_output.
