@@ -41,4 +41,5 @@ python convert_output.py
 ```
 
 ## Technical Report
-Link will be added
+[Link](https://arxiv.org/abs/2401.01108)
+
